@@ -50,12 +50,12 @@ Connect your phone to the same Wi-Fi and open `http://YOUR_MAC_WIFI_IP:8000`. Fi
 
 ## Game behavior
 
-- The original episode air date appears at the top. Each regular round has a two-column, three-row category grid, including on phones.
+- The original episode air date appears at the top. The game sits in a narrow, centered column over a dark star-and-grid background. Each regular round keeps a two-column, three-row category grid on both laptops and phones.
 - Click a category to open its point values in a centered overlay without resizing the board. Close it with “Back to categories”, Escape, or a click outside the overlay. Played slots keep their blue background, with the text hidden and selection disabled.
 - Correct answers add the clue value; incorrect answers subtract it; “No answer” makes no score change.
 - Daily Doubles reveal a wager screen before the clue. The maximum is your score or the round's highest clue value, whichever is greater. Wagers are whole numbers starting at 1. You cannot pass; submitting a blank response loses the wager.
 - Finish each round to advance. Final Jeopardy, if present, has its own category and a wager from 0 to your positive score; a nonpositive score allows a 0 wager.
-- The matcher ignores case, punctuation, accents, leading articles, and standard “What is…”/“Who is…” phrasing. It uses exact normalized text, not AI or fuzzy substring matching. Use **Accept my answer** on the reveal screen for a valid variant the matcher misses.
+- The matcher ignores case, punctuation, accents, leading articles, and standard “What is…”/“Who is…” phrasing. It uses exact normalized text, not AI or fuzzy substring matching. The reveal screen shows only the correct response and a back button inside the board, with the header and score outside it.
 - Progress and score are saved in browser storage for this episode's content. Refreshing resumes answered clues; changing the episode starts a new board.
 
 ## Data mapping

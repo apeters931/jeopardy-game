@@ -1,1 +1,1 @@
-select * from {{ source('raw_jeopardy', 'jeopardy_episodes_history') }}
+select * from {{ source('jeopardy_historical', 'jeopardy_episodes_history') }}

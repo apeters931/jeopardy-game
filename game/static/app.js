@@ -49,7 +49,7 @@ function showCategory(name) {
 function clue() {
   const betting = active.is_daily_double || isFinal();
   if(betting && wager===null) return wagerScreen();
-  app.innerHTML = top() + `<section class="clue-panel"><div class="clue-meta"><span>${esc(active.category)}</span><span>${money(wager ?? active.point_value)}${betting?' · WAGER':''}</span></div><p class="clue-text">${esc(active.question)}</p><form id="answer-form"><label class="eyebrow" for="answer">YOUR RESPONSE</label><input id="answer" name="answer" autocomplete="off" placeholder="What is…" maxlength="500"><div class="actions"><button class="primary" type="submit">Submit answer <span>→</span></button>${!betting?'<button type="button" id="pass" class="secondary">No answer</button>':''}</div></form><p class="hint">${betting?'An answer is required. A blank response counts as incorrect.':'No need to phrase it as a question.'}</p></section>`+bottom();
+  app.innerHTML = top() + `<section class="clue-panel question-panel"><p class="clue-text">${esc(active.question)}</p><form id="answer-form"><input id="answer" name="answer" aria-label="Your answer" autocomplete="off" placeholder="Type your answer…" maxlength="500"><div class="actions"><button class="primary" type="submit">Submit</button>${!betting?'<button type="button" id="pass" class="secondary">Skip</button>':''}</div></form></section>` + bottom();
   document.querySelector('#answer-form').onsubmit = e => {e.preventDefault();grade(document.querySelector('#answer').value,false);};
   const pass = document.querySelector('#pass'); if(pass) pass.onclick=()=>grade('',true);
   document.querySelector('#answer').focus();
@@ -66,10 +66,11 @@ function grade(response,passed) {
   state.answers[active.id]=result;save();reveal();
 }
 function reveal() {
-  app.innerHTML=top()+`<section class="clue-panel reveal"><p class="eyebrow ${result.correct?'success':''}">${result.passed?'NO ANSWER':result.correct?'THAT’S CORRECT':'NOT THIS TIME'} · ${result.delta>0?'+':''}${money(result.delta)}</p><p class="eyebrow">THE CORRECT RESPONSE</p><h2>${esc(active.answer)}</h2><p class="your-answer">${result.passed?'You passed on this clue.':`Your response: ${esc(result.response || '(blank)')}`}</p><div class="actions"><button id="return" class="primary">Back to the board →</button>${!result.passed&&!result.correct&&result.response.trim()?'<button id="override" class="secondary">Accept my answer</button>':''}</div><p class="hint">Your score: ${money(score())}</p></section>`+bottom();
+  app.innerHTML=top()+`<section class="clue-panel question-panel reveal"><p class="clue-text">${esc(active.answer)}</p><div class="actions"><button id="return" class="primary" aria-label="Back to the board">← Back</button></div></section>`+bottom();
   document.querySelector('#return').onclick=board;
-  const override=document.querySelector('#override');if(override)override.onclick=()=>{result.correct=true;result.delta=result.amount;state.answers[active.id]=result;save();reveal();};
+  document.querySelector('#return').focus();
 }
+
 function summary() {
   const answers=Object.values(state.answers);
   app.innerHTML=top()+`<section class="clue-panel summary"><span class="star">✦</span><p class="eyebrow">EPISODE COMPLETE</p><h2>${money(score())}</h2><p>${answers.filter(a=>a.correct).length} correct · ${answers.filter(a=>!a.correct&&!a.passed).length} incorrect · ${answers.filter(a=>a.passed).length} passed</p><p>Come back for another board.</p><button class="secondary" id="review">Return to board</button></section>`+bottom();

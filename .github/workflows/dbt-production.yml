@@ -1,0 +1,84 @@
+name: Daily production dbt build
+
+on:
+  schedule:
+    - cron: '0 12 * * *'
+      timezone: America/New_York
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: dbt-production
+  cancel-in-progress: false
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    env:
+      DBT_PROFILES_DIR: ${{ github.workspace }}/dbt/ci
+      DBT_DUCKDB_PATH: ${{ github.workspace }}/jeopardy_seasons.duckdb
+      DBT_SEND_ANONYMOUS_USAGE_STATS: 'false'
+      TZ: America/New_York
+    steps:
+      - name: Check out the default branch
+        uses: actions/checkout@v7
+        with:
+          ref: ${{ github.event.repository.default_branch }}
+
+      - name: Set up Python
+        uses: actions/setup-python@v7
+        with:
+          python-version: '3.12'
+          cache: pip
+          cache-dependency-path: dbt/requirements.txt
+
+      - name: Install dbt and DuckDB
+        run: python -m pip install -r dbt/requirements.txt
+
+      - name: Initialize production history if needed
+        run: python dbt/ci/prepare_database.py
+
+      - name: Install dbt packages
+        run: dbt deps --project-dir dbt --target prod
+
+      - name: Build all production resources
+        id: dbt-build
+        run: dbt build --project-dir dbt --target prod
+
+      - name: Save the production database
+        env:
+          DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
+        run: |
+          git add -- jeopardy_seasons.duckdb
+          if git diff --cached --quiet; then
+            echo "No database changes to save."
+            exit 0
+          fi
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git commit -m 'Update production DuckDB database'
+          git push origin "HEAD:$DEFAULT_BRANCH"
+
+      - name: Upload dbt logs and results
+        if: always()
+        uses: actions/upload-artifact@v7
+        with:
+          name: dbt-production-results-${{ github.run_id }}-${{ github.run_attempt }}
+          path: |
+            dbt/logs/
+            dbt/target/manifest.json
+            dbt/target/run_results.json
+          retention-days: 14
+          if-no-files-found: warn
+
+      - name: Upload successful production database
+        if: ${{ !cancelled() && steps.dbt-build.outcome == 'success' }}
+        uses: actions/upload-artifact@v7
+        with:
+          name: production-duckdb-${{ github.run_id }}-${{ github.run_attempt }}
+          path: jeopardy_seasons.duckdb
+          retention-days: 7
+          if-no-files-found: error

@@ -46,4 +46,8 @@ sources:
       - name: season40
       - name: season41
       - name: season42
+
+  - name: jeopardy_historical
+    schema: prod
+    tables:
       - name: jeopardy_episodes_history
