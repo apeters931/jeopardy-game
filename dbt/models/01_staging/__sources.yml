@@ -1,0 +1,49 @@
+version: 2
+
+sources:
+  - name: raw_jeopardy
+    schema: main
+    tables:
+      - name: season1
+      - name: season2
+      - name: season3
+      - name: season4
+      - name: season5
+      - name: season6
+      - name: season7
+      - name: season8
+      - name: season9
+      - name: season10
+      - name: season11
+      - name: season12
+      - name: season13
+      - name: season14
+      - name: season15
+      - name: season16
+      - name: season17
+      - name: season18
+      - name: season19
+      - name: season20
+      - name: season21
+      - name: season22
+      - name: season23
+      - name: season24
+      - name: season25
+      - name: season26
+      - name: season27
+      - name: season28
+      - name: season29
+      - name: season30
+      - name: season31
+      - name: season32
+      - name: season33
+      - name: season34
+      - name: season35
+      - name: season36
+      - name: season37
+      - name: season38
+      - name: season39
+      - name: season40
+      - name: season41
+      - name: season42
+      - name: jeopardy_episodes_history

@@ -1,0 +1,87 @@
+version: 2
+
+models:
+  - name: stg_season_01
+    description: "Staging view of raw Jeopardy season 1 records, preserving the source rows and columns."
+  - name: stg_season_02
+    description: "Staging view of raw Jeopardy season 2 records, preserving the source rows and columns."
+  - name: stg_season_03
+    description: "Staging view of raw Jeopardy season 3 records, preserving the source rows and columns."
+  - name: stg_season_04
+    description: "Staging view of raw Jeopardy season 4 records, preserving the source rows and columns."
+  - name: stg_season_05
+    description: "Staging view of raw Jeopardy season 5 records, preserving the source rows and columns."
+  - name: stg_season_06
+    description: "Staging view of raw Jeopardy season 6 records, preserving the source rows and columns."
+  - name: stg_season_07
+    description: "Staging view of raw Jeopardy season 7 records, preserving the source rows and columns."
+  - name: stg_season_08
+    description: "Staging view of raw Jeopardy season 8 records, preserving the source rows and columns."
+  - name: stg_season_09
+    description: "Staging view of raw Jeopardy season 9 records, preserving the source rows and columns."
+  - name: stg_season_10
+    description: "Staging view of raw Jeopardy season 10 records, preserving the source rows and columns."
+  - name: stg_season_11
+    description: "Staging view of raw Jeopardy season 11 records, preserving the source rows and columns."
+  - name: stg_season_12
+    description: "Staging view of raw Jeopardy season 12 records, preserving the source rows and columns."
+  - name: stg_season_13
+    description: "Staging view of raw Jeopardy season 13 records, preserving the source rows and columns."
+  - name: stg_season_14
+    description: "Staging view of raw Jeopardy season 14 records, preserving the source rows and columns."
+  - name: stg_season_15
+    description: "Staging view of raw Jeopardy season 15 records, preserving the source rows and columns."
+  - name: stg_season_16
+    description: "Staging view of raw Jeopardy season 16 records, preserving the source rows and columns."
+  - name: stg_season_17
+    description: "Staging view of raw Jeopardy season 17 records, preserving the source rows and columns."
+  - name: stg_season_18
+    description: "Staging view of raw Jeopardy season 18 records, preserving the source rows and columns."
+  - name: stg_season_19
+    description: "Staging view of raw Jeopardy season 19 records, preserving the source rows and columns."
+  - name: stg_season_20
+    description: "Staging view of raw Jeopardy season 20 records, preserving the source rows and columns."
+  - name: stg_season_21
+    description: "Staging view of raw Jeopardy season 21 records, preserving the source rows and columns."
+  - name: stg_season_22
+    description: "Staging view of raw Jeopardy season 22 records, preserving the source rows and columns."
+  - name: stg_season_23
+    description: "Staging view of raw Jeopardy season 23 records, preserving the source rows and columns."
+  - name: stg_season_24
+    description: "Staging view of raw Jeopardy season 24 records, preserving the source rows and columns."
+  - name: stg_season_25
+    description: "Staging view of raw Jeopardy season 25 records, preserving the source rows and columns."
+  - name: stg_season_26
+    description: "Staging view of raw Jeopardy season 26 records, preserving the source rows and columns."
+  - name: stg_season_27
+    description: "Staging view of raw Jeopardy season 27 records, preserving the source rows and columns."
+  - name: stg_season_28
+    description: "Staging view of raw Jeopardy season 28 records, preserving the source rows and columns."
+  - name: stg_season_29
+    description: "Staging view of raw Jeopardy season 29 records, preserving the source rows and columns."
+  - name: stg_season_30
+    description: "Staging view of raw Jeopardy season 30 records, preserving the source rows and columns."
+  - name: stg_season_31
+    description: "Staging view of raw Jeopardy season 31 records, preserving the source rows and columns."
+  - name: stg_season_32
+    description: "Staging view of raw Jeopardy season 32 records, preserving the source rows and columns."
+  - name: stg_season_33
+    description: "Staging view of raw Jeopardy season 33 records, preserving the source rows and columns."
+  - name: stg_season_34
+    description: "Staging view of raw Jeopardy season 34 records, preserving the source rows and columns."
+  - name: stg_season_35
+    description: "Staging view of raw Jeopardy season 35 records, preserving the source rows and columns."
+  - name: stg_season_36
+    description: "Staging view of raw Jeopardy season 36 records, preserving the source rows and columns."
+  - name: stg_season_37
+    description: "Staging view of raw Jeopardy season 37 records, preserving the source rows and columns."
+  - name: stg_season_38
+    description: "Staging view of raw Jeopardy season 38 records, preserving the source rows and columns."
+  - name: stg_season_39
+    description: "Staging view of raw Jeopardy season 39 records, preserving the source rows and columns."
+  - name: stg_season_40
+    description: "Staging view of raw Jeopardy season 40 records, preserving the source rows and columns."
+  - name: stg_season_41
+    description: "Staging view of raw Jeopardy season 41 records, preserving the source rows and columns."
+  - name: stg_season_42
+    description: "Staging view of raw Jeopardy season 42 records, preserving the source rows and columns."

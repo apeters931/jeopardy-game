@@ -1,0 +1,7 @@
+snapshots:
+  - name: jeopardy_episodes_history
+    relation: ref('mrt_todays_episode')
+    config:
+      strategy: timestamp
+      updated_at: selection_timestamp
+      unique_key: air_date
