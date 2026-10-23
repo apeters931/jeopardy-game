@@ -37,8 +37,9 @@ separate CI profile in `ci/profiles.yml`. It reads the raw season tables from
 Subsequent runs leave production history intact. Database session dates use
 Eastern time as well.
 
-After a successful build, the workflow commits only the root
-`jeopardy_seasons.duckdb` back to the default branch so the next run keeps the
+After a successful build, the workflow runs `python -m game.export_episode` to
+export the production board as `game/published/episode.json`. It commits that JSON
+and the root `jeopardy_seasons.duckdb` back to the default branch so the next run keeps the
 updated snapshot history. Logs and dbt result artifacts are kept for 14 days;
 a downloadable successful database is kept for 7 days. The bot needs permission
 to push to the default branch, including any branch protection requirements.
@@ -50,7 +51,12 @@ default branch. You can also run it manually from **Actions → Daily production
 dbt build → Run workflow**. Scheduled workflows use the default branch's code
 and database, not uncommitted files on your laptop.
 
-The workflow updates the database on GitHub. To use that data locally, pull the
-new database once your working tree is ready and restart the game server. The
-game currently reads `main.mrt_todays_episode_questions`; serving the production
-build requires switching that query to `prod.mrt_todays_episode_questions`.
+The game server downloads the published JSON from GitHub by default. Start it with
+`python3 game/server.py`, then refresh or choose **Check for a new game** after a
+successful build. No local database sync is necessary. The server retains the last
+downloaded board for offline use. The workflow and JSON must first be pushed to
+the default branch.
+
+For local development, `game/.venv/bin/python game/server.py --local` reads
+`prod.mrt_todays_episode_questions` from the database on your Mac. Use `--schema`
+to select a different schema. GitHub builds do not directly modify your Mac's file.

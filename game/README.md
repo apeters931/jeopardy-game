@@ -1,34 +1,55 @@
 # The Daily Board
 
-A local, responsive Jeopardy game powered by `main.mrt_todays_episode_questions` in your project's DuckDB database. It reads the database once at startup, closes the connection, and serves that episode until restarted. It never runs dbt or selects a new episode automatically.
+A local, responsive Jeopardy game that downloads the selected episode published by this repository's GitHub Action. Each successful production build exports `prod.mrt_todays_episode_questions` to `game/published/episode.json` and commits it alongside the database.
 
-## Start with your real episode
+## Play the published board
 
 Run from the repository root:
 
 ```bash
-cd /Users/alecpeters/jepopardy-game
-python3 -m venv game/.venv
-game/.venv/bin/python -m pip install -r game/requirements.txt
-game/.venv/bin/python game/server.py
+python3 game/server.py
 ```
 
-Open **http://localhost:8000** in your browser. Stop with **Ctrl+C**. After the first setup, only the last command is necessary. The separate game environment avoids changing your dbt dependencies. This database requires DuckDB 2.0 or newer; the server's Python package is separate from the DuckDB CLI.
+Open **http://localhost:8000**. The default mode needs only Python's standard library, with internet access for the first download. Refreshing the page or choosing **Check for a new game** fetches the published JSON; no database sync or server restart is needed after a new build. GitHub may briefly cache published content.
 
-The default database path is resolved from the server's location, so it works even if your terminal is in a different folder. Override it with:
+The last successfully downloaded board is saved in `game/.cache/episode.json`. If a download fails, the server serves that cached board with a visible message. It preserves your browser progress. If no cached board exists, the page shows a retryable error. An updated board is adopted only when you request it, so an active game is not interrupted.
+
+The workflow, exporter, and initial `game/published/episode.json` must be committed and pushed to GitHub before the default download URL works. Run the workflow manually or wait for its daily schedule to publish subsequent boards. Rebuilding on the same day intentionally retains that day's episode.
+
+Override the published URL or cache location with `--episode-url URL` or `--cache PATH`.
+
+## Play from your local database
+
+Local mode continues to read the DuckDB file on your Mac:
+
+```bash
+python3 -m venv game/.venv
+game/.venv/bin/python -m pip install -r game/requirements.txt
+game/.venv/bin/python game/server.py --local
+```
+
+It reads `prod.mrt_todays_episode_questions` on each request and closes the connection afterward. Use `--schema main` or `--schema dev` for another dbt target. An explicit database path also enables local mode:
 
 ```bash
 game/.venv/bin/python game/server.py --db /absolute/path/to/database.duckdb --port 8001
 ```
 
-If the mart has not been built yet, use your working dbt environment to run:
+The default database path is resolved from the server's location. Local mode requires DuckDB 2.0 or newer. Close DuckDB sessions that hold an incompatible file lock if the database cannot be opened.
+
+To build a local board using your working dbt environment:
 
 ```bash
 cd dbt
-/path/to/your/dbt run --select +mrt_todays_episode_questions
+/path/to/your/dbt build --target prod --select +mrt_todays_episode_questions
 ```
 
-This includes the episode-selection model and can select a **new** episode. To rebuild only the questions for the currently selected episode, omit the `+`. Rebuilding the episode does not record it in your dbt snapshot automatically; run `dbt snapshot --select jeopardy_episodes_history` separately if you want to record the selection. Stop/restart the game server after changing the data. Close any DuckDB terminal session that holds an incompatible file lock if the server cannot open the database.
+To export the current production board manually, run from the repository root:
+
+```bash
+game/.venv/bin/python -m game.export_episode
+```
+
+The game never runs dbt or selects an episode automatically.
 
 ## Try the interface without a database
 
@@ -54,6 +75,7 @@ Connect your phone to the same Wi-Fi and open `http://YOUR_MAC_WIFI_IP:8000`. Fi
 - Click a category to open its point values in a centered overlay without resizing the board. Close it with “Back to categories”, Escape, or a click outside the overlay. Played slots keep their blue background, with the text hidden and selection disabled.
 - Correct answers add the clue value; incorrect answers subtract it; “No answer” makes no score change.
 - Daily Doubles reveal a wager screen before the clue. The maximum is your score or the round's highest clue value, whichever is greater. Wagers are whole numbers starting at 1. You cannot pass; submitting a blank response loses the wager.
+- Use “Check for a new game” after finishing to download the published episode without restarting the server (or reread the database in local mode). If no new episode is available, the game tells you and keeps your results.
 - Finish each round to advance. Final Jeopardy, if present, has its own category and a wager from 0 to your positive score; a nonpositive score allows a 0 wager.
 - The matcher ignores case, punctuation, accents, leading articles, and standard “What is…”/“Who is…” phrasing. It uses exact normalized text, not AI or fuzzy substring matching. The reveal screen shows only the correct response and a back button inside the board, with the header and score outside it.
 - Progress and score are saved in browser storage for this episode's content. Refreshing resumes answered clues; changing the episode starts a new board.
@@ -74,4 +96,4 @@ game/.venv/bin/python -m unittest discover -s game/tests
 node --check game/static/app.js
 ```
 
-Tests cover answer normalization, scoring and passes, wager bounds, round ordering, data field mapping, and missing/empty/multiple-episode database handling.
+Tests cover answer normalization, scoring and passes, wager bounds, round ordering, data field mapping, production schema selection, updated database reads, JSON export, remote updates, validation, and offline recovery.

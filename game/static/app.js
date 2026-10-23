@@ -10,7 +10,7 @@ const done = () => questions().every(q => state.answers[q.id]);
 const save = () => { try { localStorage.setItem(key, JSON.stringify(state)); } catch { storageWarning = true; } };
 const date = value => new Date(`${value.slice(0,10)}T12:00:00`).toLocaleDateString(undefined, {month:'long', day:'numeric', year:'numeric'});
 function top() {
-  return `<div class="episode-meta">${episode.demo ? 'DEMO · ' : ''}${esc(date(episode.air_date))}</div>`;
+  return `<div class="episode-meta">${episode.demo ? 'DEMO · ' : ''}${esc(date(episode.air_date))}</div>${episode.refresh_warning ? `<p class="hint" role="status">${esc(episode.refresh_warning)}</p>` : ''}`;
 }
 function bottom() {
   return `<div class="scorebar"><span class="eyebrow">YOUR SCORE</span><strong>${money(score())}</strong></div>${storageWarning ? '<p class="hint">Browser storage is unavailable. Progress will reset on refresh.</p>' : ''}`;
@@ -24,6 +24,7 @@ function board() {
   app.querySelectorAll('[data-category]').forEach(button => button.onclick = () => showCategory(categories[button.dataset.category]));
   const next = document.querySelector('#next');
   if(next) next.onclick = () => { if(state.round<rounds.length-1) {state.round++;save();board();} else summary(); };
+  if(done() && state.round === rounds.length-1) addNewGameButton(app.querySelector('.round-finish'));
 }
 function showCategory(name) {
   const list = questions().filter(q => q.category === name).sort((a,b) => a.point_value-b.point_value);
@@ -73,14 +74,49 @@ function reveal() {
 
 function summary() {
   const answers=Object.values(state.answers);
-  app.innerHTML=top()+`<section class="clue-panel summary"><span class="star">✦</span><p class="eyebrow">EPISODE COMPLETE</p><h2>${money(score())}</h2><p>${answers.filter(a=>a.correct).length} correct · ${answers.filter(a=>!a.correct&&!a.passed).length} incorrect · ${answers.filter(a=>a.passed).length} passed</p><p>Come back for another board.</p><button class="secondary" id="review">Return to board</button></section>`+bottom();
+  app.innerHTML=top()+`<section class="clue-panel summary"><span class="star">✦</span><p class="eyebrow">EPISODE COMPLETE</p><h2>${money(score())}</h2><p>${answers.filter(a=>a.correct).length} correct · ${answers.filter(a=>!a.correct&&!a.passed).length} incorrect · ${answers.filter(a=>a.passed).length} passed</p><p>Ready for another board?</p><button class="secondary" id="review">Return to board</button></section>`+bottom();
   document.querySelector('#review').onclick=board;
+  addNewGameButton(app.querySelector('.summary'));
 }
-try {
-  const response=await fetch('/api/episode');if(!response.ok)throw new Error('The episode could not be loaded.');
-  episode=await response.json();if(!episode.questions?.length)throw new Error('This episode has no questions.');
+async function fetchEpisode() {
+  const response = await fetch('/api/episode', {cache:'no-store'});
+  const data = await response.json();
+  if(!response.ok) throw new Error(data.error || 'The episode could not be loaded.');
+  if(!data.questions?.length) throw new Error('This episode has no questions.');
+  return data;
+}
+function addNewGameButton(container) {
+  const button = document.createElement('button');
+  button.className = 'secondary';
+  button.textContent = 'Check for a new game';
+  const message = document.createElement('p');
+  message.className = 'hint';
+  message.setAttribute('role', 'status');
+  container.append(button, message);
+  button.onclick = async () => {
+    button.disabled = true;
+    message.textContent = 'Checking for a new board…';
+    try {
+      const next = await fetchEpisode();
+      if(next.id === episode.id) {
+        message.textContent = next.refresh_warning || 'No new board has been published yet. Check again after the next daily build.';
+      } else {
+        startEpisode(next);
+      }
+    } catch(error) {
+      message.textContent = error.message;
+    } finally {
+      button.disabled = false;
+    }
+  };
+}
+function startEpisode(data) {
+  episode = data;
   rounds=[...new Set(episode.questions.map(q=>q.round))].sort((a,b)=>roundOrder(a)-roundOrder(b));
   key=`daily-board-v1-${episode.id}`;state={round:0,answers:{}};
   try{const saved=JSON.parse(localStorage.getItem(key));if(saved&&Number.isInteger(saved.round)&&saved.round>=0&&saved.round<rounds.length&&saved.answers&&typeof saved.answers==='object')state=saved;}catch{storageWarning=true;}
   board();
-} catch(error){app.innerHTML=`<section class="clue-panel"><h1>The board isn’t ready.</h1><p>${esc(error.message)}</p><p>Check the server terminal, rebuild your episode mart, and restart the server.</p><button class="primary" onclick="location.reload()">Try again</button></section>`;}
+}
+try {
+  startEpisode(await fetchEpisode());
+} catch(error){app.innerHTML=`<section class="clue-panel"><h1>The board isn’t ready.</h1><p>${esc(error.message)}</p><p>Check your connection and the server terminal, then try again.</p><button class="primary" onclick="location.reload()">Try again</button></section>`;}

@@ -48,18 +48,21 @@ jobs:
         id: dbt-build
         run: dbt build --project-dir dbt --target prod
 
-      - name: Save the production database
+      - name: Export the game board
+        run: python -m game.export_episode
+
+      - name: Save the production database and game board
         env:
           DEFAULT_BRANCH: ${{ github.event.repository.default_branch }}
         run: |
-          git add -- jeopardy_seasons.duckdb
+          git add -- jeopardy_seasons.duckdb game/published/episode.json
           if git diff --cached --quiet; then
             echo "No database changes to save."
             exit 0
           fi
           git config user.name 'github-actions[bot]'
           git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
-          git commit -m 'Update production DuckDB database'
+          git commit -m 'Update production database and game board'
           git push origin "HEAD:$DEFAULT_BRANCH"
 
       - name: Upload dbt logs and results

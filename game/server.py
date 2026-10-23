@@ -1,21 +1,27 @@
-"""Serve the local Jeopardy game and a read-only snapshot of its dbt mart."""
+"""Serve the Jeopardy game with a GitHub-published board or a local dbt mart."""
 import argparse
 import hashlib
 import json
-from datetime import date, datetime
 from http.server import SimpleHTTPRequestHandler, ThreadingHTTPServer
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parent
 DEFAULT_DB = ROOT.parent / 'jeopardy_seasons.duckdb'
 
+# Support both direct script execution and module imports.
+if __package__:
+    from .remote_episode import DEFAULT_EPISODE_URL, RemoteEpisode
+else:
+    from remote_episode import DEFAULT_EPISODE_URL, RemoteEpisode
 
-def load_episode(db_path: Path) -> dict:
+
+def load_episode(db_path: Path, schema: str = 'prod') -> dict:
     import duckdb
     if not db_path.is_file():
         raise ValueError(f'Database not found: {db_path}. Build your dbt models first.')
+    quoted_schema = '"' + schema.replace('"', '""') + '"'
     with duckdb.connect(str(db_path), read_only=True) as con:
-        cursor = con.execute('select question_id, air_date, round, category, point_value, question, answer, is_daily_double from main.mrt_todays_episode_questions')
+        cursor = con.execute(f'select question_id, air_date, round, category, point_value, question, answer, is_daily_double from {quoted_schema}.mrt_todays_episode_questions')
         columns = [column[0] for column in cursor.description]
         rows = [dict(zip(columns, row)) for row in cursor.fetchall()]
     if not rows:
@@ -36,7 +42,7 @@ def load_episode(db_path: Path) -> dict:
     return {'id': digest, 'air_date': next(iter(dates)), 'questions': rows}
 
 
-def make_handler(episode: dict):
+def make_handler(episode: dict, db_path: Path | None = None, schema: str = 'prod', episode_loader=None):
     class Handler(SimpleHTTPRequestHandler):
         def __init__(self, *args, **kwargs):
             super().__init__(*args, directory=str(ROOT / 'static'), **kwargs)
@@ -47,8 +53,14 @@ def make_handler(episode: dict):
 
         def do_GET(self):
             if self.path.split('?')[0] == '/api/episode':
-                body = json.dumps(episode).encode()
-                self.send_response(200)
+                try:
+                    current_episode = episode_loader() if episode_loader else (load_episode(db_path, schema) if db_path is not None else episode)
+                    body = json.dumps(current_episode).encode()
+                    status = 200
+                except Exception as exc:
+                    body = json.dumps({'error': f'Could not refresh the episode: {exc}'}).encode()
+                    status = 503
+                self.send_response(status)
                 self.send_header('Content-Type', 'application/json')
                 self.send_header('Content-Length', str(len(body)))
                 self.end_headers()
@@ -60,17 +72,30 @@ def make_handler(episode: dict):
 
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
-    parser.add_argument('--db', type=Path, default=DEFAULT_DB)
+    parser.add_argument('--db', type=Path, help='Read a local DuckDB file instead of GitHub.')
+    parser.add_argument('--local', action='store_true', help='Read the default local DuckDB file.')
+    parser.add_argument('--episode-url', default=DEFAULT_EPISODE_URL)
+    parser.add_argument('--cache', type=Path, default=ROOT / '.cache' / 'episode.json')
+    parser.add_argument('--schema', default='prod', help='DuckDB schema containing the episode mart (default: prod).')
     parser.add_argument('--host', default='127.0.0.1')
     parser.add_argument('--port', type=int, default=8000)
     parser.add_argument('--demo', action='store_true', help='Use explicitly labeled sample questions instead of DuckDB.')
     args = parser.parse_args()
+    db_path = (args.db or DEFAULT_DB).resolve() if args.local or args.db else None
+    loader = None if args.demo or db_path else RemoteEpisode(args.episode_url, args.cache)
     try:
-        episode = json.loads((ROOT / 'demo.json').read_text()) if args.demo else load_episode(args.db.resolve())
+        if args.demo:
+            episode = json.loads((ROOT / 'demo.json').read_text())
+        elif loader:
+            # Fetch through the API so a first-download failure has a retry button.
+            episode = None
+        else:
+            episode = load_episode(db_path, args.schema)
     except Exception as exc:
-        parser.exit(1, f'Could not load the episode: {exc}\nUse a Python environment with DuckDB 2.0 or newer and build mrt_todays_episode_questions.\n')
-    server = ThreadingHTTPServer((args.host, args.port), make_handler(episode))
-    print(f'Game ready: http://{args.host}:{args.port} (episode {episode["air_date"]})', flush=True)
+        parser.exit(1, f'Could not load the episode: {exc}\nCheck your connection and the published episode. Use --local to read the local DuckDB mart.\n')
+    server = ThreadingHTTPServer((args.host, args.port), make_handler(episode, None if args.demo else db_path, args.schema, loader))
+    source = f'episode {episode["air_date"]}' if episode else "GitHub-published board"
+    print(f'Game ready: http://{args.host}:{args.port} ({source})', flush=True)
     try:
         server.serve_forever()
     except KeyboardInterrupt:
