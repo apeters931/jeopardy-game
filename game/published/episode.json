@@ -1,606 +1,566 @@
 {
-  "id": "3b7884548a254f4f",
-  "air_date": "2014-11-18",
+  "id": "f2eabd70f2e02bb0",
+  "air_date": "2011-01-28",
   "questions": [
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "1",
-      "category": "A SCENTIMENTAL MOOD",
+      "category": "ENGINEERING",
       "point_value": 200,
-      "question": "Introduced in 2007, this Marc Jacobs fragrance might have women asking, \"He loves me? He loves me not?\"",
-      "answer": "Daisy",
+      "question": "Built at a cost of more than $200 million, it stretches from Victoria, B.C. to St. John's, Newfoundland",
+      "answer": "the Trans-Canada Highway",
       "is_daily_double": false,
-      "id": "386703"
+      "id": "336039"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "1",
-      "category": "A SCENTIMENTAL MOOD",
+      "category": "ENGINEERING",
       "point_value": 400,
-      "question": "Mandarin & Patchouli are scents in this male soccer star's Instinct cologne",
-      "answer": "David Beckham",
+      "question": "The motto of this 1904-1914 engineering project was \"The land divided, the world united\"",
+      "answer": "the Panama Canal",
       "is_daily_double": false,
-      "id": "386704"
+      "id": "336040"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "1",
-      "category": "A SCENTIMENTAL MOOD",
+      "category": "ENGINEERING",
       "point_value": 600,
-      "question": "A fruity fragrance, DKNY Be Delicious comes in a bottle shaped like one of these",
-      "answer": "apple",
+      "question": "Boulder City, Nevada was built to house the workers who constructed the 1930s structure now called this",
+      "answer": "Hoover Dam",
       "is_daily_double": false,
-      "id": "386705"
+      "id": "336041"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "1",
-      "category": "A SCENTIMENTAL MOOD",
+      "category": "ENGINEERING",
       "point_value": 800,
-      "question": "In 2012 his Big Pony collection of fragrances for women was introduced",
-      "answer": "Ralph Lauren",
+      "question": "(Jimmy of the Clue Crew shows an animation on the monitor.) Planetary gear systems have many uses, including car transmissions; the gear set consists of a ring gear & multiple planet gears that rotate around this aptly-named gear",
+      "answer": "the sun gear",
       "is_daily_double": false,
-      "id": "386706"
+      "id": "336042"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "1",
-      "category": "A SCENTIMENTAL MOOD",
+      "category": "ENGINEERING",
       "point_value": 1000,
-      "question": "Wrap yourself in this Estee Lauder fragrance whose name suggests a clean, crisp fabric",
-      "answer": "White Linen",
+      "question": "John Smeaton is known for the all-masonry one of these he built on Eddystone Reef near Plymouth, England",
+      "answer": "a lighthouse",
       "is_daily_double": false,
-      "id": "386707"
+      "id": "336043"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "1",
-      "category": "BATTLE CREEK",
+      "category": "I OWE YOU AN \"OLOGY\"",
       "point_value": 200,
-      "question": "An Old English poem records a 991 event in which a Saxon earl let a band of these warriors cross a stream—oops",
-      "answer": "Vikings",
+      "question": "You should know by heart that this is the study of the heart",
+      "answer": "cardiology",
       "is_daily_double": false,
-      "id": "386708"
+      "id": "336044"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "1",
-      "category": "BATTLE CREEK",
+      "category": "I OWE YOU AN \"OLOGY\"",
       "point_value": 400,
-      "question": "A tributary of the largest tributary of the Yellowstone, it became famous in 1876",
-      "answer": "Little Big Horn",
+      "question": "No birdbrain, John James Audubon was most closely associated with this -ology",
+      "answer": "ornithology",
       "is_daily_double": false,
-      "id": "386709"
+      "id": "336045"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "1",
-      "category": "BATTLE CREEK",
+      "category": "I OWE YOU AN \"OLOGY\"",
       "point_value": 600,
-      "question": "Pittsburg Landing, Grant's base on the Tennessee River, is a less biblical name for this 1862 battle",
-      "answer": "Shiloh",
+      "question": "The science of determining dates & the sequence of events, it's also a list of those events by date",
+      "answer": "chronology",
       "is_daily_double": false,
-      "id": "386710"
+      "id": "336046"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "1",
-      "category": "BATTLE CREEK",
+      "category": "I OWE YOU AN \"OLOGY\"",
       "point_value": 800,
-      "question": "Site of a Nov. 7, 1811 battle, this Indiana river got additional notoriety in an 1840 campaign of a different sort",
-      "answer": "Tippecanoe",
+      "question": "An expert in this medical field selects & administers the drug that puts a patient out during surgery",
+      "answer": "anesthesiology",
+      "is_daily_double": false,
+      "id": "336047"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "1",
+      "category": "I OWE YOU AN \"OLOGY\"",
+      "point_value": 1000,
+      "question": "This -ology, part of sociology, uses the theory of differential association (i.e., hanging around with a bad crowd)",
+      "answer": "criminology",
+      "is_daily_double": false,
+      "id": "336048"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "1",
+      "category": "POTTER ROAST",
+      "point_value": 200,
+      "question": "Beatrix Potter, you were engaged to Norman Warne, this professional; way to get out of doing revisions",
+      "answer": "her editor",
+      "is_daily_double": false,
+      "id": "336049"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "1",
+      "category": "POTTER ROAST",
+      "point_value": 400,
+      "question": "So this brother of Flopsy was a real pet of yours; but didn't your cook say something about making Hasenpfeffer?",
+      "answer": "Peter Rabbit",
+      "is_daily_double": false,
+      "id": "336050"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "1",
+      "category": "POTTER ROAST",
+      "point_value": 600,
+      "question": "Beatrix bred Herdwick these, known for grazing over a wide area; sounds like Beatrix at the buffet",
+      "answer": "sheep",
+      "is_daily_double": false,
+      "id": "336051"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "1",
+      "category": "POTTER ROAST",
+      "point_value": 800,
+      "question": "Trix, these features are the last name of a rat you created; did you get the idea from your upper lip in the mirror?",
+      "answer": "whiskers",
+      "is_daily_double": false,
+      "id": "336052"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "1",
+      "category": "SO SAYETH THE TALK SHOW HOST",
+      "point_value": 200,
+      "question": "This \"Late Show\" guy: \"Fall is my favorite season in L.A., watching the birds change color & fall from the trees\"",
+      "answer": "David Letterman",
+      "is_daily_double": false,
+      "id": "336053"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "1",
+      "category": "SO SAYETH THE TALK SHOW HOST",
+      "point_value": 400,
+      "question": "This \"Daily Show\" host: \"Why do I have to follow CNN on Twitter? If I want to follow CNN, I can follow them on CNN\"",
+      "answer": "Jon Stewart",
+      "is_daily_double": false,
+      "id": "336054"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "1",
+      "category": "SO SAYETH THE TALK SHOW HOST",
+      "point_value": 600,
+      "question": "Jay Leno on July 8, 2010: The \"nominations were announced today... there's no 'me' in\" this award",
+      "answer": "Emmy",
+      "is_daily_double": false,
+      "id": "336055"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "1",
+      "category": "SO SAYETH THE TALK SHOW HOST",
+      "point_value": 800,
+      "question": "This \"Live\" ABC guy, on Pam Anderson: \"Don't be fooled by the dumb blonde routine. This woman is as smart as a rock\"",
+      "answer": "Jimmy Kimmel",
+      "is_daily_double": false,
+      "id": "336056"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "1",
+      "category": "START SPREADIN' THE BOOZE",
+      "point_value": 200,
+      "question": "Jose Cuervo (the co.) says Jose Cuervo (the man) was the first producer of this Mexican agave liquor, in 1795",
+      "answer": "tequila",
+      "is_daily_double": false,
+      "id": "336057"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "1",
+      "category": "START SPREADIN' THE BOOZE",
+      "point_value": 400,
+      "question": "Stories abound as to why this Tenn. sour mash whiskey has \"Old No. 7\" on its bottles, but its creator took that secret to his grave",
+      "answer": "Jack Daniel's",
+      "is_daily_double": false,
+      "id": "336058"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "1",
+      "category": "START SPREADIN' THE BOOZE",
+      "point_value": 600,
+      "question": "This captain's brand took off when its founder bought a spiced rum recipe from 2 Jamaican pharmacists",
+      "answer": "Captain Morgan",
+      "is_daily_double": false,
+      "id": "336059"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "1",
+      "category": "START SPREADIN' THE BOOZE",
+      "point_value": 800,
+      "question": "This company claims its product is \"not just whiskey. It's the world's finest Kentucky straight bourbon whiskey\"",
+      "answer": "Jim Beam",
+      "is_daily_double": false,
+      "id": "336060"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "1",
+      "category": "START SPREADIN' THE BOOZE",
+      "point_value": 1000,
+      "question": "Barbayanni & Aphrodite are varieties of this anise-flavored, colorless liqueur",
+      "answer": "ouzo",
       "is_daily_double": true,
-      "id": "386711"
+      "id": "336061"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "1",
-      "category": "BATTLE CREEK",
-      "point_value": 1000,
-      "question": "(Sarah of the Clue Crew shows a video & map on the monitor.) 600 taxis rushed troops to the front in the opening weeks of World War I to turn back a German drive on Paris, an event that came to be known as the Miracle of this battleground river",
-      "answer": "the Marne",
-      "is_daily_double": false,
-      "id": "386712"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "1",
-      "category": "BRAINY ANAGRAMS",
+      "category": "WORDS REJECTED BY THE OED",
       "point_value": 200,
-      "question": "One major division: HERE IS HEMP",
-      "answer": "hemisphere",
+      "question": "\"Pregreening\" is the act of creeping forward while waiting for one of these to change",
+      "answer": "a traffic signal (or red light)",
       "is_daily_double": false,
-      "id": "386713"
+      "id": "336062"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "1",
-      "category": "BRAINY ANAGRAMS",
+      "category": "WORDS REJECTED BY THE OED",
       "point_value": 400,
-      "question": "Neuron extension: NERD DIET",
-      "answer": "dendrite",
+      "question": "\"Whinese\" is a language they use on long car trips",
+      "answer": "children",
       "is_daily_double": false,
-      "id": "386714"
+      "id": "336063"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "1",
-      "category": "BRAINY ANAGRAMS",
+      "category": "WORDS REJECTED BY THE OED",
       "point_value": 600,
-      "question": "A sensory lobe: AMPLE ROT",
-      "answer": "temporal",
+      "question": "\"Pharming\" is the practice of creating a fake website to engage in this similarly named illegal gathering of info",
+      "answer": "phishing",
       "is_daily_double": false,
-      "id": "386715"
+      "id": "336064"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "1",
-      "category": "BRAINY ANAGRAMS",
+      "category": "WORDS REJECTED BY THE OED",
       "point_value": 800,
-      "question": "A chemical neurotransmitter that affects mood: ONION REST",
-      "answer": "serotonin",
+      "question": "\"Wurfing\" is the act of cruising the Internet while here",
+      "answer": "at work",
       "is_daily_double": false,
-      "id": "386716"
+      "id": "336065"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "1",
-      "category": "BRAINY ANAGRAMS",
+      "category": "WORDS REJECTED BY THE OED",
       "point_value": 1000,
-      "question": "A control center: MY ALPHA SHOUT",
-      "answer": "hypothalamus",
+      "question": "The \"fumb\" is this body part",
+      "answer": "the big toe",
       "is_daily_double": false,
-      "id": "386717"
+      "id": "336066"
     },
     {
-      "air_date": "2014-11-18",
-      "round": "1",
-      "category": "FOR YOUR I's ONLY",
-      "point_value": 200,
-      "question": "To be brief, it's a 2-piece beach sensation",
-      "answer": "bikini",
-      "is_daily_double": false,
-      "id": "386718"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "1",
-      "category": "FOR YOUR I's ONLY",
-      "point_value": 400,
-      "question": "A numeral, or a thumb",
-      "answer": "digit",
-      "is_daily_double": false,
-      "id": "386719"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "1",
-      "category": "FOR YOUR I's ONLY",
-      "point_value": 600,
-      "question": "Member of the weasel family with luxuriant fur",
-      "answer": "mink",
-      "is_daily_double": false,
-      "id": "386720"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "1",
-      "category": "FOR YOUR I's ONLY",
-      "point_value": 800,
-      "question": "A native of Espoo",
-      "answer": "Finn",
-      "is_daily_double": false,
-      "id": "386721"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "1",
-      "category": "NEXT IN LINE",
-      "point_value": 200,
-      "question": "California governors: Pete Wilson, Gray Davis...",
-      "answer": "Arnold Schwarzenegger",
-      "is_daily_double": false,
-      "id": "386722"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "1",
-      "category": "NEXT IN LINE",
-      "point_value": 400,
-      "question": "USDA beef grades: prime, choice...",
-      "answer": "select",
-      "is_daily_double": false,
-      "id": "386723"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "1",
-      "category": "NEXT IN LINE",
-      "point_value": 600,
-      "question": "A Top 20 recording of \"How Sweet It Is\": Marvin Gaye, Jr. Walker & the All Stars...",
-      "answer": "James Taylor",
-      "is_daily_double": false,
-      "id": "386724"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "1",
-      "category": "NEXT IN LINE",
-      "point_value": 800,
-      "question": "Prime numbers: 29, 31...",
-      "answer": "37",
-      "is_daily_double": false,
-      "id": "386725"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "1",
-      "category": "NEXT IN LINE",
-      "point_value": 1000,
-      "question": "States in order of admission: Utah, Oklahoma...",
-      "answer": "New Mexico",
-      "is_daily_double": false,
-      "id": "386726"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "1",
-      "category": "THE 2014 EMMYS",
-      "point_value": 200,
-      "question": "It was the first time hosting the Emmys for him—no, not Seth MacFarlane",
-      "answer": "Seth Meyers",
-      "is_daily_double": false,
-      "id": "386727"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "1",
-      "category": "THE 2014 EMMYS",
-      "point_value": 400,
-      "question": "In a touching tribute, Billy Crystal remembered this friend, \"the brightest star in a comedy galaxy\"",
-      "answer": "Robin Williams",
-      "is_daily_double": false,
-      "id": "386728"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "1",
-      "category": "THE 2014 EMMYS",
-      "point_value": 600,
-      "question": "In a fitting farewell, this show took home awards for Drama Series & for its lead actor & supporting actor & actress",
-      "answer": "Breaking Bad",
-      "is_daily_double": false,
-      "id": "386729"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "1",
-      "category": "THE 2014 EMMYS",
-      "point_value": 800,
-      "question": "Jessica Lange & Kathy Bates took home awards for this third season of \"American Horror Story\"",
-      "answer": "Coven",
-      "is_daily_double": false,
-      "id": "386730"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "1",
-      "category": "THE 2014 EMMYS",
-      "point_value": 1000,
-      "question": "Best TV Movie went to this HBO drama starring Mark Ruffalo & Julia Roberts about the early fight against AIDS",
-      "answer": "The Normal Heart",
-      "is_daily_double": false,
-      "id": "386731"
-    },
-    {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "2",
-      "category": "A LOAD OF ODIN",
+      "category": "\"STAN\" IN THE PLACE WHERE YOU LIVE",
       "point_value": 400,
-      "question": "Forged by dwarfs, Draupnir was this precious piece of Odin's jewelry that could make gold",
-      "answer": "ring",
+      "question": "Karachi is this country's chief port",
+      "answer": "Pakistan",
       "is_daily_double": false,
-      "id": "386732"
+      "id": "336089"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "2",
-      "category": "A LOAD OF ODIN",
+      "category": "\"STAN\" IN THE PLACE WHERE YOU LIVE",
       "point_value": 800,
-      "question": "Hugin & Munin were a pair of these crow-like birds that Odin used to scout ahead & bring him news",
-      "answer": "ravens",
+      "question": "Mazar-e Sharif, Ghazni & Kandahar are cities in this country",
+      "answer": "Afghanistan",
       "is_daily_double": false,
-      "id": "386733"
+      "id": "336090"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "2",
-      "category": "A LOAD OF ODIN",
+      "category": "\"STAN\" IN THE PLACE WHERE YOU LIVE",
       "point_value": 1200,
-      "question": "When Odin had his steed Sleipnir reshod, he had to shell out for this many shoes",
-      "answer": "8",
+      "question": "Aralsk, Shu & (Good Lord!) Almaty are cities in this country",
+      "answer": "Kazakhstan",
       "is_daily_double": false,
-      "id": "386734"
+      "id": "336091"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "2",
-      "category": "A LOAD OF ODIN",
+      "category": "\"STAN\" IN THE PLACE WHERE YOU LIVE",
       "point_value": 1600,
-      "question": "Odin's sons by Frigga were Hermod, Hodur & this beloved son who died in a tragic accident",
-      "answer": "Baldur",
+      "question": "If you don't count the 2 Ys, the A in this \"stan\" is the only vowel in its 10-letter name",
+      "answer": "Kyrgyzstan",
       "is_daily_double": true,
-      "id": "386735"
+      "id": "336092"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "2",
-      "category": "A LOAD OF ODIN",
+      "category": "\"STAN\" IN THE PLACE WHERE YOU LIVE",
       "point_value": 2000,
-      "question": "Odin is killed along with most other Norse gods in this final battle",
-      "answer": "Ragnarök",
+      "question": "You'll find Uchkuduck & the Ustyurt Plateau in this country",
+      "answer": "Uzbekistan",
       "is_daily_double": false,
-      "id": "386736"
+      "id": "336093"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "2",
-      "category": "ACTRESSES ONSTAGE",
+      "category": "ISLAND NICKNAMES",
       "point_value": 400,
-      "question": "In 2014 Michelle Williams made her Broadway debut as Sally Bowles in this musical",
-      "answer": "Cabaret",
+      "question": "\"The Emerald Isle\"",
+      "answer": "Ireland",
       "is_daily_double": false,
-      "id": "386737"
+      "id": "336067"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "2",
-      "category": "ACTRESSES ONSTAGE",
+      "category": "ISLAND NICKNAMES",
       "point_value": 800,
-      "question": "If you know that this actress, who died in 2014 at 89, won a Tony for \"Applause\", just whistle!",
-      "answer": "Lauren Bacall",
+      "question": "\"The Home of the Dragon Lizard\"",
+      "answer": "Komodo",
       "is_daily_double": false,
-      "id": "386738"
+      "id": "336068"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "2",
-      "category": "ACTRESSES ONSTAGE",
+      "category": "ISLAND NICKNAMES",
       "point_value": 1200,
-      "question": "Lynn & Vanessa Redgrave starred in only one play together, a production of this playwright's \"Three Sisters\"",
-      "answer": "Chekhov",
-      "is_daily_double": false,
-      "id": "386739"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "ACTRESSES ONSTAGE",
-      "point_value": 1600,
-      "question": "It's no rumor—this actress, currently seen on a TV drama, won a Tony in 1989 for \"Rumors\"",
-      "answer": "Christine Baranski",
-      "is_daily_double": false,
-      "id": "386740"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "ACTRESSES ONSTAGE",
-      "point_value": 2000,
-      "question": "Since starring as Evita in 1979, she's become one of Broadway's biggest stars",
-      "answer": "Patti LuPone",
-      "is_daily_double": false,
-      "id": "386741"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "ALL OVER THE MAP",
-      "point_value": 400,
-      "question": "40 miles WSW of Edinburgh, population 600,000: this city",
-      "answer": "Glasgow",
-      "is_daily_double": false,
-      "id": "386742"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "ALL OVER THE MAP",
-      "point_value": 800,
-      "question": "Flowing from Bismarck to Omaha: this river",
-      "answer": "Missouri",
-      "is_daily_double": false,
-      "id": "386743"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "ALL OVER THE MAP",
-      "point_value": 1200,
-      "question": "Bordering Colombia, Peru & the Pacific: this country",
-      "answer": "Ecuador",
-      "is_daily_double": false,
-      "id": "386744"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "ALL OVER THE MAP",
-      "point_value": 1600,
-      "question": "Home to Quezon City: this island",
-      "answer": "Luzon",
-      "is_daily_double": false,
-      "id": "386745"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "ALL OVER THE MAP",
-      "point_value": 2000,
-      "question": "Looming over Zermatt: this 14,692-foot peak",
-      "answer": "the Matterhorn",
-      "is_daily_double": false,
-      "id": "386746"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "CONGRESSIONAL GOLD MEDAL RECIPIENTS",
-      "point_value": 400,
-      "question": "The youngest recipient, an 11-year-old Vermont boy, rescued 5 friends who fell through the ice on this lake",
-      "answer": "Champlain",
-      "is_daily_double": false,
-      "id": "386747"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "CONGRESSIONAL GOLD MEDAL RECIPIENTS",
-      "point_value": 800,
-      "question": "These songwriting brothers were awarded a Congressional Gold Medal—it is necessarily so",
-      "answer": "the Gershwins (Ira & George)",
-      "is_daily_double": false,
-      "id": "386748"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "CONGRESSIONAL GOLD MEDAL RECIPIENTS",
-      "point_value": 1200,
-      "question": "This writer \"helped make the memory of the Holocaust eternal by preserving the story of 6 million Jews in his works\"",
-      "answer": "Elie Wiesel",
-      "is_daily_double": false,
-      "id": "386749"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "CONGRESSIONAL GOLD MEDAL RECIPIENTS",
-      "point_value": 1600,
-      "question": "Congressman Leo Ryan was killed in this country, where he'd been investigating Jim Jones' Peoples Temple",
-      "answer": "Guyana",
-      "is_daily_double": false,
-      "id": "386750"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "CONGRESSIONAL GOLD MEDAL RECIPIENTS",
-      "point_value": 2000,
-      "question": "This longtime Speaker of the House called himself \"a Democrat without prefix, without suffix, and without apology\"",
-      "answer": "(Sam) Rayburn",
-      "is_daily_double": false,
-      "id": "386751"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "HAREM SHUFFLE",
-      "point_value": 400,
-      "question": "In pre-Islamic Persia, most royal courts included a harem of wives & these, from the Latin for \"lie together\"",
-      "answer": "concubines",
-      "is_daily_double": false,
-      "id": "386752"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "HAREM SHUFFLE",
-      "point_value": 800,
-      "question": "The sultan of this empire had August Wilhelmj play violin for his harem, allegedly the only non-castrated man ever invited in",
-      "answer": "the Ottoman Empire",
-      "is_daily_double": false,
-      "id": "386753"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "HAREM SHUFFLE",
-      "point_value": 1200,
-      "question": "Paul Poiret was known for designing lively-colored \"harem\" these",
-      "answer": "pants",
-      "is_daily_double": false,
-      "id": "386754"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "HAREM SHUFFLE",
-      "point_value": 1600,
-      "question": "In April 2014 U.S. authorities seized this polygamist leader's Yearning for Zion Ranch in Texas",
-      "answer": "Warren Jeffs",
-      "is_daily_double": false,
-      "id": "386755"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "HAREM SHUFFLE",
-      "point_value": 2000,
-      "question": "The Bible describes Solomon's harem, saying he loved \"Moabites, Ammonites, Edomites... and\" these -ites",
-      "answer": "Hittites",
-      "is_daily_double": false,
-      "id": "386756"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "QUOTES OF NOTE",
-      "point_value": 400,
-      "question": "Film in which Mandy Patinkin tells Wallace Shawn, \"You keep using that word. I do not think it means what you think it means\"",
-      "answer": "The Princess Bride",
-      "is_daily_double": false,
-      "id": "386757"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "QUOTES OF NOTE",
-      "point_value": 800,
-      "question": "This religious leader: \"Inner tranquility comes from the development of love and compassion\"",
-      "answer": "Dalai Lama",
-      "is_daily_double": false,
-      "id": "386758"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "QUOTES OF NOTE",
-      "point_value": 1200,
-      "question": "Nancy Reagan: \"A woman is like\" this beverage item—\"only in hot water do you realize how strong she is\"",
-      "answer": "tea bag",
-      "is_daily_double": false,
-      "id": "386759"
-    },
-    {
-      "air_date": "2014-11-18",
-      "round": "2",
-      "category": "QUOTES OF NOTE",
-      "point_value": 1600,
-      "question": "Churchill said he couldn't forecast the action of Russia: \"It is a riddle wrapped in a mystery inside\" this",
-      "answer": "an enigma",
+      "question": "\"The Island of Mutineers\"",
+      "answer": "Pitcairn",
       "is_daily_double": true,
-      "id": "386760"
+      "id": "336069"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
       "round": "2",
-      "category": "QUOTES OF NOTE",
-      "point_value": 2000,
-      "question": "Erich Fromm said, \"The lust for\" this \"is not rooted in strength but in weakness\"",
-      "answer": "power",
+      "category": "ISLAND NICKNAMES",
+      "point_value": 1600,
+      "question": "\"The Garden Island\" of Hawaii",
+      "answer": "Kauai",
       "is_daily_double": false,
-      "id": "386761"
+      "id": "336070"
     },
     {
-      "air_date": "2014-11-18",
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "NATIONALITY, PLEASE",
+      "point_value": 400,
+      "question": "Flavor retired by Baskin-Robbins in 2010: ____ Vanilla",
+      "answer": "French",
+      "is_daily_double": false,
+      "id": "336071"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "NATIONALITY, PLEASE",
+      "point_value": 800,
+      "question": "A type of cigar: ____ Masters",
+      "answer": "Dutch",
+      "is_daily_double": false,
+      "id": "336072"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "NATIONALITY, PLEASE",
+      "point_value": 1200,
+      "question": "The Beatles knew it was used to make cheap furniture: ____ wood",
+      "answer": "Norwegian",
+      "is_daily_double": false,
+      "id": "336073"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "NATIONALITY, PLEASE",
+      "point_value": 1600,
+      "question": "Wine-producing region in Sonoma: ____ River Valley",
+      "answer": "Russian",
+      "is_daily_double": false,
+      "id": "336074"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "PLAYING THE PROFESSOR",
+      "point_value": 400,
+      "question": "This movie with Julia Roberts as a Wellesley art history professor has a painting in its title",
+      "answer": "Mona Lisa Smile",
+      "is_daily_double": false,
+      "id": "336075"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "PLAYING THE PROFESSOR",
+      "point_value": 800,
+      "question": "John Goodman played an angry Tulane professor on this HBO show set in post-Katrina New Orleans",
+      "answer": "Treme",
+      "is_daily_double": false,
+      "id": "336076"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "PLAYING THE PROFESSOR",
+      "point_value": 1200,
+      "question": "This British sex symbol earned an Oscar nomination as a bereaved prof in \"A Single Man\"",
+      "answer": "Colin Firth",
+      "is_daily_double": false,
+      "id": "336077"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "PLAYING THE PROFESSOR",
+      "point_value": 1600,
+      "question": "Arthur Hill won a Tony as this professor in \"Who's Afraid of Virginia Woolf?\" on Broadway",
+      "answer": "George",
+      "is_daily_double": false,
+      "id": "336078"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "PLAYING THE PROFESSOR",
+      "point_value": 2000,
+      "question": "He played the brilliant \"Gilligan's Island\" professor who couldn't figure out how to build a raft",
+      "answer": "Russell Johnson",
+      "is_daily_double": false,
+      "id": "336079"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "THE SUPREME COURT",
+      "point_value": 400,
+      "question": "Some historians consider the 1857 decision in this slave v. Sanford to be the worst ever rendered by the Supreme Court",
+      "answer": "Dred Scott",
+      "is_daily_double": false,
+      "id": "336080"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "THE SUPREME COURT",
+      "point_value": 1200,
+      "question": "Appointed by Woodrow Wilson, he was the Supreme Court's first Jewish justice",
+      "answer": "(Louis) Brandeis",
+      "is_daily_double": false,
+      "id": "336081"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "THE SUPREME COURT",
+      "point_value": 1600,
+      "question": "Norma McCorvey was later identified as the plaintiff in this landmark 1973 Supreme Court case",
+      "answer": "Roe v. Wade",
+      "is_daily_double": false,
+      "id": "336082"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "THE SUPREME COURT",
+      "point_value": 2000,
+      "question": "This plaintiff sued to get defendant James Madison to deliver the commission that would make him a judge in D.C.",
+      "answer": "(William) Marbury",
+      "is_daily_double": false,
+      "id": "336083"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "WE ALL SPEAK HINDI",
+      "point_value": 400,
+      "question": "This light, portable canvas bed is usually on a folding wood frame",
+      "answer": "a cot",
+      "is_daily_double": false,
+      "id": "336084"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "WE ALL SPEAK HINDI",
+      "point_value": 800,
+      "question": "Though this animal is now mostly found in Africa, its name comes from Hindi",
+      "answer": "a cheetah",
+      "is_daily_double": false,
+      "id": "336085"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "WE ALL SPEAK HINDI",
+      "point_value": 1200,
+      "question": "You wash your keratinous filaments with this",
+      "answer": "shampoo",
+      "is_daily_double": false,
+      "id": "336086"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "WE ALL SPEAK HINDI",
+      "point_value": 1600,
+      "question": "A small boat that's towed behind or carried on a large boat",
+      "answer": "a dinghy",
+      "is_daily_double": false,
+      "id": "336087"
+    },
+    {
+      "air_date": "2011-01-28",
+      "round": "2",
+      "category": "WE ALL SPEAK HINDI",
+      "point_value": 2000,
+      "question": "This is the Hindi word for a loin band; you'll see them if you go to a black-tie event",
+      "answer": "cummerbund",
+      "is_daily_double": false,
+      "id": "336088"
+    },
+    {
+      "air_date": "2011-01-28",
       "round": "3",
-      "category": "FRENCH LITERATURE",
+      "category": "DISNEY MOVIES",
       "point_value": 0,
-      "question": "Its first chapter recalls \"the little scallop-shell of pastry, so richly sensual under its severe, religious folds\"",
-      "answer": "Remembrance of Things Past",
+      "question": "With special sound equipment needed in the auditorium, this 1940 film was initially released in only 14 theaters",
+      "answer": "Fantasia",
       "is_daily_double": false,
-      "id": "386762"
+      "id": "336094"
     }
   ]
 }
