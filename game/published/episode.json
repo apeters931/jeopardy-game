@@ -1,616 +1,566 @@
 {
-  "id": "dc0f1984545dc48f",
-  "air_date": "2006-07-03",
+  "id": "e64532404188036a",
+  "air_date": "1998-01-14",
   "questions": [
     {
-      "air_date": "2006-07-03",
+      "air_date": "1998-01-14",
       "round": "1",
-      "category": "\"SMALL\" TIME",
+      "category": "BOOKS OF THE '20s",
+      "point_value": 100,
+      "question": "\"The Sun Also Rises\", which first saw the light of day in 1926, is considered to be his finest novel",
+      "answer": "Ernest Hemingway",
+      "is_daily_double": false,
+      "id": "163232"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "BOOKS OF THE '20s",
       "point_value": 200,
-      "question": "In L.A. County you can sue for no more than $7,500 in this court",
-      "answer": "small claims",
+      "question": "In 1922 she provided tips on \"Etiquette in Society, in Business, in Politics and at Home\"",
+      "answer": "Emily Post",
       "is_daily_double": false,
-      "id": "275144"
+      "id": "163233"
     },
     {
-      "air_date": "2006-07-03",
+      "air_date": "1998-01-14",
       "round": "1",
-      "category": "\"SMALL\" TIME",
+      "category": "BOOKS OF THE '20s",
+      "point_value": 300,
+      "question": "He was working as a sportswriter in Germany when he published \"All Quiet on the Western Front\"",
+      "answer": "Erich Maria Remarque",
+      "is_daily_double": false,
+      "id": "163234"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "BOOKS OF THE '20s",
       "point_value": 400,
-      "question": "Young fish or young children",
-      "answer": "small fry",
+      "question": "He called the original version of \"Sartoris\", his 1929 novel, \"Flags in the Dust\"",
+      "answer": "William Faulkner",
       "is_daily_double": false,
-      "id": "275145"
+      "id": "163235"
     },
     {
-      "air_date": "2006-07-03",
+      "air_date": "1998-01-14",
       "round": "1",
-      "category": "\"SMALL\" TIME",
+      "category": "BOOKS OF THE '20s",
+      "point_value": 500,
+      "question": "In the title of a 1927 Willa Cather novel, \"Death Comes for\" him",
+      "answer": "the Archbishop",
+      "is_daily_double": false,
+      "id": "163236"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "CARIBBEAN CAPITALS",
+      "point_value": 100,
+      "question": "You can see some of Pablo Casals' favorite cellos at the museum devoted to him in this Puerto Rican capital",
+      "answer": "San Juan",
+      "is_daily_double": false,
+      "id": "163237"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "CARIBBEAN CAPITALS",
+      "point_value": 200,
+      "question": "Spice baskets are popular souvenirs of St. George's, the capital of this country invaded by the U.S. in 1983",
+      "answer": "Grenada",
+      "is_daily_double": false,
+      "id": "163238"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "CARIBBEAN CAPITALS",
+      "point_value": 300,
+      "question": "Road Town is not only the capital but the only urban area in this British island group",
+      "answer": "British Virgin Islands",
+      "is_daily_double": false,
+      "id": "163239"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "CARIBBEAN CAPITALS",
+      "point_value": 400,
+      "question": "Dance lovers know there's an annual merengue festival in this capital of the Dominican Republic",
+      "answer": "Santo Domingo",
+      "is_daily_double": false,
+      "id": "163240"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "CARIBBEAN CAPITALS",
+      "point_value": 500,
+      "question": "Willemstad, the capital of Curacao, has an 18th century fort named for this European capital",
+      "answer": "Amsterdam",
+      "is_daily_double": false,
+      "id": "163241"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "CARTOONS",
+      "point_value": 100,
+      "question": "Director John Lasseter earned a 1995 Oscar for this first all-computerized animated feature",
+      "answer": "Toy Story",
+      "is_daily_double": false,
+      "id": "163242"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "CARTOONS",
+      "point_value": 200,
+      "question": "White Zombie's album sales soared after this MTV cartoon duo pronounced their video \"cool\"",
+      "answer": "Beavis & Butt-head",
+      "is_daily_double": false,
+      "id": "163243"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "CARTOONS",
+      "point_value": 300,
+      "question": "\"Teen Wolf\" debuted on TV in 1986 & these teenage terrapins hit the air the next year",
+      "answer": "Teenage Mutant Ninja Turtles",
+      "is_daily_double": false,
+      "id": "163244"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "CARTOONS",
+      "point_value": 500,
+      "question": "This \"sizzling\" star provided the voice of Balto, the heroic sled dog in a 1995 feature",
+      "answer": "Kevin Bacon",
+      "is_daily_double": false,
+      "id": "163245"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "STARTS WITH 2 VOWELS",
+      "point_value": 100,
+      "question": "Every artist we canvassed said it holds up their work",
+      "answer": "easel",
+      "is_daily_double": false,
+      "id": "163246"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "STARTS WITH 2 VOWELS",
+      "point_value": 200,
+      "question": "Proverbial amount of prevention that's needed",
+      "answer": "ounce",
+      "is_daily_double": false,
+      "id": "163247"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "STARTS WITH 2 VOWELS",
+      "point_value": 300,
+      "question": "Just the thing for a stroke on the water",
+      "answer": "oar",
+      "is_daily_double": false,
+      "id": "163248"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "STARTS WITH 2 VOWELS",
+      "point_value": 400,
+      "question": "The 2 continents that fit the category",
+      "answer": "Australia & Europe",
+      "is_daily_double": false,
+      "id": "163249"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "STARTS WITH 2 VOWELS",
+      "point_value": 500,
+      "question": "In this order of architecture, the entablature on the column is more intricate than in the Doric",
+      "answer": "Ionic",
+      "is_daily_double": false,
+      "id": "163250"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "THE RODEO",
+      "point_value": 100,
+      "question": "The December 1996 National Rodeo Finals in this Nevada city had $3.2 million in prize money",
+      "answer": "Las Vegas",
+      "is_daily_double": false,
+      "id": "163251"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "THE RODEO",
+      "point_value": 200,
+      "question": "As one of these rodeo personalities, Rob Smets has broken his neck twice; that's not funny",
+      "answer": "a rodeo clown",
+      "is_daily_double": false,
+      "id": "163252"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "THE RODEO",
+      "point_value": 300,
+      "question": "Bareback & saddle bronc riders start in this, with the clock beginning when they leave it",
+      "answer": "Chute",
+      "is_daily_double": false,
+      "id": "163253"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "TRANSPORTATION",
+      "point_value": 100,
+      "question": "This travel organization responds to almost 30 million emergency road service calls a year",
+      "answer": "AAA",
+      "is_daily_double": false,
+      "id": "163254"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "TRANSPORTATION",
+      "point_value": 200,
+      "question": "Dedicated in 1962, the Thatcher Ferry Bridge spans the Pacific entrance to this canal",
+      "answer": "Panama Canal",
+      "is_daily_double": false,
+      "id": "163255"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "TRANSPORTATION",
+      "point_value": 300,
+      "question": "In 1995 this agency, the ICC, issued Santa a permit to operate \"as a common carrier by 2-runner sleigh\"",
+      "answer": "Interstate Commerce Commission",
+      "is_daily_double": false,
+      "id": "163256"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "TRANSPORTATION",
+      "point_value": 400,
+      "question": "Features on this luxury liner include the Grand Lounge & the Queens Grill, one of 5 gourmet restaurants",
+      "answer": "the QE2",
+      "is_daily_double": false,
+      "id": "163257"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "1",
+      "category": "TRANSPORTATION",
+      "point_value": 500,
+      "question": "In 1887 Canada's Transcontinental Railroad reached from Montreal to this west coast city",
+      "answer": "Vancouver",
+      "is_daily_double": false,
+      "id": "163258"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "\"B\"s DO IT",
+      "point_value": 200,
+      "question": "If right-handed, they aim for the \"pocket\" between the 1 & 3 pins",
+      "answer": "bowlers",
+      "is_daily_double": false,
+      "id": "163282"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "\"B\"s DO IT",
+      "point_value": 400,
+      "question": "They use loud, colorful spiels to entice customers into carnivals",
+      "answer": "barkers",
+      "is_daily_double": false,
+      "id": "163283"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "\"B\"s DO IT",
       "point_value": 600,
-      "question": "In a hymn by Cecil \"Fanny\" Alexander this line follows \"All things bright and beautiful\"",
-      "answer": "\"All creatures great and small\"",
+      "question": "On trains they assist conductors; on bobsleds their main duty is slowing things down",
+      "answer": "brakemen",
       "is_daily_double": false,
-      "id": "275146"
+      "id": "163284"
     },
     {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "\"SMALL\" TIME",
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "\"B\"s DO IT",
       "point_value": 800,
-      "question": "(Sarah of the Clue Crew holds up a world map.) The alliterative, somewhat counterintuitive term for a map of a large area at 1 to more than 1 million",
-      "answer": "small scale",
+      "question": "Only these bigwigs may argue before Britain's high court",
+      "answer": "barristers",
       "is_daily_double": false,
-      "id": "275147"
+      "id": "163285"
     },
     {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "\"SMALL\" TIME",
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "\"B\"s DO IT",
       "point_value": 1000,
-      "question": "In 1863 Abe Lincoln came down with varioloid, a mild form of this",
-      "answer": "smallpox",
+      "question": "In a symphony orchestra, these speed reeders sit next to the clarinetists",
+      "answer": "bassoons",
       "is_daily_double": false,
-      "id": "275148"
+      "id": "163286"
     },
     {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "A MIGHTY WIND",
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "BIRDS DO IT",
       "point_value": 200,
-      "question": "In 1951 they called the wind this in \"Paint Your Wagon\", but Ms. Carey might challenge the spelling",
-      "answer": "Maria",
+      "question": "Perhaps imitating gorillas, grouses beat these in front of their chests to warn intruders",
+      "answer": "wings",
       "is_daily_double": false,
-      "id": "275119"
+      "id": "163259"
     },
     {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "A MIGHTY WIND",
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "BIRDS DO IT",
       "point_value": 400,
-      "question": "In April 1934 Mt. Washington had a wind gust reach 201 of this unit equal to 1 nautical mile per hour",
-      "answer": "knots",
+      "question": "These Southwestern birds can attain ground speeds of 15 mph, even with nary a coyote in sight",
+      "answer": "roadrunners",
       "is_daily_double": false,
-      "id": "275120"
+      "id": "163260"
     },
     {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "A MIGHTY WIND",
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "BIRDS DO IT",
       "point_value": 600,
-      "question": "2-word \"aeronautical\" term for the strong, generally westerly winds in the Earth's upper troposphere",
-      "answer": "the jet stream",
+      "question": "When this bird of the family Apodidae slows down, it often nests in a chimney",
+      "answer": "swift",
       "is_daily_double": false,
-      "id": "275121"
+      "id": "163261"
     },
     {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "A MIGHTY WIND",
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "BIRDS DO IT",
       "point_value": 800,
-      "question": "It has a low-pressure center & circular wind motion; the Coney Island ride opened June 26, 1927 is much more fun",
-      "answer": "a cyclone",
+      "question": "The red-footed type of this seabird lays one egg at a time so the chicks are more robust when they \"hatch\"",
+      "answer": "booby",
       "is_daily_double": false,
-      "id": "275122"
+      "id": "163262"
     },
     {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "A MIGHTY WIND",
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "BIRDS DO IT",
       "point_value": 1000,
-      "question": "Volkswagen aficionados know this hot, dusty wind that blows from North Africa & affects Southern Europe",
-      "answer": "scirocco",
+      "question": "The king type of this well-feathered duck dives as far \"down\" as 180 feet",
+      "answer": "eider",
       "is_daily_double": false,
-      "id": "275123"
+      "id": "163263"
     },
     {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "BIBLICAL PEOPLE",
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "CAR TUNES",
       "point_value": 200,
-      "question": "The first person to see Jesus after he arose from his tomb was this woman",
-      "answer": "Mary Magdalene",
+      "question": "Janis Joplin asked the Lord to buy her one of these to make up for her Porsche-driving friends",
+      "answer": "Mercedes-Benz",
       "is_daily_double": false,
-      "id": "275124"
+      "id": "163264"
     },
     {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "BIBLICAL PEOPLE",
-      "point_value": 400,
-      "question": "Elijah's prophecy that dogs would eat this wicked woman was fulfilled in 2 Kings",
-      "answer": "Jezebel",
-      "is_daily_double": false,
-      "id": "275125"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "BIBLICAL PEOPLE",
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "CAR TUNES",
       "point_value": 600,
-      "question": "(Jimmy of the Clue Crew reports from a vineyard.) The first Biblical man who plants a specific crop, in Genesis he planted a vineyard & promptly drank too much wine",
-      "answer": "Noah",
+      "question": "In 1988 Natalie Cole covered the Bruce Springsteen song about this pink luxury auto",
+      "answer": "Cadillac",
       "is_daily_double": false,
-      "id": "275126"
+      "id": "163265"
     },
     {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "BIBLICAL PEOPLE",
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "CAR TUNES",
       "point_value": 800,
-      "question": "This apostle, an effective missionary, is sometimes called the \"second founder\" of Christianity",
-      "answer": "Paul",
+      "question": "In a 1995 ode to this GM car, Moonpools & Caterpillars rhymed it with \"knew it\"",
+      "answer": "Buick",
+      "is_daily_double": false,
+      "id": "163266"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "CAR TUNES",
+      "point_value": 1000,
+      "question": "Prince drove this title car into the Top 10 in 1983",
+      "answer": "\"Little Red Corvette\"",
+      "is_daily_double": false,
+      "id": "163267"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "HISTORIC AMERICANS",
+      "point_value": 200,
+      "question": "George Ross, a signer of the Declaration of Independence, was this seamstress' uncle by marriage",
+      "answer": "Betsy Ross",
+      "is_daily_double": false,
+      "id": "163268"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "HISTORIC AMERICANS",
+      "point_value": 400,
+      "question": "In 1836 he set up shop in Paterson, New Jersey to manufacture his famous revolvers",
+      "answer": "Samuel Colt",
+      "is_daily_double": false,
+      "id": "163269"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "HISTORIC AMERICANS",
+      "point_value": 600,
+      "question": "Confederate VP Alexander Stephens was later elected governor of this state—how peachy",
+      "answer": "Georgia",
+      "is_daily_double": false,
+      "id": "163270"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "HISTORIC AMERICANS",
+      "point_value": 800,
+      "question": "With Elizabeth Cady Stanton, she founded the Women's Loyal National League, to fight for slaves' freedom",
+      "answer": "Susan B. Anthony",
+      "is_daily_double": false,
+      "id": "163271"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "HISTORIC AMERICANS",
+      "point_value": 1000,
+      "question": "As chief justice from 1864 to 1873, he presided at the impeachment trial of Andrew Johnson",
+      "answer": "Salmon P. Chase",
+      "is_daily_double": false,
+      "id": "163272"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "LET'S FALL IN LOVE",
+      "point_value": 200,
+      "question": "A canine term for youthful infatuation; it's also called \"calf love\"",
+      "answer": "puppy love",
+      "is_daily_double": false,
+      "id": "163273"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "LET'S FALL IN LOVE",
+      "point_value": 400,
+      "question": "French for \"love\", in English it means romance, especially a secret one",
+      "answer": "Amour",
+      "is_daily_double": false,
+      "id": "163274"
+    },
+    {
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "LET'S FALL IN LOVE",
+      "point_value": 600,
+      "question": "It's love of yourself, especially if you're a handsome youth or a pretty white flower",
+      "answer": "narcissism",
       "is_daily_double": true,
-      "id": "275127"
+      "id": "163275"
     },
     {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "BIBLICAL PEOPLE",
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "LET'S FALL IN LOVE",
       "point_value": 1000,
-      "question": "He's the elder of Isaac & Rebekah's twin sons",
-      "answer": "Esau",
+      "question": "Sanskrit for the pursuit of love, it's the subject of a famous sutra, or collection",
+      "answer": "kama",
       "is_daily_double": false,
-      "id": "275128"
+      "id": "163276"
     },
     {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "HULL OF FAME",
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "WEIGHTS & MEASURES",
       "point_value": 200,
-      "question": "This ship, Columbus' favorite, made at least 5 trips to the New World",
-      "answer": "the Niña",
+      "question": "Letter used with a number to denote \"power\", as in the magnification power of binoculars",
+      "answer": "X",
       "is_daily_double": false,
-      "id": "275129"
+      "id": "163277"
     },
     {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "HULL OF FAME",
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "WEIGHTS & MEASURES",
       "point_value": 400,
-      "question": "The captain of this spectral ship is condemned to sail the seas until Judgment Day unless he is saved by love",
-      "answer": "the Flying Dutchman",
+      "question": "When at sea, use this measurement equal to about 6,076 feet",
+      "answer": "a nautical mile",
       "is_daily_double": false,
-      "id": "275130"
+      "id": "163278"
     },
     {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "HULL OF FAME",
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "WEIGHTS & MEASURES",
       "point_value": 600,
-      "question": "This boat famously sank in Lake Superior in 1975",
-      "answer": "the Edmund Fitzgerald",
+      "question": "It's true, abrasives like sandpaper are graded & sold by the size of this on them",
+      "answer": "grit",
       "is_daily_double": false,
-      "id": "275131"
+      "id": "163279"
     },
     {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "HULL OF FAME",
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "WEIGHTS & MEASURES",
       "point_value": 800,
-      "question": "Later fired as governor of New Zealand for defending Maori claims, Robert FitzRoy captained this survey ship",
-      "answer": "the HMS Beagle",
+      "question": "There are 100 ares in one of these metric units of land area measure",
+      "answer": "a hectare",
       "is_daily_double": false,
-      "id": "275132"
+      "id": "163280"
     },
     {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "HULL OF FAME",
+      "air_date": "1998-01-14",
+      "round": "2",
+      "category": "WEIGHTS & MEASURES",
       "point_value": 1000,
-      "question": "In a famous naval battle of 1779, it was the ship that defeated the Serapis",
-      "answer": "the Bonhomme Richard",
+      "question": "Norman, engineer & Norwegian are names for sizes of these, a ton of which may hit you at any time",
+      "answer": "bricks",
       "is_daily_double": false,
-      "id": "275133"
+      "id": "163281"
     },
     {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "NO. 1 U.S. BABY NAMES",
-      "point_value": 200,
-      "question": "Hail this name, full of grace; from the 1880s all the way through the 1950s, it was the No. 1 baby girl name",
-      "answer": "Mary",
-      "is_daily_double": false,
-      "id": "275134"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "NO. 1 U.S. BABY NAMES",
-      "point_value": 400,
-      "question": "About 4 1/4% of 1960s baby boys were named this, whether they rowed the boat ashore or not",
-      "answer": "Michael",
-      "is_daily_double": false,
-      "id": "275135"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "NO. 1 U.S. BABY NAMES",
-      "point_value": 600,
-      "question": "Perhaps a \"Giant\" acting icon helped this be the most popular name for 1950s boys",
-      "answer": "James",
-      "is_daily_double": false,
-      "id": "275136"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "NO. 1 U.S. BABY NAMES",
-      "point_value": 800,
-      "question": "So far, the fave name for girls in the 2000s is this; we're sure an etiquette expert would approve",
-      "answer": "Emily",
-      "is_daily_double": false,
-      "id": "275137"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "NO. 1 U.S. BABY NAMES",
-      "point_value": 1000,
-      "question": "This name of Shylock's daughter was the favorite name for 1980s & '90s girls",
-      "answer": "Jessica",
-      "is_daily_double": false,
-      "id": "275138"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "SEANs, SHAWNs & SHAUNs",
-      "point_value": 200,
-      "question": "In several \"SNL\" parodies, Will Ferrell played me & Darrell Hammond impersonated him",
-      "answer": "Sean Connery",
-      "is_daily_double": false,
-      "id": "275139"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "SEANs, SHAWNs & SHAUNs",
-      "point_value": 400,
-      "question": "This \"Dead Man Walking\" actor also starred in \"Shanghai Surprise\"",
-      "answer": "Sean Penn",
-      "is_daily_double": false,
-      "id": "275140"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "SEANs, SHAWNs & SHAUNs",
-      "point_value": 600,
-      "question": "Brother to Keenan Ivory & Damon",
-      "answer": "Shawn Wayans",
-      "is_daily_double": false,
-      "id": "275141"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "SEANs, SHAWNs & SHAUNs",
-      "point_value": 800,
-      "question": "He's Fox News Channel's conservative counterpart to the more liberal Alan Colmes",
-      "answer": "Sean Hannity",
-      "is_daily_double": false,
-      "id": "275142"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "1",
-      "category": "SEANs, SHAWNs & SHAUNs",
-      "point_value": 1000,
-      "question": "He played a teen detective on TV's \"The Hardy Boys\"",
-      "answer": "Shaun Cassidy",
-      "is_daily_double": false,
-      "id": "275143"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "3 Es FOR ME!",
-      "point_value": 400,
-      "question": "In grave terms, it's from the Greek for \"sleeping place\"",
-      "answer": "cemetery",
-      "is_daily_double": false,
-      "id": "275149"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "3 Es FOR ME!",
-      "point_value": 800,
-      "question": "To withdraw formally from an alliance, as from a political union",
-      "answer": "secede",
-      "is_daily_double": false,
-      "id": "275150"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "3 Es FOR ME!",
-      "point_value": 1200,
-      "question": "A genealogical table or record of a purebred animal",
-      "answer": "pedigree",
-      "is_daily_double": false,
-      "id": "275151"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "3 Es FOR ME!",
-      "point_value": 1600,
-      "question": "A title of honor, applied to cardinals (more for Rome than Arizona)",
-      "answer": "eminence",
-      "is_daily_double": false,
-      "id": "275152"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "3 Es FOR ME!",
-      "point_value": 2000,
-      "question": "French term for the neckline of a dress cut low in the front & often across the shoulders",
-      "answer": "decolletage (or décolleté)",
-      "is_daily_double": false,
-      "id": "275153"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "LITERARY CHARACTERS",
-      "point_value": 400,
-      "question": "Brom Bones freaks this man out by telling him the tale of the headless horseman",
-      "answer": "Ichabod Crane",
-      "is_daily_double": false,
-      "id": "275154"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "LITERARY CHARACTERS",
-      "point_value": 800,
-      "question": "The characters of \"Murder in the Cathedral\" include Becket, 3 priests &—uh-oh—4 of these noble soldiers",
-      "answer": "knights",
-      "is_daily_double": false,
-      "id": "275155"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "LITERARY CHARACTERS",
-      "point_value": 1200,
-      "question": "In this Dostoyevsky novel, it was Raskolnikov, in the apartment, with a hatchet",
-      "answer": "Crime and Punishment",
-      "is_daily_double": false,
-      "id": "275156"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "LITERARY CHARACTERS",
-      "point_value": 1600,
-      "question": "Updike described his \"white face, the pallor of his blue irises, and a nervous flutter under his brief nose\"",
-      "answer": "Rabbit",
-      "is_daily_double": false,
-      "id": "275157"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "LITERARY CHARACTERS",
-      "point_value": 2000,
-      "question": "Edwin Reardon is a struggling writer in George Gissing's \"New\" this \"Street\" associated with hack writing",
-      "answer": "Grub",
-      "is_daily_double": false,
-      "id": "275158"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "THE U.S. CENSUS",
-      "point_value": 400,
-      "question": "This city has the largest Hispanic, Asian & African-American populations in the U.S.",
-      "answer": "New York",
-      "is_daily_double": false,
-      "id": "275159"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "THE U.S. CENSUS",
-      "point_value": 800,
-      "question": "The first U.S. census counted 3.9 million people, which is also the current population of this U.S. commonwealth",
-      "answer": "Puerto Rico",
-      "is_daily_double": false,
-      "id": "275160"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "THE U.S. CENSUS",
-      "point_value": 1200,
-      "question": "The Census Bureau became an agency of this Cabinet department in 1913 after it was split with labor",
-      "answer": "the Department of Commerce",
-      "is_daily_double": false,
-      "id": "275161"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "THE U.S. CENSUS",
-      "point_value": 1600,
-      "question": "Of the 1 million immigrants admitted to the U.S. in 2002, only 422 settled in this \"Treasure State\"",
-      "answer": "Montana",
-      "is_daily_double": false,
-      "id": "275162"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "THE U.S. CENSUS",
-      "point_value": 2000,
-      "question": "For 19 years in a row, it has had the highest- percentage population increase of any state",
-      "answer": "Nevada",
-      "is_daily_double": true,
-      "id": "275163"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "VICE PRESIDENTIAL MONOGRAMS",
-      "point_value": 400,
-      "question": "HHH",
-      "answer": "Hubert Humphrey",
-      "is_daily_double": false,
-      "id": "275164"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "VICE PRESIDENTIAL MONOGRAMS",
-      "point_value": 800,
-      "question": "AAG",
-      "answer": "Albert Gore",
-      "is_daily_double": false,
-      "id": "275165"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "VICE PRESIDENTIAL MONOGRAMS",
-      "point_value": 1200,
-      "question": "JDQ",
-      "answer": "Quayle",
-      "is_daily_double": false,
-      "id": "275166"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "VICE PRESIDENTIAL MONOGRAMS",
-      "point_value": 1600,
-      "question": "STA",
-      "answer": "Spiro Agnew",
-      "is_daily_double": false,
-      "id": "275167"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "VICE PRESIDENTIAL MONOGRAMS",
-      "point_value": 2000,
-      "question": "WFM",
-      "answer": "Walter F. Mondale",
-      "is_daily_double": false,
-      "id": "275168"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "WE LOVE BROADWAY",
-      "point_value": 400,
-      "question": "It was tempting to go shoeless to the 2006 revival of this Neil Simon comedy about newlyweds",
-      "answer": "Barefoot in the Park",
-      "is_daily_double": false,
-      "id": "275169"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "WE LOVE BROADWAY",
-      "point_value": 800,
-      "question": "(Jimmy of the Clue Crew is upstaged by a chandelier in the Majestic Theatre in New York.) A real accident at the Paris Opera House in 1896 inspired the famous falling chandelier in this musical",
-      "answer": "Phantom of the Opera",
-      "is_daily_double": false,
-      "id": "275170"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "WE LOVE BROADWAY",
-      "point_value": 1200,
-      "question": "There are gory goings-on in \"The Lieutenant of Inishmore\", a black comedy set in this country's Aran Islands",
-      "answer": "Ireland",
-      "is_daily_double": false,
-      "id": "275171"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "WE LOVE BROADWAY",
-      "point_value": 1600,
-      "question": "Love means never having to say you're sorry you saw this movie actress make her stage debut in \"Festen\" in 2006",
-      "answer": "Ali MacGraw",
-      "is_daily_double": false,
-      "id": "275172"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "WE LOVE BROADWAY",
-      "point_value": 2000,
-      "question": "Hey there! Harry Connick, Jr. donned sleepwear for the 2006 revival of this hit musical",
-      "answer": "The Pajama Game",
-      "is_daily_double": false,
-      "id": "275173"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "ZOOLOGY",
-      "point_value": 400,
-      "question": "Marine biologists call this gelatinous invertebrate of class Scyphozoa & Hydrozoa a medusa",
-      "answer": "a jellyfish",
-      "is_daily_double": false,
-      "id": "275174"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "ZOOLOGY",
-      "point_value": 800,
-      "question": "The African rock species of this is the continent's longest snake, reaching more than 25 feet in length",
-      "answer": "a python",
-      "is_daily_double": false,
-      "id": "275175"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "ZOOLOGY",
-      "point_value": 1200,
-      "question": "3 flightless birds are native to the South Pacific: the kiwi, the cassowary & this one in Ausralia",
-      "answer": "the emu",
-      "is_daily_double": false,
-      "id": "275176"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "ZOOLOGY",
-      "point_value": 1600,
-      "question": "The greater long-nosed species of this is found only in the rain forest & usually has 7 or 8 bands, not 9",
-      "answer": "armadillo",
-      "is_daily_double": true,
-      "id": "275177"
-    },
-    {
-      "air_date": "2006-07-03",
-      "round": "2",
-      "category": "ZOOLOGY",
-      "point_value": 2000,
-      "question": "This hairy \"ursine\" caterpillar grows into the Isabella tiger moth",
-      "answer": "the wooly bear",
-      "is_daily_double": false,
-      "id": "275178"
-    },
-    {
-      "air_date": "2006-07-03",
+      "air_date": "1998-01-14",
       "round": "3",
-      "category": "OSCAR-WINNING SINGERS",
+      "category": "WORLD LEADERS",
       "point_value": 0,
-      "question": "2 of the 4 people who've had a Billboard No. 1 pop album & also won a regular acting Oscar",
-      "answer": "(2 of) Bing Crosby, Frank Sinatra, Barbra Streisand, & Jamie Foxx",
+      "question": "Current European head of state whose last name means \"cabbage\"",
+      "answer": "Helmut Kohl (of Germany)",
       "is_daily_double": false,
-      "id": "275179"
+      "id": "163287"
     }
   ]
 }
