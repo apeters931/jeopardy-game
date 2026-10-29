@@ -1,596 +1,616 @@
 {
-  "id": "aea84be2cb2c4c12",
-  "air_date": "1990-10-15",
+  "id": "3ed8d4fde1a0e299",
+  "air_date": "2013-03-08",
   "questions": [
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "1",
-      "category": "BEARDS",
-      "point_value": 100,
-      "question": "Some depictions of Uncle Sam show him with this small chin beard, named for an animal who also has one",
-      "answer": "a goatee",
-      "is_daily_double": false,
-      "id": "67793"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "BEARDS",
+      "category": "OUR STATE FAIR",
       "point_value": 200,
-      "question": "Ancient kings & queens of this country wore false beards as a symbol of royalty",
-      "answer": "Egypt",
+      "question": "Near Syracuse in late August-early September",
+      "answer": "New York",
       "is_daily_double": false,
-      "id": "67794"
+      "id": "364343"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "1",
-      "category": "BEARDS",
-      "point_value": 300,
-      "question": "He was the first U.S. president to wear one while in office",
-      "answer": "Abraham Lincoln",
-      "is_daily_double": false,
-      "id": "67795"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "BEARDS",
+      "category": "OUR STATE FAIR",
       "point_value": 400,
-      "question": "Coleridge's old seaman with a long grey beard and glittering eye",
-      "answer": "the Ancient Mariner",
+      "question": "In Pueblo in late August- early September",
+      "answer": "Colorado",
       "is_daily_double": false,
-      "id": "67796"
+      "id": "364344"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "1",
-      "category": "BEARDS",
-      "point_value": 500,
-      "question": "The pointed beard named for the Flemish painter whose subjects wore them",
-      "answer": "Van Dyke",
+      "category": "OUR STATE FAIR",
+      "point_value": 600,
+      "question": "At Macon in late April- early May",
+      "answer": "Georgia",
       "is_daily_double": false,
-      "id": "67797"
+      "id": "364345"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "1",
-      "category": "BIBLICAL QUOTES",
-      "point_value": 100,
-      "question": "In Exodus, it follows \"Thou shalt give life for life, eye for eye\"",
-      "answer": "tooth for tooth",
+      "category": "OUR STATE FAIR",
+      "point_value": 800,
+      "question": "At Great Falls in late July- early August",
+      "answer": "Montana",
       "is_daily_double": false,
-      "id": "67798"
+      "id": "364346"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "1",
-      "category": "BIBLICAL QUOTES",
+      "category": "OUR STATE FAIR",
+      "point_value": 1000,
+      "question": "At Minot in late July",
+      "answer": "North Dakota",
+      "is_daily_double": false,
+      "id": "364347"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "PINS & NEEDLES",
       "point_value": 200,
-      "question": "According to John 8:32, \"ye shall know the truth, and the truth shall\" do this",
-      "answer": "set you free (or make you free)",
+      "question": "Edison's first one of these had 2 needles, one for recording & one for playback",
+      "answer": "a phonograph",
       "is_daily_double": false,
-      "id": "67799"
+      "id": "364348"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "1",
-      "category": "BIBLICAL QUOTES",
-      "point_value": 300,
-      "question": "\"And Saul said to\" him, \"thou art not able to go against this Philistine, for thou art but a youth\"",
-      "answer": "David",
-      "is_daily_double": false,
-      "id": "67800"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "BIBLICAL QUOTES",
+      "category": "PINS & NEEDLES",
       "point_value": 400,
-      "question": "Believing Joseph to be dead, he said, \"I will go down into the grave unto my son, mourning\"",
-      "answer": "Jacob",
+      "question": "To make a simple one of these, magnetize a needle, run it through a cork & place it in a bowl of water",
+      "answer": "a compass",
       "is_daily_double": true,
-      "id": "67801"
+      "id": "364349"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "1",
-      "category": "BIBLICAL QUOTES",
-      "point_value": 500,
-      "question": "Gathering his first disciples, Peter & Andrew, Jesus said, \"Follow me, and I shall make you\" these",
-      "answer": "fishers of men",
-      "is_daily_double": false,
-      "id": "67802"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "FIELD HOCKEY",
-      "point_value": 100,
-      "question": "Normally only this player who guards the cage can kick the ball or stop it with his body",
-      "answer": "the goalie",
-      "is_daily_double": false,
-      "id": "67803"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "FIELD HOCKEY",
-      "point_value": 200,
-      "question": "Field hockey is the national sport of this country & its neighbor Pakistan",
-      "answer": "India",
-      "is_daily_double": false,
-      "id": "67804"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "FIELD HOCKEY",
-      "point_value": 300,
-      "question": "Hockey comes from hoquet, French for this shepherd's staff that looks like a hockey stick",
-      "answer": "a shepherd's crook",
-      "is_daily_double": false,
-      "id": "67805"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "FIELD HOCKEY",
-      "point_value": 400,
-      "question": "Maximum length of a field hockey field, with no end zones either",
-      "answer": "100 yards",
-      "is_daily_double": false,
-      "id": "67806"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "FIELD HOCKEY",
-      "point_value": 500,
-      "question": "2 positions played in an offensive backfield in football or a defensive backfield in field hockey",
-      "answer": "fullback & halfback",
-      "is_daily_double": false,
-      "id": "67807"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "LIGHT",
-      "point_value": 100,
-      "question": "Another name for a nimbus, the luminous ring of light above the head of a saint",
-      "answer": "a halo",
-      "is_daily_double": false,
-      "id": "67808"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "LIGHT",
-      "point_value": 200,
-      "question": "Source of the first light mentioned in \"The Star-Spangled Banner\"",
-      "answer": "the dawn's early light",
-      "is_daily_double": false,
-      "id": "67809"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "LIGHT",
-      "point_value": 300,
-      "question": "It's New Latin for \"light of the North\"",
-      "answer": "aurora borealis",
-      "is_daily_double": false,
-      "id": "67810"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "LIGHT",
-      "point_value": 400,
-      "question": "The room at the top of a lighthouse, or the light an old conductor waved to signal the engineer",
-      "answer": "lantern",
-      "is_daily_double": false,
-      "id": "67811"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "LIGHT",
-      "point_value": 500,
-      "question": "In films of the 1930s & '40s set in the theater, it precedes \"Parade\", \"Glamour\" & \"Serenade\"",
-      "answer": "Footlight",
-      "is_daily_double": false,
-      "id": "67812"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "WEDNESDAY",
-      "point_value": 100,
-      "question": "Lent begins on this day",
-      "answer": "Ash Wednesday",
-      "is_daily_double": false,
-      "id": "67813"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "WEDNESDAY",
-      "point_value": 200,
-      "question": "Wednesday was named for this chief Teutonic god",
-      "answer": "Odin (or Woden)",
-      "is_daily_double": false,
-      "id": "67814"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "WEDNESDAY",
-      "point_value": 300,
-      "question": "Jane Fonda starred in this 1966 farce about an executive who uses his lover's apartment as a tax deduction",
-      "answer": "Any Wednesday",
-      "is_daily_double": false,
-      "id": "67815"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "WEDNESDAY",
-      "point_value": 400,
-      "question": "It's what Solomon Grundy did on Wednesday",
-      "answer": "(got) married",
-      "is_daily_double": false,
-      "id": "67816"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "WEDNESDAY",
-      "point_value": 500,
-      "question": "The original version of \"Sounds of Silence\" appeared on this Simon & Garfunkel album",
-      "answer": "Wednesday Morning, 3 A.M.",
-      "is_daily_double": false,
-      "id": "67817"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "WORLD GEOGRAPHY",
-      "point_value": 100,
-      "question": "In the Sahara, these include the Siwa & the Al Kufra & they're not mirages",
-      "answer": "oases",
-      "is_daily_double": false,
-      "id": "67818"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "WORLD GEOGRAPHY",
-      "point_value": 200,
-      "question": "Zugspitze, this country's highest peak, lies in the Bavarian Alps",
-      "answer": "Germany",
-      "is_daily_double": false,
-      "id": "67819"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "WORLD GEOGRAPHY",
-      "point_value": 300,
-      "question": "The 2 large urban areas in this British dependency are Victoria & Kowloon",
-      "answer": "Hong Kong",
-      "is_daily_double": false,
-      "id": "67820"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "WORLD GEOGRAPHY",
-      "point_value": 400,
-      "question": "Only 1 mile off the coast of Turkey, the island of Samos belongs to this country",
-      "answer": "Greece",
-      "is_daily_double": false,
-      "id": "67821"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "1",
-      "category": "WORLD GEOGRAPHY",
-      "point_value": 500,
-      "question": "The occupied West Bank is on the west bank of this river",
-      "answer": "Jordan",
-      "is_daily_double": false,
-      "id": "67822"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "2",
-      "category": "AFRICA",
-      "point_value": 200,
-      "question": "Typical features in northern cities include open-air bazaars & these Islamic houses of worship",
-      "answer": "a mosque",
-      "is_daily_double": false,
-      "id": "67823"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "2",
-      "category": "AFRICA",
-      "point_value": 400,
-      "question": "In 1976 he declared himself Uganda's President for Life; 3 years later he fled for his life",
-      "answer": "Idi Amin",
-      "is_daily_double": false,
-      "id": "67824"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "2",
-      "category": "AFRICA",
+      "category": "PINS & NEEDLES",
       "point_value": 600,
-      "question": "Since 1985 famine victims have received at least $50 million in aid from the proceeds of this pop record",
-      "answer": "\"We Are The World\"",
+      "question": "To settle a $15 debt in 1849, Walter Hunt invented this, now a symbol of punk rockers",
+      "answer": "a safety pin",
       "is_daily_double": false,
-      "id": "67825"
+      "id": "364350"
     },
     {
-      "air_date": "1990-10-15",
-      "round": "2",
-      "category": "AFRICA",
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "PINS & NEEDLES",
       "point_value": 800,
-      "question": "About 1/4 the size of the U.S., this country south of Egypt is Africa's largest",
-      "answer": "the Sudan",
+      "question": "The NASA lapel pin for his February 1962 Mercury flight depicts his capsule making 3 orbits of Earth",
+      "answer": "John Glenn",
       "is_daily_double": false,
-      "id": "67826"
+      "id": "364351"
     },
     {
-      "air_date": "1990-10-15",
-      "round": "2",
-      "category": "AFRICA",
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "PINS & NEEDLES",
       "point_value": 1000,
-      "question": "This hot, dusty wind blows out of Africa into southern Europe",
-      "answer": "the sirocco",
+      "question": "Gold & silver needles used in this medical practice were found in the tomb of Liu Sheng, who was buried in 113 B.C.",
+      "answer": "acupuncture",
       "is_daily_double": false,
-      "id": "67827"
+      "id": "364352"
     },
     {
-      "air_date": "1990-10-15",
-      "round": "2",
-      "category": "BURT LANCASTER",
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "PRO SPORTS TEAMS",
       "point_value": 200,
-      "question": "\"Tough Guys\" was Burt's 7th film with this dimpled tough guy",
-      "answer": "Kirk Douglas",
+      "question": "Appropriate name of the Major League baseball team whose home field is Miller Park",
+      "answer": "the Brewers",
       "is_daily_double": false,
-      "id": "67828"
+      "id": "364353"
     },
     {
-      "air_date": "1990-10-15",
-      "round": "2",
-      "category": "BURT LANCASTER",
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "PRO SPORTS TEAMS",
       "point_value": 400,
-      "question": "In a 1955 film based on a Tennessee Williams play, Burt sported this title tattoo on his chest",
-      "answer": "a rose tattoo",
+      "question": "This English Premier League team whose name means a stockpile of weapons has a cannon in its logo",
+      "answer": "Arsenal",
       "is_daily_double": false,
-      "id": "67829"
+      "id": "364354"
     },
     {
-      "air_date": "1990-10-15",
-      "round": "2",
-      "category": "BURT LANCASTER",
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "PRO SPORTS TEAMS",
       "point_value": 600,
-      "question": "In a memorable scene in this 1953 film, Burt sizzled on the sand with Deborah Kerr",
-      "answer": "From Here to Eternity",
+      "question": "The NBA's Sonics left Seattle & moved to this \"city\"",
+      "answer": "Oklahoma City",
       "is_daily_double": false,
-      "id": "67830"
+      "id": "364355"
     },
     {
-      "air_date": "1990-10-15",
-      "round": "2",
-      "category": "BUSINESS BIGGIES",
-      "point_value": 200,
-      "question": "Frank Robinson, a bookkeeper, named this soft drink and created the script for its logo in 1886",
-      "answer": "Coca-Cola",
-      "is_daily_double": false,
-      "id": "67831"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "2",
-      "category": "BUSINESS BIGGIES",
-      "point_value": 400,
-      "question": "Famous for \"Super Mario Bros.\", this company donated $3 million to M.I.T. to study how kids learn when they play",
-      "answer": "Nintendo",
-      "is_daily_double": false,
-      "id": "67832"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "2",
-      "category": "BUSINESS BIGGIES",
-      "point_value": 600,
-      "question": "In the 1930s, this company now headquartered in Armonk, N.Y., produced its first electric typewriter",
-      "answer": "IBM",
-      "is_daily_double": false,
-      "id": "67833"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "2",
-      "category": "BUSINESS BIGGIES",
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "PRO SPORTS TEAMS",
       "point_value": 800,
-      "question": "In 1978 this company became the 1st to exceed $100 billion in assets",
-      "answer": "AT&T",
+      "question": "We don't know if they like to \"Dance, Dance\", but Major League Soccer's team in New England is called this",
+      "answer": "the Revolution",
+      "is_daily_double": false,
+      "id": "364356"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "PRO SPORTS TEAMS",
+      "point_value": 1000,
+      "question": "After 15 years away, in 2011 NHL hockey came back to this Canadian city whose name begins with victory",
+      "answer": "Winnipeg",
+      "is_daily_double": false,
+      "id": "364357"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "THE EXPLORER",
+      "point_value": 200,
+      "question": "Brr! This Norwegian explorer's bust sits outside on Spitsbergen Island, from which he flew over the North Pole",
+      "answer": "Roald Amundsen",
+      "is_daily_double": false,
+      "id": "364358"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "THE EXPLORER",
+      "point_value": 400,
+      "question": "This Hernando's hideaway in the winter of 1539-40 was a village in northern Florida",
+      "answer": "De Soto",
+      "is_daily_double": false,
+      "id": "364359"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "THE EXPLORER",
+      "point_value": 600,
+      "question": "(Kelly gives the clue from the Galapagos Islands) In 1952, soon after sailing from South America to Polynesia, this Norwegian found pottery shards on the Galapagos—signs of at least temporary pre-Spanish habitation here",
+      "answer": "Thor Heyerdahl",
+      "is_daily_double": false,
+      "id": "364360"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "THE EXPLORER",
+      "point_value": 800,
+      "question": "Tim Cope's 6,000-mile journey from Mongolia to Hungary led to the documentary \"The Trail of\" this fierce guy",
+      "answer": "Genghis Khan",
+      "is_daily_double": false,
+      "id": "364361"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "THE EXPLORER",
+      "point_value": 1000,
+      "question": "(Kely delivers the clue by a map) An historic journey around 1000 A.D. along the Labrador Coast to a place called Vinland may have been undertaken because of a tale this so-called lucky man had heard while in Greenland",
+      "answer": "Leif Ericson",
+      "is_daily_double": false,
+      "id": "364362"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "TORAH",
+      "point_value": 200,
+      "question": "\"Torah\" literally means \"instruction\" or this, something a solicitor practices",
+      "answer": "the law",
+      "is_daily_double": false,
+      "id": "364363"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "TORAH",
+      "point_value": 400,
+      "question": "\"Torah\" is another word for the Pentateuch, the Old Testament's first this many books",
+      "answer": "five",
+      "is_daily_double": false,
+      "id": "364364"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "TORAH",
+      "point_value": 600,
+      "question": "The Torah was received by Moses when he was at this lofty place",
+      "answer": "Mount Sinai",
+      "is_daily_double": false,
+      "id": "364365"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "TORAH",
+      "point_value": 800,
+      "question": "In synagogues the Torah resides in a compartment known by this 3-letter term",
+      "answer": "an ark",
+      "is_daily_double": false,
+      "id": "364366"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "TORAH",
+      "point_value": 1000,
+      "question": "To avoid touching the words of the Torah, follow along with a yad, shaped like one of these body parts",
+      "answer": "a finger (or hand)",
+      "is_daily_double": false,
+      "id": "364367"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "WORDS WITH A DOUBLE L",
+      "point_value": 200,
+      "question": "A one followed by 9 zeros",
+      "answer": "a billion",
+      "is_daily_double": false,
+      "id": "364368"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "WORDS WITH A DOUBLE L",
+      "point_value": 400,
+      "question": "A drum as well as a bugle can sound this early morning wake-up signal",
+      "answer": "\"Reveille\"",
+      "is_daily_double": false,
+      "id": "364369"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "WORDS WITH A DOUBLE L",
+      "point_value": 600,
+      "question": "Extending in the same direction, equidistant at all points & never converging or diverging",
+      "answer": "parallel",
+      "is_daily_double": false,
+      "id": "364370"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "WORDS WITH A DOUBLE L",
+      "point_value": 800,
+      "question": "A geographical feature, such as the one \"of Ten Thousand Smokes\" in a volcanic area of Alaska",
+      "answer": "valley",
+      "is_daily_double": false,
+      "id": "364371"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "1",
+      "category": "WORDS WITH A DOUBLE L",
+      "point_value": 1000,
+      "question": "\"God is love. Love is blind. Bob Smith is blind. Therefore Bob Smith is God\" is a faulty this philosophic term",
+      "answer": "syllogism",
+      "is_daily_double": false,
+      "id": "364372"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "BIOLOGY",
+      "point_value": 400,
+      "question": "It should take just a wink to tell us a nictitating membrane is a third one of these found in birds",
+      "answer": "an eyelid",
+      "is_daily_double": false,
+      "id": "364373"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "BIOLOGY",
+      "point_value": 800,
+      "question": "In adult females, this primary male hormone contributes to the formation of estrogen in the ovaries",
+      "answer": "testosterone",
+      "is_daily_double": false,
+      "id": "364374"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "BIOLOGY",
+      "point_value": 1200,
+      "question": "In the human body the process of osmoregulatrion is primarilly carried out by these organs",
+      "answer": "the kidneys",
       "is_daily_double": true,
-      "id": "67834"
+      "id": "364375"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "2",
-      "category": "BUSINESS BIGGIES",
-      "point_value": 1000,
-      "question": "Saatchi & Saatchi is one of the world's largest firms in this business",
-      "answer": "advertising",
+      "category": "BIOLOGY",
+      "point_value": 1600,
+      "question": "\"Dorsal\" means relating to the back, while this means relating to the underside",
+      "answer": "ventral or abdominal",
       "is_daily_double": false,
-      "id": "67835"
+      "id": "364376"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "2",
-      "category": "GHOST STORIES",
-      "point_value": 200,
-      "question": "\"The Story Of The Goblins Who Stole A Sexton\" was the first of many Christmas ghost stories by this author",
-      "answer": "Charles Dickens",
+      "category": "BIOLOGY",
+      "point_value": 2000,
+      "question": "These microscopic hairlike projections on protozoans are used for movement",
+      "answer": "cilia",
       "is_daily_double": false,
-      "id": "67836"
+      "id": "364377"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "2",
-      "category": "GHOST STORIES",
+      "category": "CARIBBEAN CAPITALS",
       "point_value": 400,
-      "question": "Lady Windermere's fans know this playwright also created \"The Canterville Ghost\"",
-      "answer": "(Oscar) Wilde",
+      "question": "Spice baskets are popular gift items you can purchase in St. George's, capital of this island invaded by the U.S. in 1983",
+      "answer": "Grenada",
       "is_daily_double": false,
-      "id": "67837"
+      "id": "364378"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "2",
-      "category": "GHOST STORIES",
-      "point_value": 600,
-      "question": "This creator of the Headless Horseman also wrote about the beautiful ghost of a guillotine victim",
-      "answer": "Washington Irving",
-      "is_daily_double": false,
-      "id": "67838"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "2",
-      "category": "GHOST STORIES",
+      "category": "CARIBBEAN CAPITALS",
       "point_value": 800,
-      "question": "In 1959 Shirley Jackson wrote about \"The Haunting of\" this \"House\"",
-      "answer": "Hill House",
+      "question": "(I'm Anderson Cooper.) The morning after a catastrophic earthquake rocked Haiti, I, as the first American journalist on the ground, broadcast the devastation of this capital",
+      "answer": "Port Au Prince",
       "is_daily_double": false,
-      "id": "67839"
+      "id": "364379"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "2",
-      "category": "GHOST STORIES",
-      "point_value": 1000,
-      "question": "\"The Phantom Hag\" is attributed to this 19th-century Frenchman who wrote hundreds of short stories",
-      "answer": "Guy de Maupassant",
+      "category": "CARIBBEAN CAPITALS",
+      "point_value": 1200,
+      "question": "H.M. [Her Majesty's] Prison, which dates to the 1840s, is the oldest building in Road Town, the capital of this British island group",
+      "answer": "the British Virgin Islands",
       "is_daily_double": false,
-      "id": "67840"
+      "id": "364380"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "2",
-      "category": "THE GREAT LAKES",
-      "point_value": 200,
-      "question": "The one that shares its name with a Canadian province",
-      "answer": "Lake Ontario",
+      "category": "CARIBBEAN CAPITALS",
+      "point_value": 1600,
+      "question": "This capital of Antigua & Barbuda shares its name with the capital of Newfoundland",
+      "answer": "St. John's",
       "is_daily_double": false,
-      "id": "67841"
+      "id": "364381"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "2",
-      "category": "THE GREAT LAKES",
+      "category": "CARIBBEAN CAPITALS",
+      "point_value": 2000,
+      "question": "Trinidad & Tobago's capital has this name; sounds like Barcelona or someplace",
+      "answer": "Port of Spain",
+      "is_daily_double": false,
+      "id": "364382"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "COMMON BONDS",
       "point_value": 400,
-      "question": "Bordered by the states of New York, Pennsylvania, Ohio, & Michigan, it's the farthest south",
-      "answer": "Erie",
+      "question": "Ontario, Havasu, Baikal",
+      "answer": "lakes",
       "is_daily_double": false,
-      "id": "67842"
+      "id": "364383"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "2",
-      "category": "THE GREAT LAKES",
-      "point_value": 600,
-      "question": "The Straits of Mackinac & St. Mary's River link this lake to the neighboring one",
-      "answer": "Lake Huron",
-      "is_daily_double": false,
-      "id": "67843"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "2",
-      "category": "THE GREAT LAKES",
+      "category": "COMMON BONDS",
       "point_value": 800,
-      "question": "Before man-made additions, all the Great Lakes ultimately drained into this river",
-      "answer": "the St. Lawrence",
+      "question": "Trash, a boyfriend you're sick of, goods or securities sold below costs",
+      "answer": "things you dump",
+      "is_daily_double": false,
+      "id": "364384"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "COMMON BONDS",
+      "point_value": 1200,
+      "question": "Wilkins Micawber, Harold Skimpole, Paul Sweedle-pipe",
+      "answer": "Charles Dickens characters",
+      "is_daily_double": false,
+      "id": "364385"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "COMMON BONDS",
+      "point_value": 1600,
+      "question": "Zanza, koto, helicon",
+      "answer": "musical instruments",
+      "is_daily_double": false,
+      "id": "364386"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "COMMON BONDS",
+      "point_value": 2000,
+      "question": "Radar, sagas, a Toyota",
+      "answer": "palindromes",
+      "is_daily_double": false,
+      "id": "364387"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "KIDDY LIT",
+      "point_value": 400,
+      "question": "She's the title Swiss Miss in an 1881 Johanna Spyri story",
+      "answer": "Heidi",
+      "is_daily_double": false,
+      "id": "364388"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "KIDDY LIT",
+      "point_value": 800,
+      "question": "Chapter 3 of this book begins, \"The Mole had long wanted to make the acquaintance of the Badger\"",
+      "answer": "The Wind in the Willows",
+      "is_daily_double": false,
+      "id": "364389"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "KIDDY LIT",
+      "point_value": 1200,
+      "question": "\"The voyages of\" this M.D. won the 1923 Newbery Medal for Best Children's Book",
+      "answer": "Dr. Dolittle",
+      "is_daily_double": false,
+      "id": "364390"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "KIDDY LIT",
+      "point_value": 1600,
+      "question": "This heroine was named for the rampion, a leafy vegetable her father stole from the Witch's garden",
+      "answer": "Rapunzel",
       "is_daily_double": true,
-      "id": "67844"
+      "id": "364391"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "2",
-      "category": "THE GREAT LAKES",
-      "point_value": 1000,
-      "question": "Superior, Wisconsin & this Minnesota town form a huge inland port on the western terminus of the Great Lakes",
-      "answer": "Duluth",
+      "category": "KIDDY LIT",
+      "point_value": 2000,
+      "question": "This Louis Sachar book begins, \"There is no lake at Camp Green Lake\"",
+      "answer": "Holes",
       "is_daily_double": false,
-      "id": "67845"
+      "id": "364392"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "2",
-      "category": "U.S. HISTORY",
-      "point_value": 200,
-      "question": "In March 1836 Santa Ana captured this fortified mission",
-      "answer": "the Alamo",
-      "is_daily_double": false,
-      "id": "67846"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "2",
-      "category": "U.S. HISTORY",
+      "category": "NORM DE GUERRE",
       "point_value": 400,
-      "question": "The first astronaut to become a Rear Admiral; he was also the first American in space",
-      "answer": "Alan Shepard",
+      "question": "The icing on this invasion was when William was crowned in Westminster Abbey on Christmas Day, 1066",
+      "answer": "the Norman Invasion",
       "is_daily_double": false,
-      "id": "67847"
+      "id": "364393"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "2",
-      "category": "U.S. HISTORY",
-      "point_value": 600,
-      "question": "Arthur Bremer shot 4 people May 15, 1972 including this governor",
-      "answer": "George Wallace",
-      "is_daily_double": false,
-      "id": "67848"
-    },
-    {
-      "air_date": "1990-10-15",
-      "round": "2",
-      "category": "U.S. HISTORY",
+      "category": "NORM DE GUERRE",
       "point_value": 800,
-      "question": "By pressing a button in the White House in 1913, this President blew up Gamboa Dike in Panama",
-      "answer": "Woodrow Wilson",
+      "question": "During WWII his \"Four Freedoms\" posters were reproduced by the Office of War Information",
+      "answer": "Norman Rockwell",
       "is_daily_double": false,
-      "id": "67849"
+      "id": "364394"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
       "round": "2",
-      "category": "U.S. HISTORY",
-      "point_value": 1000,
-      "question": "This noted redistrictor from Massachusetts was James Madison's Vice President",
-      "answer": "Elbridge Gerry",
+      "category": "NORM DE GUERRE",
+      "point_value": 1200,
+      "question": "In 1992 this Gulf War general published an autobiography, \"It Doesn't Take a Hero\"",
+      "answer": "(Norman) Schwarzkopf",
       "is_daily_double": false,
-      "id": "67850"
+      "id": "364395"
     },
     {
-      "air_date": "1990-10-15",
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "NORM DE GUERRE",
+      "point_value": 1600,
+      "question": "His experiences in the Invasion of Luzon became the basis for his novel \"The Naked And The Dead\"",
+      "answer": "Norman Mailer",
+      "is_daily_double": false,
+      "id": "364396"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "NORM DE GUERRE",
+      "point_value": 2000,
+      "question": "TV producer & former B-17 gunner Norman Lear founded \"People For\" this patriotic concept",
+      "answer": "the American Way",
+      "is_daily_double": false,
+      "id": "364397"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "TOUGH TV",
+      "point_value": 400,
+      "question": "The 1979 ABC sitcom \"Delta House\" was a TV clone of this successful comedy film",
+      "answer": "Animal House",
+      "is_daily_double": false,
+      "id": "364398"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "TOUGH TV",
+      "point_value": 800,
+      "question": "This young woman's death in the first episode led to many strange events in the title town on \"Twin Peaks\"",
+      "answer": "Laura Palmer",
+      "is_daily_double": false,
+      "id": "364399"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "TOUGH TV",
+      "point_value": 1200,
+      "question": "Kathy Griffin's Emmy-winning series on Bravo was \"My Life On\" this",
+      "answer": "the \"D\" List",
+      "is_daily_double": false,
+      "id": "364400"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "TOUGH TV",
+      "point_value": 1600,
+      "question": "This ABC late-night talk show got into trouble on its very first telecast when it offered its audience & its guests an open bar",
+      "answer": "Jimmy Kimmel",
+      "is_daily_double": false,
+      "id": "364401"
+    },
+    {
+      "air_date": "2013-03-08",
+      "round": "2",
+      "category": "TOUGH TV",
+      "point_value": 2000,
+      "question": "It was the name of the home-improvement show hosted by Tim Allen on \"Home Improvement\"",
+      "answer": "Tool Time",
+      "is_daily_double": false,
+      "id": "364402"
+    },
+    {
+      "air_date": "2013-03-08",
       "round": "3",
-      "category": "BRITISH AUTHORS",
+      "category": "THE OSCARS",
       "point_value": 0,
-      "question": "He was the first winner of the Nobel Prize for Literature who was born in Asia; he won in 1907",
-      "answer": "Rudyard Kipling",
+      "question": "Brother & sister who were both nominated for 1969 Oscars: he for a screenplay, she for Best Actress; they didn't win",
+      "answer": "Jane Fonda & Peter Fonda",
       "is_daily_double": false,
-      "id": "67851"
+      "id": "364403"
     }
   ]
 }
