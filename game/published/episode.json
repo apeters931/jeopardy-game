@@ -1,616 +1,616 @@
 {
-  "id": "3ed8d4fde1a0e299",
-  "air_date": "2013-03-08",
+  "id": "9a2100c00dd8ae49",
+  "air_date": "2024-02-26",
   "questions": [
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "OUR STATE FAIR",
+      "category": "ALL THINGS DISNEY",
       "point_value": 200,
-      "question": "Near Syracuse in late August-early September",
-      "answer": "New York",
+      "question": "Naturally, he was the first animated character to get a star on the Hollywood Walk of Fame",
+      "answer": "Mickey",
       "is_daily_double": false,
-      "id": "364343"
+      "id": "509728"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "OUR STATE FAIR",
+      "category": "ALL THINGS DISNEY",
       "point_value": 400,
-      "question": "In Pueblo in late August- early September",
-      "answer": "Colorado",
-      "is_daily_double": false,
-      "id": "364344"
-    },
-    {
-      "air_date": "2013-03-08",
-      "round": "1",
-      "category": "OUR STATE FAIR",
-      "point_value": 600,
-      "question": "At Macon in late April- early May",
-      "answer": "Georgia",
-      "is_daily_double": false,
-      "id": "364345"
-    },
-    {
-      "air_date": "2013-03-08",
-      "round": "1",
-      "category": "OUR STATE FAIR",
-      "point_value": 800,
-      "question": "At Great Falls in late July- early August",
-      "answer": "Montana",
-      "is_daily_double": false,
-      "id": "364346"
-    },
-    {
-      "air_date": "2013-03-08",
-      "round": "1",
-      "category": "OUR STATE FAIR",
-      "point_value": 1000,
-      "question": "At Minot in late July",
-      "answer": "North Dakota",
-      "is_daily_double": false,
-      "id": "364347"
-    },
-    {
-      "air_date": "2013-03-08",
-      "round": "1",
-      "category": "PINS & NEEDLES",
-      "point_value": 200,
-      "question": "Edison's first one of these had 2 needles, one for recording & one for playback",
-      "answer": "a phonograph",
-      "is_daily_double": false,
-      "id": "364348"
-    },
-    {
-      "air_date": "2013-03-08",
-      "round": "1",
-      "category": "PINS & NEEDLES",
-      "point_value": 400,
-      "question": "To make a simple one of these, magnetize a needle, run it through a cork & place it in a bowl of water",
-      "answer": "a compass",
+      "question": "At Walt Disney World in 1975, Scott Carpenter, Gordon Cooper & Jim Irwin attended the grand opening of this ride",
+      "answer": "Space Mountain",
       "is_daily_double": true,
-      "id": "364349"
+      "id": "509729"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "PINS & NEEDLES",
+      "category": "ALL THINGS DISNEY",
       "point_value": 600,
-      "question": "To settle a $15 debt in 1849, Walter Hunt invented this, now a symbol of punk rockers",
-      "answer": "a safety pin",
+      "question": "Inspired by \"The Princess and the Frog\", Disneyland has a new eatery featuring southern dishes & named for this character",
+      "answer": "Tiana",
       "is_daily_double": false,
-      "id": "364350"
+      "id": "509730"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "PINS & NEEDLES",
+      "category": "ALL THINGS DISNEY",
       "point_value": 800,
-      "question": "The NASA lapel pin for his February 1962 Mercury flight depicts his capsule making 3 orbits of Earth",
-      "answer": "John Glenn",
+      "question": "This song from \"Three Little Pigs\" became a rallying cry against the Great Depression & the rise of Hitler",
+      "answer": "\"Who's Afraid Of The Big Bad Wolf?\"",
       "is_daily_double": false,
-      "id": "364351"
+      "id": "509731"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "PINS & NEEDLES",
+      "category": "ALL THINGS DISNEY",
       "point_value": 1000,
-      "question": "Gold & silver needles used in this medical practice were found in the tomb of Liu Sheng, who was buried in 113 B.C.",
-      "answer": "acupuncture",
+      "question": "\"A Spoonful Of Sugar\" & \"It's A Small World\" are among the more than 200 songs these siblings wrote for Disney",
+      "answer": "the Shermans",
       "is_daily_double": false,
-      "id": "364352"
+      "id": "509732"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "PRO SPORTS TEAMS",
+      "category": "HISTORY",
       "point_value": 200,
-      "question": "Appropriate name of the Major League baseball team whose home field is Miller Park",
-      "answer": "the Brewers",
+      "question": "Lasting from Aug. 1786 to Feb. 1787, Shays' Rebellion in our young republic was in protest of economic conditions, mainly high these",
+      "answer": "taxes",
       "is_daily_double": false,
-      "id": "364353"
+      "id": "509733"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "PRO SPORTS TEAMS",
+      "category": "HISTORY",
       "point_value": 400,
-      "question": "This English Premier League team whose name means a stockpile of weapons has a cannon in its logo",
-      "answer": "Arsenal",
+      "question": "The litter of broken glass in the streets of Germany gave this name to the pogroms of 1938",
+      "answer": "Kristallnacht",
       "is_daily_double": false,
-      "id": "364354"
+      "id": "509734"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "PRO SPORTS TEAMS",
+      "category": "HISTORY",
       "point_value": 600,
-      "question": "The NBA's Sonics left Seattle & moved to this \"city\"",
-      "answer": "Oklahoma City",
+      "question": "In 1546 the council of this Italian city added Judith, Tobit & other books to the Catholic Bible",
+      "answer": "Trent",
       "is_daily_double": false,
-      "id": "364355"
+      "id": "509735"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "PRO SPORTS TEAMS",
+      "category": "HISTORY",
       "point_value": 800,
-      "question": "We don't know if they like to \"Dance, Dance\", but Major League Soccer's team in New England is called this",
-      "answer": "the Revolution",
+      "question": "This Italian family gave the world 4 popes: Leo X, Clement VII, Pius IV & Leo XI",
+      "answer": "the Medici",
       "is_daily_double": false,
-      "id": "364356"
+      "id": "509736"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "PRO SPORTS TEAMS",
+      "category": "HISTORY",
       "point_value": 1000,
-      "question": "After 15 years away, in 2011 NHL hockey came back to this Canadian city whose name begins with victory",
-      "answer": "Winnipeg",
+      "question": "Japan returned to the control of an emperor in the 19th century in what is called this 5-letter restoration",
+      "answer": "Meiji",
       "is_daily_double": false,
-      "id": "364357"
+      "id": "509737"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "THE EXPLORER",
+      "category": "LET'S AUDIT A COLLEGE COURSE",
       "point_value": 200,
-      "question": "Brr! This Norwegian explorer's bust sits outside on Spitsbergen Island, from which he flew over the North Pole",
-      "answer": "Roald Amundsen",
+      "question": "It was a safe bet that this state U. offered gaming management I & also TCA 471, practicum in hotel education",
+      "answer": "UNLV (University of Nevada, Las Vegas)",
       "is_daily_double": false,
-      "id": "364358"
+      "id": "509738"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "THE EXPLORER",
+      "category": "LET'S AUDIT A COLLEGE COURSE",
       "point_value": 400,
-      "question": "This Hernando's hideaway in the winter of 1539-40 was a village in northern Florida",
-      "answer": "De Soto",
+      "question": "Math 0407, linear algebra & matrix theory, does not sound like an easy A at this HBCU founded by Booker T. Washington",
+      "answer": "Tuskegee",
       "is_daily_double": false,
-      "id": "364359"
+      "id": "509739"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "THE EXPLORER",
+      "category": "LET'S AUDIT A COLLEGE COURSE",
       "point_value": 600,
-      "question": "(Kelly gives the clue from the Galapagos Islands) In 1952, soon after sailing from South America to Polynesia, this Norwegian found pottery shards on the Galapagos—signs of at least temporary pre-Spanish habitation here",
-      "answer": "Thor Heyerdahl",
+      "question": "Taking 340.612.01, epidemiologic basis for tuberculosis control at this U. in Baltimore? Thank you, as that sounds kinda important",
+      "answer": "Johns Hopkins",
       "is_daily_double": false,
-      "id": "364360"
+      "id": "509740"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "THE EXPLORER",
+      "category": "LET'S AUDIT A COLLEGE COURSE",
       "point_value": 800,
-      "question": "Tim Cope's 6,000-mile journey from Mongolia to Hungary led to the documentary \"The Trail of\" this fierce guy",
-      "answer": "Genghis Khan",
+      "question": "Is anyone here a marine biologist?! Here, being this Jesuit university in Spokane, & you could be after learning about it in bio 403",
+      "answer": "Gonzaga",
       "is_daily_double": false,
-      "id": "364361"
+      "id": "509741"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "THE EXPLORER",
+      "category": "LET'S AUDIT A COLLEGE COURSE",
       "point_value": 1000,
-      "question": "(Kely delivers the clue by a map) An historic journey around 1000 A.D. along the Labrador Coast to a place called Vinland may have been undertaken because of a tale this so-called lucky man had heard while in Greenland",
-      "answer": "Leif Ericson",
+      "question": "History 383 at this military college of South Carolina examined patterns of war to 1763",
+      "answer": "the Citadel",
       "is_daily_double": false,
-      "id": "364362"
+      "id": "509742"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "TORAH",
+      "category": "MEMORY",
       "point_value": 200,
-      "question": "\"Torah\" literally means \"instruction\" or this, something a solicitor practices",
-      "answer": "the law",
+      "question": "So you have a good memory for these? So do chimps, who in a 2023 study could recognize ones they hadn't seen for 25 years",
+      "answer": "faces",
       "is_daily_double": false,
-      "id": "364363"
+      "id": "509743"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "TORAH",
+      "category": "MEMORY",
       "point_value": 400,
-      "question": "\"Torah\" is another word for the Pentateuch, the Old Testament's first this many books",
-      "answer": "five",
+      "question": "This actress has an autobiographical memory like only 100 other humans & has no trouble remembering her lines, either",
+      "answer": "Marilu Henner",
       "is_daily_double": false,
-      "id": "364364"
+      "id": "509744"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "TORAH",
+      "category": "MEMORY",
       "point_value": 600,
-      "question": "The Torah was received by Moses when he was at this lofty place",
-      "answer": "Mount Sinai",
+      "question": "A hafiz or hafiza is someone who has memorized this",
+      "answer": "the Quran",
       "is_daily_double": false,
-      "id": "364365"
+      "id": "509745"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "TORAH",
+      "category": "MEMORY",
       "point_value": 800,
-      "question": "In synagogues the Torah resides in a compartment known by this 3-letter term",
-      "answer": "an ark",
+      "question": "A vivid memory of learning big news is a this \"memory\", named for a lighting accessory of mid-20th century news photography",
+      "answer": "flashbulb",
       "is_daily_double": false,
-      "id": "364366"
+      "id": "509746"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "TORAH",
+      "category": "MEMORY",
       "point_value": 1000,
-      "question": "To avoid touching the words of the Torah, follow along with a yad, shaped like one of these body parts",
-      "answer": "a finger (or hand)",
+      "question": "In comparing computer memory info, think before you give us this, the number of megabytes in a gigabyte",
+      "answer": "1,024",
       "is_daily_double": false,
-      "id": "364367"
+      "id": "509747"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "WORDS WITH A DOUBLE L",
+      "category": "SPEECH! PARTS OF SPEECH!",
       "point_value": 200,
-      "question": "A one followed by 9 zeros",
-      "answer": "a billion",
+      "question": "Fred Flintstone, Sweden, Roomba",
+      "answer": "nouns",
       "is_daily_double": false,
-      "id": "364368"
+      "id": "509748"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "WORDS WITH A DOUBLE L",
+      "category": "SPEECH! PARTS OF SPEECH!",
       "point_value": 400,
-      "question": "A drum as well as a bugle can sound this early morning wake-up signal",
-      "answer": "\"Reveille\"",
+      "question": "Neither, &, nor",
+      "answer": "conjunctions",
       "is_daily_double": false,
-      "id": "364369"
+      "id": "509749"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "WORDS WITH A DOUBLE L",
+      "category": "SPEECH! PARTS OF SPEECH!",
       "point_value": 600,
-      "question": "Extending in the same direction, equidistant at all points & never converging or diverging",
-      "answer": "parallel",
+      "question": "Xem, xyrs, xemself",
+      "answer": "(neo)pronouns",
       "is_daily_double": false,
-      "id": "364370"
+      "id": "509750"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "WORDS WITH A DOUBLE L",
+      "category": "SPEECH! PARTS OF SPEECH!",
       "point_value": 800,
-      "question": "A geographical feature, such as the one \"of Ten Thousand Smokes\" in a volcanic area of Alaska",
-      "answer": "valley",
+      "question": "Betwixt, between, beyond",
+      "answer": "preposition",
       "is_daily_double": false,
-      "id": "364371"
+      "id": "509751"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "1",
-      "category": "WORDS WITH A DOUBLE L",
+      "category": "SPEECH! PARTS OF SPEECH!",
       "point_value": 1000,
-      "question": "\"God is love. Love is blind. Bob Smith is blind. Therefore Bob Smith is God\" is a faulty this philosophic term",
-      "answer": "syllogism",
+      "question": "Yowza! Zoinks! Shazbot!",
+      "answer": "interjections",
       "is_daily_double": false,
-      "id": "364372"
+      "id": "509752"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
+      "round": "1",
+      "category": "THE NEW TESTAMENT",
+      "point_value": 200,
+      "question": "Agreeing to crucify Jesus, he washed his hands & said, \"I am innocent of the blood of this just person\"",
+      "answer": "Pontius Pilate",
+      "is_daily_double": false,
+      "id": "509753"
+    },
+    {
+      "air_date": "2024-02-26",
+      "round": "1",
+      "category": "THE NEW TESTAMENT",
+      "point_value": 400,
+      "question": "St. Paul wrote his epistle to the Philippians from here, also a creative spot for Martin Luther King Jr.",
+      "answer": "jail",
+      "is_daily_double": false,
+      "id": "509754"
+    },
+    {
+      "air_date": "2024-02-26",
+      "round": "1",
+      "category": "THE NEW TESTAMENT",
+      "point_value": 600,
+      "question": "John 15:13 says, \"Greater love hath no man than this, that a man lay down his life for\" these people",
+      "answer": "his friends",
+      "is_daily_double": false,
+      "id": "509755"
+    },
+    {
+      "air_date": "2024-02-26",
+      "round": "1",
+      "category": "THE NEW TESTAMENT",
+      "point_value": 800,
+      "question": "Acts 7 reports that he was stoned to death for speaking what the council thought was blasphemy against God",
+      "answer": "Stephen",
+      "is_daily_double": false,
+      "id": "509756"
+    },
+    {
+      "air_date": "2024-02-26",
+      "round": "1",
+      "category": "THE NEW TESTAMENT",
+      "point_value": 1000,
+      "question": "This apostle drew his sword & \"smote the high priest's servant and cut off his right ear\"",
+      "answer": "Peter",
+      "is_daily_double": false,
+      "id": "509757"
+    },
+    {
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "BIOLOGY",
+      "category": "ALLOYS",
       "point_value": 400,
-      "question": "It should take just a wink to tell us a nictitating membrane is a third one of these found in birds",
-      "answer": "an eyelid",
+      "question": "Magnalium is a strong, lightweight alloy of these 2 elements",
+      "answer": "magnesium & aluminum",
       "is_daily_double": false,
-      "id": "364373"
+      "id": "509758"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "BIOLOGY",
+      "category": "ALLOYS",
       "point_value": 800,
-      "question": "In adult females, this primary male hormone contributes to the formation of estrogen in the ovaries",
-      "answer": "testosterone",
+      "question": "Ferrocerium is used to make these rocky-sounding sparking devices in cigarette lighters",
+      "answer": "flint",
       "is_daily_double": false,
-      "id": "364374"
+      "id": "509759"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "BIOLOGY",
+      "category": "ALLOYS",
       "point_value": 1200,
-      "question": "In the human body the process of osmoregulatrion is primarilly carried out by these organs",
-      "answer": "the kidneys",
+      "question": "Stellite, which coats saw teeth & lathes, got its name because its brilliance was like these",
+      "answer": "stars",
+      "is_daily_double": false,
+      "id": "509760"
+    },
+    {
+      "air_date": "2024-02-26",
+      "round": "2",
+      "category": "ALLOYS",
+      "point_value": 1600,
+      "question": "This 7-letter word for an alloy used in dentistry is also used to mean any combination of 2 or more substances",
+      "answer": "amalgam",
       "is_daily_double": true,
-      "id": "364375"
+      "id": "509761"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "BIOLOGY",
-      "point_value": 1600,
-      "question": "\"Dorsal\" means relating to the back, while this means relating to the underside",
-      "answer": "ventral or abdominal",
-      "is_daily_double": false,
-      "id": "364376"
-    },
-    {
-      "air_date": "2013-03-08",
-      "round": "2",
-      "category": "BIOLOGY",
+      "category": "ALLOYS",
       "point_value": 2000,
-      "question": "These microscopic hairlike projections on protozoans are used for movement",
-      "answer": "cilia",
+      "question": "Lydia in Asia Minor was the chief source in the ancient world of this naturally occurring alloy made of gold & silver",
+      "answer": "electrum",
       "is_daily_double": false,
-      "id": "364377"
+      "id": "509762"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "CARIBBEAN CAPITALS",
+      "category": "DOUBLE THE SAME VOWEL",
       "point_value": 400,
-      "question": "Spice baskets are popular gift items you can purchase in St. George's, capital of this island invaded by the U.S. in 1983",
-      "answer": "Grenada",
+      "question": "Polartec pioneered this fabric perfect for sweaters & blankets, a synthetic material despite its sheep-ish name",
+      "answer": "fleece",
       "is_daily_double": false,
-      "id": "364378"
+      "id": "509763"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "CARIBBEAN CAPITALS",
+      "category": "DOUBLE THE SAME VOWEL",
       "point_value": 800,
-      "question": "(I'm Anderson Cooper.) The morning after a catastrophic earthquake rocked Haiti, I, as the first American journalist on the ground, broadcast the devastation of this capital",
-      "answer": "Port Au Prince",
+      "question": "The U.S. has no cranberry tycoon—Ocean Spray is an agricultural one of these",
+      "answer": "cooperative",
       "is_daily_double": false,
-      "id": "364379"
+      "id": "509764"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "CARIBBEAN CAPITALS",
+      "category": "DOUBLE THE SAME VOWEL",
       "point_value": 1200,
-      "question": "H.M. [Her Majesty's] Prison, which dates to the 1840s, is the oldest building in Road Town, the capital of this British island group",
-      "answer": "the British Virgin Islands",
+      "question": "Traveling third class, over 700 passengers on the Titanic were in this cheapest section below decks; about 180 survived",
+      "answer": "steerage",
       "is_daily_double": false,
-      "id": "364380"
+      "id": "509765"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "CARIBBEAN CAPITALS",
+      "category": "DOUBLE THE SAME VOWEL",
       "point_value": 1600,
-      "question": "This capital of Antigua & Barbuda shares its name with the capital of Newfoundland",
-      "answer": "St. John's",
+      "question": "Founded by a Norwegian missionary & formerly known as Godthåb, it's the capital & largest city of Greenland",
+      "answer": "Nuuk",
       "is_daily_double": false,
-      "id": "364381"
+      "id": "509766"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "CARIBBEAN CAPITALS",
+      "category": "DOUBLE THE SAME VOWEL",
       "point_value": 2000,
-      "question": "Trinidad & Tobago's capital has this name; sounds like Barcelona or someplace",
-      "answer": "Port of Spain",
+      "question": "Related to the hyena, this striped mammal of southern Africa feeds mainly on insects & termite larvae",
+      "answer": "the aardwolf",
       "is_daily_double": false,
-      "id": "364382"
+      "id": "509767"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "COMMON BONDS",
+      "category": "ITALIAN AMERICANS",
       "point_value": 400,
-      "question": "Ontario, Havasu, Baikal",
-      "answer": "lakes",
+      "question": "After 19 nominations, she won her first daytime acting Emmy & in '23, she was honored with a lifetime achievement award",
+      "answer": "Susan Lucci",
       "is_daily_double": false,
-      "id": "364383"
+      "id": "509768"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "COMMON BONDS",
+      "category": "ITALIAN AMERICANS",
       "point_value": 800,
-      "question": "Trash, a boyfriend you're sick of, goods or securities sold below costs",
-      "answer": "things you dump",
+      "question": "As director of the National Institute of Allergy & Infectious Diseases, he became a fixture on TV during the COVID pandemic",
+      "answer": "Fauci",
       "is_daily_double": false,
-      "id": "364384"
+      "id": "509769"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "COMMON BONDS",
+      "category": "ITALIAN AMERICANS",
       "point_value": 1200,
-      "question": "Wilkins Micawber, Harold Skimpole, Paul Sweedle-pipe",
-      "answer": "Charles Dickens characters",
+      "question": "He's in the National Inventors Hall of Fame for his ice rink resurfacing machine",
+      "answer": "Zamboni",
       "is_daily_double": false,
-      "id": "364385"
+      "id": "509770"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "COMMON BONDS",
+      "category": "ITALIAN AMERICANS",
       "point_value": 1600,
-      "question": "Zanza, koto, helicon",
-      "answer": "musical instruments",
+      "question": "The screenwriting credits on the \"Godfather\" films are shared by these 2 men, the director & the original book's author",
+      "answer": "Coppola & Puzo",
       "is_daily_double": false,
-      "id": "364386"
+      "id": "509771"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "COMMON BONDS",
+      "category": "ITALIAN AMERICANS",
       "point_value": 2000,
-      "question": "Radar, sagas, a Toyota",
-      "answer": "palindromes",
+      "question": "In 1984 she made history as the first woman to be nominated for vice president by a major political party",
+      "answer": "Ferraro",
       "is_daily_double": false,
-      "id": "364387"
+      "id": "509772"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "KIDDY LIT",
+      "category": "LITERARY GROUPS",
       "point_value": 400,
-      "question": "She's the title Swiss Miss in an 1881 Johanna Spyri story",
-      "answer": "Heidi",
+      "question": "Poets like Bei Dao of the Misty School of Poetry were exiled from China following the 1989 protests in this Beijing square",
+      "answer": "Tiananmen (Square)",
       "is_daily_double": false,
-      "id": "364388"
+      "id": "509773"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "KIDDY LIT",
+      "category": "LITERARY GROUPS",
       "point_value": 800,
-      "question": "Chapter 3 of this book begins, \"The Mole had long wanted to make the acquaintance of the Badger\"",
-      "answer": "The Wind in the Willows",
+      "question": "A plaque at 50 Gordon Square, London honors this literary group that included Clive Bell & Leonard Woolf",
+      "answer": "Bloomsbury (Group)",
       "is_daily_double": false,
-      "id": "364389"
+      "id": "509774"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "KIDDY LIT",
+      "category": "LITERARY GROUPS",
       "point_value": 1200,
-      "question": "\"The voyages of\" this M.D. won the 1923 Newbery Medal for Best Children's Book",
-      "answer": "Dr. Dolittle",
+      "question": "The 1926 literary magazine \"Fire!!\" featured Wallace Thurman & Countee Cullen, members of this New York movement",
+      "answer": "the Harlem Renaissance",
       "is_daily_double": false,
-      "id": "364390"
+      "id": "509775"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "KIDDY LIT",
+      "category": "LITERARY GROUPS",
       "point_value": 1600,
-      "question": "This heroine was named for the rampion, a leafy vegetable her father stole from the Witch's garden",
-      "answer": "Rapunzel",
+      "question": "It's thought this famous name stuck after Edmund Duffy of the Brooklyn Eagle drew a caricature of the members as knights",
+      "answer": "Knights of the Algonquin Round Table",
+      "is_daily_double": false,
+      "id": "509776"
+    },
+    {
+      "air_date": "2024-02-26",
+      "round": "2",
+      "category": "LITERARY GROUPS",
+      "point_value": 2000,
+      "question": "The early 20th c. Stratford-on-Odéon literary circle hung out at this bookstore run by Sylvia Beach in Paris' Left Bank",
+      "answer": "Shakespeare & Company",
+      "is_daily_double": false,
+      "id": "509777"
+    },
+    {
+      "air_date": "2024-02-26",
+      "round": "2",
+      "category": "THE '70s TOTALLY ROCKED",
+      "point_value": 400,
+      "question": "Only months after releasing 1979's \"Highway To Hell\", this group lost lead singer Bon Scott to acute alcohol poisoning",
+      "answer": "AC/DC",
+      "is_daily_double": false,
+      "id": "509778"
+    },
+    {
+      "air_date": "2024-02-26",
+      "round": "2",
+      "category": "THE '70s TOTALLY ROCKED",
+      "point_value": 800,
+      "question": "This quartet gave us a tour of \"Kashmir\" in 1975 & enjoyed some \"Custard Pie\"",
+      "answer": "Led Zeppelin",
+      "is_daily_double": false,
+      "id": "509779"
+    },
+    {
+      "air_date": "2024-02-26",
+      "round": "2",
+      "category": "THE '70s TOTALLY ROCKED",
+      "point_value": 1200,
+      "question": "\"Fire in the sky\"! After Montreux Casino burned during a Zappa gig, Deep Purple wrote this Top 5 hit with a killer lick",
+      "answer": "\"Smoke On The Water\"",
+      "is_daily_double": false,
+      "id": "509780"
+    },
+    {
+      "air_date": "2024-02-26",
+      "round": "2",
+      "category": "THE '70s TOTALLY ROCKED",
+      "point_value": 1600,
+      "question": "The '70s totally rocked long hair, as seen on this rock & roll band from Massachusetts whose 1976 debut album included \"Rock & Roll Band\"",
+      "answer": "Boston",
+      "is_daily_double": false,
+      "id": "509781"
+    },
+    {
+      "air_date": "2024-02-26",
+      "round": "2",
+      "category": "THE '70s TOTALLY ROCKED",
+      "point_value": 2000,
+      "question": "I want you to want me to say Cheap Trick's 1978 live album \"at\" this arena in Japan is a hard rock masterpiece",
+      "answer": "Budokan",
+      "is_daily_double": false,
+      "id": "509782"
+    },
+    {
+      "air_date": "2024-02-26",
+      "round": "2",
+      "category": "WORLD CITIES",
+      "point_value": 400,
+      "question": "A Novocastrian is a person from this city-upon-Tyne",
+      "answer": "Newcastle",
+      "is_daily_double": false,
+      "id": "509783"
+    },
+    {
+      "air_date": "2024-02-26",
+      "round": "2",
+      "category": "WORLD CITIES",
+      "point_value": 800,
+      "question": "This Latvian capital is pretty much at the geographic center of the 3 Baltic states",
+      "answer": "Riga",
+      "is_daily_double": false,
+      "id": "509784"
+    },
+    {
+      "air_date": "2024-02-26",
+      "round": "2",
+      "category": "WORLD CITIES",
+      "point_value": 1200,
+      "question": "We are marching to this city where the Peace of Vereeniging was signed in 1902, ending the Boer War",
+      "answer": "Pretoria",
+      "is_daily_double": false,
+      "id": "509785"
+    },
+    {
+      "air_date": "2024-02-26",
+      "round": "2",
+      "category": "WORLD CITIES",
+      "point_value": 1600,
+      "question": "Fittingly, this capital is the Yukon headquarters of the Royal Canadian Mounted Police",
+      "answer": "Whitehorse",
       "is_daily_double": true,
-      "id": "364391"
+      "id": "509786"
     },
     {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "2",
-      "category": "KIDDY LIT",
+      "category": "WORLD CITIES",
       "point_value": 2000,
-      "question": "This Louis Sachar book begins, \"There is no lake at Camp Green Lake\"",
-      "answer": "Holes",
+      "question": "About a third of this city's 15 million people live on the Asian side, while the rest live in Europe",
+      "answer": "Istanbul",
       "is_daily_double": false,
-      "id": "364392"
+      "id": "509787"
     },
     {
-      "air_date": "2013-03-08",
-      "round": "2",
-      "category": "NORM DE GUERRE",
-      "point_value": 400,
-      "question": "The icing on this invasion was when William was crowned in Westminster Abbey on Christmas Day, 1066",
-      "answer": "the Norman Invasion",
-      "is_daily_double": false,
-      "id": "364393"
-    },
-    {
-      "air_date": "2013-03-08",
-      "round": "2",
-      "category": "NORM DE GUERRE",
-      "point_value": 800,
-      "question": "During WWII his \"Four Freedoms\" posters were reproduced by the Office of War Information",
-      "answer": "Norman Rockwell",
-      "is_daily_double": false,
-      "id": "364394"
-    },
-    {
-      "air_date": "2013-03-08",
-      "round": "2",
-      "category": "NORM DE GUERRE",
-      "point_value": 1200,
-      "question": "In 1992 this Gulf War general published an autobiography, \"It Doesn't Take a Hero\"",
-      "answer": "(Norman) Schwarzkopf",
-      "is_daily_double": false,
-      "id": "364395"
-    },
-    {
-      "air_date": "2013-03-08",
-      "round": "2",
-      "category": "NORM DE GUERRE",
-      "point_value": 1600,
-      "question": "His experiences in the Invasion of Luzon became the basis for his novel \"The Naked And The Dead\"",
-      "answer": "Norman Mailer",
-      "is_daily_double": false,
-      "id": "364396"
-    },
-    {
-      "air_date": "2013-03-08",
-      "round": "2",
-      "category": "NORM DE GUERRE",
-      "point_value": 2000,
-      "question": "TV producer & former B-17 gunner Norman Lear founded \"People For\" this patriotic concept",
-      "answer": "the American Way",
-      "is_daily_double": false,
-      "id": "364397"
-    },
-    {
-      "air_date": "2013-03-08",
-      "round": "2",
-      "category": "TOUGH TV",
-      "point_value": 400,
-      "question": "The 1979 ABC sitcom \"Delta House\" was a TV clone of this successful comedy film",
-      "answer": "Animal House",
-      "is_daily_double": false,
-      "id": "364398"
-    },
-    {
-      "air_date": "2013-03-08",
-      "round": "2",
-      "category": "TOUGH TV",
-      "point_value": 800,
-      "question": "This young woman's death in the first episode led to many strange events in the title town on \"Twin Peaks\"",
-      "answer": "Laura Palmer",
-      "is_daily_double": false,
-      "id": "364399"
-    },
-    {
-      "air_date": "2013-03-08",
-      "round": "2",
-      "category": "TOUGH TV",
-      "point_value": 1200,
-      "question": "Kathy Griffin's Emmy-winning series on Bravo was \"My Life On\" this",
-      "answer": "the \"D\" List",
-      "is_daily_double": false,
-      "id": "364400"
-    },
-    {
-      "air_date": "2013-03-08",
-      "round": "2",
-      "category": "TOUGH TV",
-      "point_value": 1600,
-      "question": "This ABC late-night talk show got into trouble on its very first telecast when it offered its audience & its guests an open bar",
-      "answer": "Jimmy Kimmel",
-      "is_daily_double": false,
-      "id": "364401"
-    },
-    {
-      "air_date": "2013-03-08",
-      "round": "2",
-      "category": "TOUGH TV",
-      "point_value": 2000,
-      "question": "It was the name of the home-improvement show hosted by Tim Allen on \"Home Improvement\"",
-      "answer": "Tool Time",
-      "is_daily_double": false,
-      "id": "364402"
-    },
-    {
-      "air_date": "2013-03-08",
+      "air_date": "2024-02-26",
       "round": "3",
-      "category": "THE OSCARS",
+      "category": "ART HISTORY",
       "point_value": 0,
-      "question": "Brother & sister who were both nominated for 1969 Oscars: he for a screenplay, she for Best Actress; they didn't win",
-      "answer": "Jane Fonda & Peter Fonda",
+      "question": "The Royal Academy of Arts has this man's \"La Fornarina\" & in the 1800s the RAA's love of him made some artists retreat to an earlier style",
+      "answer": "Raphael",
       "is_daily_double": false,
-      "id": "364403"
+      "id": "509788"
     }
   ]
 }
