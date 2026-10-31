@@ -1,616 +1,526 @@
 {
-  "id": "9a2100c00dd8ae49",
-  "air_date": "2024-02-26",
+  "id": "29ffb19b1de7cffc",
+  "air_date": "1998-01-02",
   "questions": [
     {
-      "air_date": "2024-02-26",
+      "air_date": "1998-01-02",
       "round": "1",
-      "category": "ALL THINGS DISNEY",
-      "point_value": 200,
-      "question": "Naturally, he was the first animated character to get a star on the Hollywood Walk of Fame",
-      "answer": "Mickey",
+      "category": "ANIMALS",
+      "point_value": 100,
+      "question": "Among bears, this is the best swimmer",
+      "answer": "Polar bear",
       "is_daily_double": false,
-      "id": "509728"
+      "id": "162778"
     },
     {
-      "air_date": "2024-02-26",
+      "air_date": "1998-01-02",
       "round": "1",
-      "category": "ALL THINGS DISNEY",
+      "category": "ANIMALS",
+      "point_value": 200,
+      "question": "The jackrabbit isn't really a rabbit but one of these relatives",
+      "answer": "Hare",
+      "is_daily_double": false,
+      "id": "162779"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "ANIMALS",
+      "point_value": 300,
+      "question": "Like this similarly named mammal, the aardwolf eats mainly termites",
+      "answer": "Aardvark",
+      "is_daily_double": false,
+      "id": "162780"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "ANIMALS",
       "point_value": 400,
-      "question": "At Walt Disney World in 1975, Scott Carpenter, Gordon Cooper & Jim Irwin attended the grand opening of this ride",
-      "answer": "Space Mountain",
+      "question": "The Viceroy type of this insect is protected by its resemblance to the bad-tasting Monarch",
+      "answer": "Butterfly",
+      "is_daily_double": false,
+      "id": "162781"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "ANIMALS",
+      "point_value": 500,
+      "question": "There are 3 species of bluebird but over 20 of these birds, including grackles",
+      "answer": "Blackbirds",
+      "is_daily_double": false,
+      "id": "162782"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "LANGUAGES",
+      "point_value": 100,
+      "question": "The Roman Catholic church translates all of its principal documents into this dead language",
+      "answer": "Latin",
+      "is_daily_double": false,
+      "id": "162783"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "LANGUAGES",
+      "point_value": 200,
+      "question": "This official language of Liechtenstein is spoken by about 120 million people worldwide",
+      "answer": "German",
+      "is_daily_double": false,
+      "id": "162784"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "LANGUAGES",
+      "point_value": 300,
+      "question": "About 3/4 of the people of Singapore speak this Asian language",
+      "answer": "Chinese",
+      "is_daily_double": false,
+      "id": "162785"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "LANGUAGES",
+      "point_value": 400,
+      "question": "In Belgium the Flemings speak Dutch & the Walloons speak this language",
+      "answer": "French",
+      "is_daily_double": false,
+      "id": "162786"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "LANGUAGES",
+      "point_value": 500,
+      "question": "The language of this small Balkan country has 2 main dialects: Gheg & Tosk",
+      "answer": "Albania",
+      "is_daily_double": false,
+      "id": "162787"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "SINONYMS",
+      "point_value": 100,
+      "question": "\"Sow\" these & you may be sinning or just planting",
+      "answer": "Wild oats",
+      "is_daily_double": false,
+      "id": "162788"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "SINONYMS",
+      "point_value": 200,
+      "question": "A bad habit that can have a grip on you, the police have a squad to fight it",
+      "answer": "Vice",
+      "is_daily_double": false,
+      "id": "162789"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "SINONYMS",
+      "point_value": 300,
+      "question": "From a word meaning \"uneven\", you may find \"a den of\" one",
+      "answer": "iniquity",
+      "is_daily_double": false,
+      "id": "162790"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "SINONYMS",
+      "point_value": 400,
+      "question": "If you're doing this you're sinning; if you \"Ain't\", you're a musical",
+      "answer": "Misbehavin'",
+      "is_daily_double": false,
+      "id": "162791"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "SINONYMS",
+      "point_value": 500,
+      "question": "It can mean to sin or to sneak onto another's land, & you may be shot for doing it",
+      "answer": "Trespassing",
+      "is_daily_double": false,
+      "id": "162792"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "WE'RE LISBON BOUND",
+      "point_value": 100,
+      "question": "Unlike what we witnessed in Spain's arenas, we'll see these beasts wrestled into submission, but left alive",
+      "answer": "Bulls",
+      "is_daily_double": false,
+      "id": "162793"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "WE'RE LISBON BOUND",
+      "point_value": 200,
+      "question": "We'll visit the Chiado, an area famous for this activity, but our budget may restrict us to the window type",
+      "answer": "Shopping",
+      "is_daily_double": false,
+      "id": "162794"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "WHAT'S TO EAT?",
+      "point_value": 100,
+      "question": "The lox that you put on a bagel is a smoked variety of this fish",
+      "answer": "Salmon",
+      "is_daily_double": false,
+      "id": "162795"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "WHAT'S TO EAT?",
+      "point_value": 200,
+      "question": "The name of these Asian dumplings sounds like you'll never get them out of the pan",
+      "answer": "Pot stickers",
+      "is_daily_double": false,
+      "id": "162796"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "WHAT'S TO EAT?",
+      "point_value": 300,
+      "question": "It's the Irish-sounding name for a diced potato dish fried with onions & peppers",
+      "answer": "Potatoes O'Brien",
+      "is_daily_double": false,
+      "id": "162797"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "WHAT'S TO EAT?",
+      "point_value": 400,
+      "question": "Fresh broccoli & zucchini are often featured in this pasta dish served in \"spring\" or any time",
+      "answer": "Pasta Primavera",
+      "is_daily_double": false,
+      "id": "162798"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "WHAT'S TO EAT?",
+      "point_value": 500,
+      "question": "We salute you if you know port-salut is a type of this",
+      "answer": "Cheese",
+      "is_daily_double": false,
+      "id": "162799"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "WHEN-THEY-WERE-YOUNG FILMS",
+      "point_value": 100,
+      "question": "Steven Spielberg produced a 1985 film about this Conan Doyle detective's first case",
+      "answer": "Sherlock Holmes",
+      "is_daily_double": false,
+      "id": "162800"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "WHEN-THEY-WERE-YOUNG FILMS",
+      "point_value": 200,
+      "question": "Henry Fonda played him \"Young\" & Raymond Massey played him young & \"In Illinois\"",
+      "answer": "Abraham Lincoln",
+      "is_daily_double": false,
+      "id": "162801"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "WHEN-THEY-WERE-YOUNG FILMS",
+      "point_value": 300,
+      "question": "In a 1972 film Simon Ward played this prime minister from ages 19 to 26",
+      "answer": "Winston Churchill",
+      "is_daily_double": false,
+      "id": "162802"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "1",
+      "category": "WHEN-THEY-WERE-YOUNG FILMS",
+      "point_value": 400,
+      "question": "In a 1991 TNT miniseries Julia Ormond played this woman before her empress years",
+      "answer": "Catherine the Great",
+      "is_daily_double": false,
+      "id": "162803"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "\"FIELD\"",
+      "point_value": 200,
+      "question": "\"Let me take you down, 'cause I'm going to\" this place; \"Nothing is real and nothing to get hung about\"",
+      "answer": "Strawberry Fields",
+      "is_daily_double": false,
+      "id": "162825"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "\"FIELD\"",
+      "point_value": 400,
+      "question": "Binoculars",
+      "answer": "Field glasses",
+      "is_daily_double": false,
+      "id": "162826"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "\"FIELD\"",
+      "point_value": 600,
+      "question": "Military title shared by Horatio Kitchener, Erwin Rommel & Bernard Montgomery",
+      "answer": "Field marshall",
+      "is_daily_double": false,
+      "id": "162827"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "\"FIELD\"",
+      "point_value": 800,
+      "question": "1963 film in which Sidney Poitier played a handyman who builds a chapel for 5 German-speaking nuns",
+      "answer": "Lilies Of The Field",
+      "is_daily_double": false,
+      "id": "162828"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "\"FIELD\"",
+      "point_value": 1000,
+      "question": "With the infamous 30 pieces of silver, the chief priests bought this \"To bury strangers in\"",
+      "answer": "Potter's Field",
+      "is_daily_double": false,
+      "id": "162829"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "ANCIENT HISTORY",
+      "point_value": 200,
+      "question": "Around 2600 B.C. Pharaoh Djoser was entombed in a step one, the first large stone structure",
+      "answer": "Pyramid",
+      "is_daily_double": false,
+      "id": "162804"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "ANCIENT HISTORY",
+      "point_value": 400,
+      "question": "Tien, a version of this divine abode, became part of Chinese religion around 1000 B.C.",
+      "answer": "Heaven",
+      "is_daily_double": false,
+      "id": "162805"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "ANCIENT HISTORY",
+      "point_value": 600,
+      "question": "About 20,000 years ago, hunters crossed what's now this strait to become North American Indians",
+      "answer": "Bering Strait",
+      "is_daily_double": false,
+      "id": "162806"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "ANCIENT HISTORY",
+      "point_value": 800,
+      "question": "From 500 to 300 B.C. these Roman common citizens won political rights from the Patricians",
+      "answer": "Plebeians",
+      "is_daily_double": false,
+      "id": "162807"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "ANCIENT HISTORY",
+      "point_value": 1000,
+      "question": "In the Bible Uriah was a member of these people who conquered Babylon around 1595 B.C.",
+      "answer": "Hittites",
+      "is_daily_double": false,
+      "id": "162808"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "HIE WE TO YON RENAISSANCE FAIRE",
+      "point_value": 200,
+      "question": "Among well-beloved faire fare be the leg of this fowl, also much favored in giving thanks",
+      "answer": "Turkey",
+      "is_daily_double": false,
+      "id": "162809"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "HIE WE TO YON RENAISSANCE FAIRE",
+      "point_value": 400,
+      "question": "There be dancing about this beribboned shaft every faire day, not merely once in the year",
+      "answer": "Maypole",
+      "is_daily_double": false,
+      "id": "162810"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "HIE WE TO YON RENAISSANCE FAIRE",
+      "point_value": 600,
+      "question": "Honest knights do battle both in the joust & upon a giant board for this olde game",
+      "answer": "Chess",
+      "is_daily_double": false,
+      "id": "162811"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "HIE WE TO YON RENAISSANCE FAIRE",
+      "point_value": 1000,
+      "question": "The folk who love & work at faires may well belong to the SCA, being the Society for Creative this",
+      "answer": "Anachronism",
+      "is_daily_double": false,
+      "id": "162812"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "NOVEL VOCABULARY",
+      "point_value": 200,
+      "question": "Emily Bronte said this title word is a \"Provincial adjective, descriptive of....atmospheric tumult\"",
+      "answer": "Wuthering",
+      "is_daily_double": false,
+      "id": "162813"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "NOVEL VOCABULARY",
+      "point_value": 1000,
+      "question": "Epitasis, a word found in \"Tristram Shandy\", is the part of a play in which this \"thickens\"",
+      "answer": "The plot",
+      "is_daily_double": false,
+      "id": "162814"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "TRACK",
+      "point_value": 200,
+      "question": "The \"anchor\" for this type of event is no dead weight; he's usually the team's fastest runner",
+      "answer": "Relay race",
+      "is_daily_double": false,
+      "id": "162815"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "TRACK",
+      "point_value": 400,
+      "question": "This track star's authorized hats & T-shirts sold in Europe & Asia proclaim him to be \"King Carl\"",
+      "answer": "Carl Lewis",
+      "is_daily_double": false,
+      "id": "162816"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "TRACK",
+      "point_value": 600,
+      "question": "This 3,000-meter event consists of 28 3-foot-high hurdles & 7 12-foot-long water jumps",
+      "answer": "steeplechase",
+      "is_daily_double": false,
+      "id": "162817"
+    },
+    {
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "TRACK",
+      "point_value": 800,
+      "question": "On August 16, 1995 this country's Haile Gebrselassie set the world record in the 5,000-meter run at 12:44:39",
+      "answer": "Ethiopia",
       "is_daily_double": true,
-      "id": "509729"
+      "id": "162818"
     },
     {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "ALL THINGS DISNEY",
-      "point_value": 600,
-      "question": "Inspired by \"The Princess and the Frog\", Disneyland has a new eatery featuring southern dishes & named for this character",
-      "answer": "Tiana",
-      "is_daily_double": false,
-      "id": "509730"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "ALL THINGS DISNEY",
-      "point_value": 800,
-      "question": "This song from \"Three Little Pigs\" became a rallying cry against the Great Depression & the rise of Hitler",
-      "answer": "\"Who's Afraid Of The Big Bad Wolf?\"",
-      "is_daily_double": false,
-      "id": "509731"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "ALL THINGS DISNEY",
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "TRACK",
       "point_value": 1000,
-      "question": "\"A Spoonful Of Sugar\" & \"It's A Small World\" are among the more than 200 songs these siblings wrote for Disney",
-      "answer": "the Shermans",
+      "question": "On June 1, 1997 Donovan Bailey defeated this sprinter in a special 150-meter match race to win $1.5 million",
+      "answer": "Michael Johnson",
       "is_daily_double": false,
-      "id": "509732"
+      "id": "162819"
     },
     {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "HISTORY",
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "YOUNG STARS",
       "point_value": 200,
-      "question": "Lasting from Aug. 1786 to Feb. 1787, Shays' Rebellion in our young republic was in protest of economic conditions, mainly high these",
-      "answer": "taxes",
+      "question": "Ariana Richards & Joseph Mazzello were the youngsters in this 1993 dinosaur spectacular",
+      "answer": "Jurassic Park",
       "is_daily_double": false,
-      "id": "509733"
+      "id": "162820"
     },
     {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "HISTORY",
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "YOUNG STARS",
       "point_value": 400,
-      "question": "The litter of broken glass in the streets of Germany gave this name to the pogroms of 1938",
-      "answer": "Kristallnacht",
+      "question": "Jason James Richter played Jesse, the 12-year-old who helped \"free\" this title movie character",
+      "answer": "Willy",
       "is_daily_double": false,
-      "id": "509734"
+      "id": "162821"
     },
     {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "HISTORY",
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "YOUNG STARS",
       "point_value": 600,
-      "question": "In 1546 the council of this Italian city added Judith, Tobit & other books to the Catholic Bible",
-      "answer": "Trent",
+      "question": "He plays the title boy in ABC's \"Boy Meets World\"",
+      "answer": "Ben Savage",
       "is_daily_double": false,
-      "id": "509735"
+      "id": "162822"
     },
     {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "HISTORY",
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "YOUNG STARS",
       "point_value": 800,
-      "question": "This Italian family gave the world 4 popes: Leo X, Clement VII, Pius IV & Leo XI",
-      "answer": "the Medici",
+      "question": "She got \"Greedy\" playing \"Jumanji\" during an \"Interview With The Vampire\"",
+      "answer": "Kirsten Dunst",
       "is_daily_double": false,
-      "id": "509736"
+      "id": "162823"
     },
     {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "HISTORY",
+      "air_date": "1998-01-02",
+      "round": "2",
+      "category": "YOUNG STARS",
       "point_value": 1000,
-      "question": "Japan returned to the control of an emperor in the 19th century in what is called this 5-letter restoration",
-      "answer": "Meiji",
+      "question": "On Nickelodeon Irene Ng stars in \"The Mystery Files Of\" this teen detective",
+      "answer": "Shelby Woo",
       "is_daily_double": false,
-      "id": "509737"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "LET'S AUDIT A COLLEGE COURSE",
-      "point_value": 200,
-      "question": "It was a safe bet that this state U. offered gaming management I & also TCA 471, practicum in hotel education",
-      "answer": "UNLV (University of Nevada, Las Vegas)",
-      "is_daily_double": false,
-      "id": "509738"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "LET'S AUDIT A COLLEGE COURSE",
-      "point_value": 400,
-      "question": "Math 0407, linear algebra & matrix theory, does not sound like an easy A at this HBCU founded by Booker T. Washington",
-      "answer": "Tuskegee",
-      "is_daily_double": false,
-      "id": "509739"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "LET'S AUDIT A COLLEGE COURSE",
-      "point_value": 600,
-      "question": "Taking 340.612.01, epidemiologic basis for tuberculosis control at this U. in Baltimore? Thank you, as that sounds kinda important",
-      "answer": "Johns Hopkins",
-      "is_daily_double": false,
-      "id": "509740"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "LET'S AUDIT A COLLEGE COURSE",
-      "point_value": 800,
-      "question": "Is anyone here a marine biologist?! Here, being this Jesuit university in Spokane, & you could be after learning about it in bio 403",
-      "answer": "Gonzaga",
-      "is_daily_double": false,
-      "id": "509741"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "LET'S AUDIT A COLLEGE COURSE",
-      "point_value": 1000,
-      "question": "History 383 at this military college of South Carolina examined patterns of war to 1763",
-      "answer": "the Citadel",
-      "is_daily_double": false,
-      "id": "509742"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "MEMORY",
-      "point_value": 200,
-      "question": "So you have a good memory for these? So do chimps, who in a 2023 study could recognize ones they hadn't seen for 25 years",
-      "answer": "faces",
-      "is_daily_double": false,
-      "id": "509743"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "MEMORY",
-      "point_value": 400,
-      "question": "This actress has an autobiographical memory like only 100 other humans & has no trouble remembering her lines, either",
-      "answer": "Marilu Henner",
-      "is_daily_double": false,
-      "id": "509744"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "MEMORY",
-      "point_value": 600,
-      "question": "A hafiz or hafiza is someone who has memorized this",
-      "answer": "the Quran",
-      "is_daily_double": false,
-      "id": "509745"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "MEMORY",
-      "point_value": 800,
-      "question": "A vivid memory of learning big news is a this \"memory\", named for a lighting accessory of mid-20th century news photography",
-      "answer": "flashbulb",
-      "is_daily_double": false,
-      "id": "509746"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "MEMORY",
-      "point_value": 1000,
-      "question": "In comparing computer memory info, think before you give us this, the number of megabytes in a gigabyte",
-      "answer": "1,024",
-      "is_daily_double": false,
-      "id": "509747"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "SPEECH! PARTS OF SPEECH!",
-      "point_value": 200,
-      "question": "Fred Flintstone, Sweden, Roomba",
-      "answer": "nouns",
-      "is_daily_double": false,
-      "id": "509748"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "SPEECH! PARTS OF SPEECH!",
-      "point_value": 400,
-      "question": "Neither, &, nor",
-      "answer": "conjunctions",
-      "is_daily_double": false,
-      "id": "509749"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "SPEECH! PARTS OF SPEECH!",
-      "point_value": 600,
-      "question": "Xem, xyrs, xemself",
-      "answer": "(neo)pronouns",
-      "is_daily_double": false,
-      "id": "509750"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "SPEECH! PARTS OF SPEECH!",
-      "point_value": 800,
-      "question": "Betwixt, between, beyond",
-      "answer": "preposition",
-      "is_daily_double": false,
-      "id": "509751"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "SPEECH! PARTS OF SPEECH!",
-      "point_value": 1000,
-      "question": "Yowza! Zoinks! Shazbot!",
-      "answer": "interjections",
-      "is_daily_double": false,
-      "id": "509752"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "THE NEW TESTAMENT",
-      "point_value": 200,
-      "question": "Agreeing to crucify Jesus, he washed his hands & said, \"I am innocent of the blood of this just person\"",
-      "answer": "Pontius Pilate",
-      "is_daily_double": false,
-      "id": "509753"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "THE NEW TESTAMENT",
-      "point_value": 400,
-      "question": "St. Paul wrote his epistle to the Philippians from here, also a creative spot for Martin Luther King Jr.",
-      "answer": "jail",
-      "is_daily_double": false,
-      "id": "509754"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "THE NEW TESTAMENT",
-      "point_value": 600,
-      "question": "John 15:13 says, \"Greater love hath no man than this, that a man lay down his life for\" these people",
-      "answer": "his friends",
-      "is_daily_double": false,
-      "id": "509755"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "THE NEW TESTAMENT",
-      "point_value": 800,
-      "question": "Acts 7 reports that he was stoned to death for speaking what the council thought was blasphemy against God",
-      "answer": "Stephen",
-      "is_daily_double": false,
-      "id": "509756"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "1",
-      "category": "THE NEW TESTAMENT",
-      "point_value": 1000,
-      "question": "This apostle drew his sword & \"smote the high priest's servant and cut off his right ear\"",
-      "answer": "Peter",
-      "is_daily_double": false,
-      "id": "509757"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "ALLOYS",
-      "point_value": 400,
-      "question": "Magnalium is a strong, lightweight alloy of these 2 elements",
-      "answer": "magnesium & aluminum",
-      "is_daily_double": false,
-      "id": "509758"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "ALLOYS",
-      "point_value": 800,
-      "question": "Ferrocerium is used to make these rocky-sounding sparking devices in cigarette lighters",
-      "answer": "flint",
-      "is_daily_double": false,
-      "id": "509759"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "ALLOYS",
-      "point_value": 1200,
-      "question": "Stellite, which coats saw teeth & lathes, got its name because its brilliance was like these",
-      "answer": "stars",
-      "is_daily_double": false,
-      "id": "509760"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "ALLOYS",
-      "point_value": 1600,
-      "question": "This 7-letter word for an alloy used in dentistry is also used to mean any combination of 2 or more substances",
-      "answer": "amalgam",
-      "is_daily_double": true,
-      "id": "509761"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "ALLOYS",
-      "point_value": 2000,
-      "question": "Lydia in Asia Minor was the chief source in the ancient world of this naturally occurring alloy made of gold & silver",
-      "answer": "electrum",
-      "is_daily_double": false,
-      "id": "509762"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "DOUBLE THE SAME VOWEL",
-      "point_value": 400,
-      "question": "Polartec pioneered this fabric perfect for sweaters & blankets, a synthetic material despite its sheep-ish name",
-      "answer": "fleece",
-      "is_daily_double": false,
-      "id": "509763"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "DOUBLE THE SAME VOWEL",
-      "point_value": 800,
-      "question": "The U.S. has no cranberry tycoon—Ocean Spray is an agricultural one of these",
-      "answer": "cooperative",
-      "is_daily_double": false,
-      "id": "509764"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "DOUBLE THE SAME VOWEL",
-      "point_value": 1200,
-      "question": "Traveling third class, over 700 passengers on the Titanic were in this cheapest section below decks; about 180 survived",
-      "answer": "steerage",
-      "is_daily_double": false,
-      "id": "509765"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "DOUBLE THE SAME VOWEL",
-      "point_value": 1600,
-      "question": "Founded by a Norwegian missionary & formerly known as Godthåb, it's the capital & largest city of Greenland",
-      "answer": "Nuuk",
-      "is_daily_double": false,
-      "id": "509766"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "DOUBLE THE SAME VOWEL",
-      "point_value": 2000,
-      "question": "Related to the hyena, this striped mammal of southern Africa feeds mainly on insects & termite larvae",
-      "answer": "the aardwolf",
-      "is_daily_double": false,
-      "id": "509767"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "ITALIAN AMERICANS",
-      "point_value": 400,
-      "question": "After 19 nominations, she won her first daytime acting Emmy & in '23, she was honored with a lifetime achievement award",
-      "answer": "Susan Lucci",
-      "is_daily_double": false,
-      "id": "509768"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "ITALIAN AMERICANS",
-      "point_value": 800,
-      "question": "As director of the National Institute of Allergy & Infectious Diseases, he became a fixture on TV during the COVID pandemic",
-      "answer": "Fauci",
-      "is_daily_double": false,
-      "id": "509769"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "ITALIAN AMERICANS",
-      "point_value": 1200,
-      "question": "He's in the National Inventors Hall of Fame for his ice rink resurfacing machine",
-      "answer": "Zamboni",
-      "is_daily_double": false,
-      "id": "509770"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "ITALIAN AMERICANS",
-      "point_value": 1600,
-      "question": "The screenwriting credits on the \"Godfather\" films are shared by these 2 men, the director & the original book's author",
-      "answer": "Coppola & Puzo",
-      "is_daily_double": false,
-      "id": "509771"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "ITALIAN AMERICANS",
-      "point_value": 2000,
-      "question": "In 1984 she made history as the first woman to be nominated for vice president by a major political party",
-      "answer": "Ferraro",
-      "is_daily_double": false,
-      "id": "509772"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "LITERARY GROUPS",
-      "point_value": 400,
-      "question": "Poets like Bei Dao of the Misty School of Poetry were exiled from China following the 1989 protests in this Beijing square",
-      "answer": "Tiananmen (Square)",
-      "is_daily_double": false,
-      "id": "509773"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "LITERARY GROUPS",
-      "point_value": 800,
-      "question": "A plaque at 50 Gordon Square, London honors this literary group that included Clive Bell & Leonard Woolf",
-      "answer": "Bloomsbury (Group)",
-      "is_daily_double": false,
-      "id": "509774"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "LITERARY GROUPS",
-      "point_value": 1200,
-      "question": "The 1926 literary magazine \"Fire!!\" featured Wallace Thurman & Countee Cullen, members of this New York movement",
-      "answer": "the Harlem Renaissance",
-      "is_daily_double": false,
-      "id": "509775"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "LITERARY GROUPS",
-      "point_value": 1600,
-      "question": "It's thought this famous name stuck after Edmund Duffy of the Brooklyn Eagle drew a caricature of the members as knights",
-      "answer": "Knights of the Algonquin Round Table",
-      "is_daily_double": false,
-      "id": "509776"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "LITERARY GROUPS",
-      "point_value": 2000,
-      "question": "The early 20th c. Stratford-on-Odéon literary circle hung out at this bookstore run by Sylvia Beach in Paris' Left Bank",
-      "answer": "Shakespeare & Company",
-      "is_daily_double": false,
-      "id": "509777"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "THE '70s TOTALLY ROCKED",
-      "point_value": 400,
-      "question": "Only months after releasing 1979's \"Highway To Hell\", this group lost lead singer Bon Scott to acute alcohol poisoning",
-      "answer": "AC/DC",
-      "is_daily_double": false,
-      "id": "509778"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "THE '70s TOTALLY ROCKED",
-      "point_value": 800,
-      "question": "This quartet gave us a tour of \"Kashmir\" in 1975 & enjoyed some \"Custard Pie\"",
-      "answer": "Led Zeppelin",
-      "is_daily_double": false,
-      "id": "509779"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "THE '70s TOTALLY ROCKED",
-      "point_value": 1200,
-      "question": "\"Fire in the sky\"! After Montreux Casino burned during a Zappa gig, Deep Purple wrote this Top 5 hit with a killer lick",
-      "answer": "\"Smoke On The Water\"",
-      "is_daily_double": false,
-      "id": "509780"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "THE '70s TOTALLY ROCKED",
-      "point_value": 1600,
-      "question": "The '70s totally rocked long hair, as seen on this rock & roll band from Massachusetts whose 1976 debut album included \"Rock & Roll Band\"",
-      "answer": "Boston",
-      "is_daily_double": false,
-      "id": "509781"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "THE '70s TOTALLY ROCKED",
-      "point_value": 2000,
-      "question": "I want you to want me to say Cheap Trick's 1978 live album \"at\" this arena in Japan is a hard rock masterpiece",
-      "answer": "Budokan",
-      "is_daily_double": false,
-      "id": "509782"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "WORLD CITIES",
-      "point_value": 400,
-      "question": "A Novocastrian is a person from this city-upon-Tyne",
-      "answer": "Newcastle",
-      "is_daily_double": false,
-      "id": "509783"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "WORLD CITIES",
-      "point_value": 800,
-      "question": "This Latvian capital is pretty much at the geographic center of the 3 Baltic states",
-      "answer": "Riga",
-      "is_daily_double": false,
-      "id": "509784"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "WORLD CITIES",
-      "point_value": 1200,
-      "question": "We are marching to this city where the Peace of Vereeniging was signed in 1902, ending the Boer War",
-      "answer": "Pretoria",
-      "is_daily_double": false,
-      "id": "509785"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "WORLD CITIES",
-      "point_value": 1600,
-      "question": "Fittingly, this capital is the Yukon headquarters of the Royal Canadian Mounted Police",
-      "answer": "Whitehorse",
-      "is_daily_double": true,
-      "id": "509786"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "2",
-      "category": "WORLD CITIES",
-      "point_value": 2000,
-      "question": "About a third of this city's 15 million people live on the Asian side, while the rest live in Europe",
-      "answer": "Istanbul",
-      "is_daily_double": false,
-      "id": "509787"
-    },
-    {
-      "air_date": "2024-02-26",
-      "round": "3",
-      "category": "ART HISTORY",
-      "point_value": 0,
-      "question": "The Royal Academy of Arts has this man's \"La Fornarina\" & in the 1800s the RAA's love of him made some artists retreat to an earlier style",
-      "answer": "Raphael",
-      "is_daily_double": false,
-      "id": "509788"
+      "id": "162824"
     }
   ]
 }
