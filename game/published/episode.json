@@ -1,526 +1,576 @@
 {
-  "id": "29ffb19b1de7cffc",
-  "air_date": "1998-01-02",
+  "id": "bcf4f98e8bd48c7e",
+  "air_date": "2013-12-23",
   "questions": [
     {
-      "air_date": "1998-01-02",
+      "air_date": "2013-12-23",
       "round": "1",
-      "category": "ANIMALS",
-      "point_value": 100,
-      "question": "Among bears, this is the best swimmer",
-      "answer": "Polar bear",
-      "is_daily_double": false,
-      "id": "162778"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "ANIMALS",
+      "category": "ANCIENT CHINESE EMPERORS",
       "point_value": 200,
-      "question": "The jackrabbit isn't really a rabbit but one of these relatives",
-      "answer": "Hare",
+      "question": "Ruling from about 1600 B.C., it was this man whose name sounds like a breakfast drink",
+      "answer": "Tang",
       "is_daily_double": false,
-      "id": "162779"
+      "id": "374603"
     },
     {
-      "air_date": "1998-01-02",
+      "air_date": "2013-12-23",
       "round": "1",
-      "category": "ANIMALS",
-      "point_value": 300,
-      "question": "Like this similarly named mammal, the aardwolf eats mainly termites",
-      "answer": "Aardvark",
-      "is_daily_double": false,
-      "id": "162780"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "ANIMALS",
+      "category": "ANCIENT CHINESE EMPERORS",
       "point_value": 400,
-      "question": "The Viceroy type of this insect is protected by its resemblance to the bad-tasting Monarch",
-      "answer": "Butterfly",
+      "question": "In legend not me, but Yu tamed this disaster by dredging out existing waterways",
+      "answer": "flooding (the Great Flood)",
       "is_daily_double": false,
-      "id": "162781"
+      "id": "374604"
     },
     {
-      "air_date": "1998-01-02",
+      "air_date": "2013-12-23",
       "round": "1",
-      "category": "ANIMALS",
-      "point_value": 500,
-      "question": "There are 3 species of bluebird but over 20 of these birds, including grackles",
-      "answer": "Blackbirds",
-      "is_daily_double": false,
-      "id": "162782"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "LANGUAGES",
-      "point_value": 100,
-      "question": "The Roman Catholic church translates all of its principal documents into this dead language",
-      "answer": "Latin",
-      "is_daily_double": false,
-      "id": "162783"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "LANGUAGES",
-      "point_value": 200,
-      "question": "This official language of Liechtenstein is spoken by about 120 million people worldwide",
-      "answer": "German",
-      "is_daily_double": false,
-      "id": "162784"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "LANGUAGES",
-      "point_value": 300,
-      "question": "About 3/4 of the people of Singapore speak this Asian language",
-      "answer": "Chinese",
-      "is_daily_double": false,
-      "id": "162785"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "LANGUAGES",
-      "point_value": 400,
-      "question": "In Belgium the Flemings speak Dutch & the Walloons speak this language",
-      "answer": "French",
-      "is_daily_double": false,
-      "id": "162786"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "LANGUAGES",
-      "point_value": 500,
-      "question": "The language of this small Balkan country has 2 main dialects: Gheg & Tosk",
-      "answer": "Albania",
-      "is_daily_double": false,
-      "id": "162787"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "SINONYMS",
-      "point_value": 100,
-      "question": "\"Sow\" these & you may be sinning or just planting",
-      "answer": "Wild oats",
-      "is_daily_double": false,
-      "id": "162788"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "SINONYMS",
-      "point_value": 200,
-      "question": "A bad habit that can have a grip on you, the police have a squad to fight it",
-      "answer": "Vice",
-      "is_daily_double": false,
-      "id": "162789"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "SINONYMS",
-      "point_value": 300,
-      "question": "From a word meaning \"uneven\", you may find \"a den of\" one",
-      "answer": "iniquity",
-      "is_daily_double": false,
-      "id": "162790"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "SINONYMS",
-      "point_value": 400,
-      "question": "If you're doing this you're sinning; if you \"Ain't\", you're a musical",
-      "answer": "Misbehavin'",
-      "is_daily_double": false,
-      "id": "162791"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "SINONYMS",
-      "point_value": 500,
-      "question": "It can mean to sin or to sneak onto another's land, & you may be shot for doing it",
-      "answer": "Trespassing",
-      "is_daily_double": false,
-      "id": "162792"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "WE'RE LISBON BOUND",
-      "point_value": 100,
-      "question": "Unlike what we witnessed in Spain's arenas, we'll see these beasts wrestled into submission, but left alive",
-      "answer": "Bulls",
-      "is_daily_double": false,
-      "id": "162793"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "WE'RE LISBON BOUND",
-      "point_value": 200,
-      "question": "We'll visit the Chiado, an area famous for this activity, but our budget may restrict us to the window type",
-      "answer": "Shopping",
-      "is_daily_double": false,
-      "id": "162794"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "WHAT'S TO EAT?",
-      "point_value": 100,
-      "question": "The lox that you put on a bagel is a smoked variety of this fish",
-      "answer": "Salmon",
-      "is_daily_double": false,
-      "id": "162795"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "WHAT'S TO EAT?",
-      "point_value": 200,
-      "question": "The name of these Asian dumplings sounds like you'll never get them out of the pan",
-      "answer": "Pot stickers",
-      "is_daily_double": false,
-      "id": "162796"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "WHAT'S TO EAT?",
-      "point_value": 300,
-      "question": "It's the Irish-sounding name for a diced potato dish fried with onions & peppers",
-      "answer": "Potatoes O'Brien",
-      "is_daily_double": false,
-      "id": "162797"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "WHAT'S TO EAT?",
-      "point_value": 400,
-      "question": "Fresh broccoli & zucchini are often featured in this pasta dish served in \"spring\" or any time",
-      "answer": "Pasta Primavera",
-      "is_daily_double": false,
-      "id": "162798"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "WHAT'S TO EAT?",
-      "point_value": 500,
-      "question": "We salute you if you know port-salut is a type of this",
-      "answer": "Cheese",
-      "is_daily_double": false,
-      "id": "162799"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "WHEN-THEY-WERE-YOUNG FILMS",
-      "point_value": 100,
-      "question": "Steven Spielberg produced a 1985 film about this Conan Doyle detective's first case",
-      "answer": "Sherlock Holmes",
-      "is_daily_double": false,
-      "id": "162800"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "WHEN-THEY-WERE-YOUNG FILMS",
-      "point_value": 200,
-      "question": "Henry Fonda played him \"Young\" & Raymond Massey played him young & \"In Illinois\"",
-      "answer": "Abraham Lincoln",
-      "is_daily_double": false,
-      "id": "162801"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "WHEN-THEY-WERE-YOUNG FILMS",
-      "point_value": 300,
-      "question": "In a 1972 film Simon Ward played this prime minister from ages 19 to 26",
-      "answer": "Winston Churchill",
-      "is_daily_double": false,
-      "id": "162802"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "1",
-      "category": "WHEN-THEY-WERE-YOUNG FILMS",
-      "point_value": 400,
-      "question": "In a 1991 TNT miniseries Julia Ormond played this woman before her empress years",
-      "answer": "Catherine the Great",
-      "is_daily_double": false,
-      "id": "162803"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "\"FIELD\"",
-      "point_value": 200,
-      "question": "\"Let me take you down, 'cause I'm going to\" this place; \"Nothing is real and nothing to get hung about\"",
-      "answer": "Strawberry Fields",
-      "is_daily_double": false,
-      "id": "162825"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "\"FIELD\"",
-      "point_value": 400,
-      "question": "Binoculars",
-      "answer": "Field glasses",
-      "is_daily_double": false,
-      "id": "162826"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "\"FIELD\"",
+      "category": "ANCIENT CHINESE EMPERORS",
       "point_value": 600,
-      "question": "Military title shared by Horatio Kitchener, Erwin Rommel & Bernard Montgomery",
-      "answer": "Field marshall",
+      "question": "From 180 to 157 B.C. it was this man whose name sounds like the female symbol of a burger chain",
+      "answer": "Wen Di",
       "is_daily_double": false,
-      "id": "162827"
+      "id": "374605"
     },
     {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "\"FIELD\"",
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "GREETINGS FROM THE NORTH POLE",
+      "point_value": 200,
+      "question": "In July 2007 Lewis Pugh became the first human to do this across the North Pole: we bet his Speedo was chilly!",
+      "answer": "swim",
+      "is_daily_double": false,
+      "id": "374606"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "GREETINGS FROM THE NORTH POLE",
+      "point_value": 400,
+      "question": "In 2102 this star, also called the Pole or North Star, will be less than one-half degree from celestial north",
+      "answer": "Polaris",
+      "is_daily_double": false,
+      "id": "374607"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "GREETINGS FROM THE NORTH POLE",
+      "point_value": 600,
+      "question": "The North Pole lies at the latitude of this many degrees",
+      "answer": "90 (degrees north)",
+      "is_daily_double": false,
+      "id": "374608"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "GREETINGS FROM THE NORTH POLE",
       "point_value": 800,
-      "question": "1963 film in which Sidney Poitier played a handyman who builds a chapel for 5 German-speaking nuns",
-      "answer": "Lilies Of The Field",
+      "question": "Sunrise at the North Pole takes place just before the spring one of these, & sunset is just after another one 6 months later",
+      "answer": "the equinox",
       "is_daily_double": false,
-      "id": "162828"
+      "id": "374609"
     },
     {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "\"FIELD\"",
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "GREETINGS FROM THE NORTH POLE",
       "point_value": 1000,
-      "question": "With the infamous 30 pieces of silver, the chief priests bought this \"To bury strangers in\"",
-      "answer": "Potter's Field",
+      "question": "Kaffeklubben Island, which belongs to this larger Danish island, is the closest land to the North Pole",
+      "answer": "Greenland",
       "is_daily_double": false,
-      "id": "162829"
+      "id": "374610"
     },
     {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "ANCIENT HISTORY",
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "IT'S MAGIC TIME!",
       "point_value": 200,
-      "question": "Around 2600 B.C. Pharaoh Djoser was entombed in a step one, the first large stone structure",
-      "answer": "Pyramid",
+      "question": "According to their contract rider, the talking one of this magical duo \"eats fire...(but) does not blow or shoot flames\"",
+      "answer": "Penn & Teller",
       "is_daily_double": false,
-      "id": "162804"
+      "id": "374611"
     },
     {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "ANCIENT HISTORY",
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "IT'S MAGIC TIME!",
       "point_value": 400,
-      "question": "Tien, a version of this divine abode, became part of Chinese religion around 1000 B.C.",
-      "answer": "Heaven",
+      "question": "The magician Kuda Bux was most famous for his ability to drive a car this way",
+      "answer": "blindfolded",
       "is_daily_double": false,
-      "id": "162805"
+      "id": "374612"
     },
     {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "ANCIENT HISTORY",
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "IT'S MAGIC TIME!",
       "point_value": 600,
-      "question": "About 20,000 years ago, hunters crossed what's now this strait to become North American Indians",
-      "answer": "Bering Strait",
-      "is_daily_double": false,
-      "id": "162806"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "ANCIENT HISTORY",
-      "point_value": 800,
-      "question": "From 500 to 300 B.C. these Roman common citizens won political rights from the Patricians",
-      "answer": "Plebeians",
-      "is_daily_double": false,
-      "id": "162807"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "ANCIENT HISTORY",
-      "point_value": 1000,
-      "question": "In the Bible Uriah was a member of these people who conquered Babylon around 1595 B.C.",
-      "answer": "Hittites",
-      "is_daily_double": false,
-      "id": "162808"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "HIE WE TO YON RENAISSANCE FAIRE",
-      "point_value": 200,
-      "question": "Among well-beloved faire fare be the leg of this fowl, also much favored in giving thanks",
-      "answer": "Turkey",
-      "is_daily_double": false,
-      "id": "162809"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "HIE WE TO YON RENAISSANCE FAIRE",
-      "point_value": 400,
-      "question": "There be dancing about this beribboned shaft every faire day, not merely once in the year",
-      "answer": "Maypole",
-      "is_daily_double": false,
-      "id": "162810"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "HIE WE TO YON RENAISSANCE FAIRE",
-      "point_value": 600,
-      "question": "Honest knights do battle both in the joust & upon a giant board for this olde game",
-      "answer": "Chess",
-      "is_daily_double": false,
-      "id": "162811"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "HIE WE TO YON RENAISSANCE FAIRE",
-      "point_value": 1000,
-      "question": "The folk who love & work at faires may well belong to the SCA, being the Society for Creative this",
-      "answer": "Anachronism",
-      "is_daily_double": false,
-      "id": "162812"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "NOVEL VOCABULARY",
-      "point_value": 200,
-      "question": "Emily Bronte said this title word is a \"Provincial adjective, descriptive of....atmospheric tumult\"",
-      "answer": "Wuthering",
-      "is_daily_double": false,
-      "id": "162813"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "NOVEL VOCABULARY",
-      "point_value": 1000,
-      "question": "Epitasis, a word found in \"Tristram Shandy\", is the part of a play in which this \"thickens\"",
-      "answer": "The plot",
-      "is_daily_double": false,
-      "id": "162814"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "TRACK",
-      "point_value": 200,
-      "question": "The \"anchor\" for this type of event is no dead weight; he's usually the team's fastest runner",
-      "answer": "Relay race",
-      "is_daily_double": false,
-      "id": "162815"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "TRACK",
-      "point_value": 400,
-      "question": "This track star's authorized hats & T-shirts sold in Europe & Asia proclaim him to be \"King Carl\"",
-      "answer": "Carl Lewis",
-      "is_daily_double": false,
-      "id": "162816"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "TRACK",
-      "point_value": 600,
-      "question": "This 3,000-meter event consists of 28 3-foot-high hurdles & 7 12-foot-long water jumps",
-      "answer": "steeplechase",
-      "is_daily_double": false,
-      "id": "162817"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "TRACK",
-      "point_value": 800,
-      "question": "On August 16, 1995 this country's Haile Gebrselassie set the world record in the 5,000-meter run at 12:44:39",
-      "answer": "Ethiopia",
+      "question": "Leonardo DiCaprio hosted a 1996 \"Street Magic\" TV special by this man now known for his endurance stunts",
+      "answer": "David Blaine",
       "is_daily_double": true,
-      "id": "162818"
+      "id": "374613"
     },
     {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "TRACK",
-      "point_value": 1000,
-      "question": "On June 1, 1997 Donovan Bailey defeated this sprinter in a special 150-meter match race to win $1.5 million",
-      "answer": "Michael Johnson",
-      "is_daily_double": false,
-      "id": "162819"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "YOUNG STARS",
-      "point_value": 200,
-      "question": "Ariana Richards & Joseph Mazzello were the youngsters in this 1993 dinosaur spectacular",
-      "answer": "Jurassic Park",
-      "is_daily_double": false,
-      "id": "162820"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "YOUNG STARS",
-      "point_value": 400,
-      "question": "Jason James Richter played Jesse, the 12-year-old who helped \"free\" this title movie character",
-      "answer": "Willy",
-      "is_daily_double": false,
-      "id": "162821"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "YOUNG STARS",
-      "point_value": 600,
-      "question": "He plays the title boy in ABC's \"Boy Meets World\"",
-      "answer": "Ben Savage",
-      "is_daily_double": false,
-      "id": "162822"
-    },
-    {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "YOUNG STARS",
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "IT'S MAGIC TIME!",
       "point_value": 800,
-      "question": "She got \"Greedy\" playing \"Jumanji\" during an \"Interview With The Vampire\"",
-      "answer": "Kirsten Dunst",
+      "question": "Talk about a \"Mindfreak\"! A YouTube video of this Vegas star walking on water across a pool has 46 million views",
+      "answer": "Criss Angel",
       "is_daily_double": false,
-      "id": "162823"
+      "id": "374614"
     },
     {
-      "air_date": "1998-01-02",
-      "round": "2",
-      "category": "YOUNG STARS",
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "IT'S MAGIC TIME!",
       "point_value": 1000,
-      "question": "On Nickelodeon Irene Ng stars in \"The Mystery Files Of\" this teen detective",
-      "answer": "Shelby Woo",
+      "question": "This magic man is known for his 52 assistants, which help him accomplish spectacular feats",
+      "answer": "Ricky Jay",
       "is_daily_double": false,
-      "id": "162824"
+      "id": "374615"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "LATIN WORDS & PHRASES",
+      "point_value": 200,
+      "question": "In Latin, John 8:32 reads, \"veritas liberabit vos\", or in the King James version, this \"shall make you free\"",
+      "answer": "the truth",
+      "is_daily_double": false,
+      "id": "374616"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "LATIN WORDS & PHRASES",
+      "point_value": 400,
+      "question": "Meaning \"bountiful mother\", it's been used for centuries to refer to the school someone attended",
+      "answer": "alma mater",
+      "is_daily_double": false,
+      "id": "374617"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "LATIN WORDS & PHRASES",
+      "point_value": 600,
+      "question": "Postmortem means after death; postbellum is after this",
+      "answer": "war",
+      "is_daily_double": false,
+      "id": "374618"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "LATIN WORDS & PHRASES",
+      "point_value": 800,
+      "question": "A 1988 body-switching movie comedy, or a 2-word Latin term meaning \"conversely\"",
+      "answer": "vice versa",
+      "is_daily_double": false,
+      "id": "374619"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "LATIN WORDS & PHRASES",
+      "point_value": 1000,
+      "question": "Caveat emptor is \"let the buyer beware\" & caveat lector is this",
+      "answer": "let the reader beware",
+      "is_daily_double": false,
+      "id": "374620"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "MERRY CHRIS",
+      "point_value": 200,
+      "question": "Chris Parnell & Andy Samberg rapped their love of Google maps & the Chronic-what?-cles of Narnia on this show",
+      "answer": "Saturday Night Live",
+      "is_daily_double": false,
+      "id": "374621"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "MERRY CHRIS",
+      "point_value": 400,
+      "question": "Gun control? No, bullet control, said this comic: \"If a bullet costs $5,000, there'll be no more innocent bystanders\"",
+      "answer": "Chris Rock",
+      "is_daily_double": false,
+      "id": "374622"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "MERRY CHRIS",
+      "point_value": 600,
+      "question": "In this film Chris Tucker asks Jackie Chan, \"Do you understand the words that are coming out of my mouth?!\"",
+      "answer": "Rush Hour",
+      "is_daily_double": false,
+      "id": "374623"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "MERRY CHRIS",
+      "point_value": 800,
+      "question": "Told that Spinal Tap's album cover is sexist, Nigel, played by this actor, asks, \"What's wrong with being sexy?\"",
+      "answer": "Christopher Guest",
+      "is_daily_double": false,
+      "id": "374624"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "MERRY CHRIS",
+      "point_value": 1000,
+      "question": "As Jim on \"Taxi\", he asked, \"What does a yellow light mean?\" (Slow down!) \"OK. What... does... a... yellow... light... mean?\"",
+      "answer": "Christopher Lloyd",
+      "is_daily_double": false,
+      "id": "374625"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "STREET SMARTS",
+      "point_value": 200,
+      "question": "It's a street without an exit, or a phrase commonly used of some jobs",
+      "answer": "a dead end",
+      "is_daily_double": false,
+      "id": "374626"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "STREET SMARTS",
+      "point_value": 400,
+      "question": "In the 19th century Baron Haussmann created many of these wide streets in Paris; one is now named for him",
+      "answer": "a boulevard",
+      "is_daily_double": false,
+      "id": "374627"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "STREET SMARTS",
+      "point_value": 600,
+      "question": "A recessed area at the side of a road to carry off surface water; keep your mind out of it",
+      "answer": "a gutter",
+      "is_daily_double": false,
+      "id": "374628"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "STREET SMARTS",
+      "point_value": 800,
+      "question": "The shape of narrowing lanes for drivers gives us this term for the congestion that results",
+      "answer": "bottleneck",
+      "is_daily_double": false,
+      "id": "374629"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "1",
+      "category": "STREET SMARTS",
+      "point_value": 1000,
+      "question": "Manhattan's Alphabet City gets its name from these, lettered A, B, C & D (no Q)",
+      "answer": "Avenues",
+      "is_daily_double": false,
+      "id": "374630"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "CHEESY COUNTRIES",
+      "point_value": 400,
+      "question": "Provolone",
+      "answer": "Italy",
+      "is_daily_double": false,
+      "id": "374631"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "CHEESY COUNTRIES",
+      "point_value": 800,
+      "question": "Stilton",
+      "answer": "the U.K.",
+      "is_daily_double": false,
+      "id": "374632"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "CHEESY COUNTRIES",
+      "point_value": 1200,
+      "question": "Gouda",
+      "answer": "the Netherlands",
+      "is_daily_double": false,
+      "id": "374633"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "CHEESY COUNTRIES",
+      "point_value": 1600,
+      "question": "Havarti",
+      "answer": "Denmark",
+      "is_daily_double": false,
+      "id": "374634"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "DOUBLE \"F\"",
+      "point_value": 400,
+      "question": "French for \"puffed out\", it's a puffed-out hairstyle",
+      "answer": "a bouffant",
+      "is_daily_double": false,
+      "id": "374635"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "DOUBLE \"F\"",
+      "point_value": 800,
+      "question": "Newborns of this African mammal may stand 6 1/2 feet tall & weigh 250 pounds",
+      "answer": "a giraffe",
+      "is_daily_double": false,
+      "id": "374636"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "DOUBLE \"F\"",
+      "point_value": 1200,
+      "question": "In baseball, it's slang for a strikeout",
+      "answer": "a whiff",
+      "is_daily_double": false,
+      "id": "374637"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "DOUBLE \"F\"",
+      "point_value": 1600,
+      "question": "This white or colorless wax is used to make candles & to seal materials",
+      "answer": "paraffin",
+      "is_daily_double": false,
+      "id": "374638"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "DOUBLE \"F\"",
+      "point_value": 2000,
+      "question": "Dating from the early 1920s, this term refers to a person who shows contempt for rules or accepted practices",
+      "answer": "a scofflaw",
+      "is_daily_double": false,
+      "id": "374639"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "I AM SOMEBODY",
+      "point_value": 400,
+      "question": "I'm the gal who married Joe DiMaggio in 1954",
+      "answer": "Marilyn Monroe",
+      "is_daily_double": false,
+      "id": "374640"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "I AM SOMEBODY",
+      "point_value": 800,
+      "question": "I'm \"the great\" king of Persia, Koresh in Hebrew, who ended the Jews' Babylonian exile",
+      "answer": "Cyrus",
+      "is_daily_double": false,
+      "id": "374641"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "I AM SOMEBODY",
+      "point_value": 1200,
+      "question": "I am Susan Bennett & I revealed myself to be the original voice of this iPhone assistant",
+      "answer": "Siri",
+      "is_daily_double": false,
+      "id": "374642"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "I AM SOMEBODY",
+      "point_value": 1600,
+      "question": "I'm the British 8th Army field marshal who beat Rommel at El Alamein",
+      "answer": "Montgomery",
+      "is_daily_double": false,
+      "id": "374643"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "I AM SOMEBODY",
+      "point_value": 2000,
+      "question": "I'm the author of \"Sartoris\" & \"Intruder in the Dust\"",
+      "answer": "William Faulkner",
+      "is_daily_double": false,
+      "id": "374644"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "MASTERS OF SAX",
+      "point_value": 400,
+      "question": "That's Bobby Keys blowing sax all over this band's \"Exile on Main Street\" & other classic albums",
+      "answer": "the Rolling Stones",
+      "is_daily_double": false,
+      "id": "374645"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "MASTERS OF SAX",
+      "point_value": 800,
+      "question": "Stan Getz provided the lilting sax on this 1964 hit about a \"tall and tan and young and lovely\" Brazilian gal",
+      "answer": "\"The Girl From Ipanema\"",
+      "is_daily_double": false,
+      "id": "374646"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "MASTERS OF SAX",
+      "point_value": 1200,
+      "question": "The \"Big Man\" of the E Street Band, he blew his last solo in 2011",
+      "answer": "Clarence Clemons",
+      "is_daily_double": false,
+      "id": "374647"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "MASTERS OF SAX",
+      "point_value": 1600,
+      "question": "Alto sax man Paul Desmond composed this numerical classic for the Dave Brubeck Quartet",
+      "answer": "\"Take Five\"",
+      "is_daily_double": false,
+      "id": "374648"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "RADIOASTRONOMY",
+      "point_value": 400,
+      "question": "(Jimmy of the Clue Crew presents the clue from the Green Bank Observatory in West Virginia.) The Byrd Telescope has helped astronomers map the remnants of SN 1006, one of these spectacular events; when it was first observed 1,000 years ago, It was so bright, it was visible to the naked eye in daylight",
+      "answer": "a supernova",
+      "is_daily_double": false,
+      "id": "374649"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "RADIOASTRONOMY",
+      "point_value": 800,
+      "question": "(Jimmy of the Clue Crew presents the clue from the Green Bank Observatory in West Virginia.) Green Bank's telescopes are so sensitive that even the radiation emitted by a car's spark plugs can cause interference, so the observatory's vehicle fleet, including old pickups and Checker cabs, is powered solely by this type of spark-plug-free engine",
+      "answer": "diesel",
+      "is_daily_double": false,
+      "id": "374650"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "RADIOASTRONOMY",
+      "point_value": 1200,
+      "question": "(Jimmy of the Clue Crew presents the clue from the Green Bank Observatory in West Virginia.) In addition to giant modern scopes, Green Bank houses the first radio telescope used in 1938 to confirm that mysterious static on phone lines was caused by radiation emanating from this, visible as a glowing band across the night sky",
+      "answer": "the Milky Way",
+      "is_daily_double": false,
+      "id": "374651"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "RADIOASTRONOMY",
+      "point_value": 1600,
+      "question": "(Jimmy of the Clue Crew presents the clue from the Green Bank Observatory in West Virginia.) In 2013, Green Bank scientists, using the Byrd telescope, found possible signs of these waves, ripples in space-time that were predicted by Einstein's general theory of relativity nearly a century before",
+      "answer": "gravity waves",
+      "is_daily_double": false,
+      "id": "374652"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "RADIOASTRONOMY",
+      "point_value": 2000,
+      "question": "(Jimmy of the Clue Crew presents the clue from the Green Bank Observatory in West Virginia.) In the last decade alone, Green Bank's Byrd telescope has discovered more than 100 of these rapidly spinning stars that act like interstellar lighthouses, emitting strong bursts of radiation at regular intervals",
+      "answer": "pulsars",
+      "is_daily_double": true,
+      "id": "374653"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "SOLVE THE MYSTERY TITLE",
+      "point_value": 400,
+      "question": "Starting a series by Lawrence Sanders, \"The First Deadly ____\"",
+      "answer": "Sin",
+      "is_daily_double": false,
+      "id": "374654"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "SOLVE THE MYSTERY TITLE",
+      "point_value": 800,
+      "question": "Agatha Christie's \"The Mirror ____ from Side to Side\"",
+      "answer": "Crack'd",
+      "is_daily_double": false,
+      "id": "374655"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "SOLVE THE MYSTERY TITLE",
+      "point_value": 1200,
+      "question": "Michael Connelly's \"The Lincoln ____\"",
+      "answer": "Lawyer",
+      "is_daily_double": false,
+      "id": "374656"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "SOLVE THE MYSTERY TITLE",
+      "point_value": 1600,
+      "question": "By Kathy Reichs, \"____ Are Forever\" & \"206 ____\"",
+      "answer": "Bones",
+      "is_daily_double": true,
+      "id": "374657"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "2",
+      "category": "SOLVE THE MYSTERY TITLE",
+      "point_value": 2000,
+      "question": "Lawrence Block's \"The ____ in the Closet\" & \"The ____ on the Prowl\"",
+      "answer": "Burglar",
+      "is_daily_double": false,
+      "id": "374658"
+    },
+    {
+      "air_date": "2013-12-23",
+      "round": "3",
+      "category": "PRESIDENTS & FILM",
+      "point_value": 0,
+      "question": "Jimmy Carter held 480 screenings at the White House; his first was this film set in 1970s Washington, D.C.",
+      "answer": "All the President's Men",
+      "is_daily_double": false,
+      "id": "374659"
     }
   ]
 }
