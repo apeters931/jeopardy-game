@@ -1,576 +1,616 @@
 {
-  "id": "bcf4f98e8bd48c7e",
-  "air_date": "2013-12-23",
+  "id": "86a580486a47f4e1",
+  "air_date": "2023-11-29",
   "questions": [
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "1",
-      "category": "ANCIENT CHINESE EMPERORS",
+      "category": "A CONTRADICTION IN TERMS",
       "point_value": 200,
-      "question": "Ruling from about 1600 B.C., it was this man whose name sounds like a breakfast drink",
-      "answer": "Tang",
+      "question": "We don't see what was so good about this 2-word term for the worldwide 1930s economic disaster",
+      "answer": "the Great Depression",
       "is_daily_double": false,
-      "id": "374603"
+      "id": "505949"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "1",
-      "category": "ANCIENT CHINESE EMPERORS",
+      "category": "A CONTRADICTION IN TERMS",
       "point_value": 400,
-      "question": "In legend not me, but Yu tamed this disaster by dredging out existing waterways",
-      "answer": "flooding (the Great Flood)",
+      "question": "Both pleasant & painful, as in a memory",
+      "answer": "bittersweet",
       "is_daily_double": false,
-      "id": "374604"
+      "id": "505950"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "1",
-      "category": "ANCIENT CHINESE EMPERORS",
+      "category": "A CONTRADICTION IN TERMS",
       "point_value": 600,
-      "question": "From 180 to 157 B.C. it was this man whose name sounds like the female symbol of a burger chain",
-      "answer": "Wen Di",
+      "question": "Alliterative 2-word term for action by one's own forces causing casualties to one's own troops",
+      "answer": "friendly fire",
       "is_daily_double": false,
-      "id": "374605"
+      "id": "505951"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "1",
-      "category": "GREETINGS FROM THE NORTH POLE",
-      "point_value": 200,
-      "question": "In July 2007 Lewis Pugh became the first human to do this across the North Pole: we bet his Speedo was chilly!",
-      "answer": "swim",
-      "is_daily_double": false,
-      "id": "374606"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "GREETINGS FROM THE NORTH POLE",
-      "point_value": 400,
-      "question": "In 2102 this star, also called the Pole or North Star, will be less than one-half degree from celestial north",
-      "answer": "Polaris",
-      "is_daily_double": false,
-      "id": "374607"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "GREETINGS FROM THE NORTH POLE",
-      "point_value": 600,
-      "question": "The North Pole lies at the latitude of this many degrees",
-      "answer": "90 (degrees north)",
-      "is_daily_double": false,
-      "id": "374608"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "GREETINGS FROM THE NORTH POLE",
+      "category": "A CONTRADICTION IN TERMS",
       "point_value": 800,
-      "question": "Sunrise at the North Pole takes place just before the spring one of these, & sunset is just after another one 6 months later",
-      "answer": "the equinox",
+      "question": "2-word term for something supposedly confidential but actually known quite generally",
+      "answer": "open secret",
       "is_daily_double": false,
-      "id": "374609"
+      "id": "505952"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "1",
-      "category": "GREETINGS FROM THE NORTH POLE",
+      "category": "A CONTRADICTION IN TERMS",
       "point_value": 1000,
-      "question": "Kaffeklubben Island, which belongs to this larger Danish island, is the closest land to the North Pole",
-      "answer": "Greenland",
+      "question": "This computer language gets oxymoronic when it follows \"advanced\"",
+      "answer": "BASIC",
       "is_daily_double": false,
-      "id": "374610"
+      "id": "505953"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "1",
-      "category": "IT'S MAGIC TIME!",
+      "category": "A, B OR C",
       "point_value": 200,
-      "question": "According to their contract rider, the talking one of this magical duo \"eats fire...(but) does not blow or shoot flames\"",
-      "answer": "Penn & Teller",
+      "question": "Alphabetically, it's the first letter that does not begin a state name",
+      "answer": "B",
       "is_daily_double": false,
-      "id": "374611"
+      "id": "505954"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "1",
-      "category": "IT'S MAGIC TIME!",
+      "category": "A, B OR C",
       "point_value": 400,
-      "question": "The magician Kuda Bux was most famous for his ability to drive a car this way",
-      "answer": "blindfolded",
+      "question": "Not a blood type",
+      "answer": "C",
       "is_daily_double": false,
-      "id": "374612"
+      "id": "505955"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "1",
-      "category": "IT'S MAGIC TIME!",
+      "category": "A, B OR C",
       "point_value": 600,
-      "question": "Leonardo DiCaprio hosted a 1996 \"Street Magic\" TV special by this man now known for his endurance stunts",
-      "answer": "David Blaine",
+      "question": "In the name of the outfit that first broadcast the U.S. House in 1979, this precedes \"SPAN\"",
+      "answer": "C",
+      "is_daily_double": false,
+      "id": "505956"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "A, B OR C",
+      "point_value": 800,
+      "question": "A vitamin found in vegetables & dairy products, it's also called retinol",
+      "answer": "vitamin A",
+      "is_daily_double": false,
+      "id": "505957"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "A, B OR C",
+      "point_value": 1000,
+      "question": "Used as an abbreviation for the standard unit of weight for gems",
+      "answer": "C",
+      "is_daily_double": false,
+      "id": "505958"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "DISCOGRAPHIES",
+      "point_value": 200,
+      "question": "\"Sonic Highways\": this Dave Grohl band",
+      "answer": "Foo Fighters",
+      "is_daily_double": false,
+      "id": "505959"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "DISCOGRAPHIES",
+      "point_value": 400,
+      "question": "\"Houses of the Holy\": these rockers",
+      "answer": "Led Zeppelin",
+      "is_daily_double": false,
+      "id": "505960"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "DISCOGRAPHIES",
+      "point_value": 600,
+      "question": "\"In the Lonely Hour\": this singer",
+      "answer": "Sam Smith",
+      "is_daily_double": false,
+      "id": "505961"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "DISCOGRAPHIES",
+      "point_value": 800,
+      "question": "\"It's the Girls!\": this divine singer",
+      "answer": "Bette Midler",
+      "is_daily_double": false,
+      "id": "505962"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "DISCOGRAPHIES",
+      "point_value": 1000,
+      "question": "\"Girl\" (2014): this \"Happy\" guy",
+      "answer": "Pharrell Williams",
+      "is_daily_double": false,
+      "id": "505963"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "HERE COMES THE NEIGHBORHOOD",
+      "point_value": 200,
+      "question": "Pennsport & Northern Liberties are neighborhoods in this big city",
+      "answer": "Philadelphia",
+      "is_daily_double": false,
+      "id": "505964"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "HERE COMES THE NEIGHBORHOOD",
+      "point_value": 400,
+      "question": "Miami districts include \"Little Haiti\" & \"Little\" this city, home to many exiles from Cuba",
+      "answer": "Havana",
+      "is_daily_double": false,
+      "id": "505965"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "HERE COMES THE NEIGHBORHOOD",
+      "point_value": 600,
+      "question": "Just north of downtown Seattle is this \"Hill\", though the state government is in Olympia",
+      "answer": "Capitol Hill",
+      "is_daily_double": false,
+      "id": "505966"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "HERE COMES THE NEIGHBORHOOD",
+      "point_value": 800,
+      "question": "The TV home of Mary Richards, this city's Kenwood neighborhood lies along Lake of the Isles",
+      "answer": "Minneapolis",
+      "is_daily_double": false,
+      "id": "505967"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "HERE COMES THE NEIGHBORHOOD",
+      "point_value": 1000,
+      "question": "A real Charleston, S.C. neighborhood was the inspiration for this \"Row\" in the opera \"Porgy & Bess\"",
+      "answer": "Catfish Row",
+      "is_daily_double": false,
+      "id": "505968"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "LUCK OF THE DRAW",
+      "point_value": 200,
+      "question": "From the Latin for \"instill with life\", it's the creation of a motion picture from a series of still images",
+      "answer": "animation",
+      "is_daily_double": false,
+      "id": "505969"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "LUCK OF THE DRAW",
+      "point_value": 400,
+      "question": "A prehistoric drawing on stone can be called a petroglyph or this, like art sometimes seen as an urban nuisance",
+      "answer": "graffiti",
+      "is_daily_double": false,
+      "id": "505970"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "LUCK OF THE DRAW",
+      "point_value": 600,
+      "question": "To draw in this liberated style means without support or the guidance of instruments",
+      "answer": "freehand",
+      "is_daily_double": false,
+      "id": "505971"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "LUCK OF THE DRAW",
+      "point_value": 800,
+      "question": "From the name of an 18th century man, it's a profile portrait drawn in black",
+      "answer": "a silhouette",
+      "is_daily_double": false,
+      "id": "505972"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "LUCK OF THE DRAW",
+      "point_value": 1000,
+      "question": "From the Italian for \"exaggerate\", it's a drawing of a person in which certain aspects are magnified for comic effect",
+      "answer": "a caricature",
+      "is_daily_double": false,
+      "id": "505973"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "READING RAINBOW",
+      "point_value": 200,
+      "question": "In the Alex Cross series, James Patterson immediately followed \"Roses Are Red\" with this title",
+      "answer": "Violets Are Blue",
+      "is_daily_double": false,
+      "id": "505974"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "READING RAINBOW",
+      "point_value": 400,
+      "question": "Stephen Crane based this story on the experience of a soldier at the Battle of Chancellorsville",
+      "answer": "The Red Badge of Courage",
+      "is_daily_double": false,
+      "id": "505975"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "READING RAINBOW",
+      "point_value": 600,
+      "question": "\"Anne of Windy Poplars\" is a sequel to this 1908 classic",
+      "answer": "Anne of Green Gables",
+      "is_daily_double": false,
+      "id": "505976"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "1",
+      "category": "READING RAINBOW",
+      "point_value": 800,
+      "question": "In a children's classic by Scott O'Dell, San Nicolas Island is better known as this title place",
+      "answer": "the Island of the Blue Dolphins",
       "is_daily_double": true,
-      "id": "374613"
+      "id": "505977"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "1",
-      "category": "IT'S MAGIC TIME!",
-      "point_value": 800,
-      "question": "Talk about a \"Mindfreak\"! A YouTube video of this Vegas star walking on water across a pool has 46 million views",
-      "answer": "Criss Angel",
-      "is_daily_double": false,
-      "id": "374614"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "IT'S MAGIC TIME!",
+      "category": "READING RAINBOW",
       "point_value": 1000,
-      "question": "This magic man is known for his 52 assistants, which help him accomplish spectacular feats",
-      "answer": "Ricky Jay",
+      "question": "Julien Sorel is the amoral hero of this novel by French author Stendhal",
+      "answer": "The Red and the Black",
       "is_daily_double": false,
-      "id": "374615"
+      "id": "505978"
     },
     {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "LATIN WORDS & PHRASES",
-      "point_value": 200,
-      "question": "In Latin, John 8:32 reads, \"veritas liberabit vos\", or in the King James version, this \"shall make you free\"",
-      "answer": "the truth",
-      "is_daily_double": false,
-      "id": "374616"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "LATIN WORDS & PHRASES",
-      "point_value": 400,
-      "question": "Meaning \"bountiful mother\", it's been used for centuries to refer to the school someone attended",
-      "answer": "alma mater",
-      "is_daily_double": false,
-      "id": "374617"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "LATIN WORDS & PHRASES",
-      "point_value": 600,
-      "question": "Postmortem means after death; postbellum is after this",
-      "answer": "war",
-      "is_daily_double": false,
-      "id": "374618"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "LATIN WORDS & PHRASES",
-      "point_value": 800,
-      "question": "A 1988 body-switching movie comedy, or a 2-word Latin term meaning \"conversely\"",
-      "answer": "vice versa",
-      "is_daily_double": false,
-      "id": "374619"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "LATIN WORDS & PHRASES",
-      "point_value": 1000,
-      "question": "Caveat emptor is \"let the buyer beware\" & caveat lector is this",
-      "answer": "let the reader beware",
-      "is_daily_double": false,
-      "id": "374620"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "MERRY CHRIS",
-      "point_value": 200,
-      "question": "Chris Parnell & Andy Samberg rapped their love of Google maps & the Chronic-what?-cles of Narnia on this show",
-      "answer": "Saturday Night Live",
-      "is_daily_double": false,
-      "id": "374621"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "MERRY CHRIS",
-      "point_value": 400,
-      "question": "Gun control? No, bullet control, said this comic: \"If a bullet costs $5,000, there'll be no more innocent bystanders\"",
-      "answer": "Chris Rock",
-      "is_daily_double": false,
-      "id": "374622"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "MERRY CHRIS",
-      "point_value": 600,
-      "question": "In this film Chris Tucker asks Jackie Chan, \"Do you understand the words that are coming out of my mouth?!\"",
-      "answer": "Rush Hour",
-      "is_daily_double": false,
-      "id": "374623"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "MERRY CHRIS",
-      "point_value": 800,
-      "question": "Told that Spinal Tap's album cover is sexist, Nigel, played by this actor, asks, \"What's wrong with being sexy?\"",
-      "answer": "Christopher Guest",
-      "is_daily_double": false,
-      "id": "374624"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "MERRY CHRIS",
-      "point_value": 1000,
-      "question": "As Jim on \"Taxi\", he asked, \"What does a yellow light mean?\" (Slow down!) \"OK. What... does... a... yellow... light... mean?\"",
-      "answer": "Christopher Lloyd",
-      "is_daily_double": false,
-      "id": "374625"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "STREET SMARTS",
-      "point_value": 200,
-      "question": "It's a street without an exit, or a phrase commonly used of some jobs",
-      "answer": "a dead end",
-      "is_daily_double": false,
-      "id": "374626"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "STREET SMARTS",
-      "point_value": 400,
-      "question": "In the 19th century Baron Haussmann created many of these wide streets in Paris; one is now named for him",
-      "answer": "a boulevard",
-      "is_daily_double": false,
-      "id": "374627"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "STREET SMARTS",
-      "point_value": 600,
-      "question": "A recessed area at the side of a road to carry off surface water; keep your mind out of it",
-      "answer": "a gutter",
-      "is_daily_double": false,
-      "id": "374628"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "STREET SMARTS",
-      "point_value": 800,
-      "question": "The shape of narrowing lanes for drivers gives us this term for the congestion that results",
-      "answer": "bottleneck",
-      "is_daily_double": false,
-      "id": "374629"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "1",
-      "category": "STREET SMARTS",
-      "point_value": 1000,
-      "question": "Manhattan's Alphabet City gets its name from these, lettered A, B, C & D (no Q)",
-      "answer": "Avenues",
-      "is_daily_double": false,
-      "id": "374630"
-    },
-    {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "2",
-      "category": "CHEESY COUNTRIES",
+      "category": "BARRE TENDERS",
       "point_value": 400,
-      "question": "Provolone",
-      "answer": "Italy",
+      "question": "In 1990, he & choreographer Mark Morris founded a touring company called the White Oak Dance Project",
+      "answer": "Baryshnikov",
       "is_daily_double": false,
-      "id": "374631"
+      "id": "505979"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "2",
-      "category": "CHEESY COUNTRIES",
+      "category": "BARRE TENDERS",
       "point_value": 800,
-      "question": "Stilton",
-      "answer": "the U.K.",
+      "question": "In 2015, this prima ballerina made her Broadway debut in \"On the Town\"",
+      "answer": "Misty Copeland",
       "is_daily_double": false,
-      "id": "374632"
+      "id": "505980"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "2",
-      "category": "CHEESY COUNTRIES",
+      "category": "BARRE TENDERS",
       "point_value": 1200,
-      "question": "Gouda",
-      "answer": "the Netherlands",
+      "question": "In 1989, he again danced with the Kirov Ballet, the first time since his defection 28 years earlier",
+      "answer": "Rudolf Nureyev",
       "is_daily_double": false,
-      "id": "374633"
+      "id": "505981"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "2",
-      "category": "CHEESY COUNTRIES",
+      "category": "BARRE TENDERS",
       "point_value": 1600,
-      "question": "Havarti",
-      "answer": "Denmark",
+      "question": "Audiences fauned all over this Kyiv-born dancer when he came to Paris with Diaghilev in 1909",
+      "answer": "Nijinsky",
       "is_daily_double": false,
-      "id": "374634"
+      "id": "505982"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "2",
-      "category": "DOUBLE \"F\"",
-      "point_value": 400,
-      "question": "French for \"puffed out\", it's a puffed-out hairstyle",
-      "answer": "a bouffant",
-      "is_daily_double": false,
-      "id": "374635"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "2",
-      "category": "DOUBLE \"F\"",
-      "point_value": 800,
-      "question": "Newborns of this African mammal may stand 6 1/2 feet tall & weigh 250 pounds",
-      "answer": "a giraffe",
-      "is_daily_double": false,
-      "id": "374636"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "2",
-      "category": "DOUBLE \"F\"",
-      "point_value": 1200,
-      "question": "In baseball, it's slang for a strikeout",
-      "answer": "a whiff",
-      "is_daily_double": false,
-      "id": "374637"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "2",
-      "category": "DOUBLE \"F\"",
-      "point_value": 1600,
-      "question": "This white or colorless wax is used to make candles & to seal materials",
-      "answer": "paraffin",
-      "is_daily_double": false,
-      "id": "374638"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "2",
-      "category": "DOUBLE \"F\"",
+      "category": "BARRE TENDERS",
       "point_value": 2000,
-      "question": "Dating from the early 1920s, this term refers to a person who shows contempt for rules or accepted practices",
-      "answer": "a scofflaw",
+      "question": "This ballerina known for her \"Dying Swan\" role starred in the 1916 silent film \"The Dumb Girl of Portici\"",
+      "answer": "Anna Pavlova",
       "is_daily_double": false,
-      "id": "374639"
+      "id": "505983"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "2",
-      "category": "I AM SOMEBODY",
+      "category": "BEN FRANKLIN'S DRINKER'S DICTIONARY",
       "point_value": 400,
-      "question": "I'm the gal who married Joe DiMaggio in 1954",
-      "answer": "Marilyn Monroe",
+      "question": "\"His head\" (not his bonnet) \"is full of\" these buzzers",
+      "answer": "bees",
       "is_daily_double": false,
-      "id": "374640"
+      "id": "505984"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "2",
-      "category": "I AM SOMEBODY",
+      "category": "BEN FRANKLIN'S DRINKER'S DICTIONARY",
       "point_value": 800,
-      "question": "I'm \"the great\" king of Persia, Koresh in Hebrew, who ended the Jews' Babylonian exile",
-      "answer": "Cyrus",
+      "question": "\"He's had a thump over the head with\" this biblical strongman's \"jawbone\"",
+      "answer": "Samson",
       "is_daily_double": false,
-      "id": "374641"
+      "id": "505985"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "2",
-      "category": "I AM SOMEBODY",
+      "category": "BEN FRANKLIN'S DRINKER'S DICTIONARY",
       "point_value": 1200,
-      "question": "I am Susan Bennett & I revealed myself to be the original voice of this iPhone assistant",
-      "answer": "Siri",
+      "question": "\"He sees\" these (Ben probably didn't mean Walter Payton & Dick Butkus)",
+      "answer": "bears",
       "is_daily_double": false,
-      "id": "374642"
+      "id": "505986"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "2",
-      "category": "I AM SOMEBODY",
+      "category": "BEN FRANKLIN'S DRINKER'S DICTIONARY",
       "point_value": 1600,
-      "question": "I'm the British 8th Army field marshal who beat Rommel at El Alamein",
-      "answer": "Montgomery",
+      "question": "A drunk is \"half way to\" this site of the second skirmish of the Revolution",
+      "answer": "Concord",
       "is_daily_double": false,
-      "id": "374643"
+      "id": "505987"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "2",
-      "category": "I AM SOMEBODY",
+      "category": "BEN FRANKLIN'S DRINKER'S DICTIONARY",
       "point_value": 2000,
-      "question": "I'm the author of \"Sartoris\" & \"Intruder in the Dust\"",
-      "answer": "William Faulkner",
+      "question": "The unsteady fellow has \"lost his\" this, which has a handle called the tiller",
+      "answer": "rudder",
       "is_daily_double": false,
-      "id": "374644"
+      "id": "505988"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "2",
-      "category": "MASTERS OF SAX",
+      "category": "FAREWELL TO THE CHIEF",
       "point_value": 400,
-      "question": "That's Bobby Keys blowing sax all over this band's \"Exile on Main Street\" & other classic albums",
-      "answer": "the Rolling Stones",
+      "question": "December 14, 1799 at his home in Virginia",
+      "answer": "George Washington",
       "is_daily_double": false,
-      "id": "374645"
+      "id": "505989"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "2",
-      "category": "MASTERS OF SAX",
+      "category": "FAREWELL TO THE CHIEF",
       "point_value": 800,
-      "question": "Stan Getz provided the lilting sax on this 1964 hit about a \"tall and tan and young and lovely\" Brazilian gal",
-      "answer": "\"The Girl From Ipanema\"",
+      "question": "July 4, 1826",
+      "answer": "Thomas Jefferson (or John Adams)",
       "is_daily_double": false,
-      "id": "374646"
+      "id": "505990"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "2",
-      "category": "MASTERS OF SAX",
+      "category": "FAREWELL TO THE CHIEF",
       "point_value": 1200,
-      "question": "The \"Big Man\" of the E Street Band, he blew his last solo in 2011",
-      "answer": "Clarence Clemons",
+      "question": "December 26, 1972 in Kansas City, Missouri",
+      "answer": "Truman",
       "is_daily_double": false,
-      "id": "374647"
+      "id": "505991"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "2",
-      "category": "MASTERS OF SAX",
+      "category": "FAREWELL TO THE CHIEF",
       "point_value": 1600,
-      "question": "Alto sax man Paul Desmond composed this numerical classic for the Dave Brubeck Quartet",
-      "answer": "\"Take Five\"",
-      "is_daily_double": false,
-      "id": "374648"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "2",
-      "category": "RADIOASTRONOMY",
-      "point_value": 400,
-      "question": "(Jimmy of the Clue Crew presents the clue from the Green Bank Observatory in West Virginia.) The Byrd Telescope has helped astronomers map the remnants of SN 1006, one of these spectacular events; when it was first observed 1,000 years ago, It was so bright, it was visible to the naked eye in daylight",
-      "answer": "a supernova",
-      "is_daily_double": false,
-      "id": "374649"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "2",
-      "category": "RADIOASTRONOMY",
-      "point_value": 800,
-      "question": "(Jimmy of the Clue Crew presents the clue from the Green Bank Observatory in West Virginia.) Green Bank's telescopes are so sensitive that even the radiation emitted by a car's spark plugs can cause interference, so the observatory's vehicle fleet, including old pickups and Checker cabs, is powered solely by this type of spark-plug-free engine",
-      "answer": "diesel",
-      "is_daily_double": false,
-      "id": "374650"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "2",
-      "category": "RADIOASTRONOMY",
-      "point_value": 1200,
-      "question": "(Jimmy of the Clue Crew presents the clue from the Green Bank Observatory in West Virginia.) In addition to giant modern scopes, Green Bank houses the first radio telescope used in 1938 to confirm that mysterious static on phone lines was caused by radiation emanating from this, visible as a glowing band across the night sky",
-      "answer": "the Milky Way",
-      "is_daily_double": false,
-      "id": "374651"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "2",
-      "category": "RADIOASTRONOMY",
-      "point_value": 1600,
-      "question": "(Jimmy of the Clue Crew presents the clue from the Green Bank Observatory in West Virginia.) In 2013, Green Bank scientists, using the Byrd telescope, found possible signs of these waves, ripples in space-time that were predicted by Einstein's general theory of relativity nearly a century before",
-      "answer": "gravity waves",
-      "is_daily_double": false,
-      "id": "374652"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "2",
-      "category": "RADIOASTRONOMY",
-      "point_value": 2000,
-      "question": "(Jimmy of the Clue Crew presents the clue from the Green Bank Observatory in West Virginia.) In the last decade alone, Green Bank's Byrd telescope has discovered more than 100 of these rapidly spinning stars that act like interstellar lighthouses, emitting strong bursts of radiation at regular intervals",
-      "answer": "pulsars",
+      "question": "August 2, 1923 in San Francisco, California",
+      "answer": "Harding",
       "is_daily_double": true,
-      "id": "374653"
+      "id": "505992"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
       "round": "2",
-      "category": "SOLVE THE MYSTERY TITLE",
-      "point_value": 400,
-      "question": "Starting a series by Lawrence Sanders, \"The First Deadly ____\"",
-      "answer": "Sin",
-      "is_daily_double": false,
-      "id": "374654"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "2",
-      "category": "SOLVE THE MYSTERY TITLE",
-      "point_value": 800,
-      "question": "Agatha Christie's \"The Mirror ____ from Side to Side\"",
-      "answer": "Crack'd",
-      "is_daily_double": false,
-      "id": "374655"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "2",
-      "category": "SOLVE THE MYSTERY TITLE",
-      "point_value": 1200,
-      "question": "Michael Connelly's \"The Lincoln ____\"",
-      "answer": "Lawyer",
-      "is_daily_double": false,
-      "id": "374656"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "2",
-      "category": "SOLVE THE MYSTERY TITLE",
-      "point_value": 1600,
-      "question": "By Kathy Reichs, \"____ Are Forever\" & \"206 ____\"",
-      "answer": "Bones",
-      "is_daily_double": true,
-      "id": "374657"
-    },
-    {
-      "air_date": "2013-12-23",
-      "round": "2",
-      "category": "SOLVE THE MYSTERY TITLE",
+      "category": "FAREWELL TO THE CHIEF",
       "point_value": 2000,
-      "question": "Lawrence Block's \"The ____ in the Closet\" & \"The ____ on the Prowl\"",
-      "answer": "Burglar",
+      "question": "On July 23, 1885 just days after completing his memoirs, he died of cancer at his New York home",
+      "answer": "Ulysses S. Grant",
       "is_daily_double": false,
-      "id": "374658"
+      "id": "505993"
     },
     {
-      "air_date": "2013-12-23",
+      "air_date": "2023-11-29",
+      "round": "2",
+      "category": "LET'S HAVE A \"BALL\"",
+      "point_value": 400,
+      "question": "If you went stompin' at the Savoy, you know it was one of these for dancing",
+      "answer": "a ballroom",
+      "is_daily_double": false,
+      "id": "505994"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "2",
+      "category": "LET'S HAVE A \"BALL\"",
+      "point_value": 800,
+      "question": "To put something into long-term storage, perhaps with small spheres of naphthalene",
+      "answer": "mothball",
+      "is_daily_double": false,
+      "id": "505995"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "2",
+      "category": "LET'S HAVE A \"BALL\"",
+      "point_value": 1200,
+      "question": "To prevent someone from joining a group by voting against him",
+      "answer": "blackball",
+      "is_daily_double": true,
+      "id": "505996"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "2",
+      "category": "LET'S HAVE A \"BALL\"",
+      "point_value": 1600,
+      "question": "Answers inside this fortune-telling toy include \"signs point to yes\" & \"ask again later\"",
+      "answer": "a Magic 8 Ball",
+      "is_daily_double": false,
+      "id": "505997"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "2",
+      "category": "LET'S HAVE A \"BALL\"",
+      "point_value": 2000,
+      "question": "Fungus that discharges a cloud of spores when mature",
+      "answer": "a puffball",
+      "is_daily_double": false,
+      "id": "505998"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "2",
+      "category": "MAKING WAVES",
+      "point_value": 400,
+      "question": "This actor played Johnny Utah, an FBI agent undercover as a surfer dude in 1991's \"Point Break\"",
+      "answer": "(Keanu) Reeves",
+      "is_daily_double": false,
+      "id": "505999"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "2",
+      "category": "MAKING WAVES",
+      "point_value": 800,
+      "question": "Also a 1963 hit by The Surfaris, this is one surfing move I can easily do myself",
+      "answer": "a wipeout",
+      "is_daily_double": false,
+      "id": "506000"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "2",
+      "category": "MAKING WAVES",
+      "point_value": 1200,
+      "question": "When you're inside a wave's hollow but still riding, you're said to be in this colorful waiting area",
+      "answer": "the green room",
+      "is_daily_double": false,
+      "id": "506001"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "2",
+      "category": "MAKING WAVES",
+      "point_value": 1600,
+      "question": "The name of this sport combines snowboarding with something you just learn to go with",
+      "answer": "flowboarding",
+      "is_daily_double": false,
+      "id": "506002"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "2",
+      "category": "MAKING WAVES",
+      "point_value": 2000,
+      "question": "Born at the beach—Cocoa Beach, Florida—he became both the youngest & the oldest surfing world champion",
+      "answer": "Kelly Slater",
+      "is_daily_double": false,
+      "id": "506003"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "2",
+      "category": "METRICKY PROBLEMS",
+      "point_value": 400,
+      "question": "32,000 ounces make a short one; 3,274 more make a metric one",
+      "answer": "a ton",
+      "is_daily_double": false,
+      "id": "506004"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "2",
+      "category": "METRICKY PROBLEMS",
+      "point_value": 800,
+      "question": "Metric cowboys wear 37.85-liter hats instead of these",
+      "answer": "a 10-gallon hat",
+      "is_daily_double": false,
+      "id": "506005"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "2",
+      "category": "METRICKY PROBLEMS",
+      "point_value": 1200,
+      "question": "That grain of salt you're taking is just .0648 of this basic metric unit",
+      "answer": "a gram",
+      "is_daily_double": false,
+      "id": "506006"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "2",
+      "category": "METRICKY PROBLEMS",
+      "point_value": 1600,
+      "question": "The measure abbreviated cu yd equals .765 of this",
+      "answer": "a cubic meter",
+      "is_daily_double": false,
+      "id": "506007"
+    },
+    {
+      "air_date": "2023-11-29",
+      "round": "2",
+      "category": "METRICKY PROBLEMS",
+      "point_value": 2000,
+      "question": "\"THE ACRE\" anagrams to this measure, 2.47 acres",
+      "answer": "a hectare",
+      "is_daily_double": false,
+      "id": "506008"
+    },
+    {
+      "air_date": "2023-11-29",
       "round": "3",
-      "category": "PRESIDENTS & FILM",
+      "category": "A BIT OF BRITAIN",
       "point_value": 0,
-      "question": "Jimmy Carter held 480 screenings at the White House; his first was this film set in 1970s Washington, D.C.",
-      "answer": "All the President's Men",
+      "question": "In disarray, it was sold at auction in 1915 to a local Wiltshire man, who would donate it to the British government 3 years later",
+      "answer": "Stonehenge",
       "is_daily_double": false,
-      "id": "374659"
+      "id": "506009"
     }
   ]
 }
