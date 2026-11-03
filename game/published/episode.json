@@ -1,616 +1,606 @@
 {
-  "id": "86a580486a47f4e1",
-  "air_date": "2023-11-29",
+  "id": "2e980c8c73c67acf",
+  "air_date": "1996-05-07",
   "questions": [
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "A CONTRADICTION IN TERMS",
+      "category": "5-LETTER WORDS",
+      "point_value": 100,
+      "question": "Late to class",
+      "answer": "tardy",
+      "is_daily_double": false,
+      "id": "141635"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "1",
+      "category": "5-LETTER WORDS",
       "point_value": 200,
-      "question": "We don't see what was so good about this 2-word term for the worldwide 1930s economic disaster",
-      "answer": "the Great Depression",
+      "question": "It can mean sharp, or refer to an angle of less than 90 degrees",
+      "answer": "acute",
       "is_daily_double": false,
-      "id": "505949"
+      "id": "141636"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "A CONTRADICTION IN TERMS",
+      "category": "5-LETTER WORDS",
+      "point_value": 300,
+      "question": "Term for the claw of a bird of prey",
+      "answer": "a talon",
+      "is_daily_double": false,
+      "id": "141637"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "1",
+      "category": "5-LETTER WORDS",
       "point_value": 400,
-      "question": "Both pleasant & painful, as in a memory",
-      "answer": "bittersweet",
+      "question": "It's a boat used to carry passengers & vehicles across a river",
+      "answer": "a ferry",
       "is_daily_double": false,
-      "id": "505950"
+      "id": "141638"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "A CONTRADICTION IN TERMS",
-      "point_value": 600,
-      "question": "Alliterative 2-word term for action by one's own forces causing casualties to one's own troops",
-      "answer": "friendly fire",
+      "category": "5-LETTER WORDS",
+      "point_value": 500,
+      "question": "This punctuation mark has more uses than any other",
+      "answer": "a comma",
       "is_daily_double": false,
-      "id": "505951"
+      "id": "141639"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "A CONTRADICTION IN TERMS",
-      "point_value": 800,
-      "question": "2-word term for something supposedly confidential but actually known quite generally",
-      "answer": "open secret",
+      "category": "DIALECTS",
+      "point_value": 100,
+      "question": "Fu-chou, Amoy-Swatow, Mandarin",
+      "answer": "Chinese",
       "is_daily_double": false,
-      "id": "505952"
+      "id": "141640"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "A CONTRADICTION IN TERMS",
-      "point_value": 1000,
-      "question": "This computer language gets oxymoronic when it follows \"advanced\"",
-      "answer": "BASIC",
-      "is_daily_double": false,
-      "id": "505953"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "1",
-      "category": "A, B OR C",
+      "category": "DIALECTS",
       "point_value": 200,
-      "question": "Alphabetically, it's the first letter that does not begin a state name",
-      "answer": "B",
+      "question": "Castilian, Andalusian, Aragonese",
+      "answer": "Spanish",
       "is_daily_double": false,
-      "id": "505954"
+      "id": "141641"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "A, B OR C",
+      "category": "DIALECTS",
+      "point_value": 300,
+      "question": "Norman, Angevin, Champenois",
+      "answer": "French",
+      "is_daily_double": false,
+      "id": "141642"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "1",
+      "category": "DIALECTS",
       "point_value": 400,
-      "question": "Not a blood type",
-      "answer": "C",
+      "question": "Cretan, Tsakonian, Peloponnesian",
+      "answer": "Greek",
       "is_daily_double": false,
-      "id": "505955"
+      "id": "141643"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "A, B OR C",
-      "point_value": 600,
-      "question": "In the name of the outfit that first broadcast the U.S. House in 1979, this precedes \"SPAN\"",
-      "answer": "C",
+      "category": "DIALECTS",
+      "point_value": 500,
+      "question": "Thuringian, Swabian, Swiss",
+      "answer": "German",
       "is_daily_double": false,
-      "id": "505956"
+      "id": "141644"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "A, B OR C",
-      "point_value": 800,
-      "question": "A vitamin found in vegetables & dairy products, it's also called retinol",
-      "answer": "vitamin A",
+      "category": "MAMMALS",
+      "point_value": 100,
+      "question": "This extremely tall African mammal usually has 2 skin-covered horns",
+      "answer": "a giraffe",
       "is_daily_double": false,
-      "id": "505957"
+      "id": "141645"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "A, B OR C",
-      "point_value": 1000,
-      "question": "Used as an abbreviation for the standard unit of weight for gems",
-      "answer": "C",
-      "is_daily_double": false,
-      "id": "505958"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "1",
-      "category": "DISCOGRAPHIES",
+      "category": "MAMMALS",
       "point_value": 200,
-      "question": "\"Sonic Highways\": this Dave Grohl band",
-      "answer": "Foo Fighters",
+      "question": "It's web-footed as well as being \"duck-billed\"",
+      "answer": "a platypus",
       "is_daily_double": false,
-      "id": "505959"
+      "id": "141646"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "DISCOGRAPHIES",
+      "category": "MAMMALS",
+      "point_value": 300,
+      "question": "Each of the species of this equine has a distinctive stripe pattern",
+      "answer": "a zebra",
+      "is_daily_double": false,
+      "id": "141647"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "1",
+      "category": "MAMMALS",
       "point_value": 400,
-      "question": "\"Houses of the Holy\": these rockers",
-      "answer": "Led Zeppelin",
+      "question": "The tusks of a walrus are these teeth, elongated",
+      "answer": "canine",
       "is_daily_double": false,
-      "id": "505960"
+      "id": "141648"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "DISCOGRAPHIES",
-      "point_value": 600,
-      "question": "\"In the Lonely Hour\": this singer",
-      "answer": "Sam Smith",
+      "category": "MAMMALS",
+      "point_value": 500,
+      "question": "This great ape of Borneo uses its throat pouch as a resonator for its calls",
+      "answer": "an orangutan",
       "is_daily_double": false,
-      "id": "505961"
+      "id": "141649"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "DISCOGRAPHIES",
-      "point_value": 800,
-      "question": "\"It's the Girls!\": this divine singer",
-      "answer": "Bette Midler",
+      "category": "MUSICAL INSTRUMENTS",
+      "point_value": 100,
+      "question": "The Scottish Lowland type of this instrument had a softer sound than the Highland",
+      "answer": "bagpipes",
       "is_daily_double": false,
-      "id": "505962"
+      "id": "141650"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "DISCOGRAPHIES",
-      "point_value": 1000,
-      "question": "\"Girl\" (2014): this \"Happy\" guy",
-      "answer": "Pharrell Williams",
-      "is_daily_double": false,
-      "id": "505963"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "1",
-      "category": "HERE COMES THE NEIGHBORHOOD",
+      "category": "MUSICAL INSTRUMENTS",
       "point_value": 200,
-      "question": "Pennsport & Northern Liberties are neighborhoods in this big city",
-      "answer": "Philadelphia",
+      "question": "The grand piano ranges in size from the baby grand to this large one used for performances",
+      "answer": "the concert grand",
       "is_daily_double": false,
-      "id": "505964"
+      "id": "141651"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "HERE COMES THE NEIGHBORHOOD",
+      "category": "MUSICAL INSTRUMENTS",
+      "point_value": 300,
+      "question": "Used in Indian music, a tabla is this type of percussion instrument",
+      "answer": "a drum",
+      "is_daily_double": false,
+      "id": "141652"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "1",
+      "category": "MUSICAL INSTRUMENTS",
       "point_value": 400,
-      "question": "Miami districts include \"Little Haiti\" & \"Little\" this city, home to many exiles from Cuba",
-      "answer": "Havana",
+      "question": "Les Paul developed & popularized the solid-body type of this instrument in the 1940s",
+      "answer": "the electric guitar",
       "is_daily_double": false,
-      "id": "505965"
+      "id": "141653"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "HERE COMES THE NEIGHBORHOOD",
-      "point_value": 600,
-      "question": "Just north of downtown Seattle is this \"Hill\", though the state government is in Olympia",
-      "answer": "Capitol Hill",
+      "category": "MUSICAL INSTRUMENTS",
+      "point_value": 500,
+      "question": "This vellum-bellied instrument typically has 4 full-length strings & a shorter fifth \"thumb\" string",
+      "answer": "the banjo",
       "is_daily_double": false,
-      "id": "505966"
+      "id": "141654"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "HERE COMES THE NEIGHBORHOOD",
-      "point_value": 800,
-      "question": "The TV home of Mary Richards, this city's Kenwood neighborhood lies along Lake of the Isles",
-      "answer": "Minneapolis",
+      "category": "TELEVISION",
+      "point_value": 100,
+      "question": "Tim Conway played Ensign Parker on \"McHale's Navy\" & Courtney Thorne-Smith plays Alison Parker on this",
+      "answer": "Melrose Place",
       "is_daily_double": false,
-      "id": "505967"
+      "id": "141655"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "HERE COMES THE NEIGHBORHOOD",
-      "point_value": 1000,
-      "question": "A real Charleston, S.C. neighborhood was the inspiration for this \"Row\" in the opera \"Porgy & Bess\"",
-      "answer": "Catfish Row",
-      "is_daily_double": false,
-      "id": "505968"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "1",
-      "category": "LUCK OF THE DRAW",
+      "category": "TELEVISION",
       "point_value": 200,
-      "question": "From the Latin for \"instill with life\", it's the creation of a motion picture from a series of still images",
-      "answer": "animation",
+      "question": "\"Step by Step\"'s Brandon Call was the original Hobie Buchannon on this beach series",
+      "answer": "Baywatch",
       "is_daily_double": false,
-      "id": "505969"
+      "id": "141656"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "LUCK OF THE DRAW",
-      "point_value": 400,
-      "question": "A prehistoric drawing on stone can be called a petroglyph or this, like art sometimes seen as an urban nuisance",
-      "answer": "graffiti",
+      "category": "TELEVISION",
+      "point_value": 300,
+      "question": "As a Love Boat mermaid in 1985, she performed in production numbers; now she's Lois Lane",
+      "answer": "Teri Hatcher",
       "is_daily_double": false,
-      "id": "505970"
+      "id": "141657"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "LUCK OF THE DRAW",
-      "point_value": 600,
-      "question": "To draw in this liberated style means without support or the guidance of instruments",
-      "answer": "freehand",
+      "category": "TELEVISION",
+      "point_value": 500,
+      "question": "Roanne on \"Phenom\", Jennifer Lien now plays the alien Kes on this series",
+      "answer": "Star Trek: Voyager",
       "is_daily_double": false,
-      "id": "505971"
+      "id": "141658"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "LUCK OF THE DRAW",
-      "point_value": 800,
-      "question": "From the name of an 18th century man, it's a profile portrait drawn in black",
-      "answer": "a silhouette",
+      "category": "U.S. STATES",
+      "point_value": 100,
+      "question": "Alaska's state fossil is this mammoth; hey, it's cold there",
+      "answer": "the woolly mammoth",
       "is_daily_double": false,
-      "id": "505972"
+      "id": "141659"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "LUCK OF THE DRAW",
-      "point_value": 1000,
-      "question": "From the Italian for \"exaggerate\", it's a drawing of a person in which certain aspects are magnified for comic effect",
-      "answer": "a caricature",
-      "is_daily_double": false,
-      "id": "505973"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "1",
-      "category": "READING RAINBOW",
+      "category": "U.S. STATES",
       "point_value": 200,
-      "question": "In the Alex Cross series, James Patterson immediately followed \"Roses Are Red\" with this title",
-      "answer": "Violets Are Blue",
+      "question": "Orleans is this state's largest parish in population",
+      "answer": "Louisiana",
       "is_daily_double": false,
-      "id": "505974"
+      "id": "141660"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "READING RAINBOW",
+      "category": "U.S. STATES",
+      "point_value": 300,
+      "question": "With a population of 19,122, Moscow is one of this Spud State's 10 largest cities",
+      "answer": "Idaho",
+      "is_daily_double": false,
+      "id": "141661"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "1",
+      "category": "U.S. STATES",
       "point_value": 400,
-      "question": "Stephen Crane based this story on the experience of a soldier at the Battle of Chancellorsville",
-      "answer": "The Red Badge of Courage",
+      "question": "You'll find the Mystic Marinelife Aquarium in this \"Nutmeg State\"",
+      "answer": "Connecticut",
       "is_daily_double": false,
-      "id": "505975"
+      "id": "141662"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "1",
-      "category": "READING RAINBOW",
-      "point_value": 600,
-      "question": "\"Anne of Windy Poplars\" is a sequel to this 1908 classic",
-      "answer": "Anne of Green Gables",
+      "category": "U.S. STATES",
+      "point_value": 500,
+      "question": "Before the Civil War, it was nicknamed \"Bleeding\" from the battles over slavery there",
+      "answer": "Kansas",
       "is_daily_double": false,
-      "id": "505976"
+      "id": "141663"
     },
     {
-      "air_date": "2023-11-29",
-      "round": "1",
-      "category": "READING RAINBOW",
-      "point_value": 800,
-      "question": "In a children's classic by Scott O'Dell, San Nicolas Island is better known as this title place",
-      "answer": "the Island of the Blue Dolphins",
-      "is_daily_double": true,
-      "id": "505977"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "1",
-      "category": "READING RAINBOW",
-      "point_value": 1000,
-      "question": "Julien Sorel is the amoral hero of this novel by French author Stendhal",
-      "answer": "The Red and the Black",
-      "is_daily_double": false,
-      "id": "505978"
-    },
-    {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "2",
-      "category": "BARRE TENDERS",
-      "point_value": 400,
-      "question": "In 1990, he & choreographer Mark Morris founded a touring company called the White Oak Dance Project",
-      "answer": "Baryshnikov",
-      "is_daily_double": false,
-      "id": "505979"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "BARRE TENDERS",
-      "point_value": 800,
-      "question": "In 2015, this prima ballerina made her Broadway debut in \"On the Town\"",
-      "answer": "Misty Copeland",
-      "is_daily_double": false,
-      "id": "505980"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "BARRE TENDERS",
-      "point_value": 1200,
-      "question": "In 1989, he again danced with the Kirov Ballet, the first time since his defection 28 years earlier",
-      "answer": "Rudolf Nureyev",
-      "is_daily_double": false,
-      "id": "505981"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "BARRE TENDERS",
-      "point_value": 1600,
-      "question": "Audiences fauned all over this Kyiv-born dancer when he came to Paris with Diaghilev in 1909",
-      "answer": "Nijinsky",
-      "is_daily_double": false,
-      "id": "505982"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "BARRE TENDERS",
-      "point_value": 2000,
-      "question": "This ballerina known for her \"Dying Swan\" role starred in the 1916 silent film \"The Dumb Girl of Portici\"",
-      "answer": "Anna Pavlova",
-      "is_daily_double": false,
-      "id": "505983"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "BEN FRANKLIN'S DRINKER'S DICTIONARY",
-      "point_value": 400,
-      "question": "\"His head\" (not his bonnet) \"is full of\" these buzzers",
-      "answer": "bees",
-      "is_daily_double": false,
-      "id": "505984"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "BEN FRANKLIN'S DRINKER'S DICTIONARY",
-      "point_value": 800,
-      "question": "\"He's had a thump over the head with\" this biblical strongman's \"jawbone\"",
+      "category": "BIBLICAL PEOPLE",
+      "point_value": 200,
+      "question": "He was involved with a Philistine woman from Timnath & a Gaza harlot before taking up with Delilah",
       "answer": "Samson",
       "is_daily_double": false,
-      "id": "505985"
+      "id": "141664"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "2",
-      "category": "BEN FRANKLIN'S DRINKER'S DICTIONARY",
-      "point_value": 1200,
-      "question": "\"He sees\" these (Ben probably didn't mean Walter Payton & Dick Butkus)",
-      "answer": "bears",
-      "is_daily_double": false,
-      "id": "505986"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "BEN FRANKLIN'S DRINKER'S DICTIONARY",
-      "point_value": 1600,
-      "question": "A drunk is \"half way to\" this site of the second skirmish of the Revolution",
-      "answer": "Concord",
-      "is_daily_double": false,
-      "id": "505987"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "BEN FRANKLIN'S DRINKER'S DICTIONARY",
-      "point_value": 2000,
-      "question": "The unsteady fellow has \"lost his\" this, which has a handle called the tiller",
-      "answer": "rudder",
-      "is_daily_double": false,
-      "id": "505988"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "FAREWELL TO THE CHIEF",
+      "category": "BIBLICAL PEOPLE",
       "point_value": 400,
-      "question": "December 14, 1799 at his home in Virginia",
-      "answer": "George Washington",
+      "question": "It's the surname of the Judas who betrayed Jesus",
+      "answer": "Iscariot",
       "is_daily_double": false,
-      "id": "505989"
+      "id": "141665"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "2",
-      "category": "FAREWELL TO THE CHIEF",
+      "category": "BIBLICAL PEOPLE",
+      "point_value": 600,
+      "question": "Japheth, one of his sons, was ancestor to the Gomer, Riphath & Ashkenaz nations",
+      "answer": "Noah",
+      "is_daily_double": false,
+      "id": "141666"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "BIBLICAL PEOPLE",
       "point_value": 800,
-      "question": "July 4, 1826",
-      "answer": "Thomas Jefferson (or John Adams)",
+      "question": "Ishbosheth was the fourth son of this first king of Israel",
+      "answer": "Saul",
       "is_daily_double": false,
-      "id": "505990"
+      "id": "141667"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "2",
-      "category": "FAREWELL TO THE CHIEF",
-      "point_value": 1200,
-      "question": "December 26, 1972 in Kansas City, Missouri",
-      "answer": "Truman",
+      "category": "BIBLICAL PEOPLE",
+      "point_value": 1000,
+      "question": "Hushai remained faithful to this king during Absalom's attempted coup",
+      "answer": "David",
       "is_daily_double": false,
-      "id": "505991"
+      "id": "141668"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "2",
-      "category": "FAREWELL TO THE CHIEF",
-      "point_value": 1600,
-      "question": "August 2, 1923 in San Francisco, California",
-      "answer": "Harding",
+      "category": "EXPLORERS",
+      "point_value": 200,
+      "question": "He was still a youth when his father, Eric the Red, was exiled from Iceland for killing a neighbor",
+      "answer": "Leif Erikson",
+      "is_daily_double": false,
+      "id": "141669"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "EXPLORERS",
+      "point_value": 400,
+      "question": "This New Jersey-born explorer tried to climb the Colorado peak now named for him but failed",
+      "answer": "(Zebulon) Pike",
+      "is_daily_double": false,
+      "id": "141670"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "EXPLORERS",
+      "point_value": 600,
+      "question": "Thomas Livingstone Mitchell found a vast expanse of fertile ground in this country's Victoria state",
+      "answer": "Australia",
+      "is_daily_double": false,
+      "id": "141671"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "EXPLORERS",
+      "point_value": 800,
+      "question": "In 1811 Thomas Manning became the first Englishman to reach this forbidden capital of Tibet",
+      "answer": "Lhasa",
       "is_daily_double": true,
-      "id": "505992"
+      "id": "141672"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "2",
-      "category": "FAREWELL TO THE CHIEF",
-      "point_value": 2000,
-      "question": "On July 23, 1885 just days after completing his memoirs, he died of cancer at his New York home",
-      "answer": "Ulysses S. Grant",
+      "category": "EXPLORERS",
+      "point_value": 1000,
+      "question": "In 1531 Diego de Ordaz set out to explore this Venezuelan river then called the Huyapari",
+      "answer": "the Orinoco",
       "is_daily_double": false,
-      "id": "505993"
+      "id": "141673"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "2",
-      "category": "LET'S HAVE A \"BALL\"",
+      "category": "LITERARY HODGEPODGE",
+      "point_value": 200,
+      "question": "His famous story \"The Tell-Tale Heart\" is told completely in the first person",
+      "answer": "Edgar Allan Poe",
+      "is_daily_double": false,
+      "id": "141674"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "LITERARY HODGEPODGE",
       "point_value": 400,
-      "question": "If you went stompin' at the Savoy, you know it was one of these for dancing",
-      "answer": "a ballroom",
+      "question": "\"Frankenstein\" author whose futuristic 1826 novel \"The Last Man\" describes how a plague destroys mankind",
+      "answer": "(Mary) Shelley",
       "is_daily_double": false,
-      "id": "505994"
+      "id": "141675"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "2",
-      "category": "LET'S HAVE A \"BALL\"",
+      "category": "LITERARY HODGEPODGE",
+      "point_value": 600,
+      "question": "She published her first book cf poetry, \"April Twilights\", in 1903, 10 years before \"O Pioneers!\"",
+      "answer": "Willa Cather",
+      "is_daily_double": false,
+      "id": "141676"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "LITERARY HODGEPODGE",
       "point_value": 800,
-      "question": "To put something into long-term storage, perhaps with small spheres of naphthalene",
-      "answer": "mothball",
+      "question": "He wrote novels that were serialized in magazines before writing great plays like \"Pygmalion\"",
+      "answer": "Shaw",
       "is_daily_double": false,
-      "id": "505995"
+      "id": "141677"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "2",
-      "category": "LET'S HAVE A \"BALL\"",
-      "point_value": 1200,
-      "question": "To prevent someone from joining a group by voting against him",
-      "answer": "blackball",
+      "category": "LITERARY HODGEPODGE",
+      "point_value": 1000,
+      "question": "He wrote his famous 1868 story \"The Luck of Roaring Camp\" for the Overland Monthly, which he edited",
+      "answer": "Bret Harte",
+      "is_daily_double": false,
+      "id": "141678"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "MUSEUMS",
+      "point_value": 200,
+      "question": "The original building of this Washington, D.C. complex is called the Castle",
+      "answer": "the Smithsonian",
+      "is_daily_double": false,
+      "id": "141679"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "MUSEUMS",
+      "point_value": 400,
+      "question": "A Warrens, Wisconsin museum features hands-on exhibits pertaining to this red bog fruit",
+      "answer": "a cranberry",
+      "is_daily_double": false,
+      "id": "141680"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "MUSEUMS",
+      "point_value": 600,
+      "question": "You can see a 2-headed calf at the Ripley's Believe It or Not! Museum in this oldest Florida city",
+      "answer": "St. Augustine",
+      "is_daily_double": false,
+      "id": "141681"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "MUSEUMS",
+      "point_value": 800,
+      "question": "The Taos, New Mexico home of this frontiersman & guide for John C. Fremont is now a museum",
+      "answer": "Kit Carson",
+      "is_daily_double": false,
+      "id": "141682"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "MUSEUMS",
+      "point_value": 1000,
+      "question": "An Aquatic Hall of Fame Museum in this Manitoba capital has models of well-known sailing ships",
+      "answer": "Winnipeg",
+      "is_daily_double": false,
+      "id": "141683"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "THE ELEMENTS",
+      "point_value": 200,
+      "question": "Ra-226, the most abundant isotope of this element, has a half-life of 1,620 years",
+      "answer": "radium",
+      "is_daily_double": false,
+      "id": "141684"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "THE ELEMENTS",
+      "point_value": 400,
+      "question": "The name of this element comes from Greek meaning \"water forming\"",
+      "answer": "hydrogen",
+      "is_daily_double": false,
+      "id": "141685"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "THE ELEMENTS",
+      "point_value": 600,
+      "question": "Compounds of this yellow element, symbol S, are responsible for the scent of skunks",
+      "answer": "sulfur",
+      "is_daily_double": false,
+      "id": "141686"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "THE ELEMENTS",
+      "point_value": 800,
+      "question": "Compounds containing this element are called fluorides",
+      "answer": "fluorine",
+      "is_daily_double": false,
+      "id": "141687"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "THE ELEMENTS",
+      "point_value": 1000,
+      "question": "This metal is used to make bullets because its high density meets little air resistance",
+      "answer": "lead",
+      "is_daily_double": false,
+      "id": "141688"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "WORLD FACTS",
+      "point_value": 200,
+      "question": "Indonesia is one of the world's leading producers of these beverage leaves",
+      "answer": "tea",
+      "is_daily_double": false,
+      "id": "141689"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "WORLD FACTS",
+      "point_value": 400,
+      "question": "The National Library of Turkey is in this capital city",
+      "answer": "Ankara",
+      "is_daily_double": false,
+      "id": "141690"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "WORLD FACTS",
+      "point_value": 600,
+      "question": "Queen Beatrix's alma mater is the University of Leiden in this country",
+      "answer": "the Netherlands",
+      "is_daily_double": false,
+      "id": "141691"
+    },
+    {
+      "air_date": "1996-05-07",
+      "round": "2",
+      "category": "WORLD FACTS",
+      "point_value": 800,
+      "question": "In Gaelic this country's prime minister is known as the taoiseach; currently it's John Bruton",
+      "answer": "Ireland",
       "is_daily_double": true,
-      "id": "505996"
+      "id": "141692"
     },
     {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "2",
-      "category": "LET'S HAVE A \"BALL\"",
-      "point_value": 1600,
-      "question": "Answers inside this fortune-telling toy include \"signs point to yes\" & \"ask again later\"",
-      "answer": "a Magic 8 Ball",
+      "category": "WORLD FACTS",
+      "point_value": 1000,
+      "question": "This Canadian island province is named for a son of King George III",
+      "answer": "Prince Edward Island",
       "is_daily_double": false,
-      "id": "505997"
+      "id": "141693"
     },
     {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "LET'S HAVE A \"BALL\"",
-      "point_value": 2000,
-      "question": "Fungus that discharges a cloud of spores when mature",
-      "answer": "a puffball",
-      "is_daily_double": false,
-      "id": "505998"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "MAKING WAVES",
-      "point_value": 400,
-      "question": "This actor played Johnny Utah, an FBI agent undercover as a surfer dude in 1991's \"Point Break\"",
-      "answer": "(Keanu) Reeves",
-      "is_daily_double": false,
-      "id": "505999"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "MAKING WAVES",
-      "point_value": 800,
-      "question": "Also a 1963 hit by The Surfaris, this is one surfing move I can easily do myself",
-      "answer": "a wipeout",
-      "is_daily_double": false,
-      "id": "506000"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "MAKING WAVES",
-      "point_value": 1200,
-      "question": "When you're inside a wave's hollow but still riding, you're said to be in this colorful waiting area",
-      "answer": "the green room",
-      "is_daily_double": false,
-      "id": "506001"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "MAKING WAVES",
-      "point_value": 1600,
-      "question": "The name of this sport combines snowboarding with something you just learn to go with",
-      "answer": "flowboarding",
-      "is_daily_double": false,
-      "id": "506002"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "MAKING WAVES",
-      "point_value": 2000,
-      "question": "Born at the beach—Cocoa Beach, Florida—he became both the youngest & the oldest surfing world champion",
-      "answer": "Kelly Slater",
-      "is_daily_double": false,
-      "id": "506003"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "METRICKY PROBLEMS",
-      "point_value": 400,
-      "question": "32,000 ounces make a short one; 3,274 more make a metric one",
-      "answer": "a ton",
-      "is_daily_double": false,
-      "id": "506004"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "METRICKY PROBLEMS",
-      "point_value": 800,
-      "question": "Metric cowboys wear 37.85-liter hats instead of these",
-      "answer": "a 10-gallon hat",
-      "is_daily_double": false,
-      "id": "506005"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "METRICKY PROBLEMS",
-      "point_value": 1200,
-      "question": "That grain of salt you're taking is just .0648 of this basic metric unit",
-      "answer": "a gram",
-      "is_daily_double": false,
-      "id": "506006"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "METRICKY PROBLEMS",
-      "point_value": 1600,
-      "question": "The measure abbreviated cu yd equals .765 of this",
-      "answer": "a cubic meter",
-      "is_daily_double": false,
-      "id": "506007"
-    },
-    {
-      "air_date": "2023-11-29",
-      "round": "2",
-      "category": "METRICKY PROBLEMS",
-      "point_value": 2000,
-      "question": "\"THE ACRE\" anagrams to this measure, 2.47 acres",
-      "answer": "a hectare",
-      "is_daily_double": false,
-      "id": "506008"
-    },
-    {
-      "air_date": "2023-11-29",
+      "air_date": "1996-05-07",
       "round": "3",
-      "category": "A BIT OF BRITAIN",
+      "category": "THE ROMAN EMPIRE",
       "point_value": 0,
-      "question": "In disarray, it was sold at auction in 1915 to a local Wiltshire man, who would donate it to the British government 3 years later",
-      "answer": "Stonehenge",
+      "question": "Martial's \"Book of Spectacles\" in 80 A.D. was a book of poems published for this landmark's opening",
+      "answer": "the (Roman) Colosseum (Coliseum)",
       "is_daily_double": false,
-      "id": "506009"
+      "id": "141694"
     }
   ]
 }
