@@ -1,606 +1,616 @@
 {
-  "id": "2e980c8c73c67acf",
-  "air_date": "1996-05-07",
+  "id": "fd09b176c23372b1",
+  "air_date": "1994-01-31",
   "questions": [
     {
-      "air_date": "1996-05-07",
+      "air_date": "1994-01-31",
       "round": "1",
-      "category": "5-LETTER WORDS",
+      "category": "\"MY\" MOVIES",
       "point_value": 100,
-      "question": "Late to class",
-      "answer": "tardy",
+      "question": "\"Thunderhead, Son of Flicka\" was a sequel to this 1943 Roddy McDowall movie",
+      "answer": "My Friend Flicka",
       "is_daily_double": false,
-      "id": "141635"
+      "id": "110667"
     },
     {
-      "air_date": "1996-05-07",
+      "air_date": "1994-01-31",
       "round": "1",
-      "category": "5-LETTER WORDS",
+      "category": "\"MY\" MOVIES",
       "point_value": 200,
-      "question": "It can mean sharp, or refer to an angle of less than 90 degrees",
-      "answer": "acute",
+      "question": "Though Mae West & W.C. Fields both got writing credits for this film, Mae did most of the work",
+      "answer": "My Little Chickadee",
       "is_daily_double": false,
-      "id": "141636"
+      "id": "110668"
     },
     {
-      "air_date": "1996-05-07",
+      "air_date": "1994-01-31",
       "round": "1",
-      "category": "5-LETTER WORDS",
+      "category": "\"MY\" MOVIES",
       "point_value": 300,
-      "question": "Term for the claw of a bird of prey",
-      "answer": "a talon",
+      "question": "Peter O'Toole played an Errol Flynn type in this 1982 comedy about the early days of TV",
+      "answer": "My Favorite Year",
       "is_daily_double": false,
-      "id": "141637"
+      "id": "110669"
     },
     {
-      "air_date": "1996-05-07",
+      "air_date": "1994-01-31",
       "round": "1",
-      "category": "5-LETTER WORDS",
+      "category": "\"MY\" MOVIES",
       "point_value": 400,
-      "question": "It's a boat used to carry passengers & vehicles across a river",
-      "answer": "a ferry",
+      "question": "This William Powell- Carole Lombard movie was remade in 1957 with David Niven as the title butler",
+      "answer": "My Man Godfrey",
       "is_daily_double": false,
-      "id": "141638"
+      "id": "110670"
     },
     {
-      "air_date": "1996-05-07",
+      "air_date": "1994-01-31",
       "round": "1",
-      "category": "5-LETTER WORDS",
+      "category": "\"MY\" MOVIES",
       "point_value": 500,
-      "question": "This punctuation mark has more uses than any other",
-      "answer": "a comma",
+      "question": "Director John Ford said he based this film on Wyatt Earp's own version of the O.K. Corral",
+      "answer": "My Darling Clementine",
       "is_daily_double": false,
-      "id": "141639"
+      "id": "110671"
     },
     {
-      "air_date": "1996-05-07",
+      "air_date": "1994-01-31",
       "round": "1",
-      "category": "DIALECTS",
+      "category": "ANIMALS",
       "point_value": 100,
-      "question": "Fu-chou, Amoy-Swatow, Mandarin",
-      "answer": "Chinese",
+      "question": "In some crustaceans, this body part is fused with the thorax, forming the cephalothorax",
+      "answer": "the head",
       "is_daily_double": false,
-      "id": "141640"
+      "id": "110642"
     },
     {
-      "air_date": "1996-05-07",
+      "air_date": "1994-01-31",
       "round": "1",
-      "category": "DIALECTS",
+      "category": "ANIMALS",
       "point_value": 200,
-      "question": "Castilian, Andalusian, Aragonese",
-      "answer": "Spanish",
+      "question": "It can be the reef- forming, stony shells of certain polyps, or the polyps themselves",
+      "answer": "coral",
       "is_daily_double": false,
-      "id": "141641"
+      "id": "110643"
     },
     {
-      "air_date": "1996-05-07",
+      "air_date": "1994-01-31",
       "round": "1",
-      "category": "DIALECTS",
+      "category": "ANIMALS",
       "point_value": 300,
-      "question": "Norman, Angevin, Champenois",
-      "answer": "French",
+      "question": "Normally, female sea turtles only leave the water to do this, usually on the beach",
+      "answer": "lay their eggs",
       "is_daily_double": false,
-      "id": "141642"
+      "id": "110644"
     },
     {
-      "air_date": "1996-05-07",
+      "air_date": "1994-01-31",
       "round": "1",
-      "category": "DIALECTS",
+      "category": "ANIMALS",
       "point_value": 400,
-      "question": "Cretan, Tsakonian, Peloponnesian",
-      "answer": "Greek",
+      "question": "This creature that can change color when it gets excited has 3 hearts & 8 arms",
+      "answer": "an octopus",
       "is_daily_double": false,
-      "id": "141643"
+      "id": "110645"
     },
     {
-      "air_date": "1996-05-07",
+      "air_date": "1994-01-31",
       "round": "1",
-      "category": "DIALECTS",
+      "category": "ANIMALS",
       "point_value": 500,
-      "question": "Thuringian, Swabian, Swiss",
-      "answer": "German",
-      "is_daily_double": false,
-      "id": "141644"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "MAMMALS",
-      "point_value": 100,
-      "question": "This extremely tall African mammal usually has 2 skin-covered horns",
-      "answer": "a giraffe",
-      "is_daily_double": false,
-      "id": "141645"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "MAMMALS",
-      "point_value": 200,
-      "question": "It's web-footed as well as being \"duck-billed\"",
-      "answer": "a platypus",
-      "is_daily_double": false,
-      "id": "141646"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "MAMMALS",
-      "point_value": 300,
-      "question": "Each of the species of this equine has a distinctive stripe pattern",
-      "answer": "a zebra",
-      "is_daily_double": false,
-      "id": "141647"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "MAMMALS",
-      "point_value": 400,
-      "question": "The tusks of a walrus are these teeth, elongated",
-      "answer": "canine",
-      "is_daily_double": false,
-      "id": "141648"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "MAMMALS",
-      "point_value": 500,
-      "question": "This great ape of Borneo uses its throat pouch as a resonator for its calls",
-      "answer": "an orangutan",
-      "is_daily_double": false,
-      "id": "141649"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "MUSICAL INSTRUMENTS",
-      "point_value": 100,
-      "question": "The Scottish Lowland type of this instrument had a softer sound than the Highland",
-      "answer": "bagpipes",
-      "is_daily_double": false,
-      "id": "141650"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "MUSICAL INSTRUMENTS",
-      "point_value": 200,
-      "question": "The grand piano ranges in size from the baby grand to this large one used for performances",
-      "answer": "the concert grand",
-      "is_daily_double": false,
-      "id": "141651"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "MUSICAL INSTRUMENTS",
-      "point_value": 300,
-      "question": "Used in Indian music, a tabla is this type of percussion instrument",
-      "answer": "a drum",
-      "is_daily_double": false,
-      "id": "141652"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "MUSICAL INSTRUMENTS",
-      "point_value": 400,
-      "question": "Les Paul developed & popularized the solid-body type of this instrument in the 1940s",
-      "answer": "the electric guitar",
-      "is_daily_double": false,
-      "id": "141653"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "MUSICAL INSTRUMENTS",
-      "point_value": 500,
-      "question": "This vellum-bellied instrument typically has 4 full-length strings & a shorter fifth \"thumb\" string",
-      "answer": "the banjo",
-      "is_daily_double": false,
-      "id": "141654"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "TELEVISION",
-      "point_value": 100,
-      "question": "Tim Conway played Ensign Parker on \"McHale's Navy\" & Courtney Thorne-Smith plays Alison Parker on this",
-      "answer": "Melrose Place",
-      "is_daily_double": false,
-      "id": "141655"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "TELEVISION",
-      "point_value": 200,
-      "question": "\"Step by Step\"'s Brandon Call was the original Hobie Buchannon on this beach series",
-      "answer": "Baywatch",
-      "is_daily_double": false,
-      "id": "141656"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "TELEVISION",
-      "point_value": 300,
-      "question": "As a Love Boat mermaid in 1985, she performed in production numbers; now she's Lois Lane",
-      "answer": "Teri Hatcher",
-      "is_daily_double": false,
-      "id": "141657"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "TELEVISION",
-      "point_value": 500,
-      "question": "Roanne on \"Phenom\", Jennifer Lien now plays the alien Kes on this series",
-      "answer": "Star Trek: Voyager",
-      "is_daily_double": false,
-      "id": "141658"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "U.S. STATES",
-      "point_value": 100,
-      "question": "Alaska's state fossil is this mammoth; hey, it's cold there",
-      "answer": "the woolly mammoth",
-      "is_daily_double": false,
-      "id": "141659"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "U.S. STATES",
-      "point_value": 200,
-      "question": "Orleans is this state's largest parish in population",
-      "answer": "Louisiana",
-      "is_daily_double": false,
-      "id": "141660"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "U.S. STATES",
-      "point_value": 300,
-      "question": "With a population of 19,122, Moscow is one of this Spud State's 10 largest cities",
-      "answer": "Idaho",
-      "is_daily_double": false,
-      "id": "141661"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "U.S. STATES",
-      "point_value": 400,
-      "question": "You'll find the Mystic Marinelife Aquarium in this \"Nutmeg State\"",
-      "answer": "Connecticut",
-      "is_daily_double": false,
-      "id": "141662"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "1",
-      "category": "U.S. STATES",
-      "point_value": 500,
-      "question": "Before the Civil War, it was nicknamed \"Bleeding\" from the battles over slavery there",
-      "answer": "Kansas",
-      "is_daily_double": false,
-      "id": "141663"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "BIBLICAL PEOPLE",
-      "point_value": 200,
-      "question": "He was involved with a Philistine woman from Timnath & a Gaza harlot before taking up with Delilah",
-      "answer": "Samson",
-      "is_daily_double": false,
-      "id": "141664"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "BIBLICAL PEOPLE",
-      "point_value": 400,
-      "question": "It's the surname of the Judas who betrayed Jesus",
-      "answer": "Iscariot",
-      "is_daily_double": false,
-      "id": "141665"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "BIBLICAL PEOPLE",
-      "point_value": 600,
-      "question": "Japheth, one of his sons, was ancestor to the Gomer, Riphath & Ashkenaz nations",
-      "answer": "Noah",
-      "is_daily_double": false,
-      "id": "141666"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "BIBLICAL PEOPLE",
-      "point_value": 800,
-      "question": "Ishbosheth was the fourth son of this first king of Israel",
-      "answer": "Saul",
-      "is_daily_double": false,
-      "id": "141667"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "BIBLICAL PEOPLE",
-      "point_value": 1000,
-      "question": "Hushai remained faithful to this king during Absalom's attempted coup",
-      "answer": "David",
-      "is_daily_double": false,
-      "id": "141668"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "EXPLORERS",
-      "point_value": 200,
-      "question": "He was still a youth when his father, Eric the Red, was exiled from Iceland for killing a neighbor",
-      "answer": "Leif Erikson",
-      "is_daily_double": false,
-      "id": "141669"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "EXPLORERS",
-      "point_value": 400,
-      "question": "This New Jersey-born explorer tried to climb the Colorado peak now named for him but failed",
-      "answer": "(Zebulon) Pike",
-      "is_daily_double": false,
-      "id": "141670"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "EXPLORERS",
-      "point_value": 600,
-      "question": "Thomas Livingstone Mitchell found a vast expanse of fertile ground in this country's Victoria state",
-      "answer": "Australia",
-      "is_daily_double": false,
-      "id": "141671"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "EXPLORERS",
-      "point_value": 800,
-      "question": "In 1811 Thomas Manning became the first Englishman to reach this forbidden capital of Tibet",
-      "answer": "Lhasa",
+      "question": "This shark, the largest fish in the sea, shares its name with another ocean creature",
+      "answer": "a whale shark",
       "is_daily_double": true,
-      "id": "141672"
+      "id": "110646"
     },
     {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "EXPLORERS",
-      "point_value": 1000,
-      "question": "In 1531 Diego de Ordaz set out to explore this Venezuelan river then called the Huyapari",
-      "answer": "the Orinoco",
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "LONDON POTPOURRI",
+      "point_value": 100,
+      "question": "The Chancellor of the Exchequer lives at No. 11 on this famous street",
+      "answer": "Downing Street",
       "is_daily_double": false,
-      "id": "141673"
+      "id": "110647"
     },
     {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "LITERARY HODGEPODGE",
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "LONDON POTPOURRI",
       "point_value": 200,
-      "question": "His famous story \"The Tell-Tale Heart\" is told completely in the first person",
-      "answer": "Edgar Allan Poe",
+      "question": "If you were born within the sound of bow bells, you're said to be a true one of these",
+      "answer": "a Cockney",
       "is_daily_double": false,
-      "id": "141674"
+      "id": "110648"
     },
     {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "LITERARY HODGEPODGE",
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "LONDON POTPOURRI",
+      "point_value": 300,
+      "question": "Conservatively dressed, affluent young 1980s Londoners weren't Lone Rangers but these \"rangers\"",
+      "answer": "Sloane Rangers",
+      "is_daily_double": false,
+      "id": "110649"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "LONDON POTPOURRI",
       "point_value": 400,
-      "question": "\"Frankenstein\" author whose futuristic 1826 novel \"The Last Man\" describes how a plague destroys mankind",
-      "answer": "(Mary) Shelley",
+      "question": "The Church of St. Martin-in-the-Fields on this famous square has a cafe in its crypt",
+      "answer": "Trafalgar Square",
       "is_daily_double": false,
-      "id": "141675"
+      "id": "110650"
     },
     {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "LITERARY HODGEPODGE",
-      "point_value": 600,
-      "question": "She published her first book cf poetry, \"April Twilights\", in 1903, 10 years before \"O Pioneers!\"",
-      "answer": "Willa Cather",
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "LONDON POTPOURRI",
+      "point_value": 500,
+      "question": "This area of London became synonymous with a \"group\" of writers & artists that included Virginia Woolf",
+      "answer": "Bloomsbury",
       "is_daily_double": false,
-      "id": "141676"
+      "id": "110651"
     },
     {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "LITERARY HODGEPODGE",
-      "point_value": 800,
-      "question": "He wrote novels that were serialized in magazines before writing great plays like \"Pygmalion\"",
-      "answer": "Shaw",
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "MONEY",
+      "point_value": 100,
+      "question": "The \"ha\" in ha'penny is short for this",
+      "answer": "half",
       "is_daily_double": false,
-      "id": "141677"
+      "id": "110652"
     },
     {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "LITERARY HODGEPODGE",
-      "point_value": 1000,
-      "question": "He wrote his famous 1868 story \"The Luck of Roaring Camp\" for the Overland Monthly, which he edited",
-      "answer": "Bret Harte",
-      "is_daily_double": false,
-      "id": "141678"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "MUSEUMS",
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "MONEY",
       "point_value": 200,
-      "question": "The original building of this Washington, D.C. complex is called the Castle",
-      "answer": "the Smithsonian",
+      "question": "In American money, this is equal to four bits",
+      "answer": "50 cents",
       "is_daily_double": false,
-      "id": "141679"
+      "id": "110653"
     },
     {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "MUSEUMS",
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "MONEY",
+      "point_value": 300,
+      "question": "A doubloon was made out of this metal",
+      "answer": "gold",
+      "is_daily_double": false,
+      "id": "110654"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "MONEY",
       "point_value": 400,
-      "question": "A Warrens, Wisconsin museum features hands-on exhibits pertaining to this red bog fruit",
-      "answer": "a cranberry",
+      "question": "In Zambia, the number of ngwee in a kwacha; makes \"cents\"",
+      "answer": "100",
       "is_daily_double": false,
-      "id": "141680"
+      "id": "110655"
     },
     {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "MUSEUMS",
-      "point_value": 600,
-      "question": "You can see a 2-headed calf at the Ripley's Believe It or Not! Museum in this oldest Florida city",
-      "answer": "St. Augustine",
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "MONEY",
+      "point_value": 500,
+      "question": "A person with this much money needs a nickel more to be a millionaire",
+      "answer": "$999,999.95",
       "is_daily_double": false,
-      "id": "141681"
+      "id": "110656"
     },
     {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "MUSEUMS",
-      "point_value": 800,
-      "question": "The Taos, New Mexico home of this frontiersman & guide for John C. Fremont is now a museum",
-      "answer": "Kit Carson",
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "MUSICAL TERMS",
+      "point_value": 100,
+      "question": "In Italy it's a notturno; in France, it's this",
+      "answer": "a nocturne",
       "is_daily_double": false,
-      "id": "141682"
+      "id": "110657"
     },
     {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "MUSEUMS",
-      "point_value": 1000,
-      "question": "An Aquatic Hall of Fame Museum in this Manitoba capital has models of well-known sailing ships",
-      "answer": "Winnipeg",
-      "is_daily_double": false,
-      "id": "141683"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "THE ELEMENTS",
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "MUSICAL TERMS",
       "point_value": 200,
-      "question": "Ra-226, the most abundant isotope of this element, has a half-life of 1,620 years",
-      "answer": "radium",
+      "question": "The lyric type of this high female voice is light & sweet & well suited to operettas",
+      "answer": "soprano",
       "is_daily_double": false,
-      "id": "141684"
+      "id": "110658"
     },
     {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "THE ELEMENTS",
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "MUSICAL TERMS",
+      "point_value": 300,
+      "question": "A nonet is a composition for this many musical instruments or voices",
+      "answer": "9",
+      "is_daily_double": false,
+      "id": "110659"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "MUSICAL TERMS",
       "point_value": 400,
-      "question": "The name of this element comes from Greek meaning \"water forming\"",
-      "answer": "hydrogen",
+      "question": "A person with this ability can immediately recognize any note that's played or sung",
+      "answer": "perfect pitch",
       "is_daily_double": false,
-      "id": "141685"
+      "id": "110660"
     },
     {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "THE ELEMENTS",
-      "point_value": 600,
-      "question": "Compounds of this yellow element, symbol S, are responsible for the scent of skunks",
-      "answer": "sulfur",
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "MUSICAL TERMS",
+      "point_value": 500,
+      "question": "\"Pasta\" term for the type of improvisation jazz musicians do while warming up",
+      "answer": "noodling",
       "is_daily_double": false,
-      "id": "141686"
+      "id": "110661"
     },
     {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "THE ELEMENTS",
-      "point_value": 800,
-      "question": "Compounds containing this element are called fluorides",
-      "answer": "fluorine",
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "ODD WORDS",
+      "point_value": 100,
+      "question": "This word for a gadget or whatchamacallit may come from the Arabic phrase Shu Ismo",
+      "answer": "a gizmo",
       "is_daily_double": false,
-      "id": "141687"
+      "id": "110662"
     },
     {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "THE ELEMENTS",
-      "point_value": 1000,
-      "question": "This metal is used to make bullets because its high density meets little air resistance",
-      "answer": "lead",
-      "is_daily_double": false,
-      "id": "141688"
-    },
-    {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "WORLD FACTS",
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "ODD WORDS",
       "point_value": 200,
-      "question": "Indonesia is one of the world's leading producers of these beverage leaves",
-      "answer": "tea",
+      "question": "In England this fruit is also known as a goosegog",
+      "answer": "a gooseberry",
       "is_daily_double": false,
-      "id": "141689"
+      "id": "110663"
     },
     {
-      "air_date": "1996-05-07",
-      "round": "2",
-      "category": "WORLD FACTS",
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "ODD WORDS",
+      "point_value": 300,
+      "question": "This slang word that means enormous may be a combination of \"huge\" & \"monstrous\"",
+      "answer": "humongous",
+      "is_daily_double": false,
+      "id": "110664"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "ODD WORDS",
       "point_value": 400,
-      "question": "The National Library of Turkey is in this capital city",
-      "answer": "Ankara",
+      "question": "Now used as a slang synonym for courage or nerve, Moxie was originally the trademark name of one of these",
+      "answer": "A soft drink",
       "is_daily_double": false,
-      "id": "141690"
+      "id": "110665"
     },
     {
-      "air_date": "1996-05-07",
+      "air_date": "1994-01-31",
+      "round": "1",
+      "category": "ODD WORDS",
+      "point_value": 500,
+      "question": "Mafficking, which means rejoicing, was inspired by the end of the siege of Mafeking in 1900, during this war",
+      "answer": "the Boer War",
+      "is_daily_double": false,
+      "id": "110666"
+    },
+    {
+      "air_date": "1994-01-31",
       "round": "2",
-      "category": "WORLD FACTS",
+      "category": "1953",
+      "point_value": 200,
+      "question": "Dag Hammarskjold requested a budget of over $48 million for this organization",
+      "answer": "the UN",
+      "is_daily_double": false,
+      "id": "110672"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "1953",
+      "point_value": 400,
+      "question": "Goodwin J. Knight became governor of this state when Earl Warren became U.S. Chief Justice",
+      "answer": "California",
+      "is_daily_double": false,
+      "id": "110673"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "1953",
       "point_value": 600,
-      "question": "Queen Beatrix's alma mater is the University of Leiden in this country",
-      "answer": "the Netherlands",
+      "question": "Charge d'affaires Jacob D. Beam represented the U.S. at the funeral of this Soviet dictator",
+      "answer": "Stalin",
       "is_daily_double": false,
-      "id": "141691"
+      "id": "110674"
     },
     {
-      "air_date": "1996-05-07",
+      "air_date": "1994-01-31",
       "round": "2",
-      "category": "WORLD FACTS",
+      "category": "1953",
       "point_value": 800,
-      "question": "In Gaelic this country's prime minister is known as the taoiseach; currently it's John Bruton",
-      "answer": "Ireland",
+      "question": "This doctor's landmark \"Sexual Behavior in the Human Female\" was released in 1953",
+      "answer": "(Dr.) Kinsey",
+      "is_daily_double": false,
+      "id": "110675"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "1953",
+      "point_value": 1000,
+      "question": "This Ohio senator called \"Mr. Republican\" died on July 31",
+      "answer": "(Robert) Taft",
       "is_daily_double": true,
-      "id": "141692"
+      "id": "110676"
     },
     {
-      "air_date": "1996-05-07",
+      "air_date": "1994-01-31",
       "round": "2",
-      "category": "WORLD FACTS",
-      "point_value": 1000,
-      "question": "This Canadian island province is named for a son of King George III",
-      "answer": "Prince Edward Island",
+      "category": "BLACK AMERICA",
+      "point_value": 200,
+      "question": "He's the youngest man ever to serve as chairman of the Joint Chiefs of Staff",
+      "answer": "Colin Powell",
       "is_daily_double": false,
-      "id": "141693"
+      "id": "110677"
     },
     {
-      "air_date": "1996-05-07",
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "BLACK AMERICA",
+      "point_value": 400,
+      "question": "This entertainer wrote 2 autobiographies, \"Yes I Can\" & \"Why Me?\"",
+      "answer": "Sammy Davis",
+      "is_daily_double": false,
+      "id": "110678"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "BLACK AMERICA",
+      "point_value": 600,
+      "question": "This abolitionist who edited the North Star served as U.S. Minister to Haiti 1889-1891",
+      "answer": "Frederick Douglass",
+      "is_daily_double": false,
+      "id": "110679"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "BLACK AMERICA",
+      "point_value": 800,
+      "question": "In 1843 she said, \"The spirit calls me, I must go\" & set out to preach against slavery",
+      "answer": "Sojourner Truth",
+      "is_daily_double": false,
+      "id": "110680"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "BLACK AMERICA",
+      "point_value": 1000,
+      "question": "This poet who wrote \"The Weary Blues\" was a major figure of the Harlem Renaissance in the 1920s",
+      "answer": "Langston Hughes",
+      "is_daily_double": true,
+      "id": "110681"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "BUSINESS BIGGIES",
+      "point_value": 200,
+      "question": "Dai-Ichi & Nippon Kangyo, 2 of this country's oldest banks, merged in 1971",
+      "answer": "Japan",
+      "is_daily_double": false,
+      "id": "110682"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "BUSINESS BIGGIES",
+      "point_value": 400,
+      "question": "Software maker Claris Corp. is a subsidiary of this Macintosh computer maker",
+      "answer": "Apple",
+      "is_daily_double": false,
+      "id": "110683"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "BUSINESS BIGGIES",
+      "point_value": 600,
+      "question": "In 1990 this company announced plans to produce a new jet, the 777",
+      "answer": "Boeing",
+      "is_daily_double": false,
+      "id": "110684"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "BUSINESS BIGGIES",
+      "point_value": 800,
+      "question": "This corporate home of Elsie the Cow also sells Cracker Jack & Creamette pasta",
+      "answer": "Borden",
+      "is_daily_double": false,
+      "id": "110685"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "BUSINESS BIGGIES",
+      "point_value": 1000,
+      "question": "This French company applied for a radial tire patent in 1946",
+      "answer": "Michelin",
+      "is_daily_double": false,
+      "id": "110686"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "CHILDREN'S LITERATURE",
+      "point_value": 200,
+      "question": "According to Signe Toksvig, this author's \"The Ugly Duckling\" was a veiled autobiography",
+      "answer": "Andersen",
+      "is_daily_double": false,
+      "id": "110687"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "CHILDREN'S LITERATURE",
+      "point_value": 400,
+      "question": "In the Grimms' story, this character is called Sneewittchen",
+      "answer": "Snow White",
+      "is_daily_double": false,
+      "id": "110688"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "CHILDREN'S LITERATURE",
+      "point_value": 600,
+      "question": "\"The Invisible Man\" author who wrote 1 book exclusively for kids, \"The Adventures of Tommy\"",
+      "answer": "H.G. Wells",
+      "is_daily_double": false,
+      "id": "110689"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "CHILDREN'S LITERATURE",
+      "point_value": 800,
+      "question": "Flag is the name of the deer in this Marjorie Kinnan Rawlings story",
+      "answer": "The Yearling",
+      "is_daily_double": false,
+      "id": "110690"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "CHILDREN'S LITERATURE",
+      "point_value": 1000,
+      "question": "In an 1881 novel by James Otis, this boy runs away with the circus",
+      "answer": "Toby Tyler",
+      "is_daily_double": false,
+      "id": "110691"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "MISC.",
+      "point_value": 200,
+      "question": "In 1812 Congress refused to renew his patent on the cotton gin",
+      "answer": "Eli Whitney",
+      "is_daily_double": false,
+      "id": "110692"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "MISC.",
+      "point_value": 400,
+      "question": "Evidence indicates that this Egyptian picture writing was still used as late as 394 A.D.",
+      "answer": "hieroglyphics",
+      "is_daily_double": false,
+      "id": "110693"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "MISC.",
+      "point_value": 600,
+      "question": "In 1942 Gracie Mansion became the official residence of this city's mayors",
+      "answer": "New York",
+      "is_daily_double": false,
+      "id": "110694"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "MISC.",
+      "point_value": 800,
+      "question": "In 1993, after testing positive for drugs, this sprinter was banned from track & field for life",
+      "answer": "(Ben) Johnson",
+      "is_daily_double": false,
+      "id": "110695"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "MISC.",
+      "point_value": 1000,
+      "question": "Alexander the Great is said to be descended from this mythical hero who died of an arrow wound",
+      "answer": "Achilles",
+      "is_daily_double": false,
+      "id": "110696"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "SCULPTURE",
+      "point_value": 200,
+      "question": "Jo Davidson's sculpture of this humorist can be seen in Claremore, Oklahoma",
+      "answer": "Will Rogers",
+      "is_daily_double": false,
+      "id": "110697"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "SCULPTURE",
+      "point_value": 400,
+      "question": "In 1881 he exhibited his \"Fourteen-Year-Old Dancer\" sculpture at the Impressionist Salon in Paris",
+      "answer": "Degas",
+      "is_daily_double": false,
+      "id": "110698"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "SCULPTURE",
+      "point_value": 600,
+      "question": "He carved \"Luxure\", a wooden statue of a Caribbean woman, before painting Tahitian ones",
+      "answer": "Gauguin",
+      "is_daily_double": false,
+      "id": "110699"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "SCULPTURE",
+      "point_value": 800,
+      "question": "Benvenuto Cellini's most celebrated work is a statue of this mythical hero holding the head of Medusa",
+      "answer": "Perseus",
+      "is_daily_double": false,
+      "id": "110700"
+    },
+    {
+      "air_date": "1994-01-31",
+      "round": "2",
+      "category": "SCULPTURE",
+      "point_value": 1000,
+      "question": "Rodin called his statue of this French novelist \"The sum of my whole life\"",
+      "answer": "Honoré de Balzac",
+      "is_daily_double": false,
+      "id": "110701"
+    },
+    {
+      "air_date": "1994-01-31",
       "round": "3",
-      "category": "THE ROMAN EMPIRE",
+      "category": "THE WHITE HOUSE",
       "point_value": 0,
-      "question": "Martial's \"Book of Spectacles\" in 80 A.D. was a book of poems published for this landmark's opening",
-      "answer": "the (Roman) Colosseum (Coliseum)",
+      "question": "1 of the 2 presidents who died in the White House",
+      "answer": "William Henry Harrison & Zachary Taylor",
       "is_daily_double": false,
-      "id": "141694"
+      "id": "110702"
     }
   ]
 }
