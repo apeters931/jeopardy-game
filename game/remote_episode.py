@@ -1,13 +1,28 @@
 """Fetch the published board and retain a validated copy for offline play."""
 import json
 import logging
+import ssl
 import tempfile
 import threading
 import time
 from pathlib import Path
 from urllib.request import Request, urlopen
 
-DEFAULT_EPISODE_URL = 'https://raw.githubusercontent.com/apeters931/jepopardy-game/HEAD/game/published/episode.json'
+try:
+    import certifi
+except ImportError:
+    certifi = None
+
+
+DEFAULT_EPISODE_URL = 'https://raw.githubusercontent.com/apeters931/jeopardy-game/HEAD/game/published/episode.json'
+
+
+def https_context() -> ssl.SSLContext:
+    context = ssl.create_default_context()
+    # Python.org macOS installs may have no default CA file until configured.
+    if certifi is not None:
+        context.load_verify_locations(cafile=certifi.where())
+    return context
 
 
 def validate_episode(episode: dict) -> dict:
@@ -48,7 +63,7 @@ class RemoteEpisode:
             try:
                 separator = '&' if '?' in self.url else '?'
                 request = Request(f'{self.url}{separator}refresh={time.time_ns()}', headers={'Cache-Control': 'no-cache'})
-                with urlopen(request, timeout=10) as response:
+                with urlopen(request, timeout=10, context=https_context()) as response:
                     body = response.read(2_000_001)
                 if len(body) > 2_000_000:
                     raise ValueError('Published board exceeds the size limit.')

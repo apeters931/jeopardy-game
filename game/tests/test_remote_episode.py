@@ -1,5 +1,6 @@
 """Verify publishing, remote updates, and offline recovery without network access."""
 import json
+import ssl
 import tempfile
 import unittest
 from pathlib import Path
@@ -28,6 +29,9 @@ class RemoteEpisodeTests(unittest.TestCase):
     def test_download_updates_and_survives_restart_offline(self, fetch):
         fetch.return_value = self.download(self.episode)
         self.assertEqual(self.loader()['id'], self.episode['id'])
+        context = fetch.call_args.kwargs['context']
+        self.assertEqual(context.verify_mode, ssl.CERT_REQUIRED)
+        self.assertTrue(context.check_hostname)
         changed = {**self.episode, 'id': 'new-episode'}
         fetch.return_value = self.download(changed)
         self.assertEqual(self.loader()['id'], 'new-episode')

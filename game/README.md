@@ -10,7 +10,7 @@ Run from the repository root:
 python3 game/server.py
 ```
 
-Open **http://localhost:8000**. The default mode needs only Python's standard library, with internet access for the first download. Refreshing the page or choosing **Check for a new game** fetches the published JSON; no database sync or server restart is needed after a new build. GitHub may briefly cache published content.
+Open **http://localhost:8000**. The default mode uses Python's HTTPS support, with internet access for the first download. Install `certifi` with `python3 -m pip install certifi` to supply trusted certificates on Python installations without a configured CA bundle (including some macOS installs). The game requirements also include it. Refreshing the page or choosing **Check for a new game** fetches the published JSON; no database sync or server restart is needed after a new build. GitHub may briefly cache published content.
 
 The last successfully downloaded board is saved in `game/.cache/episode.json`. If a download fails, the server serves that cached board with a visible message. It preserves your browser progress. If no cached board exists, the page shows a retryable error. An updated board is adopted only when you request it, so an active game is not interrupted.
 
@@ -97,3 +97,39 @@ node --check game/static/app.js
 ```
 
 Tests cover answer normalization, scoring and passes, wager bounds, round ordering, data field mapping, production schema selection, updated database reads, JSON export, remote updates, validation, and offline recovery.
+
+## Host on PythonAnywhere
+
+Choose Manual configuration with Python 3.12. Clone this repository in a
+PythonAnywhere Bash console, then install the hosting dependencies:
+
+```bash
+cd ~/jeopardy-game
+python3.12 -m pip install --user -r game/hosting-requirements.txt
+```
+
+The hosting requirements omit DuckDB because the web app downloads JSON. Set
+Source code to `/home/YOUR_USERNAME/jeopardy-game`. The working directory may
+remain your home directory; all application files use absolute paths.
+
+Once `game/wsgi.py` has been pushed to GitHub and pulled into PythonAnywhere,
+replace the contents of the WSGI configuration file linked on the Web tab with:
+
+```python
+import sys
+
+sys.path.insert(0, '/home/YOUR_USERNAME/jeopardy-game')
+from game.wsgi import application
+```
+
+Replace `YOUR_USERNAME` with your PythonAnywhere username. Save the file and
+click Reload on the Web tab. The WSGI app serves the HTML, CSS, JavaScript, and
+`/api/episode` without starting the standalone server. No static file mappings
+are required. Player progress stays in each browser. A new site origin has
+separate progress from localhost.
+
+Leave Virtualenv blank when using the `--user` installation above. If you use a
+virtualenv instead, install the hosting requirements inside that environment and
+select its path on the Web tab. If the board cannot be downloaded, check the web
+app error log and test the GitHub URL from a PythonAnywhere Bash console; free
+accounts restrict outbound connections through an allowlist.
