@@ -1,4 +1,4 @@
-import {matches, scoreChange, maxWager, validWager, roundOrder} from './logic.mjs';
+import {matches, scoreChange, maxWager, validWager, roundOrder, countAsCorrect} from './logic.mjs';
 const app = document.querySelector('#app');
 const money = n => `${n < 0 ? '−' : ''}$${Math.abs(n).toLocaleString()}`;
 const esc = value => String(value ?? '').replace(/[&<>"']/g, c => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
@@ -10,7 +10,7 @@ const done = () => questions().every(q => state.answers[q.id]);
 const save = () => { try { localStorage.setItem(key, JSON.stringify(state)); } catch { storageWarning = true; } };
 const date = value => new Date(`${value.slice(0,10)}T12:00:00`).toLocaleDateString(undefined, {month:'long', day:'numeric', year:'numeric'});
 function top() {
-  return `<div class="episode-meta">${episode.demo ? 'DEMO · ' : ''}${esc(date(episode.air_date))}</div>${episode.refresh_warning ? `<p class="hint" role="status">${esc(episode.refresh_warning)}</p>` : ''}`;
+  return `${episode.demo ? '<div class="episode-meta">DEMO BOARD</div>' : ''}${episode.refresh_warning ? `<p class="hint" role="status">${esc(episode.refresh_warning)}</p>` : ''}`;
 }
 function bottom() {
   return `<div class="scorebar"><span class="eyebrow">YOUR SCORE</span><strong>${money(score())}</strong></div>${storageWarning ? '<p class="hint">Browser storage is unavailable. Progress will reset on refresh.</p>' : ''}`;
@@ -67,7 +67,15 @@ function grade(response,passed) {
   state.answers[active.id]=result;save();reveal();
 }
 function reveal() {
-  app.innerHTML=top()+`<section class="clue-panel question-panel reveal"><p class="clue-text">${esc(active.answer)}</p><div class="actions"><button id="return" class="primary" aria-label="Back to the board">← Back</button></div></section>`+bottom();
+  const answer = state.answers[active.id];
+  const canCorrect = !answer.correct && !answer.passed && Boolean(answer.response.trim());
+  app.innerHTML=top()+`<section class="clue-panel question-panel reveal"><p class="clue-text">${esc(active.answer)}</p>${canCorrect ? `<p class="hint">Your answer: ${esc(answer.response)}</p><button id="count-correct" class="secondary">Count my answer as correct</button>` : ''}${answer.selfGraded ? '<p class="hint" role="status">Your answer counts as correct.</p>' : ''}<div class="actions"><button id="return" class="primary" aria-label="Back to the board">← Back</button></div></section>`+bottom();
+  const correction = document.querySelector('#count-correct');
+  if(correction) correction.onclick = () => {
+    state.answers[active.id] = countAsCorrect(state.answers[active.id]);
+    save();
+    reveal();
+  };
   document.querySelector('#return').onclick=board;
   document.querySelector('#return').focus();
 }
@@ -112,6 +120,9 @@ function addNewGameButton(container) {
 }
 function startEpisode(data) {
   episode = data;
+  const title = `Jeopardy! — ${date(episode.air_date)}`;
+  document.querySelector('.brand h1').textContent = title;
+  document.title = title;
   rounds=[...new Set(episode.questions.map(q=>q.round))].sort((a,b)=>roundOrder(a)-roundOrder(b));
   key=`daily-board-v1-${episode.id}`;state={round:0,answers:{}};
   try{const saved=JSON.parse(localStorage.getItem(key));if(saved&&Number.isInteger(saved.round)&&saved.round>=0&&saved.round<rounds.length&&saved.answers&&typeof saved.answers==='object')state=saved;}catch{storageWarning=true;}

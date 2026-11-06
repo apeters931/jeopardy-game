@@ -1,6 +1,6 @@
 import test from 'node:test';
 import assert from 'node:assert/strict';
-import {matches,scoreChange,maxWager,validWager,roundOrder} from '../static/logic.mjs';
+import {matches,scoreChange,maxWager,validWager,roundOrder,countAsCorrect} from '../static/logic.mjs';
 test('answer normalization accepts standard phrasing and punctuation without substring matching',()=>{
  assert.equal(matches('What is the Eiffel Tower?', 'Eiffel Tower'),true);
  assert.equal(matches('cafe', 'Café'),true);
@@ -26,4 +26,42 @@ test('rounds follow game order',()=>{
  assert.equal(roundOrder('Jeopardy!'),1);
  assert.equal(roundOrder('Double Jeopardy!'),2);
  assert.equal(roundOrder('Final Jeopardy!'),3);
+});
+test('minor spelling mistakes and adjacent transpositions are accepted',()=>{
+ for(const [answer, expected] of [
+  ['Pariss', 'Paris'], ['Shakespear', 'Shakespeare'],
+  ['Shakespaere', 'Shakespeare'], ['Tchaikovski', 'Tchaikovsky'],
+  ['  Who is William Shakespear?  ', 'William Shakespeare'],
+  ['icecream', 'ice cream'], ['Wal Mart', 'Wal-Mart'],
+  ['U.S.A.', 'USA'], ['rock and roll', 'rock & roll']
+ ]) assert.equal(matches(answer,expected),true,`${answer} / ${expected}`);
+});
+test('leniency does not allow missing words, short-word changes, or different numbers',()=>{
+ for(const [answer, expected] of [
+  ['Mars', 'Wars'], ['cat', 'car'], ['Iran', 'Iraq'],
+  ['1968', '1969'], ['Apollo 12', 'Apollo 13'], ['1 23', '123'],
+  ['Shakespeare', 'William Shakespeare'], ['York', 'New York'],
+  ['London or Paris', 'Paris'], ['I do not know', 'Paris'],
+  ['George Bush', 'George Washington'], ['  ', 'Paris'],
+  ['x'.repeat(501), 'y'.repeat(501)]
+ ]) assert.equal(matches(answer,expected),false,`${answer} / ${expected}`);
+});
+
+test('self-grading replaces penalties, including wagers, and cannot count twice',()=>{
+ for(const amount of [200, 1500, 0]) {
+  const incorrect = {response:'an equivalent answer', passed:false, correct:false, amount, delta:-amount};
+  const corrected = countAsCorrect(incorrect);
+  assert.equal(corrected.correct,true);
+  assert.equal(corrected.delta,amount);
+  assert.equal(corrected.selfGraded,true);
+  assert.equal(incorrect.correct,false);
+  assert.deepEqual(countAsCorrect(corrected),corrected);
+  assert.deepEqual(JSON.parse(JSON.stringify(corrected)),corrected);
+ }
+});
+test('skips and blank responses cannot be self-graded',()=>{
+ for(const [passed,response] of [[true,''],[false,''],[false,'  ']]) {
+  const answer = {passed,response,correct:false,amount:200,delta:passed?0:-200};
+  assert.equal(countAsCorrect(answer),answer);
+ }
 });
