@@ -1,596 +1,566 @@
 {
-  "id": "8726494ad8fbe373",
-  "air_date": "2005-02-10",
+  "id": "4257155f81807825",
+  "air_date": "1986-10-08",
   "questions": [
     {
-      "air_date": "2005-02-10",
+      "air_date": "1986-10-08",
       "round": "1",
-      "category": "ADVERTISING SLOGANS",
+      "category": "1971",
+      "point_value": 100,
+      "question": "Team that won U.S.-Chinese ping-pong match in Peking",
+      "answer": "Chinese",
+      "is_daily_double": false,
+      "id": "19190"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "1971",
+      "point_value": 300,
+      "question": "While on the moon in February, astronaut Alan Shepard took a shot at this sport",
+      "answer": "golf",
+      "is_daily_double": false,
+      "id": "19191"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "DENMARK",
+      "point_value": 100,
+      "question": "An 1805 Danish forestry law required that every time a tree is cut down, this must be done",
+      "answer": "a tree must be planted",
+      "is_daily_double": false,
+      "id": "19192"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "DENMARK",
       "point_value": 200,
-      "question": "This product \"gets the red out\"",
-      "answer": "Visine",
+      "question": "In 1944, this island country officially declared itself independent of Denmark",
+      "answer": "Iceland",
       "is_daily_double": false,
-      "id": "255940"
+      "id": "19193"
     },
     {
-      "air_date": "2005-02-10",
+      "air_date": "1986-10-08",
       "round": "1",
-      "category": "ADVERTISING SLOGANS",
+      "category": "DENMARK",
+      "point_value": 300,
+      "question": "Main farming activity of Danish-owned Greenland is not growing plants but raising these animals",
+      "answer": "sheep",
+      "is_daily_double": false,
+      "id": "19194"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "DENMARK",
       "point_value": 400,
-      "question": "\"Like a rock\"",
-      "answer": "Chevy",
+      "question": "While Great Dane dogs originated in Germany, this pianist called \"The Great Dane\" is from Copenhagen",
+      "answer": "Victor Borge",
       "is_daily_double": false,
-      "id": "255941"
+      "id": "19195"
     },
     {
-      "air_date": "2005-02-10",
+      "air_date": "1986-10-08",
       "round": "1",
-      "category": "ADVERTISING SLOGANS",
+      "category": "DENMARK",
+      "point_value": 500,
+      "question": "Between 1513 & 1972, all Danish kings were alternately name Frederik & this pious name",
+      "answer": "Christian",
+      "is_daily_double": false,
+      "id": "19196"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "ENDS WITH \"X\"",
+      "point_value": 100,
+      "question": "Liquid oxygen, or what goes well with the Sunday paper, cream cheese & a bagel",
+      "answer": "lox",
+      "is_daily_double": false,
+      "id": "19197"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "ENDS WITH \"X\"",
+      "point_value": 200,
+      "question": "It contains medicine or a machine gun",
+      "answer": "pillbox",
+      "is_daily_double": false,
+      "id": "19198"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "ENDS WITH \"X\"",
+      "point_value": 300,
+      "question": "According to Chief Justice John Marshall, the power to do this is the power to destroy",
+      "answer": "tax",
+      "is_daily_double": false,
+      "id": "19199"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "ENDS WITH \"X\"",
+      "point_value": 400,
+      "question": "Subject of NBC's historic 1st electronic TV transmission in 1930 was this cartoon hero",
+      "answer": "Felix the Cat",
+      "is_daily_double": false,
+      "id": "19200"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "ENDS WITH \"X\"",
+      "point_value": 500,
+      "question": "A dramatic culmination, a '50s TV anthology, or one of Dr. Ruth's favorite subjects",
+      "answer": "climax",
+      "is_daily_double": false,
+      "id": "19201"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "FOOD",
+      "point_value": 100,
+      "question": "Though it's a key crop in Asia & the Balkans, our U.S.D.A. doesn't even keep statistics on this purple vegetable",
+      "answer": "eggplant",
+      "is_daily_double": false,
+      "id": "19202"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "FOOD",
+      "point_value": 200,
+      "question": "French for \"lightning\", it's a custard-filled chocolate-covered pastry that can strike your waistline",
+      "answer": "eclair",
+      "is_daily_double": false,
+      "id": "19203"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "FOOD",
+      "point_value": 300,
+      "question": "Root used as a substitute for coffee, especially in Cajun cuisine",
+      "answer": "chicory",
+      "is_daily_double": false,
+      "id": "19204"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "FOOD",
+      "point_value": 400,
+      "question": "Plant part you're eating when you eat an onion or garlic",
+      "answer": "bulb",
+      "is_daily_double": false,
+      "id": "19205"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "FOOD",
+      "point_value": 500,
+      "question": "This European country is largest consumer of cheese w/annual average of 38.1 lbs. per person",
+      "answer": "France",
+      "is_daily_double": false,
+      "id": "19206"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "OLD WEST",
+      "point_value": 100,
+      "question": "During this mania of 1849, eggs cost $10/dozen & rooms rented for $1000/month",
+      "answer": "the (California) Gold Rush",
+      "is_daily_double": false,
+      "id": "19207"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "OLD WEST",
+      "point_value": 200,
+      "question": "It was actually John Bidwell, not Ward Bond, who led the first of these to California in 1841",
+      "answer": "wagon train",
+      "is_daily_double": false,
+      "id": "19208"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "OLD WEST",
+      "point_value": 300,
+      "question": "Hollenberg Sta. at Hanover, Kan. is the only 1 left from this short-lived but legendary service",
+      "answer": "Pony Express",
+      "is_daily_double": false,
+      "id": "19209"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "OLD WEST",
+      "point_value": 400,
+      "question": "\"The Pathfinder\", in 1986 TV miniseries, he followed his \"dream west\"",
+      "answer": "John C. Fremont",
+      "is_daily_double": false,
+      "id": "19210"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "OLD WEST",
+      "point_value": 500,
+      "question": "First \"trail mix\", it was made with dried buffalo meat, hot fat & cherries, & pressed into small pouches",
+      "answer": "pemmican",
+      "is_daily_double": false,
+      "id": "19211"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "SESAME STREET",
+      "point_value": 100,
+      "question": "For over 17 years, Ernie's been pulling the \"old loose nose joke\" on this roommate",
+      "answer": "Bert",
+      "is_daily_double": false,
+      "id": "19212"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "SESAME STREET",
+      "point_value": 200,
+      "question": "Sesame Street began teaching how to count to 10; today they've expanded to this number",
+      "answer": "20",
+      "is_daily_double": false,
+      "id": "19213"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "SESAME STREET",
+      "point_value": 300,
+      "question": "In 1968 Joan Ganz Cooney co-founded this organization which produces Sesame Street",
+      "answer": "Children's Television Workshop",
+      "is_daily_double": false,
+      "id": "19214"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "SESAME STREET",
+      "point_value": 400,
+      "question": "The 1982 death of the actor who played this storekeeper was incorporated into the show",
+      "answer": "Mr. Hooper",
+      "is_daily_double": false,
+      "id": "19215"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "1",
+      "category": "SESAME STREET",
+      "point_value": 500,
+      "question": "It's said the style of Sesame Street was modeled after this fast-paced TV comedy show",
+      "answer": "Laugh-In",
+      "is_daily_double": false,
+      "id": "19216"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "BUSINESS & INDUSTRY",
+      "point_value": 200,
+      "question": "The escalator was developed by this elevator company",
+      "answer": "Otis",
+      "is_daily_double": false,
+      "id": "19217"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "BUSINESS & INDUSTRY",
+      "point_value": 400,
+      "question": "This company went into the red for 1st time in any quarter after being forced out of instant photography",
+      "answer": "Kodak",
+      "is_daily_double": false,
+      "id": "19218"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "BUSINESS & INDUSTRY",
       "point_value": 600,
-      "question": "\"Always low prices. Always\"",
-      "answer": "Wal-Mart",
+      "question": "In 1985, this airline which pioneered trans-Pacific flights sold those routes to United",
+      "answer": "Pan Am",
       "is_daily_double": false,
-      "id": "255942"
+      "id": "19219"
     },
     {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "ADVERTISING SLOGANS",
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "BUSINESS & INDUSTRY",
       "point_value": 800,
-      "question": "\"Expect more, pay less\"",
-      "answer": "Target",
+      "question": "In '59 Perry Como signed $25 million sponsorship pact with this food company",
+      "answer": "Kraft",
       "is_daily_double": false,
-      "id": "255943"
+      "id": "19220"
     },
     {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "ADVERTISING SLOGANS",
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "BUSINESS & INDUSTRY",
       "point_value": 1000,
-      "question": "\"For styles that defy gravity\"",
-      "answer": "Giga Hold",
+      "question": "In 1985, both these co-founders of Apple named Steven left to start new companies",
+      "answer": "Steven Jobs and Steve Wozniak",
       "is_daily_double": false,
-      "id": "255944"
+      "id": "19221"
     },
     {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "AUTUMN LEAVES",
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "HYPHENATED WARS",
       "point_value": 200,
-      "question": "Though he died near Louisville in Autumn 1980, this honorary colonel still leaves a good taste in our mouths",
-      "answer": "Colonel Sanders",
+      "question": "In this war, Israel captured territory more than 3 times its size",
+      "answer": "Six-Day War",
       "is_daily_double": false,
-      "id": "255945"
+      "id": "19222"
     },
     {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "AUTUMN LEAVES",
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "HYPHENATED WARS",
       "point_value": 400,
-      "question": "October 1972: This ballplayer leaves the epitaph \"A life is not important except in the impact it has on other lives\"",
-      "answer": "Jackie Robinson",
+      "question": "As of March, 1986, there were only 9 living U.S. veterans of this war",
+      "answer": "Spanish-American War",
       "is_daily_double": false,
-      "id": "255946"
+      "id": "19223"
     },
     {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "AUTUMN LEAVES",
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "HYPHENATED WARS",
       "point_value": 600,
-      "question": "October 1964: His death at age 90 leaves Eisenhower & Truman as the only living ex-presidents",
+      "question": "Syria & Jordan support opposite sides in this ongoing Mideast war",
+      "answer": "Iran-Iraq War",
+      "is_daily_double": false,
+      "id": "19224"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "HYPHENATED WARS",
+      "point_value": 800,
+      "question": "War in which 83,000 French troops, along with Napoleon III himself, were captured in 1 day",
+      "answer": "Franco-Prussian War",
+      "is_daily_double": false,
+      "id": "19225"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "HYPHENATED WARS",
+      "point_value": 1000,
+      "question": "1905 treaty signed in Portsmouth, N.H. ended this war",
+      "answer": "Russo-Japanese War",
+      "is_daily_double": false,
+      "id": "19226"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "SANTA CLAUS",
+      "point_value": 200,
+      "question": "The idea of Santa Claus came from stories about this 4th c. bishop who lived in what is now Turkey",
+      "answer": "St. Nicholas",
+      "is_daily_double": false,
+      "id": "19227"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "SANTA CLAUS",
+      "point_value": 400,
+      "question": "In Holland, Santa arrives by boat from Spain, & like the Lone Ranger, rides through streets on this",
+      "answer": "white horse",
+      "is_daily_double": false,
+      "id": "19228"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "SANTA CLAUS",
+      "point_value": 600,
+      "question": "Santa's 3 reindeer whose names begin with the letter \"D\"",
+      "answer": "Donner, Dancer and Dasher",
+      "is_daily_double": true,
+      "id": "19229"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "SANTA CLAUS",
+      "point_value": 800,
+      "question": "In the poem, \"A Visit From St. Nicholas\", Santa's \"droll little mouth was drawn up like\" this",
+      "answer": "bow",
+      "is_daily_double": false,
+      "id": "19230"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "SANTA CLAUS",
+      "point_value": 1000,
+      "question": "The image we have of Santa Claus today was popularized by this political cartoonist in 1863",
+      "answer": "Nast",
+      "is_daily_double": false,
+      "id": "19231"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "SHAKESPEARE",
+      "point_value": 200,
+      "question": "King of Scotland at the start of \"Macbeth\"",
+      "answer": "Duncan",
+      "is_daily_double": false,
+      "id": "19232"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "SHAKESPEARE",
+      "point_value": 400,
+      "question": "This title refers to the evening of January 5th, a week & 5 days after Christmas Eve",
+      "answer": "Twelfth Night",
+      "is_daily_double": false,
+      "id": "19233"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "SHAKESPEARE",
+      "point_value": 600,
+      "question": "3 of the 6 who left so Hamlet could do his \"To be or not to be\" speech as a soliloquy",
+      "answer": "Claudius, Gertrude, Polonius, Rosencrantz, Guildenstern and Ophelia",
+      "is_daily_double": true,
+      "id": "19234"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "SISTERS",
+      "point_value": 200,
+      "question": "Pam & Paula McGee helped lead USC to 2 consecutive NCAA championships in this sport",
+      "answer": "basketball",
+      "is_daily_double": false,
+      "id": "19235"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "SISTERS",
+      "point_value": 400,
+      "question": "Though her big sister is this famous superstar, Rosalind Kind still makes her own kind of music",
+      "answer": "Barbra Streisand",
+      "is_daily_double": false,
+      "id": "19236"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "SISTERS",
+      "point_value": 600,
+      "question": "Our advice is to call Esther Pauline Friedman & Pauline Esther Friedman by these pen names",
+      "answer": "Dear Abby and Ann Landers",
+      "is_daily_double": false,
+      "id": "19237"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "SISTERS",
+      "point_value": 800,
+      "question": "1 of 2 actresses who played sisters & sang \"Sisters\" in the movie \"White Christmas\"",
+      "answer": "Rosemary Clooney or Vera-Ellen",
+      "is_daily_double": false,
+      "id": "19238"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "SISTERS",
+      "point_value": 1000,
+      "question": "Last seen on the Ed Sullivan show in '68, these 3 are \"Sincerely\" making a comeback in '86",
+      "answer": "McGuire Sisters",
+      "is_daily_double": false,
+      "id": "19239"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "WORD ORIGINS",
+      "point_value": 200,
+      "question": "Term that goes back to draw poker where player had to have jacks or better to \"open the pot\"",
+      "answer": "jackpot",
+      "is_daily_double": false,
+      "id": "19240"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "WORD ORIGINS",
+      "point_value": 400,
+      "question": "From ornate figures found on Roman grotto walls comes this word meaning bizarrely ugly",
+      "answer": "grotesque",
+      "is_daily_double": false,
+      "id": "19241"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "WORD ORIGINS",
+      "point_value": 600,
+      "question": "Because ancient peoples burned incense, the word perfume came from Latin \"perfumus\", meaning \"through\" this",
+      "answer": "smoke",
+      "is_daily_double": false,
+      "id": "19242"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "WORD ORIGINS",
+      "point_value": 800,
+      "question": "From the French for a sorcerer's talisman, for Notre Dame, it's a leprechaun",
+      "answer": "mascot",
+      "is_daily_double": false,
+      "id": "19243"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "2",
+      "category": "WORD ORIGINS",
+      "point_value": 1000,
+      "question": "Once a theatrical trick to win applause, today it means pretentious & insincere language",
+      "answer": "claptrap",
+      "is_daily_double": false,
+      "id": "19244"
+    },
+    {
+      "air_date": "1986-10-08",
+      "round": "3",
+      "category": "REPUBLICANS",
+      "point_value": 0,
+      "question": "Born in 1874 during Grant's administration, this President died in 1964 during Johnson's",
       "answer": "Herbert Hoover",
       "is_daily_double": false,
-      "id": "255947"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "AUTUMN LEAVES",
-      "point_value": 800,
-      "question": "Autumn 1893: This composer's death in St. Petersburg leaves rumors of suicide",
-      "answer": "Tchaikovsky",
-      "is_daily_double": true,
-      "id": "255948"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "AUTUMN LEAVES",
-      "point_value": 1000,
-      "question": "November 2001: This musician leaves a son, Dhani",
-      "answer": "George Harrison",
-      "is_daily_double": false,
-      "id": "255949"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "BROADWAY TRADITIONS",
-      "point_value": 200,
-      "question": "Many an actor has browsed through plays at the Drama Book Shop, which moved from this square to W. 40th St. in 2001",
-      "answer": "Times Square",
-      "is_daily_double": false,
-      "id": "255950"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "BROADWAY TRADITIONS",
-      "point_value": 400,
-      "question": "These distinctive-looking programs have been given out in Broadway theatres since 1884",
-      "answer": "Playbill",
-      "is_daily_double": false,
-      "id": "255951"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "BROADWAY TRADITIONS",
-      "point_value": 600,
-      "question": "Talk about \"Tradition\": In 2004 Alfred Molina starred in the fourth Broadway revival of this musical",
-      "answer": "Fiddler on the Roof",
-      "is_daily_double": false,
-      "id": "255952"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "BROADWAY TRADITIONS",
-      "point_value": 800,
-      "question": "(Sarah of the Clue Crew stands onstage in the Golden Theatre in New York wearing a motley raiment.) On a Broadway musical's opening night, the Gypsy Robe is presented to a chorus member by this actor's union",
-      "answer": "Equity",
-      "is_daily_double": false,
-      "id": "255953"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "BROADWAY TRADITIONS",
-      "point_value": 1000,
-      "question": "Broadway's lights are dimmed to honor late, great luminaries, such as this lyricist partner of John Kander",
-      "answer": "Fred Ebb",
-      "is_daily_double": false,
-      "id": "255954"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "FROM D TO SHINING D",
-      "point_value": 200,
-      "question": "This German dog breed has short legs & a long body",
-      "answer": "a Dachshund",
-      "is_daily_double": false,
-      "id": "255955"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "FROM D TO SHINING D",
-      "point_value": 400,
-      "question": "Some have found \"Paradise\" by the light of this car instrument panel",
-      "answer": "dashboard",
-      "is_daily_double": false,
-      "id": "255956"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "FROM D TO SHINING D",
-      "point_value": 600,
-      "question": "In 2003 Microsoft paid one of these to stockholders for the first time",
-      "answer": "a dividend",
-      "is_daily_double": false,
-      "id": "255957"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "FROM D TO SHINING D",
-      "point_value": 800,
-      "question": "When Homer Simpson became a heretic, he said, \"Don't worry... if I'm wrong, I'll recant on my\" this",
-      "answer": "deathbed",
-      "is_daily_double": false,
-      "id": "255958"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "FROM D TO SHINING D",
-      "point_value": 1000,
-      "question": "A partly divine, partly human mythological being",
-      "answer": "a demigod",
-      "is_daily_double": false,
-      "id": "255959"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "OH, SHOOT!",
-      "point_value": 200,
-      "question": "A popular merit badge this organization gives is for cartridge, air or muzzle-loading rifle shooting",
-      "answer": "the Boy Scouts",
-      "is_daily_double": false,
-      "id": "255960"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "OH, SHOOT!",
-      "point_value": 400,
-      "question": "Wiping off where you've been shot is considered cheating in this sport where you capture the flag",
-      "answer": "paintball",
-      "is_daily_double": false,
-      "id": "255961"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "OH, SHOOT!",
-      "point_value": 600,
-      "question": "This type of gun is used by police on speeders as well as by baseball coaches on their pitchers",
-      "answer": "a radar gun",
-      "is_daily_double": false,
-      "id": "255962"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "OH, SHOOT!",
-      "point_value": 800,
-      "question": "(Sarah of the Clue Crew gets some help from Jimmy in the mountains of Montana.) Unlike skeet, where the clays go side to side, I'm doing this type of shooting, which sends the clays straight out—pull! \"Whoa!\"",
-      "answer": "trapshooting",
-      "is_daily_double": false,
-      "id": "255963"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "OH, SHOOT!",
-      "point_value": 1000,
-      "question": "This Olympic event, from words meaning \"two contests\", first began as a sport in the late 1700s",
-      "answer": "the biathlon",
-      "is_daily_double": false,
-      "id": "255964"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "PENN. NAMES",
-      "point_value": 200,
-      "question": "Born in Springdale in 1907, she would later warn us about the effects of pesticides on the environment",
-      "answer": "Rachel Carson",
-      "is_daily_double": false,
-      "id": "255965"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "PENN. NAMES",
-      "point_value": 400,
-      "question": "In 1903 he began building what is now the world's largest chocolate manufacturing plant",
-      "answer": "(Milton) Hershey",
-      "is_daily_double": false,
-      "id": "255966"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "PENN. NAMES",
-      "point_value": 600,
-      "question": "As its governor from 1995 to 2001, he kept his home state of Pennsylvania secure",
-      "answer": "Tom Ridge",
-      "is_daily_double": false,
-      "id": "255967"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "PENN. NAMES",
-      "point_value": 800,
-      "question": "If you know that this man with a plan hailed from Uniontown, Pennsylvania, you deserve 5 stars",
-      "answer": "(George) Marshall",
-      "is_daily_double": false,
-      "id": "255968"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "1",
-      "category": "PENN. NAMES",
-      "point_value": 1000,
-      "question": "By the time he became Treasury Secretary in 1921, this financier was one of the richest men in America",
-      "answer": "Andrew Mellon",
-      "is_daily_double": false,
-      "id": "255969"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "ANIMALS, VEGETABLES, MINERALS",
-      "point_value": 400,
-      "question": "Canis lupus is the scientific name for the gray one of these",
-      "answer": "a wolf",
-      "is_daily_double": false,
-      "id": "255970"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "ANIMALS, VEGETABLES, MINERALS",
-      "point_value": 800,
-      "question": "This white legume has long been a staple of a branch of the armed forces, hence its name",
-      "answer": "the navy bean",
-      "is_daily_double": false,
-      "id": "255971"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "ANIMALS, VEGETABLES, MINERALS",
-      "point_value": 1200,
-      "question": "The reptile family Helodermatidae consists of only 2 members, the Mexican beaded lizard & this poisonous guy",
-      "answer": "the Gila monster",
-      "is_daily_double": false,
-      "id": "255972"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "ANIMALS, VEGETABLES, MINERALS",
-      "point_value": 1600,
-      "question": "Used in watches, it's the most common piezoelectric crystal",
-      "answer": "quartz",
-      "is_daily_double": true,
-      "id": "255973"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "ANIMALS, VEGETABLES, MINERALS",
-      "point_value": 2000,
-      "question": "Verona & Treviso are varieties of this bitter, red-leafed salad green",
-      "answer": "radicchio",
-      "is_daily_double": false,
-      "id": "255974"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "ASIAN CAPITALS",
-      "point_value": 400,
-      "question": "Inchon, about 20 miles to the southwest, is this capital's seaport",
-      "answer": "Seoul",
-      "is_daily_double": false,
-      "id": "255975"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "ASIAN CAPITALS",
-      "point_value": 800,
-      "question": "The name of this capital of Bangladesh may derive from that of a tree once common in the area",
-      "answer": "Dhaka",
-      "is_daily_double": false,
-      "id": "255976"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "ASIAN CAPITALS",
-      "point_value": 1200,
-      "question": "In 1776, during the reign of Timur Shah, the Durrani rulers moved their capital from Kandahar to this city",
-      "answer": "Kabul",
-      "is_daily_double": false,
-      "id": "255977"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "ASIAN CAPITALS",
-      "point_value": 1600,
-      "question": "On Jan. 6, 2005 an international summit on tsunami relief opened in this city",
-      "answer": "Jakarta",
-      "is_daily_double": true,
-      "id": "255978"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "ASIAN CAPITALS",
-      "point_value": 2000,
-      "question": "This capital's famous avenue on the waterfront, Roxas Boulevard, was once known as Dewey Boulevard",
-      "answer": "Manila (in the Philippines)",
-      "is_daily_double": false,
-      "id": "255979"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "FILL IN THE ____",
-      "point_value": 400,
-      "question": "In courtship: On bended ____",
-      "answer": "knee",
-      "is_daily_double": false,
-      "id": "255980"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "FILL IN THE ____",
-      "point_value": 800,
-      "question": "On court: ____-and-volley",
-      "answer": "serve",
-      "is_daily_double": false,
-      "id": "255981"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "FILL IN THE ____",
-      "point_value": 1200,
-      "question": "At court: Lady-in-____",
-      "answer": "waiting",
-      "is_daily_double": false,
-      "id": "255982"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "FILL IN THE ____",
-      "point_value": 1600,
-      "question": "To the food court!: ____ Caesars",
-      "answer": "Little",
-      "is_daily_double": false,
-      "id": "255983"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "FILL IN THE ____",
-      "point_value": 2000,
-      "question": "In the courtyard: Pigeon, aka rock ____",
-      "answer": "dove",
-      "is_daily_double": false,
-      "id": "255984"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "INVENTORS",
-      "point_value": 400,
-      "question": "In 1891 he devised the kinetoscope, a device you looked into to watch moving pictures",
-      "answer": "Edison",
-      "is_daily_double": false,
-      "id": "255985"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "INVENTORS",
-      "point_value": 800,
-      "question": "In the 1930s, using fused silica & silicones, J. Franklin Hyde found the first new way to make this in 3,000 years",
-      "answer": "glass",
-      "is_daily_double": false,
-      "id": "255986"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "INVENTORS",
-      "point_value": 1200,
-      "question": "The home of this inventor in Rochester, N.Y. is now an international museum of film & photography",
-      "answer": "Eastman",
-      "is_daily_double": false,
-      "id": "255987"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "INVENTORS",
-      "point_value": 1600,
-      "question": "On December 12, 1901 he received the letter \"S\" in Morse code via transatlantic wireless telegraphy",
-      "answer": "Marconi",
-      "is_daily_double": false,
-      "id": "255988"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "INVENTORS",
-      "point_value": 2000,
-      "question": "His company began in 1903 with the sale of 51 safety razors & 168 blades",
-      "answer": "(King) Gillette",
-      "is_daily_double": false,
-      "id": "255989"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "LITERARY LITERARY CHARACTERS",
-      "point_value": 400,
-      "question": "Stephen Daedalus is the writer hero of this Joycean \"Portrait\"",
-      "answer": "Portrait of the Artist as a Young Man",
-      "is_daily_double": false,
-      "id": "255990"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "LITERARY LITERARY CHARACTERS",
-      "point_value": 800,
-      "question": "Philip Jose Farmer wrote a novel under the name of this sci-fi writer invented by Kurt Vonnegut",
-      "answer": "Kilgore Trout",
-      "is_daily_double": false,
-      "id": "255991"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "LITERARY LITERARY CHARACTERS",
-      "point_value": 1200,
-      "question": "In this Russian-American's \"Pale Fire\", John Shade is the late author of a 999-line poem",
-      "answer": "Vladimir Nabokov",
-      "is_daily_double": false,
-      "id": "255992"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "LITERARY LITERARY CHARACTERS",
-      "point_value": 1600,
-      "question": "He's Philip Roth's novelist alter ego in books like him \"Unbound\"",
-      "answer": "Zuckerman",
-      "is_daily_double": false,
-      "id": "255993"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "LITERARY LITERARY CHARACTERS",
-      "point_value": 2000,
-      "question": "Writer Philip Quarles in \"Point Counter Point\" is a self-portrait by this author",
-      "answer": "Aldous Huxley",
-      "is_daily_double": false,
-      "id": "255994"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "TALKING HEADS",
-      "point_value": 400,
-      "question": "Today she interviews stars; she met many as the daughter of a New York City nightclub owner",
-      "answer": "Barbara Walters",
-      "is_daily_double": false,
-      "id": "255995"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "TALKING HEADS",
-      "point_value": 1600,
-      "question": "Bow ties and bold talk characterize this newscaster & commentator",
-      "answer": "Tucker Carlson",
-      "is_daily_double": false,
-      "id": "255996"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "2",
-      "category": "TALKING HEADS",
-      "point_value": 2000,
-      "question": "This former deputy director of the Peace Corps has won more than 30 Emmy awards",
-      "answer": "Bill Moyers",
-      "is_daily_double": false,
-      "id": "255997"
-    },
-    {
-      "air_date": "2005-02-10",
-      "round": "3",
-      "category": "LEGAL TERMS",
-      "point_value": 0,
-      "question": "Innuendo is what a plaintiff must demonstrate in order to prove the commission of this",
-      "answer": "slander (or libel or defamation)",
-      "is_daily_double": false,
-      "id": "255998"
+      "id": "19245"
     }
   ]
 }
