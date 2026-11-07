@@ -1,566 +1,616 @@
 {
-  "id": "4257155f81807825",
-  "air_date": "1986-10-08",
+  "id": "9780d3468aeca594",
+  "air_date": "1989-07-13",
   "questions": [
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "1971",
+      "category": "ANATOMY",
       "point_value": 100,
-      "question": "Team that won U.S.-Chinese ping-pong match in Peking",
-      "answer": "Chinese",
+      "question": "Your nails are made up of cells from this, the top layer of skin",
+      "answer": "epidermis",
       "is_daily_double": false,
-      "id": "19190"
+      "id": "54274"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "1971",
-      "point_value": 300,
-      "question": "While on the moon in February, astronaut Alan Shepard took a shot at this sport",
-      "answer": "golf",
-      "is_daily_double": false,
-      "id": "19191"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "1",
-      "category": "DENMARK",
-      "point_value": 100,
-      "question": "An 1805 Danish forestry law required that every time a tree is cut down, this must be done",
-      "answer": "a tree must be planted",
-      "is_daily_double": false,
-      "id": "19192"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "1",
-      "category": "DENMARK",
+      "category": "ANATOMY",
       "point_value": 200,
-      "question": "In 1944, this island country officially declared itself independent of Denmark",
-      "answer": "Iceland",
+      "question": "You have 2 of these, but a toothed whale only has 1, its blowhole",
+      "answer": "a nostril",
       "is_daily_double": false,
-      "id": "19193"
+      "id": "54275"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "DENMARK",
+      "category": "ANATOMY",
       "point_value": 300,
-      "question": "Main farming activity of Danish-owned Greenland is not growing plants but raising these animals",
-      "answer": "sheep",
+      "question": "A bone that vibrates when it hears \"go horsey\", or a place for your foot on a saddle",
+      "answer": "a stirrup",
       "is_daily_double": false,
-      "id": "19194"
+      "id": "54276"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "DENMARK",
+      "category": "ANATOMY",
       "point_value": 400,
-      "question": "While Great Dane dogs originated in Germany, this pianist called \"The Great Dane\" is from Copenhagen",
-      "answer": "Victor Borge",
+      "question": "When you toss a drink down the hatch, it goes down this tube to the stomach",
+      "answer": "your esophagus",
       "is_daily_double": false,
-      "id": "19195"
+      "id": "54277"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "DENMARK",
+      "category": "ANATOMY",
       "point_value": 500,
-      "question": "Between 1513 & 1972, all Danish kings were alternately name Frederik & this pious name",
-      "answer": "Christian",
+      "question": "Bowman's capsules are found in these filtering organs in your body",
+      "answer": "your kidneys",
       "is_daily_double": false,
-      "id": "19196"
+      "id": "54278"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "ENDS WITH \"X\"",
+      "category": "BOTTOMS UP",
       "point_value": 100,
-      "question": "Liquid oxygen, or what goes well with the Sunday paper, cream cheese & a bagel",
-      "answer": "lox",
+      "question": "In the names of cocktails, this color precedes \"squirrel\" & \"lady\"",
+      "answer": "pink",
       "is_daily_double": false,
-      "id": "19197"
+      "id": "54279"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "ENDS WITH \"X\"",
+      "category": "BOTTOMS UP",
       "point_value": 200,
-      "question": "It contains medicine or a machine gun",
-      "answer": "pillbox",
+      "question": "A creme de menthe cocktail, or the insect who might drink it",
+      "answer": "grasshopper",
       "is_daily_double": false,
-      "id": "19198"
+      "id": "54280"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "ENDS WITH \"X\"",
+      "category": "BOTTOMS UP",
       "point_value": 300,
-      "question": "According to Chief Justice John Marshall, the power to do this is the power to destroy",
-      "answer": "tax",
+      "question": "This liquor is 1 of the main ingredients in a bullshot, & that's no bull",
+      "answer": "vodka",
       "is_daily_double": false,
-      "id": "19199"
+      "id": "54281"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "ENDS WITH \"X\"",
+      "category": "BOTTOMS UP",
       "point_value": 400,
-      "question": "Subject of NBC's historic 1st electronic TV transmission in 1930 was this cartoon hero",
-      "answer": "Felix the Cat",
+      "question": "Champagne cocktails traditionally include a dash of this",
+      "answer": "(Angostura) bitters",
       "is_daily_double": false,
-      "id": "19200"
+      "id": "54282"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "ENDS WITH \"X\"",
+      "category": "BOTTOMS UP",
       "point_value": 500,
-      "question": "A dramatic culmination, a '50s TV anthology, or one of Dr. Ruth's favorite subjects",
-      "answer": "climax",
+      "question": "Kir cocktails contain this liqueur made from black currants",
+      "answer": "creme de cassis",
       "is_daily_double": false,
-      "id": "19201"
+      "id": "54283"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "FOOD",
+      "category": "IN THE DICTIONARY",
       "point_value": 100,
-      "question": "Though it's a key crop in Asia & the Balkans, our U.S.D.A. doesn't even keep statistics on this purple vegetable",
-      "answer": "eggplant",
+      "question": "A Portuguese word for \"silly\" or \"stupid\" inspired the name of this extinct flightless bird",
+      "answer": "the dodo",
       "is_daily_double": false,
-      "id": "19202"
+      "id": "54284"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "FOOD",
+      "category": "IN THE DICTIONARY",
       "point_value": 200,
-      "question": "French for \"lightning\", it's a custard-filled chocolate-covered pastry that can strike your waistline",
-      "answer": "eclair",
+      "question": "It's defined as \"a massive floating body of ice broken away from a glacier\"",
+      "answer": "iceberg",
       "is_daily_double": false,
-      "id": "19203"
+      "id": "54285"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "FOOD",
+      "category": "IN THE DICTIONARY",
       "point_value": 300,
-      "question": "Root used as a substitute for coffee, especially in Cajun cuisine",
-      "answer": "chicory",
+      "question": "From the Latin \"abscondere\", to hide away, it's a wall bracket for lights or candles",
+      "answer": "a sconce",
       "is_daily_double": false,
-      "id": "19204"
+      "id": "54286"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "FOOD",
+      "category": "IN THE DICTIONARY",
       "point_value": 400,
-      "question": "Plant part you're eating when you eat an onion or garlic",
-      "answer": "bulb",
+      "question": "The word that can precede trip, mouse or hockey",
+      "answer": "field",
       "is_daily_double": false,
-      "id": "19205"
+      "id": "54287"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "FOOD",
+      "category": "IN THE DICTIONARY",
       "point_value": 500,
-      "question": "This European country is largest consumer of cheese w/annual average of 38.1 lbs. per person",
-      "answer": "France",
+      "question": "It's the width of a scythe stroke; when you make a grand entrance, you \"cut\" one",
+      "answer": "a swathe (swath)",
       "is_daily_double": false,
-      "id": "19206"
+      "id": "54288"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "OLD WEST",
+      "category": "M*A*S*H",
       "point_value": 100,
-      "question": "During this mania of 1849, eggs cost $10/dozen & rooms rented for $1000/month",
-      "answer": "the (California) Gold Rush",
+      "question": "Having him write home in \"Dear Dad\" worked well; 6 episodes later we had \"Dear Dad... Again\"",
+      "answer": "Hawkeye",
       "is_daily_double": false,
-      "id": "19207"
+      "id": "54289"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "OLD WEST",
+      "category": "M*A*S*H",
       "point_value": 200,
-      "question": "It was actually John Bidwell, not Ward Bond, who led the first of these to California in 1841",
-      "answer": "wagon train",
+      "question": "This teddy bear toter left the series at the start of Season 8",
+      "answer": "Radar",
       "is_daily_double": false,
-      "id": "19208"
+      "id": "54290"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "OLD WEST",
+      "category": "M*A*S*H",
       "point_value": 300,
-      "question": "Hollenberg Sta. at Hanover, Kan. is the only 1 left from this short-lived but legendary service",
-      "answer": "Pony Express",
+      "question": "The peg o' his heart was his wife Peg, back in California",
+      "answer": "B.J. Hunnicutt",
       "is_daily_double": false,
-      "id": "19209"
+      "id": "54291"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "OLD WEST",
+      "category": "M*A*S*H",
       "point_value": 400,
-      "question": "\"The Pathfinder\", in 1986 TV miniseries, he followed his \"dream west\"",
-      "answer": "John C. Fremont",
+      "question": "Character from whom Margaret borrowed a dress for her wedding",
+      "answer": "Klinger",
       "is_daily_double": false,
-      "id": "19210"
+      "id": "54292"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "OLD WEST",
+      "category": "M*A*S*H",
       "point_value": 500,
-      "question": "First \"trail mix\", it was made with dried buffalo meat, hot fat & cherries, & pressed into small pouches",
-      "answer": "pemmican",
+      "question": "An occasional visitor, Major Sidney Freedman was this type of doctor",
+      "answer": "a psychiatrist",
       "is_daily_double": false,
-      "id": "19211"
+      "id": "54293"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "SESAME STREET",
+      "category": "MUSIC TRIVIA",
       "point_value": 100,
-      "question": "For over 17 years, Ernie's been pulling the \"old loose nose joke\" on this roommate",
-      "answer": "Bert",
+      "question": "In 1948 the Palestine Philharmonic Orchestra was renamed this",
+      "answer": "the Israel Philharmonic",
       "is_daily_double": false,
-      "id": "19212"
+      "id": "54294"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "SESAME STREET",
+      "category": "MUSIC TRIVIA",
       "point_value": 200,
-      "question": "Sesame Street began teaching how to count to 10; today they've expanded to this number",
-      "answer": "20",
+      "question": "This ensemble is the Boston Symphony minus its principal players",
+      "answer": "the Boston Pops",
       "is_daily_double": false,
-      "id": "19213"
+      "id": "54295"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "SESAME STREET",
+      "category": "MUSIC TRIVIA",
       "point_value": 300,
-      "question": "In 1968 Joan Ganz Cooney co-founded this organization which produces Sesame Street",
-      "answer": "Children's Television Workshop",
+      "question": "Music hall Gracie who sang about \"the biggest aspidistra-in the world\"",
+      "answer": "Gracie Fields",
       "is_daily_double": false,
-      "id": "19214"
+      "id": "54296"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "1",
-      "category": "SESAME STREET",
+      "category": "MUSIC TRIVIA",
       "point_value": 400,
-      "question": "The 1982 death of the actor who played this storekeeper was incorporated into the show",
-      "answer": "Mr. Hooper",
-      "is_daily_double": false,
-      "id": "19215"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "1",
-      "category": "SESAME STREET",
-      "point_value": 500,
-      "question": "It's said the style of Sesame Street was modeled after this fast-paced TV comedy show",
-      "answer": "Laugh-In",
-      "is_daily_double": false,
-      "id": "19216"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "BUSINESS & INDUSTRY",
-      "point_value": 200,
-      "question": "The escalator was developed by this elevator company",
-      "answer": "Otis",
-      "is_daily_double": false,
-      "id": "19217"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "BUSINESS & INDUSTRY",
-      "point_value": 400,
-      "question": "This company went into the red for 1st time in any quarter after being forced out of instant photography",
-      "answer": "Kodak",
-      "is_daily_double": false,
-      "id": "19218"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "BUSINESS & INDUSTRY",
-      "point_value": 600,
-      "question": "In 1985, this airline which pioneered trans-Pacific flights sold those routes to United",
-      "answer": "Pan Am",
-      "is_daily_double": false,
-      "id": "19219"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "BUSINESS & INDUSTRY",
-      "point_value": 800,
-      "question": "In '59 Perry Como signed $25 million sponsorship pact with this food company",
-      "answer": "Kraft",
-      "is_daily_double": false,
-      "id": "19220"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "BUSINESS & INDUSTRY",
-      "point_value": 1000,
-      "question": "In 1985, both these co-founders of Apple named Steven left to start new companies",
-      "answer": "Steven Jobs and Steve Wozniak",
-      "is_daily_double": false,
-      "id": "19221"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "HYPHENATED WARS",
-      "point_value": 200,
-      "question": "In this war, Israel captured territory more than 3 times its size",
-      "answer": "Six-Day War",
-      "is_daily_double": false,
-      "id": "19222"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "HYPHENATED WARS",
-      "point_value": 400,
-      "question": "As of March, 1986, there were only 9 living U.S. veterans of this war",
-      "answer": "Spanish-American War",
-      "is_daily_double": false,
-      "id": "19223"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "HYPHENATED WARS",
-      "point_value": 600,
-      "question": "Syria & Jordan support opposite sides in this ongoing Mideast war",
-      "answer": "Iran-Iraq War",
-      "is_daily_double": false,
-      "id": "19224"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "HYPHENATED WARS",
-      "point_value": 800,
-      "question": "War in which 83,000 French troops, along with Napoleon III himself, were captured in 1 day",
-      "answer": "Franco-Prussian War",
-      "is_daily_double": false,
-      "id": "19225"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "HYPHENATED WARS",
-      "point_value": 1000,
-      "question": "1905 treaty signed in Portsmouth, N.H. ended this war",
-      "answer": "Russo-Japanese War",
-      "is_daily_double": false,
-      "id": "19226"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "SANTA CLAUS",
-      "point_value": 200,
-      "question": "The idea of Santa Claus came from stories about this 4th c. bishop who lived in what is now Turkey",
-      "answer": "St. Nicholas",
-      "is_daily_double": false,
-      "id": "19227"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "SANTA CLAUS",
-      "point_value": 400,
-      "question": "In Holland, Santa arrives by boat from Spain, & like the Lone Ranger, rides through streets on this",
-      "answer": "white horse",
-      "is_daily_double": false,
-      "id": "19228"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "SANTA CLAUS",
-      "point_value": 600,
-      "question": "Santa's 3 reindeer whose names begin with the letter \"D\"",
-      "answer": "Donner, Dancer and Dasher",
+      "question": "This composer's wind bands helped introduce the saxophone to the U.S. in the 1890s",
+      "answer": "John Philip Sousa",
       "is_daily_double": true,
-      "id": "19229"
+      "id": "54297"
     },
     {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "SANTA CLAUS",
-      "point_value": 800,
-      "question": "In the poem, \"A Visit From St. Nicholas\", Santa's \"droll little mouth was drawn up like\" this",
-      "answer": "bow",
+      "air_date": "1989-07-13",
+      "round": "1",
+      "category": "MUSIC TRIVIA",
+      "point_value": 500,
+      "question": "One of the musicals by Leonard Bernstein with \"Town\" in the title",
+      "answer": "On the Town (or Wonderful Town)",
       "is_daily_double": false,
-      "id": "19230"
+      "id": "54298"
     },
     {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "SANTA CLAUS",
-      "point_value": 1000,
-      "question": "The image we have of Santa Claus today was popularized by this political cartoonist in 1863",
-      "answer": "Nast",
+      "air_date": "1989-07-13",
+      "round": "1",
+      "category": "NORTH CAROLINA",
+      "point_value": 100,
+      "question": "One of the N.C. colony's 1st products, this sticky stuff helped give the state its nickname",
+      "answer": "tar",
       "is_daily_double": false,
-      "id": "19231"
+      "id": "54299"
     },
     {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "SHAKESPEARE",
+      "air_date": "1989-07-13",
+      "round": "1",
+      "category": "NORTH CAROLINA",
       "point_value": 200,
-      "question": "King of Scotland at the start of \"Macbeth\"",
-      "answer": "Duncan",
+      "question": "The governor not only has no line-item power to do this, he has no power to do it at all",
+      "answer": "veto",
       "is_daily_double": false,
-      "id": "19232"
+      "id": "54300"
     },
     {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "SHAKESPEARE",
+      "air_date": "1989-07-13",
+      "round": "1",
+      "category": "NORTH CAROLINA",
+      "point_value": 300,
+      "question": "2 of 3 universities that combined resources to create N.C. Research Triangle Park",
+      "answer": "(2 of) North Carolina, Duke (or N.C. State)",
+      "is_daily_double": false,
+      "id": "54301"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "1",
+      "category": "NORTH CAROLINA",
       "point_value": 400,
-      "question": "This title refers to the evening of January 5th, a week & 5 days after Christmas Eve",
-      "answer": "Twelfth Night",
+      "question": "This cape on the Atlantic is the site of a Nat'l Seashore & the tallest lighthouse in the U.S.",
+      "answer": "Cape Hatteras",
       "is_daily_double": false,
-      "id": "19233"
+      "id": "54302"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
+      "round": "1",
+      "category": "NORTH CAROLINA",
+      "point_value": 500,
+      "question": "The only trace of this ever found was the word \"Croatoan\", the name of a local tribe, carved in a tree",
+      "answer": "the original settlement by Sir Walter Raleigh (on Roanoke Island)",
+      "is_daily_double": false,
+      "id": "54303"
+    },
+    {
+      "air_date": "1989-07-13",
       "round": "2",
-      "category": "SHAKESPEARE",
+      "category": "AUTHORS",
+      "point_value": 200,
+      "question": "Nationality of Lope de Vega, who wrote over 1,500 plays & may be the most prolific author in Western lit.",
+      "answer": "Spanish",
+      "is_daily_double": false,
+      "id": "54304"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "AUTHORS",
+      "point_value": 400,
+      "question": "This Italian seducer was in his 60s when he began writing his 12 volume sexual memoirs",
+      "answer": "Casanova",
+      "is_daily_double": false,
+      "id": "54305"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "AUTHORS",
       "point_value": 600,
-      "question": "3 of the 6 who left so Hamlet could do his \"To be or not to be\" speech as a soliloquy",
-      "answer": "Claudius, Gertrude, Polonius, Rosencrantz, Guildenstern and Ophelia",
+      "question": "He worked as a menial laborer & a cotton picker before he wrote \"Tobacco Road\"",
+      "answer": "Erskine Caldwell",
+      "is_daily_double": false,
+      "id": "54306"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "AUTHORS",
+      "point_value": 800,
+      "question": "His last novel was \"The Reivers\"",
+      "answer": "William Faulkner",
+      "is_daily_double": false,
+      "id": "54307"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "AUTHORS",
+      "point_value": 1000,
+      "question": "Author of \"Notes from the Underground\" a.k.a. \"Letters from the Underworld\"",
+      "answer": "Dostoevsky",
+      "is_daily_double": false,
+      "id": "54308"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "FAMOUS RIDERS",
+      "point_value": 200,
+      "question": "Siddhartha Gautama, better known as this, had a horse described as having \"breath like dragons\"",
+      "answer": "Buddha",
+      "is_daily_double": false,
+      "id": "54309"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "FAMOUS RIDERS",
+      "point_value": 400,
+      "question": "During the Civil War, he was often seen riding \"Cincinnati\", a gift from the people in the Ohio city",
+      "answer": "(Ulysses) Grant",
+      "is_daily_double": false,
+      "id": "54310"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "FAMOUS RIDERS",
+      "point_value": 600,
+      "question": "A flop-eared mule named Bruin was his favorite mount when he was pres. of Texas",
+      "answer": "Sam Houston",
+      "is_daily_double": false,
+      "id": "54311"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "FAMOUS RIDERS",
+      "point_value": 800,
+      "question": "His horse, Tarzan, used to nudge this '20s & '30s movie cowboy into the arms of the leading lady",
+      "answer": "Ken Maynard",
+      "is_daily_double": false,
+      "id": "54312"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "FAMOUS RIDERS",
+      "point_value": 1000,
+      "question": "In an 11th century French epic poem, this knight's horse, Veillantif, was killed under him",
+      "answer": "Roland",
+      "is_daily_double": false,
+      "id": "54313"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "HORSES",
+      "point_value": 200,
+      "question": "Regardless of its birthdate, a racehorse in the northern hemisphere becomes a year older on this day",
+      "answer": "January 1st",
+      "is_daily_double": false,
+      "id": "54314"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "HORSES",
+      "point_value": 400,
+      "question": "When U.S.horses put on the feedbag, this grain is the most widely eaten",
+      "answer": "oats",
+      "is_daily_double": false,
+      "id": "54315"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "HORSES",
+      "point_value": 600,
+      "question": "The small Welsh pony was bred to work in the cramped spaces of these",
+      "answer": "the (coal) mines",
+      "is_daily_double": false,
+      "id": "54316"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "HORSES",
+      "point_value": 800,
+      "question": "8 out of 10 horses of this breed descend from the 18th century champion, Eclipse",
+      "answer": "Thoroughbreds",
+      "is_daily_double": false,
+      "id": "54317"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "HORSES",
+      "point_value": 1000,
+      "question": "These gray or white Austrian show horses were originally bred near Trieste in the 16th century",
+      "answer": "Lipizzaners",
+      "is_daily_double": false,
+      "id": "54318"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "SHAKESPEAREAN ACTORS",
+      "point_value": 200,
+      "question": "Strangely, in 1971 Dame Judith Anderson played this Danish prince on stage",
+      "answer": "Hamlet",
+      "is_daily_double": false,
+      "id": "54319"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "SHAKESPEAREAN ACTORS",
+      "point_value": 400,
+      "question": "Role played by Mickey Rooney in the 1935 all-star version of \"A Midsummer Night's Dream\"",
+      "answer": "Puck",
+      "is_daily_double": false,
+      "id": "54320"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "SHAKESPEAREAN ACTORS",
+      "point_value": 600,
+      "question": "In a rare TV appearance, Olivier played this foolish, fond old king",
+      "answer": "King Lear",
+      "is_daily_double": false,
+      "id": "54321"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "SHAKESPEAREAN ACTORS",
+      "point_value": 800,
+      "question": "The 15-year-old actress who played Juliet in Zeffirelli's 1968 version of \"Romeo & Juliet\"",
+      "answer": "Olivia Hussey",
+      "is_daily_double": false,
+      "id": "54322"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "SHAKESPEAREAN ACTORS",
+      "point_value": 1000,
+      "question": "1 of 2 films in which Orson Welles directed himself in a Shakespearean play",
+      "answer": "(1 of) Macbeth (or Othello)",
+      "is_daily_double": false,
+      "id": "54323"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "THE 1940s",
+      "point_value": 200,
+      "question": "On February 7,1943 these went on the ration list, limiting civilians to 3 pairs a year",
+      "answer": "shoes",
+      "is_daily_double": false,
+      "id": "54324"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "THE 1940s",
+      "point_value": 400,
+      "question": "Due to manpower shortage, the St. Louis Browns hired Pete Gray to play outfield though he had only 1 of these",
+      "answer": "an arm",
+      "is_daily_double": false,
+      "id": "54325"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "THE 1940s",
+      "point_value": 600,
+      "question": "Completes WWII Navy pilot David F. Mason's 4-word sibilant message \"sighted sub,...\"",
+      "answer": "sank same",
+      "is_daily_double": false,
+      "id": "54326"
+    },
+    {
+      "air_date": "1989-07-13",
+      "round": "2",
+      "category": "THE 1940s",
+      "point_value": 800,
+      "question": "This play opened on Broadway in '49 with Cameron Mitchell as Happy & Arthur Kennedy as Biff",
+      "answer": "Death of a Salesman",
       "is_daily_double": true,
-      "id": "19234"
+      "id": "54327"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "2",
-      "category": "SISTERS",
-      "point_value": 200,
-      "question": "Pam & Paula McGee helped lead USC to 2 consecutive NCAA championships in this sport",
-      "answer": "basketball",
-      "is_daily_double": false,
-      "id": "19235"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "SISTERS",
-      "point_value": 400,
-      "question": "Though her big sister is this famous superstar, Rosalind Kind still makes her own kind of music",
-      "answer": "Barbra Streisand",
-      "is_daily_double": false,
-      "id": "19236"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "SISTERS",
-      "point_value": 600,
-      "question": "Our advice is to call Esther Pauline Friedman & Pauline Esther Friedman by these pen names",
-      "answer": "Dear Abby and Ann Landers",
-      "is_daily_double": false,
-      "id": "19237"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "SISTERS",
-      "point_value": 800,
-      "question": "1 of 2 actresses who played sisters & sang \"Sisters\" in the movie \"White Christmas\"",
-      "answer": "Rosemary Clooney or Vera-Ellen",
-      "is_daily_double": false,
-      "id": "19238"
-    },
-    {
-      "air_date": "1986-10-08",
-      "round": "2",
-      "category": "SISTERS",
+      "category": "THE 1940s",
       "point_value": 1000,
-      "question": "Last seen on the Ed Sullivan show in '68, these 3 are \"Sincerely\" making a comeback in '86",
-      "answer": "McGuire Sisters",
+      "question": "He kept his promise to resign as CIO president when FDR was re-elected",
+      "answer": "John L. Lewis",
       "is_daily_double": false,
-      "id": "19239"
+      "id": "54328"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "2",
-      "category": "WORD ORIGINS",
+      "category": "THE RIVIERA",
       "point_value": 200,
-      "question": "Term that goes back to draw poker where player had to have jacks or better to \"open the pot\"",
-      "answer": "jackpot",
+      "question": "\"Paris, Texas\" isn't on the Riviera, but it won a Palme d'Or in this Riviera city's film festival",
+      "answer": "Cannes",
       "is_daily_double": false,
-      "id": "19240"
+      "id": "54329"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "2",
-      "category": "WORD ORIGINS",
+      "category": "THE RIVIERA",
       "point_value": 400,
-      "question": "From ornate figures found on Roman grotto walls comes this word meaning bizarrely ugly",
-      "answer": "grotesque",
-      "is_daily_double": false,
-      "id": "19241"
+      "question": "This city on the Italian Riviera is famous, among other things, as the birthplace of Columbus",
+      "answer": "Genoa",
+      "is_daily_double": true,
+      "id": "54330"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "2",
-      "category": "WORD ORIGINS",
+      "category": "THE RIVIERA",
       "point_value": 600,
-      "question": "Because ancient peoples burned incense, the word perfume came from Latin \"perfumus\", meaning \"through\" this",
-      "answer": "smoke",
+      "question": "An 1890s song tells the story of \"the man who broke the bank\" at this resort",
+      "answer": "Monte Carlo",
       "is_daily_double": false,
-      "id": "19242"
+      "id": "54331"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "2",
-      "category": "WORD ORIGINS",
+      "category": "THE RIVIERA",
       "point_value": 800,
-      "question": "From the French for a sorcerer's talisman, for Notre Dame, it's a leprechaun",
-      "answer": "mascot",
+      "question": "Throngs of celebrants line the promenade Des Anglais during this city's annual carnival",
+      "answer": "Nice",
       "is_daily_double": false,
-      "id": "19243"
+      "id": "54332"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "2",
-      "category": "WORD ORIGINS",
+      "category": "THE RIVIERA",
       "point_value": 1000,
-      "question": "Once a theatrical trick to win applause, today it means pretentious & insincere language",
-      "answer": "claptrap",
+      "question": "The Italians call it the Riviera, but in France it's known by this name",
+      "answer": "the Côte d'Azur",
       "is_daily_double": false,
-      "id": "19244"
+      "id": "54333"
     },
     {
-      "air_date": "1986-10-08",
+      "air_date": "1989-07-13",
       "round": "3",
-      "category": "REPUBLICANS",
+      "category": "IN THE NEWS",
       "point_value": 0,
-      "question": "Born in 1874 during Grant's administration, this President died in 1964 during Johnson's",
-      "answer": "Herbert Hoover",
+      "question": "The European Community's target year for lifting all economic barriers among its 12 members",
+      "answer": "1992",
       "is_daily_double": false,
-      "id": "19245"
+      "id": "54334"
     }
   ]
 }
