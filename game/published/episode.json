@@ -1,616 +1,586 @@
 {
-  "id": "9780d3468aeca594",
-  "air_date": "1989-07-13",
+  "id": "c215a91f0b465f5d",
+  "air_date": "2020-06-03",
   "questions": [
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "ANATOMY",
-      "point_value": 100,
-      "question": "Your nails are made up of cells from this, the top layer of skin",
-      "answer": "epidermis",
-      "is_daily_double": false,
-      "id": "54274"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "1",
-      "category": "ANATOMY",
+      "category": "\"DE\" PLUS 3",
       "point_value": 200,
-      "question": "You have 2 of these, but a toothed whale only has 1, its blowhole",
-      "answer": "a nostril",
+      "question": "Your first appearance on stage or screen",
+      "answer": "a debut",
       "is_daily_double": false,
-      "id": "54275"
+      "id": "461321"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "ANATOMY",
-      "point_value": 300,
-      "question": "A bone that vibrates when it hears \"go horsey\", or a place for your foot on a saddle",
-      "answer": "a stirrup",
+      "category": "\"DE\" PLUS 3",
+      "point_value": 600,
+      "question": "The typically triangular mouth of a river",
+      "answer": "a delta",
       "is_daily_double": false,
-      "id": "54276"
+      "id": "461322"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "ANATOMY",
-      "point_value": 400,
-      "question": "When you toss a drink down the hatch, it goes down this tube to the stomach",
-      "answer": "your esophagus",
+      "category": "\"DE\" PLUS 3",
+      "point_value": 800,
+      "question": "My god, your god, any god",
+      "answer": "a deity",
       "is_daily_double": false,
-      "id": "54277"
+      "id": "461323"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "ANATOMY",
-      "point_value": 500,
-      "question": "Bowman's capsules are found in these filtering organs in your body",
-      "answer": "your kidneys",
+      "category": "\"DE\" PLUS 3",
+      "point_value": 1000,
+      "question": "Named for a city, it's a specific type of Dutch earthenware",
+      "answer": "Delft",
       "is_daily_double": false,
-      "id": "54278"
+      "id": "461324"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "BOTTOMS UP",
-      "point_value": 100,
-      "question": "In the names of cocktails, this color precedes \"squirrel\" & \"lady\"",
-      "answer": "pink",
-      "is_daily_double": false,
-      "id": "54279"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "1",
-      "category": "BOTTOMS UP",
+      "category": "BOULDER DASH",
       "point_value": 200,
-      "question": "A creme de menthe cocktail, or the insect who might drink it",
-      "answer": "grasshopper",
+      "question": "In this 1937 animated classic, the wicked queen tries to kill the title septet with a boulder, but it ends up backfiring",
+      "answer": "Snow White and the Seven Dwarfs",
       "is_daily_double": false,
-      "id": "54280"
+      "id": "461296"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "BOTTOMS UP",
-      "point_value": 300,
-      "question": "This liquor is 1 of the main ingredients in a bullshot, & that's no bull",
-      "answer": "vodka",
-      "is_daily_double": false,
-      "id": "54281"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "1",
-      "category": "BOTTOMS UP",
+      "category": "BOULDER DASH",
       "point_value": 400,
-      "question": "Champagne cocktails traditionally include a dash of this",
-      "answer": "(Angostura) bitters",
+      "question": "He's been known to try & kill a certain roadrunner with boulders, but the big rocks usually end up coming his way",
+      "answer": "Wile E. Coyote",
       "is_daily_double": false,
-      "id": "54282"
+      "id": "461297"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "BOTTOMS UP",
-      "point_value": 500,
-      "question": "Kir cocktails contain this liqueur made from black currants",
-      "answer": "creme de cassis",
+      "category": "BOULDER DASH",
+      "point_value": 600,
+      "question": "In this 1981 movie Indiana Jones gets covered in webs while outrunning a large rock",
+      "answer": "Raiders of the Lost Ark (*Indiana Jones and the Raiders of the Lost Ark)",
       "is_daily_double": false,
-      "id": "54283"
+      "id": "461298"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "IN THE DICTIONARY",
-      "point_value": 100,
-      "question": "A Portuguese word for \"silly\" or \"stupid\" inspired the name of this extinct flightless bird",
-      "answer": "the dodo",
+      "category": "BOULDER DASH",
+      "point_value": 800,
+      "question": "In a 2018 animated sequel, this superhero patriarch has to dodge rocks & stuff while trying to thwart the Underminer",
+      "answer": "Mr. Incredible",
       "is_daily_double": false,
-      "id": "54284"
+      "id": "461299"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "IN THE DICTIONARY",
+      "category": "BOULDER DASH",
+      "point_value": 1000,
+      "question": "In \"The Princess Bride\" this big guy, as Fezzik, dashes a big rock at Westley",
+      "answer": "Andre the Giant",
+      "is_daily_double": false,
+      "id": "461300"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "1",
+      "category": "IS IT BIGGER THAN A CHICKEN?",
       "point_value": 200,
-      "question": "It's defined as \"a massive floating body of ice broken away from a glacier\"",
-      "answer": "iceberg",
+      "question": "Yes, it's this Acropolis temple completed in 438 B.C.; the foundation seems good, but it could probably use a little roof work",
+      "answer": "the Parthenon",
       "is_daily_double": false,
-      "id": "54285"
+      "id": "461301"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "IN THE DICTIONARY",
-      "point_value": 300,
-      "question": "From the Latin \"abscondere\", to hide away, it's a wall bracket for lights or candles",
-      "answer": "a sconce",
-      "is_daily_double": false,
-      "id": "54286"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "1",
-      "category": "IN THE DICTIONARY",
+      "category": "IS IT BIGGER THAN A CHICKEN?",
       "point_value": 400,
-      "question": "The word that can precede trip, mouse or hockey",
-      "answer": "field",
+      "question": "No, but the 2-inch \"Midnite Minichamp\" version of this pocketknife comes with tools that perform 17 different functions",
+      "answer": "the Swiss Army knife",
       "is_daily_double": false,
-      "id": "54287"
+      "id": "461302"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "IN THE DICTIONARY",
-      "point_value": 500,
-      "question": "It's the width of a scythe stroke; when you make a grand entrance, you \"cut\" one",
-      "answer": "a swathe (swath)",
+      "category": "IS IT BIGGER THAN A CHICKEN?",
+      "point_value": 600,
+      "question": "Yes, & as the largest ships in the U.S. Navy, each is powered by 2 nuclear reactors & can displace 100,000 tons",
+      "answer": "an aircraft carrier",
       "is_daily_double": false,
-      "id": "54288"
+      "id": "461303"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "M*A*S*H",
-      "point_value": 100,
-      "question": "Having him write home in \"Dear Dad\" worked well; 6 episodes later we had \"Dear Dad... Again\"",
-      "answer": "Hawkeye",
+      "category": "IS IT BIGGER THAN A CHICKEN?",
+      "point_value": 800,
+      "question": "No—the bee variety of this is the world's smallest bird at only about 2 inches long",
+      "answer": "a hummingbird",
       "is_daily_double": false,
-      "id": "54289"
+      "id": "461304"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "M*A*S*H",
+      "category": "IS IT BIGGER THAN A CHICKEN?",
+      "point_value": 1000,
+      "question": "Yes, & the massive Three Gorges Dam generates 22,500 megawatts stretching 1.4 miles across this river",
+      "answer": "the Yangtze River",
+      "is_daily_double": false,
+      "id": "461305"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "1",
+      "category": "MUSTARD OR MAYO",
       "point_value": 200,
-      "question": "This teddy bear toter left the series at the start of Season 8",
-      "answer": "Radar",
+      "question": "Hampton Creek, maker of \"Just Mayo\", convinced the FDA to let it keep the name, though J.M. doesn't contain these",
+      "answer": "eggs",
       "is_daily_double": false,
-      "id": "54290"
+      "id": "461306"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "M*A*S*H",
-      "point_value": 300,
-      "question": "The peg o' his heart was his wife Peg, back in California",
-      "answer": "B.J. Hunnicutt",
-      "is_daily_double": false,
-      "id": "54291"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "1",
-      "category": "M*A*S*H",
+      "category": "MUSTARD OR MAYO",
       "point_value": 400,
-      "question": "Character from whom Margaret borrowed a dress for her wedding",
-      "answer": "Klinger",
+      "question": "A red flag that says \"Since 1904\" means you're using this mustard brand",
+      "answer": "French's",
       "is_daily_double": false,
-      "id": "54292"
+      "id": "461307"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "M*A*S*H",
-      "point_value": 500,
-      "question": "An occasional visitor, Major Sidney Freedman was this type of doctor",
-      "answer": "a psychiatrist",
+      "category": "MUSTARD OR MAYO",
+      "point_value": 600,
+      "question": "Best Foods & this other brand of mayonnaise have the same ingredients & the same blue bow on their labels",
+      "answer": "Hellmann's",
       "is_daily_double": false,
-      "id": "54293"
+      "id": "461308"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "MUSIC TRIVIA",
-      "point_value": 100,
-      "question": "In 1948 the Palestine Philharmonic Orchestra was renamed this",
-      "answer": "the Israel Philharmonic",
+      "category": "MUSTARD OR MAYO",
+      "point_value": 800,
+      "question": "Combining mustard & fruit, Mostarda di Cremona is often compared to this vinegar & fruit condiment that accompanies curries",
+      "answer": "chutney",
       "is_daily_double": false,
-      "id": "54294"
+      "id": "461309"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "MUSIC TRIVIA",
+      "category": "MUSTARD OR MAYO",
+      "point_value": 1000,
+      "question": "This bulb is the key flavoring of the Provencal mayonnaise called aioli",
+      "answer": "garlic",
+      "is_daily_double": false,
+      "id": "461310"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "1",
+      "category": "MYSTERIES & THRILLERS",
       "point_value": 200,
-      "question": "This ensemble is the Boston Symphony minus its principal players",
-      "answer": "the Boston Pops",
+      "question": "In Sue Grafton's alphabet mysteries, \"H is for\" this killer crime",
+      "answer": "homicide",
       "is_daily_double": false,
-      "id": "54295"
+      "id": "461311"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "MUSIC TRIVIA",
-      "point_value": 300,
-      "question": "Music hall Gracie who sang about \"the biggest aspidistra-in the world\"",
-      "answer": "Gracie Fields",
-      "is_daily_double": false,
-      "id": "54296"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "1",
-      "category": "MUSIC TRIVIA",
+      "category": "MYSTERIES & THRILLERS",
       "point_value": 400,
-      "question": "This composer's wind bands helped introduce the saxophone to the U.S. in the 1890s",
-      "answer": "John Philip Sousa",
+      "question": "For his novel \"Inferno\", Dan Brown drew on a poem by this Italian",
+      "answer": "Dante",
+      "is_daily_double": false,
+      "id": "461312"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "1",
+      "category": "MYSTERIES & THRILLERS",
+      "point_value": 600,
+      "question": "After a fatal stabbing in this classic mystery, Hercule Poirot asks for \"a plan of the Istanbul-Calais Coach\"",
+      "answer": "Murder on the Orient Express",
+      "is_daily_double": false,
+      "id": "461313"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "1",
+      "category": "MYSTERIES & THRILLERS",
+      "point_value": 800,
+      "question": "Time magazine named this Gillian Flynn thriller one of the \"10 Best Fiction Books of the 2010s\"",
+      "answer": "Gone Girl",
+      "is_daily_double": false,
+      "id": "461314"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "1",
+      "category": "MYSTERIES & THRILLERS",
+      "point_value": 1000,
+      "question": "A review for this Ruth Ware bestseller set at sea says it \"just may do to cruise vacations what 'Jaws' did to ocean swimming\"",
+      "answer": "The Woman in Cabin 10",
+      "is_daily_double": false,
+      "id": "461315"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "1",
+      "category": "POLITICS: WHO SAID IT?",
+      "point_value": 200,
+      "question": "1976: \"The Iron Lady of the Western world... a cold war warrior... well, yes\"",
+      "answer": "(Margaret) Thatcher",
+      "is_daily_double": false,
+      "id": "461316"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "1",
+      "category": "POLITICS: WHO SAID IT?",
+      "point_value": 400,
+      "question": "1992: \"I didn't like it, and didn't inhale\"",
+      "answer": "Bill Clinton",
+      "is_daily_double": false,
+      "id": "461317"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "1",
+      "category": "POLITICS: WHO SAID IT?",
+      "point_value": 600,
+      "question": "1848: \"The history of all hitherto existing society is the history of class struggles\"",
+      "answer": "Marx",
+      "is_daily_double": false,
+      "id": "461318"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "1",
+      "category": "POLITICS: WHO SAID IT?",
+      "point_value": 800,
+      "question": "1950; \"I have here in my hand a list of 205 that were known to the Secretary of State as being members of the Communist Party\"",
+      "answer": "McCarthy",
       "is_daily_double": true,
-      "id": "54297"
+      "id": "461319"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "1",
-      "category": "MUSIC TRIVIA",
-      "point_value": 500,
-      "question": "One of the musicals by Leonard Bernstein with \"Town\" in the title",
-      "answer": "On the Town (or Wonderful Town)",
-      "is_daily_double": false,
-      "id": "54298"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "1",
-      "category": "NORTH CAROLINA",
-      "point_value": 100,
-      "question": "One of the N.C. colony's 1st products, this sticky stuff helped give the state its nickname",
-      "answer": "tar",
-      "is_daily_double": false,
-      "id": "54299"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "1",
-      "category": "NORTH CAROLINA",
-      "point_value": 200,
-      "question": "The governor not only has no line-item power to do this, he has no power to do it at all",
-      "answer": "veto",
-      "is_daily_double": false,
-      "id": "54300"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "1",
-      "category": "NORTH CAROLINA",
-      "point_value": 300,
-      "question": "2 of 3 universities that combined resources to create N.C. Research Triangle Park",
-      "answer": "(2 of) North Carolina, Duke (or N.C. State)",
-      "is_daily_double": false,
-      "id": "54301"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "1",
-      "category": "NORTH CAROLINA",
-      "point_value": 400,
-      "question": "This cape on the Atlantic is the site of a Nat'l Seashore & the tallest lighthouse in the U.S.",
-      "answer": "Cape Hatteras",
-      "is_daily_double": false,
-      "id": "54302"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "1",
-      "category": "NORTH CAROLINA",
-      "point_value": 500,
-      "question": "The only trace of this ever found was the word \"Croatoan\", the name of a local tribe, carved in a tree",
-      "answer": "the original settlement by Sir Walter Raleigh (on Roanoke Island)",
-      "is_daily_double": false,
-      "id": "54303"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "AUTHORS",
-      "point_value": 200,
-      "question": "Nationality of Lope de Vega, who wrote over 1,500 plays & may be the most prolific author in Western lit.",
-      "answer": "Spanish",
-      "is_daily_double": false,
-      "id": "54304"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "AUTHORS",
-      "point_value": 400,
-      "question": "This Italian seducer was in his 60s when he began writing his 12 volume sexual memoirs",
-      "answer": "Casanova",
-      "is_daily_double": false,
-      "id": "54305"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "AUTHORS",
-      "point_value": 600,
-      "question": "He worked as a menial laborer & a cotton picker before he wrote \"Tobacco Road\"",
-      "answer": "Erskine Caldwell",
-      "is_daily_double": false,
-      "id": "54306"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "AUTHORS",
-      "point_value": 800,
-      "question": "His last novel was \"The Reivers\"",
-      "answer": "William Faulkner",
-      "is_daily_double": false,
-      "id": "54307"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "AUTHORS",
+      "category": "POLITICS: WHO SAID IT?",
       "point_value": 1000,
-      "question": "Author of \"Notes from the Underground\" a.k.a. \"Letters from the Underworld\"",
-      "answer": "Dostoevsky",
+      "question": "1969: \"There cannot be a crisis next week. My schedule is already full\"",
+      "answer": "Henry Kissinger",
       "is_daily_double": false,
-      "id": "54308"
+      "id": "461320"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "2",
-      "category": "FAMOUS RIDERS",
-      "point_value": 200,
-      "question": "Siddhartha Gautama, better known as this, had a horse described as having \"breath like dragons\"",
-      "answer": "Buddha",
-      "is_daily_double": false,
-      "id": "54309"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "FAMOUS RIDERS",
+      "category": "ABBREVIATIONS",
       "point_value": 400,
-      "question": "During the Civil War, he was often seen riding \"Cincinnati\", a gift from the people in the Ohio city",
-      "answer": "(Ulysses) Grant",
+      "question": "It's the \"T\" in the name of the international alliance abbreviated NATO",
+      "answer": "Treaty",
       "is_daily_double": false,
-      "id": "54310"
+      "id": "461325"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "2",
-      "category": "FAMOUS RIDERS",
-      "point_value": 600,
-      "question": "A flop-eared mule named Bruin was his favorite mount when he was pres. of Texas",
-      "answer": "Sam Houston",
-      "is_daily_double": false,
-      "id": "54311"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "FAMOUS RIDERS",
+      "category": "ABBREVIATIONS",
       "point_value": 800,
-      "question": "His horse, Tarzan, used to nudge this '20s & '30s movie cowboy into the arms of the leading lady",
-      "answer": "Ken Maynard",
+      "question": "When going on a journey, your ETA is this",
+      "answer": "your estimated time of arrival",
       "is_daily_double": false,
-      "id": "54312"
+      "id": "461326"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "2",
-      "category": "FAMOUS RIDERS",
-      "point_value": 1000,
-      "question": "In an 11th century French epic poem, this knight's horse, Veillantif, was killed under him",
-      "answer": "Roland",
+      "category": "ABBREVIATIONS",
+      "point_value": 1200,
+      "question": "Get there early if you hear FCFS, short for this",
+      "answer": "first come, first served",
       "is_daily_double": false,
-      "id": "54313"
+      "id": "461327"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "2",
-      "category": "HORSES",
-      "point_value": 200,
-      "question": "Regardless of its birthdate, a racehorse in the northern hemisphere becomes a year older on this day",
-      "answer": "January 1st",
+      "category": "ABBREVIATIONS",
+      "point_value": 1600,
+      "question": "A college student may consult with this helpful member of the faculty abbreviated AA",
+      "answer": "academic advisor",
       "is_daily_double": false,
-      "id": "54314"
+      "id": "461328"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "2",
-      "category": "HORSES",
+      "category": "ABBREVIATIONS",
+      "point_value": 2000,
+      "question": "In a car, SRS is this system that serves as a backup to seat belts; your airbag is one",
+      "answer": "a supplemental restraint system",
+      "is_daily_double": false,
+      "id": "461329"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "2",
+      "category": "BACK IN THE 20th CENTURY",
       "point_value": 400,
-      "question": "When U.S.horses put on the feedbag, this grain is the most widely eaten",
-      "answer": "oats",
+      "question": "After the completion of this feat of engineering in 1914, ships had an 8,000-nautical-mile shorter journey from N.Y. to Calif.",
+      "answer": "the Panama Canal",
       "is_daily_double": false,
-      "id": "54315"
+      "id": "461330"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "2",
-      "category": "HORSES",
-      "point_value": 600,
-      "question": "The small Welsh pony was bred to work in the cramped spaces of these",
-      "answer": "the (coal) mines",
-      "is_daily_double": false,
-      "id": "54316"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "HORSES",
+      "category": "BACK IN THE 20th CENTURY",
       "point_value": 800,
-      "question": "8 out of 10 horses of this breed descend from the 18th century champion, Eclipse",
-      "answer": "Thoroughbreds",
-      "is_daily_double": false,
-      "id": "54317"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "HORSES",
-      "point_value": 1000,
-      "question": "These gray or white Austrian show horses were originally bred near Trieste in the 16th century",
-      "answer": "Lipizzaners",
-      "is_daily_double": false,
-      "id": "54318"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "SHAKESPEAREAN ACTORS",
-      "point_value": 200,
-      "question": "Strangely, in 1971 Dame Judith Anderson played this Danish prince on stage",
-      "answer": "Hamlet",
-      "is_daily_double": false,
-      "id": "54319"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "SHAKESPEAREAN ACTORS",
-      "point_value": 400,
-      "question": "Role played by Mickey Rooney in the 1935 all-star version of \"A Midsummer Night's Dream\"",
-      "answer": "Puck",
-      "is_daily_double": false,
-      "id": "54320"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "SHAKESPEAREAN ACTORS",
-      "point_value": 600,
-      "question": "In a rare TV appearance, Olivier played this foolish, fond old king",
-      "answer": "King Lear",
-      "is_daily_double": false,
-      "id": "54321"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "SHAKESPEAREAN ACTORS",
-      "point_value": 800,
-      "question": "The 15-year-old actress who played Juliet in Zeffirelli's 1968 version of \"Romeo & Juliet\"",
-      "answer": "Olivia Hussey",
-      "is_daily_double": false,
-      "id": "54322"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "SHAKESPEAREAN ACTORS",
-      "point_value": 1000,
-      "question": "1 of 2 films in which Orson Welles directed himself in a Shakespearean play",
-      "answer": "(1 of) Macbeth (or Othello)",
-      "is_daily_double": false,
-      "id": "54323"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "THE 1940s",
-      "point_value": 200,
-      "question": "On February 7,1943 these went on the ration list, limiting civilians to 3 pairs a year",
-      "answer": "shoes",
-      "is_daily_double": false,
-      "id": "54324"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "THE 1940s",
-      "point_value": 400,
-      "question": "Due to manpower shortage, the St. Louis Browns hired Pete Gray to play outfield though he had only 1 of these",
-      "answer": "an arm",
-      "is_daily_double": false,
-      "id": "54325"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "THE 1940s",
-      "point_value": 600,
-      "question": "Completes WWII Navy pilot David F. Mason's 4-word sibilant message \"sighted sub,...\"",
-      "answer": "sank same",
-      "is_daily_double": false,
-      "id": "54326"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "THE 1940s",
-      "point_value": 800,
-      "question": "This play opened on Broadway in '49 with Cameron Mitchell as Happy & Arthur Kennedy as Biff",
-      "answer": "Death of a Salesman",
+      "question": "In April 1946 this international org. formally gave up the ghost, though it did give a lot of its stuff to its replacement",
+      "answer": "the League of Nations",
       "is_daily_double": true,
-      "id": "54327"
+      "id": "461331"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "2",
-      "category": "THE 1940s",
-      "point_value": 1000,
-      "question": "He kept his promise to resign as CIO president when FDR was re-elected",
-      "answer": "John L. Lewis",
+      "category": "BACK IN THE 20th CENTURY",
+      "point_value": 1200,
+      "question": "In 1991 the IRA attacked John Major & his cabinet with mortar fire during a meeting at this address, Major's residence",
+      "answer": "10 Downing Street",
       "is_daily_double": false,
-      "id": "54328"
+      "id": "461332"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "2",
-      "category": "THE RIVIERA",
-      "point_value": 200,
-      "question": "\"Paris, Texas\" isn't on the Riviera, but it won a Palme d'Or in this Riviera city's film festival",
-      "answer": "Cannes",
+      "category": "BACK IN THE 20th CENTURY",
+      "point_value": 1600,
+      "question": "This future world leader was wounded in his attempt to assassinate the Iraqi prime minister in 1959",
+      "answer": "Saddam Hussein",
       "is_daily_double": false,
-      "id": "54329"
+      "id": "461333"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "2",
-      "category": "THE RIVIERA",
+      "category": "BACK IN THE 20th CENTURY",
+      "point_value": 2000,
+      "question": "In October 1983 the U.S. invaded this Caribbean island & tourist destination; by December, most U.S. troops had left",
+      "answer": "Grenada",
+      "is_daily_double": false,
+      "id": "461334"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "2",
+      "category": "FOUNTAINS",
       "point_value": 400,
-      "question": "This city on the Italian Riviera is famous, among other things, as the birthplace of Columbus",
-      "answer": "Genoa",
-      "is_daily_double": true,
-      "id": "54330"
-    },
-    {
-      "air_date": "1989-07-13",
-      "round": "2",
-      "category": "THE RIVIERA",
-      "point_value": 600,
-      "question": "An 1890s song tells the story of \"the man who broke the bank\" at this resort",
-      "answer": "Monte Carlo",
+      "question": "Lotta's Fountain in this city became a meeting place for survivors of the 1906 quake & is still the site of commemorations",
+      "answer": "San Francisco",
       "is_daily_double": false,
-      "id": "54331"
+      "id": "461335"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "2",
-      "category": "THE RIVIERA",
+      "category": "FOUNTAINS",
       "point_value": 800,
-      "question": "Throngs of celebrants line the promenade Des Anglais during this city's annual carnival",
-      "answer": "Nice",
+      "question": "Beginning in 1998, the fountains at this Las Vegas casino shoot 460 feet in the air & dance to various songs nightly",
+      "answer": "the Bellagio",
       "is_daily_double": false,
-      "id": "54332"
+      "id": "461336"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
       "round": "2",
-      "category": "THE RIVIERA",
-      "point_value": 1000,
-      "question": "The Italians call it the Riviera, but in France it's known by this name",
-      "answer": "the Côte d'Azur",
+      "category": "FOUNTAINS",
+      "point_value": 1200,
+      "question": "This landmark Chicago fountain is named for a local steel family, not a London palace",
+      "answer": "Buckingham",
       "is_daily_double": false,
-      "id": "54333"
+      "id": "461337"
     },
     {
-      "air_date": "1989-07-13",
+      "air_date": "2020-06-03",
+      "round": "2",
+      "category": "FOUNTAINS",
+      "point_value": 1600,
+      "question": "Fittingly, the Latona Fountain built by Louis XIV in Versailles was named for the mother of this Roman god",
+      "answer": "Apollo",
+      "is_daily_double": true,
+      "id": "461338"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "2",
+      "category": "FOUNTAINS",
+      "point_value": 2000,
+      "question": "For centuries, barrels of water from this Roman fountain at the Palazzo Poli were sent across the Tiber to the Vatican",
+      "answer": "the Trevi Fountain",
+      "is_daily_double": false,
+      "id": "461339"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "2",
+      "category": "HOT STUFF!",
+      "point_value": 400,
+      "question": "In the 1930s Solomon Harper invented the electric curlers now called \"hot\" these",
+      "answer": "rollers",
+      "is_daily_double": false,
+      "id": "461340"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "2",
+      "category": "HOT STUFF!",
+      "point_value": 800,
+      "question": "A massive atmosphere produces an enormous greenhouse effect, making this second planet the hottest in the solar system",
+      "answer": "Venus",
+      "is_daily_double": false,
+      "id": "461341"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "2",
+      "category": "HOT STUFF!",
+      "point_value": 1200,
+      "question": "Regarded as one of the hottest of these, the Carolina reaper is rated at more than 1.6 million Scovilles",
+      "answer": "a pepper",
+      "is_daily_double": false,
+      "id": "461342"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "2",
+      "category": "HOT STUFF!",
+      "point_value": 1600,
+      "question": "In this book of the Bible, Shadrach, Meshach & Abednego are thrown into a furnace, but the intense heat does not harm them",
+      "answer": "the book of Daniel",
+      "is_daily_double": false,
+      "id": "461343"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "2",
+      "category": "HOT STUFF!",
+      "point_value": 2000,
+      "question": "Scientists at CERN using this device have created perhaps the highest recorded temperature ever, 9.9 trillion degrees Fahrenheit",
+      "answer": "the Large Hadron Collider",
+      "is_daily_double": false,
+      "id": "461344"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "2",
+      "category": "LET'S LOOK AT SOME MATH",
+      "point_value": 800,
+      "question": "Conjure up this name for a grid in which the numbers add up to the same total in each column, row and main diagonal",
+      "answer": "a magic square",
+      "is_daily_double": false,
+      "id": "461345"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "2",
+      "category": "LET'S LOOK AT SOME MATH",
+      "point_value": 1200,
+      "question": "In a Venn diagram, an upside down \"U\" is used to represent this set that contains all elements in common to both \"A\" and \"B\"",
+      "answer": "the intersection",
+      "is_daily_double": false,
+      "id": "461346"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "2",
+      "category": "LET'S LOOK AT SOME MATH",
+      "point_value": 2000,
+      "question": "(Jimmy of the Clue Crew presents by a display monitor.) The number in each cell is the sum of the two numbers directly above it in the triangle named for this 17th century French mathematician and philosopher",
+      "answer": "(Blaise) Pascal",
+      "is_daily_double": false,
+      "id": "461347"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "2",
+      "category": "OPERA & BALLET",
+      "point_value": 400,
+      "question": "British choreographer Matthew Bourne took a different tactic when restaging this Tchaikovsky ballet",
+      "answer": "Swan Lake",
+      "is_daily_double": false,
+      "id": "461348"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "2",
+      "category": "OPERA & BALLET",
+      "point_value": 800,
+      "question": "This Puccini opera is set in Nagasaki in the early 1900s",
+      "answer": "Madame Butterfly",
+      "is_daily_double": false,
+      "id": "461349"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "2",
+      "category": "OPERA & BALLET",
+      "point_value": 1200,
+      "question": "Pat Garrett is a character in the ballet named for this outlaw",
+      "answer": "Billy the Kid",
+      "is_daily_double": false,
+      "id": "461350"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "2",
+      "category": "OPERA & BALLET",
+      "point_value": 1600,
+      "question": "Ramfis is the high priest in this opera",
+      "answer": "Aida",
+      "is_daily_double": false,
+      "id": "461351"
+    },
+    {
+      "air_date": "2020-06-03",
+      "round": "2",
+      "category": "OPERA & BALLET",
+      "point_value": 2000,
+      "question": "The 2 parts of this Stravinsky ballet are \"Adoration of the Earth\" & \"The Sacrifice\"",
+      "answer": "Rite of Spring",
+      "is_daily_double": false,
+      "id": "461352"
+    },
+    {
+      "air_date": "2020-06-03",
       "round": "3",
-      "category": "IN THE NEWS",
+      "category": "EUROPEAN LANDMARKS",
       "point_value": 0,
-      "question": "The European Community's target year for lifting all economic barriers among its 12 members",
-      "answer": "1992",
+      "question": "As described in an 1831 book, it has \"three recessed and pointed doorways... immense central rose window...two dark and massive towers\"",
+      "answer": "Notre-Dame",
       "is_daily_double": false,
-      "id": "54334"
+      "id": "461353"
     }
   ]
 }
