@@ -1,596 +1,546 @@
 {
-  "id": "32909bb7aab1bdba",
-  "air_date": "1990-10-12",
+  "id": "2e07279fcf184221",
+  "air_date": "2004-06-21",
   "questions": [
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "1",
-      "category": "\"G\" WHIZ",
-      "point_value": 100,
-      "question": "A synonym for entrails; you can spill your own or hate someone else's",
-      "answer": "guts",
-      "is_daily_double": false,
-      "id": "67759"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "1",
-      "category": "\"G\" WHIZ",
+      "category": "ARE YOU ADDRESSING ME?",
       "point_value": 200,
-      "question": "Thought to have come from Egypt, these wandering people were originally called Egyptians",
-      "answer": "Gypsies",
+      "question": "The personal pronoun of the second person in the nominative case; people often act holier than it",
+      "answer": "thou",
       "is_daily_double": false,
-      "id": "67760"
+      "id": "247839"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "1",
-      "category": "\"G\" WHIZ",
-      "point_value": 300,
-      "question": "To encircle with a belt, or, perhaps, with an elasticized undergarment",
-      "answer": "girdle",
-      "is_daily_double": false,
-      "id": "67761"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "1",
-      "category": "\"G\" WHIZ",
+      "category": "ARE YOU ADDRESSING ME?",
       "point_value": 400,
-      "question": "Mrs. George Burns might have felt at home in this famous New York City mayoral residence",
-      "answer": "Gracie Mansion",
+      "question": "A surgeon in England is simply addressed as this, not Dr.",
+      "answer": "Mr.",
       "is_daily_double": false,
-      "id": "67762"
+      "id": "247840"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "1",
-      "category": "\"G\" WHIZ",
-      "point_value": 500,
-      "question": "A magnificent Spanish or Portuguese nobleman of high social position",
-      "answer": "a grandee",
+      "category": "ARE YOU ADDRESSING ME?",
+      "point_value": 600,
+      "question": "Miss came from the first syllable of this word & mrs. is a shortened form of it",
+      "answer": "mistress",
       "is_daily_double": false,
-      "id": "67763"
+      "id": "247841"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "1",
-      "category": "BUSINESS & INDUSTRY",
-      "point_value": 100,
-      "question": "The oldest department store chain in Canada is named for this bay",
-      "answer": "Hudson Bay",
+      "category": "ARE YOU ADDRESSING ME?",
+      "point_value": 800,
+      "question": "From the Arabic for \"old man\", it's the head of a family, tribe or village",
+      "answer": "sheik",
       "is_daily_double": false,
-      "id": "67734"
+      "id": "247842"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "1",
-      "category": "BUSINESS & INDUSTRY",
+      "category": "ARE YOU ADDRESSING ME?",
+      "point_value": 1000,
+      "question": "As tovarishch means this, we guess you could be a tovarishch-in-arms",
+      "answer": "comrade",
+      "is_daily_double": false,
+      "id": "247843"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "1",
+      "category": "BOMB THE \"BAN\"",
       "point_value": 200,
-      "question": "The French town Nemours is the ancestral home of this Delaware manufacturing family",
-      "answer": "du Pont",
+      "question": "\"My Golden Bengal\" is this country's national anthem",
+      "answer": "Bangladesh",
       "is_daily_double": false,
-      "id": "67735"
+      "id": "247844"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "1",
-      "category": "BUSINESS & INDUSTRY",
-      "point_value": 300,
-      "question": "Founded in Two Harbors, Minnesota in 1902, this company originally sold sandpaper & added tape later",
-      "answer": "3M",
-      "is_daily_double": false,
-      "id": "67736"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "1",
-      "category": "BUSINESS & INDUSTRY",
+      "category": "BOMB THE \"BAN\"",
       "point_value": 400,
-      "question": "From 1958-65, this company called itself Thompson Ramo Wooldridge",
-      "answer": "TRW",
+      "question": "(Sarah of the Clue Crew gives the clue from a boxing ring at Gleason's Gym in Brooklyn, NY.) This term for small chickens & boxers between 112 & 118 pounds is believed to have come from a town on the island of Java",
+      "answer": "bantamweight",
       "is_daily_double": false,
-      "id": "67737"
+      "id": "247845"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "1",
-      "category": "BUSINESS & INDUSTRY",
-      "point_value": 500,
-      "question": "In corporate income tax, it's the deduction allowed for exhaustible mineral deposits",
-      "answer": "the oil depletion allowance",
+      "category": "BOMB THE \"BAN\"",
+      "point_value": 600,
+      "question": "Including Zulu & Xhosa, it's an African language group of over 500 languages",
+      "answer": "Bantu",
       "is_daily_double": false,
-      "id": "67738"
+      "id": "247846"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "1",
-      "category": "FLAGS",
-      "point_value": 100,
-      "question": "All Scandinavian flags were inspired by the Dannebrog, the flag of this country",
-      "answer": "Denmark",
+      "category": "BOMB THE \"BAN\"",
+      "point_value": 800,
+      "question": "In Shakespeare, this close friend of Macbeth's is with him when he encounters the 3 witches",
+      "answer": "Banquo",
       "is_daily_double": false,
-      "id": "67739"
+      "id": "247847"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "1",
-      "category": "FLAGS",
+      "category": "BOMB THE \"BAN\"",
+      "point_value": 1000,
+      "question": "The name of this mythical female spirit comes from the old Irish for \"woman of the fairy realm\"",
+      "answer": "Banshee",
+      "is_daily_double": false,
+      "id": "247848"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "1",
+      "category": "INSECT, ARACHNID OR GASTROPOD",
       "point_value": 200,
-      "question": "Name for the ceremonial flag that is trooped during a British monarch's birthday celebration",
-      "answer": "the colors (the color)",
+      "question": "The scorpion",
+      "answer": "arachnid",
       "is_daily_double": false,
-      "id": "67740"
+      "id": "247849"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "1",
-      "category": "FLAGS",
-      "point_value": 300,
-      "question": "Symbol appearing on the Israeli flag",
-      "answer": "the six-pointed star",
-      "is_daily_double": false,
-      "id": "67741"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "1",
-      "category": "FLAGS",
+      "category": "INSECT, ARACHNID OR GASTROPOD",
       "point_value": 400,
-      "question": "The flag of Barbados has 2 blue stripes, 1 yellow stripe & this symbol of Neptune the sea god",
-      "answer": "a trident",
+      "question": "The daddy longlegs",
+      "answer": "arachnid",
       "is_daily_double": false,
-      "id": "67742"
+      "id": "247850"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "1",
-      "category": "FLAGS",
-      "point_value": 500,
-      "question": "The star on the Soviet Union's flag stands for this",
-      "answer": "communism (the Communist Party)",
+      "category": "INSECT, ARACHNID OR GASTROPOD",
+      "point_value": 600,
+      "question": "The aphid",
+      "answer": "insect",
       "is_daily_double": false,
-      "id": "67743"
+      "id": "247851"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "1",
-      "category": "FLOWERS",
-      "point_value": 100,
-      "question": "Tulip mania gripped this country from 1634-37 and many people lost fortunes on the bulbs",
-      "answer": "Holland (the Netherlands)",
+      "category": "INSECT, ARACHNID OR GASTROPOD",
+      "point_value": 800,
+      "question": "The earwig",
+      "answer": "insect",
       "is_daily_double": false,
-      "id": "67744"
+      "id": "247852"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "1",
-      "category": "FLOWERS",
+      "category": "INSECT, ARACHNID OR GASTROPOD",
+      "point_value": 1000,
+      "question": "The limpet",
+      "answer": "gastropod",
+      "is_daily_double": false,
+      "id": "247853"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "1",
+      "category": "MUSICAL SETTINGS",
       "point_value": 200,
-      "question": "This flower whose name is from the French for \"thought\" is said to signify remembrance",
-      "answer": "pansies",
+      "question": "In an ever-popular musical, Mr. Mushnik's flower shop becomes this title place",
+      "answer": "Little Shop of Horrors",
       "is_daily_double": false,
-      "id": "67745"
+      "id": "247854"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "1",
-      "category": "FLOWERS",
-      "point_value": 300,
-      "question": "This flower was named for a Greek youth who was obsessed with his own beauty",
-      "answer": "narcissus",
-      "is_daily_double": false,
-      "id": "67746"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "1",
-      "category": "FLOWERS",
+      "category": "MUSICAL SETTINGS",
       "point_value": 400,
-      "question": "The lotus belongs to this family of lilies",
-      "answer": "the water lilies",
+      "question": "(Cheryl of the Clue Crew presents from the Broadway set of Cabaret.) Life is a cabaret on the set of \"Cabaret\" at the Kit Kat Club, a tawdry nightclub in this city",
+      "answer": "Berlin",
       "is_daily_double": false,
-      "id": "67747"
+      "id": "247855"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "1",
-      "category": "FLOWERS",
-      "point_value": 500,
-      "question": "The leaves of the purple foxglove contain this powerful poison",
-      "answer": "digitalis",
+      "category": "MUSICAL SETTINGS",
+      "point_value": 600,
+      "question": "In this show's first scene, \"It's a typical day in Dogpatch, U.S.A.\"",
+      "answer": "Li'l Abner",
       "is_daily_double": false,
-      "id": "67748"
+      "id": "247856"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "1",
-      "category": "THE 17TH CENTURY",
-      "point_value": 100,
-      "question": "In France, Henry IV said every peasant should afford to have one of these in the pot on Sundays",
-      "answer": "a chicken",
-      "is_daily_double": false,
-      "id": "67749"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "1",
-      "category": "THE 17TH CENTURY",
-      "point_value": 200,
-      "question": "Some British barristers now believe this affectation from 17th-century France has had its day",
-      "answer": "wearing wigs",
-      "is_daily_double": false,
-      "id": "67750"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "1",
-      "category": "THE 17TH CENTURY",
-      "point_value": 300,
-      "question": "The revolt that began in 1618 against the Hapsburg ruler of Austria lasted this many years",
-      "answer": "30",
-      "is_daily_double": false,
-      "id": "67751"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "1",
-      "category": "THE 17TH CENTURY",
-      "point_value": 400,
-      "question": "Champlain founded this city in 1608; 12 years later, it had only 60 people and showed little promise",
-      "answer": "Quebec City",
+      "category": "MUSICAL SETTINGS",
+      "point_value": 800,
+      "question": "What a drag! This Jerry Herman musical is set in part at the St. Tropez nightclub of the same name",
+      "answer": "La Cage aux Folles",
       "is_daily_double": true,
-      "id": "67752"
+      "id": "247857"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "1",
-      "category": "THE 17TH CENTURY",
-      "point_value": 500,
-      "question": "Ornate furniture, Rubens paintings, & Bernini's gilded churches represent this art style",
-      "answer": "Baroque",
-      "is_daily_double": false,
-      "id": "67753"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "1",
-      "category": "THE OSCARS",
-      "point_value": 100,
-      "question": "1943's \"Yankee Doodle Mouse\" was the 1st Oscar-winning cartoon starring this cat & mouse",
-      "answer": "Tom & Jerry",
-      "is_daily_double": false,
-      "id": "67754"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "1",
-      "category": "THE OSCARS",
-      "point_value": 200,
-      "question": "Of Best Assistant Director, Best Producer, or Best Best Boy, the one that was once an Oscar category",
-      "answer": "Best Assistant Director",
-      "is_daily_double": false,
-      "id": "67755"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "1",
-      "category": "THE OSCARS",
-      "point_value": 300,
-      "question": "\"It Happened One Night\" in 1935 that she won the Best Actress Oscar",
-      "answer": "Claudette Colbert",
-      "is_daily_double": false,
-      "id": "67756"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "1",
-      "category": "THE OSCARS",
-      "point_value": 400,
-      "question": "She received an Honorary Oscar for Outstanding Juvenile Performance in 1960 for \"Pollyanna\"",
-      "answer": "Hayley Mills",
-      "is_daily_double": false,
-      "id": "67757"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "1",
-      "category": "THE OSCARS",
-      "point_value": 500,
-      "question": "Upon receiving a Special Oscar in 1982, Barbara Stanwyck gave a tribute to this actor, her \"Golden Boy\"",
-      "answer": "William Holden",
-      "is_daily_double": false,
-      "id": "67758"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "2",
-      "category": "COLORFUL PHRASES",
-      "point_value": 200,
-      "question": "As a bookkeeper can tell you, a business that's making money is in this",
-      "answer": "the black",
-      "is_daily_double": false,
-      "id": "67764"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "2",
-      "category": "COLORFUL PHRASES",
-      "point_value": 400,
-      "question": "Though actually colorblind, an angry bull is said to do this",
-      "answer": "see red",
-      "is_daily_double": false,
-      "id": "67765"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "2",
-      "category": "COLORFUL PHRASES",
-      "point_value": 600,
-      "question": "It describes an eloquent or persuasive speaker",
-      "answer": "a silver-tongued orator",
-      "is_daily_double": false,
-      "id": "67766"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "2",
-      "category": "COLORFUL PHRASES",
-      "point_value": 800,
-      "question": "It's how Shakespeare described jealousy in \"Othello\"",
-      "answer": "a green-eyed monster",
-      "is_daily_double": false,
-      "id": "67767"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "2",
-      "category": "COLORFUL PHRASES",
+      "category": "MUSICAL SETTINGS",
       "point_value": 1000,
-      "question": "From a French phrase, it's a person who exercises power behind the scenes or through another",
-      "answer": "a grey eminence (éminence grise)",
+      "question": "At the beginning of this show, it's 6 a.m. in the Brooklyn Navy Yard",
+      "answer": "On the Town",
       "is_daily_double": false,
-      "id": "67768"
+      "id": "247858"
     },
     {
-      "air_date": "1990-10-12",
-      "round": "2",
-      "category": "FOOD",
+      "air_date": "2004-06-21",
+      "round": "1",
+      "category": "NONFICTION",
       "point_value": 200,
-      "question": "It's pretty easy to open once you pierce the eyes & drain the milk",
-      "answer": "a coconut",
+      "question": "Seymour Hersh's \"The Dark Side of Camelot\" examines this president's administration & private life",
+      "answer": "John F. Kennedy",
       "is_daily_double": false,
-      "id": "67769"
+      "id": "247859"
     },
     {
-      "air_date": "1990-10-12",
-      "round": "2",
-      "category": "FOOD",
+      "air_date": "2004-06-21",
+      "round": "1",
+      "category": "NONFICTION",
       "point_value": 400,
-      "question": "With equal amounts of flour, butter, sugar, & eggs, this cake makes for heavy eating",
-      "answer": "pound cake",
+      "question": "This radio personality bared all in his 1993 book \"Private Parts\"",
+      "answer": "Howard Stern",
       "is_daily_double": false,
-      "id": "67770"
+      "id": "247860"
     },
     {
-      "air_date": "1990-10-12",
-      "round": "2",
-      "category": "FOOD",
+      "air_date": "2004-06-21",
+      "round": "1",
+      "category": "NONFICTION",
       "point_value": 600,
-      "question": "Its leaves are used in salads & its roots are roasted & ground to make a coffee substitute",
-      "answer": "chicory",
+      "question": "No question about it, after 30 years this \"Practical Manual for Job-Hunters & Career-Changers\" is still flying high",
+      "answer": "What Color Is Your Parachute?",
       "is_daily_double": false,
-      "id": "67771"
+      "id": "247861"
     },
     {
-      "air_date": "1990-10-12",
-      "round": "2",
-      "category": "FOOD",
+      "air_date": "2004-06-21",
+      "round": "1",
+      "category": "NONFICTION",
       "point_value": 800,
-      "question": "It's the only food product derived from the fruit of an orchid",
-      "answer": "vanilla",
+      "question": "2003's \"I Am a Soldier, Too\" tells her story, including that of her capture & rescue",
+      "answer": "Jessica Lynch",
+      "is_daily_double": false,
+      "id": "247862"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "1",
+      "category": "NONFICTION",
+      "point_value": 1000,
+      "question": "In 1957 E.B. White was called in to edit this professor's \"The Elements of Style\"",
+      "answer": "William Strunk (Jr.)",
+      "is_daily_double": false,
+      "id": "247863"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "1",
+      "category": "WHAT'S NEW?",
+      "point_value": 200,
+      "question": "A malihini is a newcomer to this state",
+      "answer": "Hawaii",
+      "is_daily_double": false,
+      "id": "247864"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "1",
+      "category": "WHAT'S NEW?",
+      "point_value": 400,
+      "question": "In 2003 Edith Grossman served up a new translation of this Cervantes work",
+      "answer": "Don Quixote",
+      "is_daily_double": false,
+      "id": "247865"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "1",
+      "category": "WHAT'S NEW?",
+      "point_value": 600,
+      "question": "Experts say the smell in a new one of these is from the phthalate plasticizers used in PVC, not leather",
+      "answer": "car",
+      "is_daily_double": false,
+      "id": "247866"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "1",
+      "category": "WHAT'S NEW?",
+      "point_value": 800,
+      "question": "Developed in Australia, the Sugarbaby & the Crimson Glow are new breeds of this shortcake fruit",
+      "answer": "strawberry",
+      "is_daily_double": false,
+      "id": "247867"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "1",
+      "category": "WHAT'S NEW?",
+      "point_value": 1000,
+      "question": "This Smithsonian museum has new digs at Dulles International Airport",
+      "answer": "the Air & Space Museum",
+      "is_daily_double": false,
+      "id": "247868"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "2",
+      "category": "20th CENTURY NICKNAMES",
+      "point_value": 800,
+      "question": "Based on his 1992 testimony against John Gotti, he could have been Sammy the Canary, not the Bull",
+      "answer": "Sammy Gravano",
+      "is_daily_double": false,
+      "id": "247869"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "2",
+      "category": "20th CENTURY NICKNAMES",
+      "point_value": 1200,
+      "question": "(I'm NBA Hall of Famer Walt Frazier.) My clothing style got me this nickname after a '30s gangster featured in a 1967 movie",
+      "answer": "\"Clyde\"",
+      "is_daily_double": false,
+      "id": "247870"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "2",
+      "category": "20th CENTURY NICKNAMES",
+      "point_value": 1600,
+      "question": "For his brilliant but minority Supreme Court opinions, Oliver Wendell Holmes Jr. was \"The Great\" this",
+      "answer": "Dissenter",
+      "is_daily_double": false,
+      "id": "247871"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "2",
+      "category": "20th CENTURY NICKNAMES",
+      "point_value": 2000,
+      "question": "Richard Nixon's aides Haldeman & Erlichman were sometimes called these comic-strip \"Kids\"",
+      "answer": "Katzenjammer",
+      "is_daily_double": false,
+      "id": "247872"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "2",
+      "category": "AFI's 100 YEARS, 100 SONGS",
+      "point_value": 400,
+      "question": "Sure to be \"way up high\" among the 100 songs is this Judy Garland standard from \"The Wizard of Oz\"",
+      "answer": "\"Over The Rainbow\"",
+      "is_daily_double": false,
+      "id": "247873"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "2",
+      "category": "AFI's 100 YEARS, 100 SONGS",
+      "point_value": 800,
+      "question": "(Hi, I'm Clay Aiken.) One song I really hope made the list is \"Unchained Melody\", a favorite of mine, which was used as the love theme in this Demi Moore film",
+      "answer": "Ghost",
+      "is_daily_double": false,
+      "id": "247874"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "2",
+      "category": "AFI's 100 YEARS, 100 SONGS",
+      "point_value": 1200,
+      "question": "In terms of recent songs, perhaps this movie's \"My Heart Will Go On\" will go on the list",
+      "answer": "Titanic",
+      "is_daily_double": false,
+      "id": "247875"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "2",
+      "category": "AFI's 100 YEARS, 100 SONGS",
+      "point_value": 2000,
+      "question": "The movie \"Bright Eyes\" gave us this sweet little song that mentions bon bons & a chocolate bar",
+      "answer": "\"The Good Ship Lollipop\"",
+      "is_daily_double": false,
+      "id": "247876"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "2",
+      "category": "LET'S VISIT AFRICA",
+      "point_value": 400,
+      "question": "In 1855 Heinrich Barth compiled African vocabularies while crossing this 3.5 million-square-mile area",
+      "answer": "the Sahara",
+      "is_daily_double": false,
+      "id": "247877"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "2",
+      "category": "LET'S VISIT AFRICA",
+      "point_value": 1200,
+      "question": "Ibadan, Abuja & Ogbomosho are all cities in this African nation of over 125 million",
+      "answer": "Nigeria",
+      "is_daily_double": false,
+      "id": "247878"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "2",
+      "category": "LET'S VISIT AFRICA",
+      "point_value": 1600,
+      "question": "The country of Namibia was once known as this, & that's also where it is on the map",
+      "answer": "South West Africa",
       "is_daily_double": true,
-      "id": "67772"
+      "id": "247879"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "2",
-      "category": "FOOD",
-      "point_value": 1000,
-      "question": "The root of this plant yields the starchy substance known as tapioca",
-      "answer": "manioc (or cassava)",
+      "category": "LET'S VISIT AFRICA",
+      "point_value": 2000,
+      "question": "Nairobi's tallest building is the conference center named for this first Prime Minister & President of Kenya",
+      "answer": "Jomo Kenyatta",
       "is_daily_double": false,
-      "id": "67773"
+      "id": "247880"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "2",
-      "category": "SICKNESS & HEALTH",
-      "point_value": 200,
-      "question": "An increase in fluid pressure in this causes glaucoma",
-      "answer": "the eye",
-      "is_daily_double": false,
-      "id": "67774"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "2",
-      "category": "SICKNESS & HEALTH",
+      "category": "NUMBERS GAME",
       "point_value": 400,
-      "question": "Eating this part of a grain of cereal provides roughage in your diet",
-      "answer": "the bran",
+      "question": "Big number represented at the 1945 Yalta Conference",
+      "answer": "three",
       "is_daily_double": false,
-      "id": "67775"
+      "id": "247881"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "2",
-      "category": "SICKNESS & HEALTH",
-      "point_value": 600,
-      "question": "It's not this insect, but a parasite transmitted by it that causes malaria",
-      "answer": "a mosquito",
-      "is_daily_double": false,
-      "id": "67776"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "2",
-      "category": "SICKNESS & HEALTH",
+      "category": "NUMBERS GAME",
       "point_value": 800,
-      "question": "Some exposure to sunlight is necessary for the body to produce this vitamin",
-      "answer": "vitamin D",
+      "question": "It's the number of basic questions in journalism (don't forget the \"H\")",
+      "answer": "six",
       "is_daily_double": false,
-      "id": "67777"
+      "id": "247882"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "2",
-      "category": "SICKNESS & HEALTH",
-      "point_value": 1000,
-      "question": "Crystalline bodies made up mainly of cholesterol; they can also form in the bile duct",
-      "answer": "gall stones",
+      "category": "NUMBERS GAME",
+      "point_value": 1200,
+      "question": "When \"General Hospital\" began in 1963 it was set on this floor of the hospital, also the dial position of ABC in L.A. & NYC",
+      "answer": "seven",
       "is_daily_double": false,
-      "id": "67778"
+      "id": "247883"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "2",
-      "category": "SPEAK OF THE DICKENS",
-      "point_value": 200,
-      "question": "The only tokens of this child's identity were a locket & a ring",
-      "answer": "Oliver Twist",
+      "category": "NUMBERS GAME",
+      "point_value": 1600,
+      "question": "If you are the very model of a U.S. Major General, you wear this many stars",
+      "answer": "two",
       "is_daily_double": false,
-      "id": "67779"
+      "id": "247884"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "2",
-      "category": "SPEAK OF THE DICKENS",
+      "category": "NUMBERS GAME",
+      "point_value": 2000,
+      "question": "The Red Cross says you should wait this many weeks between whole blood donations",
+      "answer": "eight",
+      "is_daily_double": false,
+      "id": "247885"
+    },
+    {
+      "air_date": "2004-06-21",
+      "round": "2",
+      "category": "PRESCRIPTION DRUGS",
       "point_value": 400,
-      "question": "The title of this Dickens work refers to tough living & working conditions in Coketown",
-      "answer": "Hard Times",
+      "question": "Fiorinal with codeine (& aspirin, & caffeine) is mainly prescribed for the tension type of this",
+      "answer": "a headache",
       "is_daily_double": false,
-      "id": "67780"
+      "id": "247886"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "2",
-      "category": "SPEAK OF THE DICKENS",
-      "point_value": 600,
-      "question": "Out of luck & money in England, Martin Chuzzlewit left to try his fortune in this country",
-      "answer": "America",
-      "is_daily_double": false,
-      "id": "67781"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "2",
-      "category": "SPEAK OF THE DICKENS",
+      "category": "PRESCRIPTION DRUGS",
       "point_value": 800,
-      "question": "In different tales, Mr. Creakle & Mr. Squeers ran these",
-      "answer": "schools",
+      "question": "This brand is the nasal-spray version of Fluticasone for those with allergies",
+      "answer": "Flonase",
       "is_daily_double": false,
-      "id": "67782"
+      "id": "247887"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "2",
-      "category": "STATE CAPITALS",
-      "point_value": 200,
-      "question": "This capital of Georgia is known as Dogwood City for its flowering trees",
-      "answer": "Atlanta",
+      "category": "PRESCRIPTION DRUGS",
+      "point_value": 1200,
+      "question": "Nadolol is this class of drug; it fights hypertension by keeping neurotransmitters from binding with receptors",
+      "answer": "a beta blocker",
       "is_daily_double": false,
-      "id": "67783"
+      "id": "247888"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "2",
-      "category": "STATE CAPITALS",
-      "point_value": 400,
-      "question": "This Montana city founded by prospectors in 1864 lies just east of the Continental Divide",
-      "answer": "Helena",
-      "is_daily_double": false,
-      "id": "67784"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "2",
-      "category": "STATE CAPITALS",
-      "point_value": 600,
-      "question": "Its metropolitan area includes the towns of Englewood, Littleton & Aurora, among others",
-      "answer": "Denver",
-      "is_daily_double": false,
-      "id": "67785"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "2",
-      "category": "STATE CAPITALS",
-      "point_value": 800,
-      "question": "Founded in 1609 this Southwestern capital once served as the capital of a Spanish colony",
-      "answer": "Santa Fe",
-      "is_daily_double": false,
-      "id": "67786"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "2",
-      "category": "WARS",
-      "point_value": 200,
-      "question": "It's also known as \"The Late Unpleasantness\", especially in the South",
-      "answer": "the American Civil War",
-      "is_daily_double": false,
-      "id": "67787"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "2",
-      "category": "WARS",
-      "point_value": 400,
-      "question": "In the 1840s 2 wars broke out between the British & the Sikhs in the Punjab region of this country",
-      "answer": "India",
-      "is_daily_double": false,
-      "id": "67788"
-    },
-    {
-      "air_date": "1990-10-12",
-      "round": "2",
-      "category": "WARS",
-      "point_value": 600,
-      "question": "Turn of the century war that inspired the following march: \"I'm with you and you're with me, / And so we are all together, / So we are all together, / So we are all together, / Sing with me, I'll sing with you, / And so we will sing together, / As we march along. / We are marching to Pretoria, Pretoria, Pretoria\"",
-      "answer": "the Boer War",
+      "category": "PRESCRIPTION DRUGS",
+      "point_value": 1600,
+      "question": "This term for a popular type of cholesterol-lowering drug sounds like a New York island",
+      "answer": "statin",
       "is_daily_double": true,
-      "id": "67789"
+      "id": "247889"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "2",
-      "category": "WARS",
-      "point_value": 800,
-      "question": "Tolstoy's \"Sevastapol Sketches\" are based on his experiences during this war",
-      "answer": "the Crimean War",
+      "category": "PRESCRIPTION DRUGS",
+      "point_value": 2000,
+      "question": "\"I feel that others would be better off if I were dead\" is part of a self-test on this Eli Lilly drug's website",
+      "answer": "Prozac",
       "is_daily_double": false,
-      "id": "67790"
+      "id": "247890"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "2",
-      "category": "WARS",
-      "point_value": 1000,
-      "question": "In 1713 the Treaty of Utrecht ended the war named for this English queen",
-      "answer": "Queen Anne",
+      "category": "WARTIME IMAGES",
+      "point_value": 1200,
+      "question": "Timothy O'Sullivan's 1863 shot of its aftermath is titled \"A Harvest of Death\"",
+      "answer": "Gettysburg",
       "is_daily_double": false,
-      "id": "67791"
+      "id": "247891"
     },
     {
-      "air_date": "1990-10-12",
+      "air_date": "2004-06-21",
       "round": "3",
-      "category": "ELECTIONS",
+      "category": "INVENTIONS",
       "point_value": 0,
-      "question": "Of the 10 states Governor Dukakis won in the 1988 presidential election, this 1 has the most electoral votes",
-      "answer": "New York",
+      "question": "Josephine Cochrane's 1886 version of this consisted of a copper boiler, wire baskets & a pump",
+      "answer": "a dishwasher",
       "is_daily_double": false,
-      "id": "67792"
+      "id": "247892"
     }
   ]
 }
