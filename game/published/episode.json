@@ -1,576 +1,546 @@
 {
-  "id": "20f426346b53c47a",
-  "air_date": "2010-04-20",
+  "id": "112120ee7c052e0e",
+  "air_date": "1989-06-22",
   "questions": [
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "1",
-      "category": "2009 MLB RECAP",
+      "category": "CAVES",
+      "point_value": 100,
+      "question": "Sea cave on the isle of Capri famous for its sapphire-colored light",
+      "answer": "the Blue Grotto",
+      "is_daily_double": false,
+      "id": "53534"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "1",
+      "category": "CAVES",
       "point_value": 200,
-      "question": "They had the best regular-season record, 103-59",
-      "answer": "the New York Yankees",
+      "question": "It's located under stately Wayne Manor",
+      "answer": "the Batcave",
       "is_daily_double": false,
-      "id": "325921"
+      "id": "53535"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "1",
-      "category": "2009 MLB RECAP",
+      "category": "CAVES",
+      "point_value": 300,
+      "question": "This extinct animal can be found today in the title of a Jean Auel book",
+      "answer": "the cave bear",
+      "is_daily_double": false,
+      "id": "53536"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "1",
+      "category": "CAVES",
       "point_value": 400,
-      "question": "Shortly after coming back from a 50-game suspension, this Dodger hit a pinch-hit grand slam to beat the Reds",
-      "answer": "Manny Ramirez",
+      "question": "The largest subterranean chamber in the U.S. is the \"Big Room\" in this system",
+      "answer": "Carlsbad Caverns",
       "is_daily_double": false,
-      "id": "325922"
+      "id": "53537"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "1",
-      "category": "2009 MLB RECAP",
-      "point_value": 600,
-      "question": "This Angels skipper didn't have a so-so year; he led the team to the postseason & was Manager of the Year",
-      "answer": "Mike Scioscia",
-      "is_daily_double": false,
-      "id": "325923"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "2009 MLB RECAP",
-      "point_value": 800,
-      "question": "On August 23, Philadelphia 2B Eric Bruntlett became the 15th major leaguer to pull off an unassisted one of these",
-      "answer": "a triple play",
-      "is_daily_double": false,
-      "id": "325924"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "2009 MLB RECAP",
-      "point_value": 1000,
-      "question": "This team came from 7 games behind to catch the Tigers & beat them in a one-game playoff for the AL Central title",
-      "answer": "the Minnesota Twins",
-      "is_daily_double": false,
-      "id": "325925"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "A LONE PRIVATE \"I\"",
-      "point_value": 200,
-      "question": "First name of P.I.-portraying actor Powell, or slang for a detective",
-      "answer": "Dick",
-      "is_daily_double": false,
-      "id": "325926"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "A LONE PRIVATE \"I\"",
-      "point_value": 400,
-      "question": "A detective looking back in regret on leads he should have followed up knows the cliche this \"is 20/20\"",
-      "answer": "hindsight",
-      "is_daily_double": false,
-      "id": "325927"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "A LONE PRIVATE \"I\"",
-      "point_value": 800,
-      "question": "That smooth-talking attorney practices this type of law regulating ordinary private matters, rather than criminal",
-      "answer": "civil",
-      "is_daily_double": false,
-      "id": "325928"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "A LONE PRIVATE \"I\"",
-      "point_value": 1000,
-      "question": "Shamus, I hear you're doing sidework for this security firm founded in 1859 that uses big armored cars",
-      "answer": "Brink's",
-      "is_daily_double": false,
-      "id": "325929"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "BAKING BRANDS",
-      "point_value": 200,
-      "question": "The first cake mix from \"her\" brand was ginger cake",
-      "answer": "Betty Crocker",
-      "is_daily_double": false,
-      "id": "325930"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "BAKING BRANDS",
-      "point_value": 400,
-      "question": "The logo of this brand of baking soda was created (or should we say forged?) in 1867",
-      "answer": "Arm & Hammer",
-      "is_daily_double": false,
-      "id": "325931"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "BAKING BRANDS",
-      "point_value": 600,
-      "question": "\"Home is calling\" with this brand that has sponsored a bake-off contest for over 40 years",
-      "answer": "Pillsbury",
-      "is_daily_double": false,
-      "id": "325932"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "BAKING BRANDS",
-      "point_value": 800,
-      "question": "Flour from Washburn Crosby Company won this in 1880 & was renamed for it, still the name of the brand",
-      "answer": "Gold Medal",
-      "is_daily_double": false,
-      "id": "325933"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "BAKING BRANDS",
-      "point_value": 1000,
-      "question": "This Nestle brand calls its story \"semi-sweet\"; its chocolate morsels were first sold in packages in 1939",
-      "answer": "Toll House",
-      "is_daily_double": false,
-      "id": "325934"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "DUMB CRIMINALS",
-      "point_value": 200,
-      "question": "While robbing a West Virginia home, a man logged into this social network site but did not log out",
-      "answer": "Facebook",
-      "is_daily_double": false,
-      "id": "325935"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "DUMB CRIMINALS",
-      "point_value": 400,
-      "question": "An Indiana man made a 2009 run for the county border, leading a 90-mph chase only to stop at this fast food place for a burrito",
-      "answer": "Taco Bell",
-      "is_daily_double": false,
-      "id": "325936"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "DUMB CRIMINALS",
-      "point_value": 600,
-      "question": "A Tennessee man saw his stolen furnace for sale on this .org; the criminal even helped the cops load it on a truck before getting busted",
-      "answer": "Craigslist",
-      "is_daily_double": false,
-      "id": "325937"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "DUMB CRIMINALS",
-      "point_value": 800,
-      "question": "Criminals, don't call this \"You can do it. We can help\" store & ask \"How do you get a large quantity of blood out of a carpet?\"",
-      "answer": "Home Depot",
-      "is_daily_double": false,
-      "id": "325938"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "DUMB CRIMINALS",
-      "point_value": 1000,
-      "question": "A man in Gwinnett County in this Southern state hijacked a car to get to his court date on time; had a stolen gun, too",
-      "answer": "Georgia",
-      "is_daily_double": false,
-      "id": "325939"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "LITERARY AWARDS",
-      "point_value": 200,
-      "question": "For Civil War works, winners of an award from Gettysburg College receive $50,000 & a bust of him",
-      "answer": "Lincoln",
-      "is_daily_double": false,
-      "id": "325940"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "LITERARY AWARDS",
-      "point_value": 400,
-      "question": "In 1901, French poet Sully Prudhomme became the first recipient of this",
-      "answer": "the Nobel Prize for Literature",
-      "is_daily_double": false,
-      "id": "325941"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "LITERARY AWARDS",
-      "point_value": 800,
-      "question": "The Poetry Book Society of the U.K. & the Truman State University Press of Missouri both give an award named for him",
-      "answer": "Thomas Stearns Eliot (T.S. Eliot)",
+      "category": "CAVES",
+      "point_value": 500,
+      "question": "France's Lascaux cave isn't noted for its size or unique formations but for these",
+      "answer": "its drawings by prehistoric cavemen",
       "is_daily_double": true,
-      "id": "325942"
+      "id": "53538"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "1",
-      "category": "LITERARY AWARDS",
-      "point_value": 1000,
-      "question": "Winners of this award include Scott O'Dell for \"Island of the Blue Dolphins\" & Lois Lowry for \"Number the Stars\"",
-      "answer": "the Newbery",
+      "category": "FAMOUS FOLKS",
+      "point_value": 100,
+      "question": "His real name was Eric Hilliard Nelson: Hilliard was his mother's stage name",
+      "answer": "Ricky Nelson",
       "is_daily_double": false,
-      "id": "325943"
+      "id": "53539"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "1",
-      "category": "NATIVE AMERICANS",
+      "category": "FAMOUS FOLKS",
       "point_value": 200,
-      "question": "Jumping Bull was the father of this more sedentary Native American chief",
-      "answer": "Sitting Bull",
+      "question": "Before becoming Sherlock Holmes on PBS, J. Brett played Freddy Eynsford-Hill in this movie musical",
+      "answer": "My Fair Lady",
       "is_daily_double": false,
-      "id": "325944"
+      "id": "53540"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "1",
-      "category": "NATIVE AMERICANS",
+      "category": "FAMOUS FOLKS",
+      "point_value": 300,
+      "question": "On Sept. 11, 1988 a blonde violinist named Gretchen Elizabeth Carlson became this",
+      "answer": "Miss America",
+      "is_daily_double": false,
+      "id": "53541"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "1",
+      "category": "FAMOUS FOLKS",
       "point_value": 400,
-      "question": "Originally called Curly, this \"mad\" guy was the battlefield leader during the Sioux Wars of resistance in the 1870s",
-      "answer": "Crazy Horse",
+      "question": "Mel Gibson was born in this country",
+      "answer": "the United States",
       "is_daily_double": false,
-      "id": "325945"
+      "id": "53542"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "1",
-      "category": "NATIVE AMERICANS",
+      "category": "FAMOUS FOLKS",
+      "point_value": 500,
+      "question": "Stedman Graham is her steady boyfriend",
+      "answer": "Oprah Winfrey",
+      "is_daily_double": false,
+      "id": "53543"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "1",
+      "category": "FOOTBALL",
+      "point_value": 100,
+      "question": "In the 1920s sportswriter Grantland Rice called this college's backfield the \"Four Horsemen\"",
+      "answer": "Notre Dame",
+      "is_daily_double": false,
+      "id": "53544"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "1",
+      "category": "FOOTBALL",
+      "point_value": 200,
+      "question": "The Embraceable Ewes are the cheerleading squad of this NFL team",
+      "answer": "the L.A. Rams",
+      "is_daily_double": false,
+      "id": "53545"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "1",
+      "category": "FOOTBALL",
+      "point_value": 300,
+      "question": "MVP of 1989's Super Bowl XXIII who caught 11 passes for a record 215 yards",
+      "answer": "Jerry Rice",
+      "is_daily_double": false,
+      "id": "53546"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "1",
+      "category": "FOOTBALL",
+      "point_value": 400,
+      "question": "In college play the ball is placed on this yard line for a point after touchdown attempt",
+      "answer": "the 3-yard line",
+      "is_daily_double": false,
+      "id": "53547"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "1",
+      "category": "FOOTBALL",
+      "point_value": 500,
+      "question": "This Ohio State coach was fired for hitting a Clemson player in the 1978 Gator Bowl",
+      "answer": "Woody Hayes",
+      "is_daily_double": false,
+      "id": "53548"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "1",
+      "category": "NEW HAMPSHIRE",
+      "point_value": 100,
+      "question": "Sgt. Preston of the Yukon would feel at home at the annual derby in Laconia devoted to races of these",
+      "answer": "dog sled races",
+      "is_daily_double": false,
+      "id": "53549"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "1",
+      "category": "NEW HAMPSHIRE",
+      "point_value": 200,
+      "question": "Since 1856 presidential candidates of this party have carried the state in 28 out of 34 elections",
+      "answer": "the Republican Party",
+      "is_daily_double": false,
+      "id": "53550"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "1",
+      "category": "NEW HAMPSHIRE",
+      "point_value": 300,
+      "question": "A tall, white species of this tree once used for making Indian canoes is New Hampshire's state tree",
+      "answer": "a birch",
+      "is_daily_double": false,
+      "id": "53551"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "1",
+      "category": "TV GUIDE SAYS",
+      "point_value": 100,
+      "question": "\"Moneylender Charles demands a pound of flesh from B.J. and Hawkeye\"",
+      "answer": "M*A*S*H",
+      "is_daily_double": false,
+      "id": "53552"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "1",
+      "category": "TV GUIDE SAYS",
+      "point_value": 200,
+      "question": "\"It's curtains for a critic who raved about a play loosely based on one of Jessica's novels\"",
+      "answer": "Murder, She Wrote",
+      "is_daily_double": false,
+      "id": "53553"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "1",
+      "category": "TV GUIDE SAYS",
+      "point_value": 300,
+      "question": "\"Sam isn't worried about Diane repaying a $500 loan, until Carla points out her expensive spending habits\"",
+      "answer": "Cheers",
+      "is_daily_double": false,
+      "id": "53554"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "1",
+      "category": "TV GUIDE SAYS",
+      "point_value": 400,
+      "question": "\"A willful young runaway steals A.J.'s wallet & Rick's camera...\"",
+      "answer": "Simon & Simon",
+      "is_daily_double": false,
+      "id": "53555"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "1",
+      "category": "TV GUIDE SAYS",
+      "point_value": 500,
+      "question": "\"The answer is: The death of a winning contestant. The question: What brings Hammer to a TV game show?\"",
+      "answer": "Sledge Hammer!",
+      "is_daily_double": false,
+      "id": "53556"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "2",
+      "category": "19TH CENTURY AMERICA",
+      "point_value": 200,
+      "question": "Can you beat that? in 1850 congress outlawed this form of punishment in the Navy",
+      "answer": "flogging",
+      "is_daily_double": false,
+      "id": "53557"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "2",
+      "category": "19TH CENTURY AMERICA",
+      "point_value": 400,
+      "question": "Alexander Hamilton was instrumental in this man's losing the 1804 race for governor of N.Y.",
+      "answer": "Aaron Burr",
+      "is_daily_double": false,
+      "id": "53558"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "2",
+      "category": "19TH CENTURY AMERICA",
       "point_value": 600,
-      "question": "Florida's Big Cypress Indian reservation is home to this tribe",
-      "answer": "the Seminoles",
+      "question": "In the mid 1890s this young publisher hired away the Sunday staff of Pulitzer's N.Y. paper",
+      "answer": "William Randolph Hearst",
       "is_daily_double": false,
-      "id": "325946"
+      "id": "53559"
     },
     {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "NATIVE AMERICANS",
+      "air_date": "1989-06-22",
+      "round": "2",
+      "category": "19TH CENTURY AMERICA",
       "point_value": 800,
-      "question": "You auto know this chief of the Ottawa who fought against the British settlements in the 1760s",
-      "answer": "Pontiac",
+      "question": "On September 19, 1865 he received a patent for his sleeping car",
+      "answer": "George Pullman",
       "is_daily_double": false,
-      "id": "325947"
+      "id": "53560"
     },
     {
-      "air_date": "2010-04-20",
-      "round": "1",
-      "category": "NATIVE AMERICANS",
+      "air_date": "1989-06-22",
+      "round": "2",
+      "category": "19TH CENTURY AMERICA",
       "point_value": 1000,
-      "question": "In the late 1800s the prophet Wovoka, a Paiute Indian, founded a religion based on this spectral \"dance\"",
-      "answer": "a ghost dance",
+      "question": "This poem by Katherine Lee Bates was 1st published on July 4, 1895; the music came later",
+      "answer": "\"America the Beautiful\"",
       "is_daily_double": false,
-      "id": "325948"
+      "id": "53561"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "2",
-      "category": "\"CHOP!\"",
+      "category": "MEDIUM & MESSAGE",
+      "point_value": 200,
+      "question": "For centuries African natives have used these to \"talk\" over long distances",
+      "answer": "drums",
+      "is_daily_double": false,
+      "id": "53562"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "2",
+      "category": "MEDIUM & MESSAGE",
       "point_value": 400,
-      "question": "Asian eating utilsils",
-      "answer": "chopsticks",
+      "question": "World Book calls the person who had this job \"the 'walking newspaper' of the American colonies\"",
+      "answer": "the town crier",
       "is_daily_double": false,
-      "id": "325973"
+      "id": "53563"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "2",
-      "category": "\"CHOP!\"",
+      "category": "MEDIUM & MESSAGE",
+      "point_value": 600,
+      "question": "Medium in which celebrities have left messages in front of Grauman's Chinese Theatre",
+      "answer": "cement",
+      "is_daily_double": false,
+      "id": "53564"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "2",
+      "category": "MEDIUM & MESSAGE",
       "point_value": 800,
-      "question": "In football, an illegal hit below the knees",
-      "answer": "a chop-block",
+      "question": "NYC's WFAN is the 1st U.S. radio station whose 24 hour format is exclusively this",
+      "answer": "all sports",
       "is_daily_double": false,
-      "id": "325974"
+      "id": "53565"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "2",
-      "category": "\"CHOP!\"",
-      "point_value": 1600,
-      "question": "Hiiiiiiiiii ya! It's a slang term for martial arts movies",
-      "answer": "chop-socky",
+      "category": "MEDIUM & MESSAGE",
+      "point_value": 1000,
+      "question": "Dale Carnegie taught this & wrote a text on it for businessmen in 1926",
+      "answer": "public speaking",
       "is_daily_double": false,
-      "id": "325975"
+      "id": "53566"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "2",
-      "category": "\"CHOP!\"",
-      "point_value": 2000,
-      "question": "This \"Philosopher of Pessimism\" was born in Danzig in 1788",
-      "answer": "Schopenhauer",
+      "category": "SAUCES",
+      "point_value": 200,
+      "question": "Considered a condiment as well as a sauce, the fancy grade consists of no less than 33% tomato solids",
+      "answer": "ketchup",
       "is_daily_double": false,
-      "id": "325976"
+      "id": "53567"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "2",
-      "category": "BIBLICAL IMPERSONATORS",
+      "category": "SAUCES",
       "point_value": 400,
-      "question": "According to Paul in the New Testament, this personage masquerades as an angel of light",
-      "answer": "the devil (Satan)",
+      "question": "Basic Italian spaghetti sauce whose name means \"in sailor's style\"",
+      "answer": "marinara",
       "is_daily_double": false,
-      "id": "325949"
+      "id": "53568"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "2",
-      "category": "BIBLICAL IMPERSONATORS",
+      "category": "SAUCES",
+      "point_value": 600,
+      "question": "A variety of very hot chili pepper, or a brand of very hot sauce sold in small dropper bottles",
+      "answer": "Tabasco",
+      "is_daily_double": false,
+      "id": "53569"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "2",
+      "category": "SAUCES",
       "point_value": 800,
-      "question": "By pretending to be ambassadors from a distant country, the Gibeonites fooled this successor to Moses",
-      "answer": "Joshua",
+      "question": "Brown sugar, corn syrup, cream & butter create this sauce often served on sundaes",
+      "answer": "butterscotch",
       "is_daily_double": false,
-      "id": "325950"
+      "id": "53570"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "2",
-      "category": "BIBLICAL IMPERSONATORS",
-      "point_value": 1200,
-      "question": "Later to kill their champion, he pretends to be a madman in order to take refuge with the Philistines of Gath",
-      "answer": "David",
+      "category": "SAUCES",
+      "point_value": 1000,
+      "question": "The color of & other name for béchamel sauce",
+      "answer": "white sauce",
       "is_daily_double": false,
-      "id": "325951"
+      "id": "53571"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "2",
-      "category": "BIBLICAL IMPERSONATORS",
-      "point_value": 2000,
-      "question": "She fooled Jacob by posing as her sister Rachel on his wedding night",
-      "answer": "Leah",
+      "category": "STARTS & ENDS WITH \"H\"",
+      "point_value": 200,
+      "question": "In a chorus of \"The Messiah\", the sopranos sing this word 39 times",
+      "answer": "Hallelujah",
       "is_daily_double": false,
-      "id": "325952"
+      "id": "53572"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "2",
-      "category": "LIKE A HURRICANE",
+      "category": "STARTS & ENDS WITH \"H\"",
       "point_value": 400,
-      "question": "Hurricanes are bad enough, but they also spin off these other hazards; Hurricane Beulah generated 141 when it hit Texas in 1967",
-      "answer": "tornadoes",
+      "question": "Sound you might hear from Mr. Ed after one of Wilbur's corny jokes",
+      "answer": "a horse laugh",
       "is_daily_double": false,
-      "id": "325953"
+      "id": "53573"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "2",
-      "category": "LIKE A HURRICANE",
+      "category": "STARTS & ENDS WITH \"H\"",
+      "point_value": 600,
+      "question": "Turkish candy made with sesame seeds & honey",
+      "answer": "halvah",
+      "is_daily_double": false,
+      "id": "53574"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "2",
+      "category": "STARTS & ENDS WITH \"H\"",
       "point_value": 800,
-      "question": "The most severe hurricanes, with winds exceeding 155 mph, are ranked in this category, the top number on the rating scale",
-      "answer": "five",
+      "question": "A 3-dimensional image produced by a laser",
+      "answer": "a holograph",
       "is_daily_double": false,
-      "id": "325954"
+      "id": "53575"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "2",
-      "category": "LIKE A HURRICANE",
-      "point_value": 1200,
-      "question": "A hurricane's center typically has lower measurements of AP, short for this",
-      "answer": "atmospheric pressure",
-      "is_daily_double": false,
-      "id": "325955"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "2",
-      "category": "LIKE A HURRICANE",
-      "point_value": 1600,
-      "question": "(Jimmy of the Clue Crew shows a meterological animation on the monitor.) Rotating cloud bands in a hurricane's center make its path wobble, making it hard to predict the exact point where the storm's center crosses a coastline, the location called this",
-      "answer": "the landfall",
-      "is_daily_double": false,
-      "id": "325956"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "2",
-      "category": "LIKE A HURRICANE",
-      "point_value": 2000,
-      "question": "This inertial force causes the air at a hurricane's top to circulate in the opposite direction of its surface air",
-      "answer": "the Coriolis force (or Coriolis effect)",
+      "category": "STARTS & ENDS WITH \"H\"",
+      "point_value": 1000,
+      "question": "Last name of the composer who wrote the music to this song, B. Streisand's 1st million-selling single: \"Memories / Light the corners of my mind / Misty water-colored memories / Of the way we were...\"",
+      "answer": "Marvin Hamlisch",
       "is_daily_double": true,
-      "id": "325957"
+      "id": "53576"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "2",
-      "category": "NEWSPAPER NAMES",
+      "category": "THE UK",
+      "point_value": 200,
+      "question": "Ben Nevis, the tallest mountain in the UK, is located in this appropriately named part of Scotland",
+      "answer": "the Highlands",
+      "is_daily_double": false,
+      "id": "53577"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "2",
+      "category": "THE UK",
       "point_value": 400,
-      "question": "New York & Washington both have papers called this, another name for the mail",
-      "answer": "the Post",
+      "question": "London's largest & Europe's busiest airport",
+      "answer": "Heathrow",
       "is_daily_double": false,
-      "id": "325958"
+      "id": "53578"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "2",
-      "category": "NEWSPAPER NAMES",
+      "category": "THE UK",
+      "point_value": 600,
+      "question": "James VI of Scotland was known by this name & number when he became king of England as well",
+      "answer": "James I",
+      "is_daily_double": false,
+      "id": "53579"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "2",
+      "category": "THE UK",
       "point_value": 800,
-      "question": "One Boston newspaper is called this, meaning \"to give news or tidings of\"",
-      "answer": "Herald",
+      "question": "This epic of the hero who killed the monster Grendel & his monster mom is the 1st major poem in English",
+      "answer": "Beowulf",
       "is_daily_double": false,
-      "id": "325959"
+      "id": "53580"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "2",
-      "category": "NEWSPAPER NAMES",
-      "point_value": 1200,
-      "question": "Cincinnati's daily paper has this name, like the national tabloid, but with much different content",
-      "answer": "the Enquirer",
+      "category": "THE UK",
+      "point_value": 1000,
+      "question": "Among modern Celtic languages, this, not Gaelic, is the 1 most commonly spoken in the UK",
+      "answer": "Welsh",
+      "is_daily_double": false,
+      "id": "53581"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "2",
+      "category": "THEATER",
+      "point_value": 200,
+      "question": "She co-starred with Woody Allen in both the stage & film versions of \"Play It Again, Sam\"",
+      "answer": "Diane Keaton",
+      "is_daily_double": false,
+      "id": "53582"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "2",
+      "category": "THEATER",
+      "point_value": 400,
+      "question": "This Beatle known for his sketches inspired a sketch for \"Oh! Calcutta!\"",
+      "answer": "John Lennon",
+      "is_daily_double": false,
+      "id": "53583"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "2",
+      "category": "THEATER",
+      "point_value": 600,
+      "question": "The title of this Lorraine Hansberry play came from a poem by Langston Hughes",
+      "answer": "A Raisin in the Sun",
+      "is_daily_double": false,
+      "id": "53584"
+    },
+    {
+      "air_date": "1989-06-22",
+      "round": "2",
+      "category": "THEATER",
+      "point_value": 800,
+      "question": "This 1953 John Patrick play is set in an American-occupied town in Okinawa",
+      "answer": "The Teahouse of the August Moon",
       "is_daily_double": true,
-      "id": "325960"
+      "id": "53585"
     },
     {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "2",
-      "category": "NEWSPAPER NAMES",
-      "point_value": 1600,
-      "question": "Way back in 1880, Samuel Morss & William Rockhill Nelson founded this Kansas City newspaper",
-      "answer": "the Star",
+      "category": "THEATER",
+      "point_value": 1000,
+      "question": "In \"Polly\", the sequel to this John Gay work, Macheath becomes a pirate",
+      "answer": "The Beggar's Opera",
       "is_daily_double": false,
-      "id": "325961"
+      "id": "53586"
     },
     {
-      "air_date": "2010-04-20",
-      "round": "2",
-      "category": "NEWSPAPER NAMES",
-      "point_value": 2000,
-      "question": "Columnist Scott Maxwell stands guard for this Orlando paper",
-      "answer": "the Sentinel",
-      "is_daily_double": false,
-      "id": "325962"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "2",
-      "category": "SHAKESPEARE RETOOLED",
-      "point_value": 400,
-      "question": "Kurosawa's \"Ran\", an adaptation of this play, is set in 16th c. Japan & deals with 2 treacherous sons & one good one",
-      "answer": "King Lear",
-      "is_daily_double": false,
-      "id": "325963"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "2",
-      "category": "SHAKESPEARE RETOOLED",
-      "point_value": 800,
-      "question": "Peter Greenaway's \"Prospero's Books\" is a take on this bard play",
-      "answer": "The Tempest",
-      "is_daily_double": false,
-      "id": "325964"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "2",
-      "category": "SHAKESPEARE RETOOLED",
-      "point_value": 1200,
-      "question": "\"10 Things I Hate About You\" based on this Shakespeare comedy, stars Julia Stiles as the misanthropic Kat",
-      "answer": "The Taming of the Shrew",
-      "is_daily_double": false,
-      "id": "325965"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "2",
-      "category": "SHAKESPEARE RETOOLED",
-      "point_value": 1600,
-      "question": "One of the two feature films written or co-written by Tom Stoppard that deal with Shakespeare works",
-      "answer": "Shakespeare in Love (or Rosencrantz & Guildenstern Are Dead)",
-      "is_daily_double": false,
-      "id": "325966"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "2",
-      "category": "SHAKESPEARE RETOOLED",
-      "point_value": 2000,
-      "question": "In an attempt to come to grips with Shakespeare's \"Richard III\", this actor directed \"Looking for Richard\"",
-      "answer": "Al Pacino",
-      "is_daily_double": false,
-      "id": "325967"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "2",
-      "category": "THE LIFE & REIGN OF CHARLES I",
-      "point_value": 400,
-      "question": "At his baptism Charles was made the Duke of this, also the name of New York's capital city",
-      "answer": "Albany",
-      "is_daily_double": false,
-      "id": "325968"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "2",
-      "category": "THE LIFE & REIGN OF CHARLES I",
-      "point_value": 800,
-      "question": "During part of the English Civil War, Charles' main residence was Christ Church College at this university",
-      "answer": "Oxford",
-      "is_daily_double": false,
-      "id": "325969"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "2",
-      "category": "THE LIFE & REIGN OF CHARLES I",
-      "point_value": 1200,
-      "question": "As a teen in 1616, Charles was invested with this princely title",
-      "answer": "Prince of Wales",
-      "is_daily_double": false,
-      "id": "325970"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "2",
-      "category": "THE LIFE & REIGN OF CHARLES I",
-      "point_value": 1600,
-      "question": "Charles offended his Protestant subjects in 1625 when he wed the very Catholic sister of the king of this country",
-      "answer": "France",
-      "is_daily_double": false,
-      "id": "325971"
-    },
-    {
-      "air_date": "2010-04-20",
-      "round": "2",
-      "category": "THE LIFE & REIGN OF CHARLES I",
-      "point_value": 2000,
-      "question": "After numerous defeats in the civil war, Charles was beheaded in 1649 at the palace called this 'hall\"",
-      "answer": "Whitehall",
-      "is_daily_double": false,
-      "id": "325972"
-    },
-    {
-      "air_date": "2010-04-20",
+      "air_date": "1989-06-22",
       "round": "3",
-      "category": "THE NATIONAL MUSEUM OF AMERICAN HISTORY",
+      "category": "PULITZER PRIZES",
       "point_value": 0,
-      "question": "Joining such pop culture icons as Dorothy's ruby slippers, this was donated to the museum by Jerry Seinfeld in 2004",
-      "answer": "the puffy shirt",
+      "question": "1 of 2 Black women who won Pulitzer Prizes for their fiction, 1 in 1983 & 1 in 1988",
+      "answer": "Alice Walker or Toni Morrison",
       "is_daily_double": false,
-      "id": "325977"
+      "id": "53587"
     }
   ]
 }
