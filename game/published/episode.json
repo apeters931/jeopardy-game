@@ -1,546 +1,616 @@
 {
-  "id": "112120ee7c052e0e",
-  "air_date": "1989-06-22",
+  "id": "7fc01f51b86a1c59",
+  "air_date": "2021-02-18",
   "questions": [
     {
-      "air_date": "1989-06-22",
+      "air_date": "2021-02-18",
       "round": "1",
-      "category": "CAVES",
-      "point_value": 100,
-      "question": "Sea cave on the isle of Capri famous for its sapphire-colored light",
-      "answer": "the Blue Grotto",
-      "is_daily_double": false,
-      "id": "53534"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "CAVES",
+      "category": "ALL FAIRS",
       "point_value": 200,
-      "question": "It's located under stately Wayne Manor",
-      "answer": "the Batcave",
+      "question": "The glittering Crystal Palace was the centerpiece of the first modern World's Fair, this city's 1851 \"Great Exhibition\"",
+      "answer": "London",
       "is_daily_double": false,
-      "id": "53535"
+      "id": "467806"
     },
     {
-      "air_date": "1989-06-22",
+      "air_date": "2021-02-18",
       "round": "1",
-      "category": "CAVES",
-      "point_value": 300,
-      "question": "This extinct animal can be found today in the title of a Jean Auel book",
-      "answer": "the cave bear",
-      "is_daily_double": false,
-      "id": "53536"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "CAVES",
+      "category": "ALL FAIRS",
       "point_value": 400,
-      "question": "The largest subterranean chamber in the U.S. is the \"Big Room\" in this system",
-      "answer": "Carlsbad Caverns",
+      "question": "This was the main attraction of the 1889 Paris Exposition; it also served as the entrance",
+      "answer": "the Eiffel Tower",
       "is_daily_double": false,
-      "id": "53537"
+      "id": "467807"
     },
     {
-      "air_date": "1989-06-22",
+      "air_date": "2021-02-18",
       "round": "1",
-      "category": "CAVES",
-      "point_value": 500,
-      "question": "France's Lascaux cave isn't noted for its size or unique formations but for these",
-      "answer": "its drawings by prehistoric cavemen",
+      "category": "ALL FAIRS",
+      "point_value": 600,
+      "question": "The 1893 Chicago World's Fair introduced this word for a central avenue of exhibits & amusements",
+      "answer": "the midway",
       "is_daily_double": true,
-      "id": "53538"
+      "id": "467808"
     },
     {
-      "air_date": "1989-06-22",
+      "air_date": "2021-02-18",
       "round": "1",
-      "category": "FAMOUS FOLKS",
-      "point_value": 100,
-      "question": "His real name was Eric Hilliard Nelson: Hilliard was his mother's stage name",
-      "answer": "Ricky Nelson",
-      "is_daily_double": false,
-      "id": "53539"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "FAMOUS FOLKS",
-      "point_value": 200,
-      "question": "Before becoming Sherlock Holmes on PBS, J. Brett played Freddy Eynsford-Hill in this movie musical",
-      "answer": "My Fair Lady",
-      "is_daily_double": false,
-      "id": "53540"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "FAMOUS FOLKS",
-      "point_value": 300,
-      "question": "On Sept. 11, 1988 a blonde violinist named Gretchen Elizabeth Carlson became this",
-      "answer": "Miss America",
-      "is_daily_double": false,
-      "id": "53541"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "FAMOUS FOLKS",
-      "point_value": 400,
-      "question": "Mel Gibson was born in this country",
-      "answer": "the United States",
-      "is_daily_double": false,
-      "id": "53542"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "FAMOUS FOLKS",
-      "point_value": 500,
-      "question": "Stedman Graham is her steady boyfriend",
-      "answer": "Oprah Winfrey",
-      "is_daily_double": false,
-      "id": "53543"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "FOOTBALL",
-      "point_value": 100,
-      "question": "In the 1920s sportswriter Grantland Rice called this college's backfield the \"Four Horsemen\"",
-      "answer": "Notre Dame",
-      "is_daily_double": false,
-      "id": "53544"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "FOOTBALL",
-      "point_value": 200,
-      "question": "The Embraceable Ewes are the cheerleading squad of this NFL team",
-      "answer": "the L.A. Rams",
-      "is_daily_double": false,
-      "id": "53545"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "FOOTBALL",
-      "point_value": 300,
-      "question": "MVP of 1989's Super Bowl XXIII who caught 11 passes for a record 215 yards",
-      "answer": "Jerry Rice",
-      "is_daily_double": false,
-      "id": "53546"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "FOOTBALL",
-      "point_value": 400,
-      "question": "In college play the ball is placed on this yard line for a point after touchdown attempt",
-      "answer": "the 3-yard line",
-      "is_daily_double": false,
-      "id": "53547"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "FOOTBALL",
-      "point_value": 500,
-      "question": "This Ohio State coach was fired for hitting a Clemson player in the 1978 Gator Bowl",
-      "answer": "Woody Hayes",
-      "is_daily_double": false,
-      "id": "53548"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "NEW HAMPSHIRE",
-      "point_value": 100,
-      "question": "Sgt. Preston of the Yukon would feel at home at the annual derby in Laconia devoted to races of these",
-      "answer": "dog sled races",
-      "is_daily_double": false,
-      "id": "53549"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "NEW HAMPSHIRE",
-      "point_value": 200,
-      "question": "Since 1856 presidential candidates of this party have carried the state in 28 out of 34 elections",
-      "answer": "the Republican Party",
-      "is_daily_double": false,
-      "id": "53550"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "NEW HAMPSHIRE",
-      "point_value": 300,
-      "question": "A tall, white species of this tree once used for making Indian canoes is New Hampshire's state tree",
-      "answer": "a birch",
-      "is_daily_double": false,
-      "id": "53551"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "TV GUIDE SAYS",
-      "point_value": 100,
-      "question": "\"Moneylender Charles demands a pound of flesh from B.J. and Hawkeye\"",
-      "answer": "M*A*S*H",
-      "is_daily_double": false,
-      "id": "53552"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "TV GUIDE SAYS",
-      "point_value": 200,
-      "question": "\"It's curtains for a critic who raved about a play loosely based on one of Jessica's novels\"",
-      "answer": "Murder, She Wrote",
-      "is_daily_double": false,
-      "id": "53553"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "TV GUIDE SAYS",
-      "point_value": 300,
-      "question": "\"Sam isn't worried about Diane repaying a $500 loan, until Carla points out her expensive spending habits\"",
-      "answer": "Cheers",
-      "is_daily_double": false,
-      "id": "53554"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "TV GUIDE SAYS",
-      "point_value": 400,
-      "question": "\"A willful young runaway steals A.J.'s wallet & Rick's camera...\"",
-      "answer": "Simon & Simon",
-      "is_daily_double": false,
-      "id": "53555"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "1",
-      "category": "TV GUIDE SAYS",
-      "point_value": 500,
-      "question": "\"The answer is: The death of a winning contestant. The question: What brings Hammer to a TV game show?\"",
-      "answer": "Sledge Hammer!",
-      "is_daily_double": false,
-      "id": "53556"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "19TH CENTURY AMERICA",
-      "point_value": 200,
-      "question": "Can you beat that? in 1850 congress outlawed this form of punishment in the Navy",
-      "answer": "flogging",
-      "is_daily_double": false,
-      "id": "53557"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "19TH CENTURY AMERICA",
-      "point_value": 400,
-      "question": "Alexander Hamilton was instrumental in this man's losing the 1804 race for governor of N.Y.",
-      "answer": "Aaron Burr",
-      "is_daily_double": false,
-      "id": "53558"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "19TH CENTURY AMERICA",
-      "point_value": 600,
-      "question": "In the mid 1890s this young publisher hired away the Sunday staff of Pulitzer's N.Y. paper",
-      "answer": "William Randolph Hearst",
-      "is_daily_double": false,
-      "id": "53559"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "19TH CENTURY AMERICA",
+      "category": "ALL FAIRS",
       "point_value": 800,
-      "question": "On September 19, 1865 he received a patent for his sleeping car",
-      "answer": "George Pullman",
+      "question": "A 1939 New York World's Fair diorama predicting the look of the city in 1960 was called this, later a long-running animated TV series",
+      "answer": "Futurama",
       "is_daily_double": false,
-      "id": "53560"
+      "id": "467809"
     },
     {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "19TH CENTURY AMERICA",
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "ALL FAIRS",
       "point_value": 1000,
-      "question": "This poem by Katherine Lee Bates was 1st published on July 4, 1895; the music came later",
-      "answer": "\"America the Beautiful\"",
+      "question": "Exhibits at Osaka's 1970 World Expo included one of these microscopes capable of magnifying objects 500,000 times",
+      "answer": "an electron microscope",
       "is_daily_double": false,
-      "id": "53561"
+      "id": "467810"
     },
     {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "MEDIUM & MESSAGE",
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "GLOVE",
       "point_value": 200,
-      "question": "For centuries African natives have used these to \"talk\" over long distances",
-      "answer": "drums",
+      "question": "This type of theater has its own long-length glove",
+      "answer": "opera",
       "is_daily_double": false,
-      "id": "53562"
+      "id": "467811"
     },
     {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "MEDIUM & MESSAGE",
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "GLOVE",
       "point_value": 400,
-      "question": "World Book calls the person who had this job \"the 'walking newspaper' of the American colonies\"",
-      "answer": "the town crier",
+      "question": "The name of this boxing tournament comes from a small metallic charm in the shape of a boxing glove awarded to winners",
+      "answer": "the Golden Gloves",
       "is_daily_double": false,
-      "id": "53563"
+      "id": "467812"
     },
     {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "MEDIUM & MESSAGE",
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "GLOVE",
       "point_value": 600,
-      "question": "Medium in which celebrities have left messages in front of Grauman's Chinese Theatre",
-      "answer": "cement",
+      "question": "To prevent allergic reactions, in 2008 the Johns Hopkins Hospital banned the use of gloves made of this rubber product",
+      "answer": "latex",
       "is_daily_double": false,
-      "id": "53564"
+      "id": "467813"
     },
     {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "MEDIUM & MESSAGE",
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "GLOVE",
       "point_value": 800,
-      "question": "NYC's WFAN is the 1st U.S. radio station whose 24 hour format is exclusively this",
-      "answer": "all sports",
+      "question": "Right-handed participants in this hunting sport wear a leather glove on the left hand for the hawk to land on",
+      "answer": "falconry",
       "is_daily_double": false,
-      "id": "53565"
+      "id": "467814"
     },
     {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "MEDIUM & MESSAGE",
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "GLOVE",
       "point_value": 1000,
-      "question": "Dale Carnegie taught this & wrote a text on it for businessmen in 1926",
-      "answer": "public speaking",
+      "question": "It's the 8-letter word for the steel-covered glove in a suit of armor",
+      "answer": "a gauntlet",
       "is_daily_double": false,
-      "id": "53566"
+      "id": "467815"
     },
     {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "SAUCES",
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "SITCOMS BY CHARACTERS",
       "point_value": 200,
-      "question": "Considered a condiment as well as a sauce, the fancy grade consists of no less than 33% tomato solids",
-      "answer": "ketchup",
+      "question": "Michael Scott, Dwight Schrute, Pam Beesly",
+      "answer": "The Office",
       "is_daily_double": false,
-      "id": "53567"
+      "id": "467816"
     },
     {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "SAUCES",
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "SITCOMS BY CHARACTERS",
       "point_value": 400,
-      "question": "Basic Italian spaghetti sauce whose name means \"in sailor's style\"",
-      "answer": "marinara",
+      "question": "Jackie, Darlene & Dan, Roseanne's widower",
+      "answer": "The Conners",
       "is_daily_double": false,
-      "id": "53568"
+      "id": "467817"
     },
     {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "SAUCES",
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "SITCOMS BY CHARACTERS",
       "point_value": 600,
-      "question": "A variety of very hot chili pepper, or a brand of very hot sauce sold in small dropper bottles",
-      "answer": "Tabasco",
+      "question": "Georgie, Meemaw, the kid version of Mr. Cooper",
+      "answer": "Young Sheldon",
       "is_daily_double": false,
-      "id": "53569"
+      "id": "467818"
     },
     {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "SAUCES",
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "SITCOMS BY CHARACTERS",
       "point_value": 800,
-      "question": "Brown sugar, corn syrup, cream & butter create this sauce often served on sundaes",
-      "answer": "butterscotch",
+      "question": "Charlie Kelly, Frank Reynolds, Mac",
+      "answer": "It's Always Sunny in Philadelphia",
       "is_daily_double": false,
-      "id": "53570"
+      "id": "467819"
     },
     {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "SAUCES",
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "SITCOMS BY CHARACTERS",
       "point_value": 1000,
-      "question": "The color of & other name for béchamel sauce",
-      "answer": "white sauce",
+      "question": "Regine Hunter, Maxine Shaw & Queen Latifah as Khadijah James",
+      "answer": "Living Single",
       "is_daily_double": false,
-      "id": "53571"
+      "id": "467820"
     },
     {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "STARTS & ENDS WITH \"H\"",
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "TYPES OF NARRATIVE LITERATURE",
       "point_value": 200,
-      "question": "In a chorus of \"The Messiah\", the sopranos sing this word 39 times",
-      "answer": "Hallelujah",
+      "question": "You can bet \"The Lottery\" is a good example of this genre of brief narratives, usually under 10,000 words",
+      "answer": "a short story",
       "is_daily_double": false,
-      "id": "53572"
+      "id": "467821"
     },
     {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "STARTS & ENDS WITH \"H\"",
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "TYPES OF NARRATIVE LITERATURE",
       "point_value": 400,
-      "question": "Sound you might hear from Mr. Ed after one of Wilbur's corny jokes",
-      "answer": "a horse laugh",
+      "question": "The story of the Good Samaritan in the Bible's book of Luke is one of these simple narratives with a moral or religious purpose",
+      "answer": "a parable",
       "is_daily_double": false,
-      "id": "53573"
+      "id": "467822"
     },
     {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "STARTS & ENDS WITH \"H\"",
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "TYPES OF NARRATIVE LITERATURE",
       "point_value": 600,
-      "question": "Turkish candy made with sesame seeds & honey",
-      "answer": "halvah",
+      "question": "Alliterative 2-word name for fanciful stories about folks like Paul Bunyan with unbelievable elements presented as true & factual",
+      "answer": "a tall tale",
       "is_daily_double": false,
-      "id": "53574"
+      "id": "467823"
     },
     {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "STARTS & ENDS WITH \"H\"",
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "TYPES OF NARRATIVE LITERATURE",
       "point_value": 800,
-      "question": "A 3-dimensional image produced by a laser",
-      "answer": "a holograph",
+      "question": "E.L. James gained fame with this type of writing that puts the writer's favorite characters from books, TV, etc. in new adventures",
+      "answer": "fan fiction",
       "is_daily_double": false,
-      "id": "53575"
+      "id": "467824"
     },
     {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "STARTS & ENDS WITH \"H\"",
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "TYPES OF NARRATIVE LITERATURE",
       "point_value": 1000,
-      "question": "Last name of the composer who wrote the music to this song, B. Streisand's 1st million-selling single: \"Memories / Light the corners of my mind / Misty water-colored memories / Of the way we were...\"",
-      "answer": "Marvin Hamlisch",
+      "question": "Meaning not proceeding from event A to event B to event C, this \"non\" word applies to \"Tristram Shandy\" & \"House of Leaves\"",
+      "answer": "nonlinear",
+      "is_daily_double": false,
+      "id": "467825"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "WAR",
+      "point_value": 200,
+      "question": "In the 1700-1721 Great Northern War, Russia, Denmark & Poland ganged up on this rival across the Baltic",
+      "answer": "Sweden",
+      "is_daily_double": false,
+      "id": "467826"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "WAR",
+      "point_value": 400,
+      "question": "\"International Brigades\" of volunteers from the U.S. & Europe fought on the Republican side of this 1930s conflict",
+      "answer": "the Spanish Civil War",
+      "is_daily_double": false,
+      "id": "467827"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "WAR",
+      "point_value": 600,
+      "question": "In the 1860s War of the Triple Alliance, Argentina, Brazil & Uruguay left this landlocked foe in ruins",
+      "answer": "Paraguay",
+      "is_daily_double": false,
+      "id": "467828"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "WAR",
+      "point_value": 800,
+      "question": "In the 1700s there were Wars of the Austrian this & the Spanish this",
+      "answer": "Succession",
+      "is_daily_double": false,
+      "id": "467829"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "WAR",
+      "point_value": 1000,
+      "question": "This prime minister successfully schemed to start the 1866 Seven Weeks' War & make Prussia Europe's big dog",
+      "answer": "Bismarck",
+      "is_daily_double": false,
+      "id": "467830"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "WORDS BORROWED FROM JAPANESE",
+      "point_value": 200,
+      "question": "This word is from Japanese for \"harbor wave\", & it's a biiiiig one",
+      "answer": "tsunami",
+      "is_daily_double": false,
+      "id": "467831"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "WORDS BORROWED FROM JAPANESE",
+      "point_value": 400,
+      "question": "Characters for \"endure\" & \"person\" combine to make this word for a stealthy warrior",
+      "answer": "ninja",
+      "is_daily_double": false,
+      "id": "467832"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "WORDS BORROWED FROM JAPANESE",
+      "point_value": 600,
+      "question": "You sing along to a pre-recorded backing track in this form of entertainment with a Japanese name",
+      "answer": "karaoke",
+      "is_daily_double": false,
+      "id": "467833"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "WORDS BORROWED FROM JAPANESE",
+      "point_value": 800,
+      "question": "Characters meaning \"before\" & \"life\" combine to make this 6-letter word for a teacher, who would usually be older than you",
+      "answer": "sensei",
+      "is_daily_double": false,
+      "id": "467834"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "1",
+      "category": "WORDS BORROWED FROM JAPANESE",
+      "point_value": 1000,
+      "question": "Enjoy a latte made from this traditional Japanese green tea powder",
+      "answer": "matcha",
+      "is_daily_double": false,
+      "id": "467835"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "A \"GRAPHY\" DESCRIPTION",
+      "point_value": 400,
+      "question": "It used to mean the writing of books; now it's a list",
+      "answer": "a bibliography",
+      "is_daily_double": false,
+      "id": "467836"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "A \"GRAPHY\" DESCRIPTION",
+      "point_value": 800,
+      "question": "The science of mapmaking",
+      "answer": "cartography",
+      "is_daily_double": false,
+      "id": "467837"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "A \"GRAPHY\" DESCRIPTION",
+      "point_value": 1200,
+      "question": "The art of producing formal lettering with a brush or a pen",
+      "answer": "calligraphy",
+      "is_daily_double": false,
+      "id": "467838"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "A \"GRAPHY\" DESCRIPTION",
+      "point_value": 1600,
+      "question": "Emmanuel Lubezki has won 3 Oscars in this category",
+      "answer": "cinematography",
+      "is_daily_double": false,
+      "id": "467839"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "A \"GRAPHY\" DESCRIPTION",
+      "point_value": 2000,
+      "question": "The \"T\" in CAT scan, it's a method of using electromagnetic waves to produce an image of an internal structure",
+      "answer": "tomography",
+      "is_daily_double": false,
+      "id": "467840"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "A DEFINING MOMENT",
+      "point_value": 400,
+      "question": "\"Concerted revolt against... the lawful commands of a superior officer\", especially at sea",
+      "answer": "mutiny",
+      "is_daily_double": false,
+      "id": "467841"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "A DEFINING MOMENT",
+      "point_value": 800,
+      "question": "\"Allocation of treatment to... disaster victims according to a system of priorities... to maximize the number of survivors\"",
+      "answer": "triage",
+      "is_daily_double": false,
+      "id": "467842"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "A DEFINING MOMENT",
+      "point_value": 1200,
+      "question": "\"Decorative fringe\", or \"the art of tying knots in patterns\"",
+      "answer": "macrame",
+      "is_daily_double": false,
+      "id": "467843"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "A DEFINING MOMENT",
+      "point_value": 1600,
+      "question": "\"Latin, literally, voice of the people\"",
+      "answer": "vox populi",
+      "is_daily_double": false,
+      "id": "467844"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "A DEFINING MOMENT",
+      "point_value": 2000,
+      "question": "\"A local or regional meeting of party members to choose candidates\"",
+      "answer": "a caucus",
+      "is_daily_double": false,
+      "id": "467845"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "FACTS ABOUT COUNTRIES",
+      "point_value": 400,
+      "question": "Ireland celebrates this, March 17th, as a national holiday",
+      "answer": "St. Patrick's Day",
+      "is_daily_double": false,
+      "id": "467846"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "FACTS ABOUT COUNTRIES",
+      "point_value": 800,
+      "question": "It remains the only country with a Communist government in the Americas",
+      "answer": "Cuba",
+      "is_daily_double": false,
+      "id": "467847"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "FACTS ABOUT COUNTRIES",
+      "point_value": 1200,
+      "question": "This country is divided into more than 20 provinces, including Guayas & Galapagos",
+      "answer": "Ecuador",
       "is_daily_double": true,
-      "id": "53576"
+      "id": "467848"
     },
     {
-      "air_date": "1989-06-22",
+      "air_date": "2021-02-18",
       "round": "2",
-      "category": "THE UK",
-      "point_value": 200,
-      "question": "Ben Nevis, the tallest mountain in the UK, is located in this appropriately named part of Scotland",
-      "answer": "the Highlands",
+      "category": "FACTS ABOUT COUNTRIES",
+      "point_value": 1600,
+      "question": "Just prior to gaining its independence in 1971, Bangladesh was known by this 2-word directional name",
+      "answer": "East Pakistan",
       "is_daily_double": false,
-      "id": "53577"
+      "id": "467849"
     },
     {
-      "air_date": "1989-06-22",
+      "air_date": "2021-02-18",
       "round": "2",
-      "category": "THE UK",
+      "category": "FACTS ABOUT COUNTRIES",
+      "point_value": 2000,
+      "question": "With more than 200 million people, it's the most populous country in Africa & by 2050, its population is expected to double",
+      "answer": "Nigeria",
+      "is_daily_double": false,
+      "id": "467850"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "I HEAR VOICES",
       "point_value": 400,
-      "question": "London's largest & Europe's busiest airport",
-      "answer": "Heathrow",
+      "question": "Bill Hader was the voice of Mr. Peanut for this food brand",
+      "answer": "Planters",
       "is_daily_double": false,
-      "id": "53578"
+      "id": "467851"
     },
     {
-      "air_date": "1989-06-22",
+      "air_date": "2021-02-18",
       "round": "2",
-      "category": "THE UK",
-      "point_value": 600,
-      "question": "James VI of Scotland was known by this name & number when he became king of England as well",
-      "answer": "James I",
-      "is_daily_double": false,
-      "id": "53579"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "THE UK",
+      "category": "I HEAR VOICES",
       "point_value": 800,
-      "question": "This epic of the hero who killed the monster Grendel & his monster mom is the 1st major poem in English",
-      "answer": "Beowulf",
+      "question": "This funnyman & 9-time Oscar host voiced Mike in \"Monsters, Inc.\" & \"Monsters University\"",
+      "answer": "Billy Crystal",
       "is_daily_double": false,
-      "id": "53580"
+      "id": "467852"
     },
     {
-      "air_date": "1989-06-22",
+      "air_date": "2021-02-18",
       "round": "2",
-      "category": "THE UK",
-      "point_value": 1000,
-      "question": "Among modern Celtic languages, this, not Gaelic, is the 1 most commonly spoken in the UK",
-      "answer": "Welsh",
+      "category": "I HEAR VOICES",
+      "point_value": 1200,
+      "question": "He was the voice of Dodger baseball for 67 seasons before hanging up the mic in 2016",
+      "answer": "Vin Scully",
       "is_daily_double": false,
-      "id": "53581"
+      "id": "467853"
     },
     {
-      "air_date": "1989-06-22",
+      "air_date": "2021-02-18",
       "round": "2",
-      "category": "THEATER",
-      "point_value": 200,
-      "question": "She co-starred with Woody Allen in both the stage & film versions of \"Play It Again, Sam\"",
-      "answer": "Diane Keaton",
+      "category": "I HEAR VOICES",
+      "point_value": 1600,
+      "question": "He overcame a stutter to voice such characters as Mufasa & Darth Vader",
+      "answer": "James Earl Jones",
       "is_daily_double": false,
-      "id": "53582"
+      "id": "467854"
     },
     {
-      "air_date": "1989-06-22",
+      "air_date": "2021-02-18",
       "round": "2",
-      "category": "THEATER",
+      "category": "I HEAR VOICES",
+      "point_value": 2000,
+      "question": "This dame has given voice to Gru's mom, the queen in the \"Shrek\" sequels & also Karathen in \"Aquaman\"",
+      "answer": "Julie Andrews",
+      "is_daily_double": false,
+      "id": "467855"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "POTPOURRI",
       "point_value": 400,
-      "question": "This Beatle known for his sketches inspired a sketch for \"Oh! Calcutta!\"",
-      "answer": "John Lennon",
+      "question": "This word for a biblical narrative about the life of Jesus Christ means \"good story\"",
+      "answer": "a gospel",
       "is_daily_double": false,
-      "id": "53583"
+      "id": "467856"
     },
     {
-      "air_date": "1989-06-22",
+      "air_date": "2021-02-18",
       "round": "2",
-      "category": "THEATER",
-      "point_value": 600,
-      "question": "The title of this Lorraine Hansberry play came from a poem by Langston Hughes",
-      "answer": "A Raisin in the Sun",
-      "is_daily_double": false,
-      "id": "53584"
-    },
-    {
-      "air_date": "1989-06-22",
-      "round": "2",
-      "category": "THEATER",
+      "category": "POTPOURRI",
       "point_value": 800,
-      "question": "This 1953 John Patrick play is set in an American-occupied town in Okinawa",
-      "answer": "The Teahouse of the August Moon",
+      "question": "When talking about bears in Spanish, this color is pardo; about sugar, moreno",
+      "answer": "brown",
+      "is_daily_double": false,
+      "id": "467857"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "POTPOURRI",
+      "point_value": 1200,
+      "question": "In a classic song, these cowboy boot accessories \"Jingle Jangle Jingle\"",
+      "answer": "spurs",
+      "is_daily_double": false,
+      "id": "467858"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "POTPOURRI",
+      "point_value": 1600,
+      "question": "In 1981 nearly 12,000 of these federal employees were permanently grounded after they walked off the job",
+      "answer": "air traffic controllers",
+      "is_daily_double": false,
+      "id": "467859"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "POTPOURRI",
+      "point_value": 2000,
+      "question": "This city that's just south of Turin in Italy's Piedmont region is known for its sparkling wine",
+      "answer": "Asti",
+      "is_daily_double": false,
+      "id": "467860"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "PULITZER PRIZE WINNERS",
+      "point_value": 400,
+      "question": "The New Yorker's Barry Blitt won the 2020 prize in the category called this type of cartooning that expresses a point of view",
+      "answer": "Editorial",
+      "is_daily_double": false,
+      "id": "467861"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "PULITZER PRIZE WINNERS",
+      "point_value": 800,
+      "question": "\"Our Town\" won him the 1938 Drama Prize",
+      "answer": "(Thornton) Wilder",
+      "is_daily_double": false,
+      "id": "467862"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "PULITZER PRIZE WINNERS",
+      "point_value": 1200,
+      "question": "Here he is leaving the luncheon after accepting his 2018 Music Prize",
+      "answer": "Kendrick Lamar",
+      "is_daily_double": false,
+      "id": "467863"
+    },
+    {
+      "air_date": "2021-02-18",
+      "round": "2",
+      "category": "PULITZER PRIZE WINNERS",
+      "point_value": 1600,
+      "question": "The 2015 Biography Prize went to a study of Pope Pius XI's relations with this dictator down the street",
+      "answer": "Mussolini",
       "is_daily_double": true,
-      "id": "53585"
+      "id": "467864"
     },
     {
-      "air_date": "1989-06-22",
+      "air_date": "2021-02-18",
       "round": "2",
-      "category": "THEATER",
-      "point_value": 1000,
-      "question": "In \"Polly\", the sequel to this John Gay work, Macheath becomes a pirate",
-      "answer": "The Beggar's Opera",
+      "category": "PULITZER PRIZE WINNERS",
+      "point_value": 2000,
+      "question": "Bruce Catton took the 1954 History Prize for his book titled \"A Stillness at\" this fateful place",
+      "answer": "Appomattox",
       "is_daily_double": false,
-      "id": "53586"
+      "id": "467865"
     },
     {
-      "air_date": "1989-06-22",
+      "air_date": "2021-02-18",
       "round": "3",
-      "category": "PULITZER PRIZES",
+      "category": "19th CENTURY PRESIDENTIAL CAMPAIGNS",
       "point_value": 0,
-      "question": "1 of 2 Black women who won Pulitzer Prizes for their fiction, 1 in 1983 & 1 in 1988",
-      "answer": "Alice Walker or Toni Morrison",
+      "question": "The first campaign of this man, who at 36 was the youngest major party nominee ever, was supported by the silver mining industry",
+      "answer": "William Jennings Bryan",
       "is_daily_double": false,
-      "id": "53587"
+      "id": "467866"
     }
   ]
 }
