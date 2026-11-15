@@ -1,616 +1,616 @@
 {
-  "id": "7fc01f51b86a1c59",
-  "air_date": "2021-02-18",
+  "id": "aaa5708d661a5082",
+  "air_date": "2014-07-07",
   "questions": [
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "1",
-      "category": "ALL FAIRS",
+      "category": "NAME THE AUTOMAKER",
       "point_value": 200,
-      "question": "The glittering Crystal Palace was the centerpiece of the first modern World's Fair, this city's 1851 \"Great Exhibition\"",
-      "answer": "London",
+      "question": "The Corolla",
+      "answer": "Toyota",
       "is_daily_double": false,
-      "id": "467806"
+      "id": "382865"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "1",
-      "category": "ALL FAIRS",
+      "category": "NAME THE AUTOMAKER",
       "point_value": 400,
-      "question": "This was the main attraction of the 1889 Paris Exposition; it also served as the entrance",
-      "answer": "the Eiffel Tower",
+      "question": "The Charger & Durango",
+      "answer": "Dodge",
       "is_daily_double": false,
-      "id": "467807"
+      "id": "382866"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "1",
-      "category": "ALL FAIRS",
+      "category": "NAME THE AUTOMAKER",
       "point_value": 600,
-      "question": "The 1893 Chicago World's Fair introduced this word for a central avenue of exhibits & amusements",
-      "answer": "the midway",
+      "question": "The Civic & Pilot",
+      "answer": "Honda",
+      "is_daily_double": false,
+      "id": "382867"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "NAME THE AUTOMAKER",
+      "point_value": 800,
+      "question": "The Boxster & the 911 Carrera",
+      "answer": "Porsche",
+      "is_daily_double": false,
+      "id": "382868"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "NAME THE AUTOMAKER",
+      "point_value": 1000,
+      "question": "The Firebird & Grand Am",
+      "answer": "Pontiac",
+      "is_daily_double": false,
+      "id": "382869"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "POP GOES THE WORLD",
+      "point_value": 200,
+      "question": "\"Waterloo\" was this Stockholm group's first U.S. pop hit",
+      "answer": "ABBA",
+      "is_daily_double": false,
+      "id": "382870"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "POP GOES THE WORLD",
+      "point_value": 400,
+      "question": "This Ottawa-born singer/songwriter has had hits with \"Ironic\" & \"Thank U\"",
+      "answer": "Alanis Morrisette",
+      "is_daily_double": false,
+      "id": "382871"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "POP GOES THE WORLD",
+      "point_value": 600,
+      "question": "This 21st century band with a historical name hails from Scotland \"If I wane, this can die / If I wane, this can die / I want you to take me out...\"",
+      "answer": "Franz Ferdinand",
+      "is_daily_double": false,
+      "id": "382872"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "POP GOES THE WORLD",
+      "point_value": 800,
+      "question": "\"Nothing Compares 2\" this Dublin-born songstress who topped the pop charts in 1990",
+      "answer": "Sinead O'Connor",
+      "is_daily_double": false,
+      "id": "382873"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "POP GOES THE WORLD",
+      "point_value": 1000,
+      "question": "Born in Niteroi, Brazil, this bandleader scored pop hits with \"The Look Of Love\" & \"Never Gonna Let You Go\"",
+      "answer": "Sérgio Mendes",
+      "is_daily_double": false,
+      "id": "382874"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "SOMETHING'S WRONG WITH THIS GUY",
+      "point_value": 200,
+      "question": "There's an automated external defibrillator on the wall; use it to get this organ back in rhythm",
+      "answer": "the heart",
+      "is_daily_double": false,
+      "id": "382875"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "SOMETHING'S WRONG WITH THIS GUY",
+      "point_value": 400,
+      "question": "Mouth to mouth may help, but he is having an \"attack\" of this 6-letter condition, meaning his airways have narrowed",
+      "answer": "asthma",
+      "is_daily_double": false,
+      "id": "382876"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "SOMETHING'S WRONG WITH THIS GUY",
+      "point_value": 600,
+      "question": "He was eating something he shouldn't have & has gone into the anaphylactic type of this reaction",
+      "answer": "shock",
+      "is_daily_double": false,
+      "id": "382877"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "SOMETHING'S WRONG WITH THIS GUY",
+      "point_value": 800,
+      "question": "So he can breathe, we're making a small hole in his windpipe, this process",
+      "answer": "a tracheotomy",
+      "is_daily_double": false,
+      "id": "382878"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "SOMETHING'S WRONG WITH THIS GUY",
+      "point_value": 1000,
+      "question": "Actually, don't worry about CPR; a note on him says DNR, \"do not\" do this",
+      "answer": "resuscitate",
+      "is_daily_double": false,
+      "id": "382879"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "TATER TOTS",
+      "point_value": 200,
+      "question": "Russ, the little russet potato, was tres bon as pommes frites, which we call these",
+      "answer": "french fries",
+      "is_daily_double": false,
+      "id": "382880"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "TATER TOTS",
+      "point_value": 400,
+      "question": "Little Timmy Tater was sent to England to become crisps, which we call these",
+      "answer": "potato chips",
+      "is_daily_double": false,
+      "id": "382881"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "TATER TOTS",
+      "point_value": 600,
+      "question": "Ma & pa were proud of their spudlings when they were made into these Hanukkah potato pancakes",
+      "answer": "latkes",
+      "is_daily_double": false,
+      "id": "382882"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "TATER TOTS",
+      "point_value": 800,
+      "question": "The young taters want to be part of this \"national\" dish that includes bacon & vinegar & may be served warm or cold",
+      "answer": "German potato salad",
+      "is_daily_double": false,
+      "id": "382883"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "TATER TOTS",
+      "point_value": 1000,
+      "question": "Tiny tubers want to grow up, join the deli & become this Jewish foodstuff, a mashed potato dumpling covered with a dough shell",
+      "answer": "knish (kreplach accepted)",
+      "is_daily_double": false,
+      "id": "382884"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "WHATCHU TALKIN' 'BOUT, WALLACE?",
+      "point_value": 200,
+      "question": "Originally a Democrat, this Southerner ran for president in 1964, '68, '72 & '76",
+      "answer": "George Wallace",
+      "is_daily_double": false,
+      "id": "382885"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "WHATCHU TALKIN' 'BOUT, WALLACE?",
+      "point_value": 400,
+      "question": "For more than 40 years, he brought his unique brand of journalism to CBS",
+      "answer": "Mike Wallace",
+      "is_daily_double": false,
+      "id": "382886"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "WHATCHU TALKIN' 'BOUT, WALLACE?",
+      "point_value": 600,
+      "question": "In 1297 this Scottish patriot led the defeat of the English in the Battle of Stirling Bridge",
+      "answer": "William Wallace",
+      "is_daily_double": false,
+      "id": "382887"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "WHATCHU TALKIN' 'BOUT, WALLACE?",
+      "point_value": 800,
+      "question": "This 3-named author penned a 1989 collection of short stories titled \"Girl with Curious Hair\"",
+      "answer": "David Foster Wallace",
+      "is_daily_double": false,
+      "id": "382888"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "WHATCHU TALKIN' 'BOUT, WALLACE?",
+      "point_value": 1000,
+      "question": "Second of FDR's 3 vice presidents, he also served as Secretary of Agriculture, like his father before him",
+      "answer": "Henry Wallace",
+      "is_daily_double": false,
+      "id": "382889"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "WHO KNOWS \"C-P-R\"?",
+      "point_value": 200,
+      "question": "By trade, Joseph, the husband of Mary, was one of these",
+      "answer": "a carpenter",
+      "is_daily_double": false,
+      "id": "382890"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "WHO KNOWS \"C-P-R\"?",
+      "point_value": 400,
+      "question": "We use this word, Spanish for \"godfather\", for a close friend or associate",
+      "answer": "compadre",
+      "is_daily_double": false,
+      "id": "382891"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "WHO KNOWS \"C-P-R\"?",
+      "point_value": 600,
+      "question": "One who takes short dozes in the afternoon, or takes felines from their owners",
+      "answer": "a catnapper",
+      "is_daily_double": false,
+      "id": "382892"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "1",
+      "category": "WHO KNOWS \"C-P-R\"?",
+      "point_value": 800,
+      "question": "It's the study of secret writing, including codes & ciphers",
+      "answer": "cryptography",
       "is_daily_double": true,
-      "id": "467808"
+      "id": "382893"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "1",
-      "category": "ALL FAIRS",
-      "point_value": 800,
-      "question": "A 1939 New York World's Fair diorama predicting the look of the city in 1960 was called this, later a long-running animated TV series",
-      "answer": "Futurama",
-      "is_daily_double": false,
-      "id": "467809"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "ALL FAIRS",
+      "category": "WHO KNOWS \"C-P-R\"?",
       "point_value": 1000,
-      "question": "Exhibits at Osaka's 1970 World Expo included one of these microscopes capable of magnifying objects 500,000 times",
-      "answer": "an electron microscope",
+      "question": "Found in the Southwest, it's a dense growth of shrubs or small trees",
+      "answer": "a chaparral",
       "is_daily_double": false,
-      "id": "467810"
+      "id": "382894"
     },
     {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "GLOVE",
-      "point_value": 200,
-      "question": "This type of theater has its own long-length glove",
-      "answer": "opera",
-      "is_daily_double": false,
-      "id": "467811"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "GLOVE",
-      "point_value": 400,
-      "question": "The name of this boxing tournament comes from a small metallic charm in the shape of a boxing glove awarded to winners",
-      "answer": "the Golden Gloves",
-      "is_daily_double": false,
-      "id": "467812"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "GLOVE",
-      "point_value": 600,
-      "question": "To prevent allergic reactions, in 2008 the Johns Hopkins Hospital banned the use of gloves made of this rubber product",
-      "answer": "latex",
-      "is_daily_double": false,
-      "id": "467813"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "GLOVE",
-      "point_value": 800,
-      "question": "Right-handed participants in this hunting sport wear a leather glove on the left hand for the hawk to land on",
-      "answer": "falconry",
-      "is_daily_double": false,
-      "id": "467814"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "GLOVE",
-      "point_value": 1000,
-      "question": "It's the 8-letter word for the steel-covered glove in a suit of armor",
-      "answer": "a gauntlet",
-      "is_daily_double": false,
-      "id": "467815"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "SITCOMS BY CHARACTERS",
-      "point_value": 200,
-      "question": "Michael Scott, Dwight Schrute, Pam Beesly",
-      "answer": "The Office",
-      "is_daily_double": false,
-      "id": "467816"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "SITCOMS BY CHARACTERS",
-      "point_value": 400,
-      "question": "Jackie, Darlene & Dan, Roseanne's widower",
-      "answer": "The Conners",
-      "is_daily_double": false,
-      "id": "467817"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "SITCOMS BY CHARACTERS",
-      "point_value": 600,
-      "question": "Georgie, Meemaw, the kid version of Mr. Cooper",
-      "answer": "Young Sheldon",
-      "is_daily_double": false,
-      "id": "467818"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "SITCOMS BY CHARACTERS",
-      "point_value": 800,
-      "question": "Charlie Kelly, Frank Reynolds, Mac",
-      "answer": "It's Always Sunny in Philadelphia",
-      "is_daily_double": false,
-      "id": "467819"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "SITCOMS BY CHARACTERS",
-      "point_value": 1000,
-      "question": "Regine Hunter, Maxine Shaw & Queen Latifah as Khadijah James",
-      "answer": "Living Single",
-      "is_daily_double": false,
-      "id": "467820"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "TYPES OF NARRATIVE LITERATURE",
-      "point_value": 200,
-      "question": "You can bet \"The Lottery\" is a good example of this genre of brief narratives, usually under 10,000 words",
-      "answer": "a short story",
-      "is_daily_double": false,
-      "id": "467821"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "TYPES OF NARRATIVE LITERATURE",
-      "point_value": 400,
-      "question": "The story of the Good Samaritan in the Bible's book of Luke is one of these simple narratives with a moral or religious purpose",
-      "answer": "a parable",
-      "is_daily_double": false,
-      "id": "467822"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "TYPES OF NARRATIVE LITERATURE",
-      "point_value": 600,
-      "question": "Alliterative 2-word name for fanciful stories about folks like Paul Bunyan with unbelievable elements presented as true & factual",
-      "answer": "a tall tale",
-      "is_daily_double": false,
-      "id": "467823"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "TYPES OF NARRATIVE LITERATURE",
-      "point_value": 800,
-      "question": "E.L. James gained fame with this type of writing that puts the writer's favorite characters from books, TV, etc. in new adventures",
-      "answer": "fan fiction",
-      "is_daily_double": false,
-      "id": "467824"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "TYPES OF NARRATIVE LITERATURE",
-      "point_value": 1000,
-      "question": "Meaning not proceeding from event A to event B to event C, this \"non\" word applies to \"Tristram Shandy\" & \"House of Leaves\"",
-      "answer": "nonlinear",
-      "is_daily_double": false,
-      "id": "467825"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "WAR",
-      "point_value": 200,
-      "question": "In the 1700-1721 Great Northern War, Russia, Denmark & Poland ganged up on this rival across the Baltic",
-      "answer": "Sweden",
-      "is_daily_double": false,
-      "id": "467826"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "WAR",
-      "point_value": 400,
-      "question": "\"International Brigades\" of volunteers from the U.S. & Europe fought on the Republican side of this 1930s conflict",
-      "answer": "the Spanish Civil War",
-      "is_daily_double": false,
-      "id": "467827"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "WAR",
-      "point_value": 600,
-      "question": "In the 1860s War of the Triple Alliance, Argentina, Brazil & Uruguay left this landlocked foe in ruins",
-      "answer": "Paraguay",
-      "is_daily_double": false,
-      "id": "467828"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "WAR",
-      "point_value": 800,
-      "question": "In the 1700s there were Wars of the Austrian this & the Spanish this",
-      "answer": "Succession",
-      "is_daily_double": false,
-      "id": "467829"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "WAR",
-      "point_value": 1000,
-      "question": "This prime minister successfully schemed to start the 1866 Seven Weeks' War & make Prussia Europe's big dog",
-      "answer": "Bismarck",
-      "is_daily_double": false,
-      "id": "467830"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "WORDS BORROWED FROM JAPANESE",
-      "point_value": 200,
-      "question": "This word is from Japanese for \"harbor wave\", & it's a biiiiig one",
-      "answer": "tsunami",
-      "is_daily_double": false,
-      "id": "467831"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "WORDS BORROWED FROM JAPANESE",
-      "point_value": 400,
-      "question": "Characters for \"endure\" & \"person\" combine to make this word for a stealthy warrior",
-      "answer": "ninja",
-      "is_daily_double": false,
-      "id": "467832"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "WORDS BORROWED FROM JAPANESE",
-      "point_value": 600,
-      "question": "You sing along to a pre-recorded backing track in this form of entertainment with a Japanese name",
-      "answer": "karaoke",
-      "is_daily_double": false,
-      "id": "467833"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "WORDS BORROWED FROM JAPANESE",
-      "point_value": 800,
-      "question": "Characters meaning \"before\" & \"life\" combine to make this 6-letter word for a teacher, who would usually be older than you",
-      "answer": "sensei",
-      "is_daily_double": false,
-      "id": "467834"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "1",
-      "category": "WORDS BORROWED FROM JAPANESE",
-      "point_value": 1000,
-      "question": "Enjoy a latte made from this traditional Japanese green tea powder",
-      "answer": "matcha",
-      "is_daily_double": false,
-      "id": "467835"
-    },
-    {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "A \"GRAPHY\" DESCRIPTION",
+      "category": "BURGS",
       "point_value": 400,
-      "question": "It used to mean the writing of books; now it's a list",
-      "answer": "a bibliography",
+      "question": "This city was founded in 1703 by a czar who hoped to make it a \"Window on the West\", bringing in Western culture",
+      "answer": "St. Petersburg",
       "is_daily_double": false,
-      "id": "467836"
+      "id": "382895"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "A \"GRAPHY\" DESCRIPTION",
+      "category": "BURGS",
       "point_value": 800,
-      "question": "The science of mapmaking",
-      "answer": "cartography",
+      "question": "From Philadelphia, get the spirit of I-76 & take it west for 2 hours to this state capital",
+      "answer": "Harrisburg",
       "is_daily_double": false,
-      "id": "467837"
+      "id": "382896"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "A \"GRAPHY\" DESCRIPTION",
+      "category": "BURGS",
       "point_value": 1200,
-      "question": "The art of producing formal lettering with a brush or a pen",
-      "answer": "calligraphy",
+      "question": "Jamestown, Yorktown & this Colonial city form America's \"Historic Triangle\"",
+      "answer": "Williamsburg",
       "is_daily_double": false,
-      "id": "467838"
+      "id": "382897"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "A \"GRAPHY\" DESCRIPTION",
+      "category": "BURGS",
       "point_value": 1600,
-      "question": "Emmanuel Lubezki has won 3 Oscars in this category",
-      "answer": "cinematography",
+      "question": "This burg on the Elbe River was founded as a missionary center at the behest of Charlemagne in around 811",
+      "answer": "Hamburg",
       "is_daily_double": false,
-      "id": "467839"
+      "id": "382898"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "A \"GRAPHY\" DESCRIPTION",
+      "category": "BURGS",
       "point_value": 2000,
-      "question": "The \"T\" in CAT scan, it's a method of using electromagnetic waves to produce an image of an internal structure",
-      "answer": "tomography",
+      "question": "In October 2006 the major airport serving this city was renamed O.R. Tambo International Airport",
+      "answer": "Johannesburg",
       "is_daily_double": false,
-      "id": "467840"
+      "id": "382899"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "A DEFINING MOMENT",
+      "category": "CHINESE HISTORY",
       "point_value": 400,
-      "question": "\"Concerted revolt against... the lawful commands of a superior officer\", especially at sea",
-      "answer": "mutiny",
+      "question": "Begun in 486 B.C., China's \"Grand\" this is the world's longest manmade waterway",
+      "answer": "Canal",
       "is_daily_double": false,
-      "id": "467841"
+      "id": "382900"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "A DEFINING MOMENT",
+      "category": "CHINESE HISTORY",
       "point_value": 800,
-      "question": "\"Allocation of treatment to... disaster victims according to a system of priorities... to maximize the number of survivors\"",
-      "answer": "triage",
-      "is_daily_double": false,
-      "id": "467842"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "2",
-      "category": "A DEFINING MOMENT",
-      "point_value": 1200,
-      "question": "\"Decorative fringe\", or \"the art of tying knots in patterns\"",
-      "answer": "macrame",
-      "is_daily_double": false,
-      "id": "467843"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "2",
-      "category": "A DEFINING MOMENT",
-      "point_value": 1600,
-      "question": "\"Latin, literally, voice of the people\"",
-      "answer": "vox populi",
-      "is_daily_double": false,
-      "id": "467844"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "2",
-      "category": "A DEFINING MOMENT",
-      "point_value": 2000,
-      "question": "\"A local or regional meeting of party members to choose candidates\"",
-      "answer": "a caucus",
-      "is_daily_double": false,
-      "id": "467845"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "2",
-      "category": "FACTS ABOUT COUNTRIES",
-      "point_value": 400,
-      "question": "Ireland celebrates this, March 17th, as a national holiday",
-      "answer": "St. Patrick's Day",
-      "is_daily_double": false,
-      "id": "467846"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "2",
-      "category": "FACTS ABOUT COUNTRIES",
-      "point_value": 800,
-      "question": "It remains the only country with a Communist government in the Americas",
-      "answer": "Cuba",
-      "is_daily_double": false,
-      "id": "467847"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "2",
-      "category": "FACTS ABOUT COUNTRIES",
-      "point_value": 1200,
-      "question": "This country is divided into more than 20 provinces, including Guayas & Galapagos",
-      "answer": "Ecuador",
+      "question": "A folk tale tells of Meng Jiangnu, who searches for her husband along this public works project",
+      "answer": "the Great Wall of China",
       "is_daily_double": true,
-      "id": "467848"
+      "id": "382901"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "FACTS ABOUT COUNTRIES",
-      "point_value": 1600,
-      "question": "Just prior to gaining its independence in 1971, Bangladesh was known by this 2-word directional name",
-      "answer": "East Pakistan",
-      "is_daily_double": false,
-      "id": "467849"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "2",
-      "category": "FACTS ABOUT COUNTRIES",
-      "point_value": 2000,
-      "question": "With more than 200 million people, it's the most populous country in Africa & by 2050, its population is expected to double",
-      "answer": "Nigeria",
-      "is_daily_double": false,
-      "id": "467850"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "2",
-      "category": "I HEAR VOICES",
-      "point_value": 400,
-      "question": "Bill Hader was the voice of Mr. Peanut for this food brand",
-      "answer": "Planters",
-      "is_daily_double": false,
-      "id": "467851"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "2",
-      "category": "I HEAR VOICES",
-      "point_value": 800,
-      "question": "This funnyman & 9-time Oscar host voiced Mike in \"Monsters, Inc.\" & \"Monsters University\"",
-      "answer": "Billy Crystal",
-      "is_daily_double": false,
-      "id": "467852"
-    },
-    {
-      "air_date": "2021-02-18",
-      "round": "2",
-      "category": "I HEAR VOICES",
+      "category": "CHINESE HISTORY",
       "point_value": 1200,
-      "question": "He was the voice of Dodger baseball for 67 seasons before hanging up the mic in 2016",
-      "answer": "Vin Scully",
+      "question": "In 1901 China agreed to pay 11 nations about $330 million in damages that arose from this rebellion",
+      "answer": "the Boxer Rebellion",
       "is_daily_double": false,
-      "id": "467853"
+      "id": "382902"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "I HEAR VOICES",
+      "category": "CHINESE HISTORY",
       "point_value": 1600,
-      "question": "He overcame a stutter to voice such characters as Mufasa & Darth Vader",
-      "answer": "James Earl Jones",
+      "question": "(Sarah of the Clue Crew shows a portrait and a map on the monitor.) Huangdi won a great battle that consolidated his power among the tribes of the Huang He River, so it's fitting that he is referred to in English as the this emperor",
+      "answer": "the Yellow Emperor",
       "is_daily_double": false,
-      "id": "467854"
+      "id": "382903"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "I HEAR VOICES",
+      "category": "CHINESE HISTORY",
       "point_value": 2000,
-      "question": "This dame has given voice to Gru's mom, the queen in the \"Shrek\" sequels & also Karathen in \"Aquaman\"",
-      "answer": "Julie Andrews",
+      "question": "\"Know the enemy & know yourself\" is a lesson from this treatise, tactics from which were later used by Mao",
+      "answer": "The Art of War",
       "is_daily_double": false,
-      "id": "467855"
+      "id": "382904"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "POTPOURRI",
+      "category": "RHYME TIME",
       "point_value": 400,
-      "question": "This word for a biblical narrative about the life of Jesus Christ means \"good story\"",
-      "answer": "a gospel",
+      "question": "A wealthy sorceress",
+      "answer": "a rich witch",
       "is_daily_double": false,
-      "id": "467856"
+      "id": "382905"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "POTPOURRI",
+      "category": "RHYME TIME",
       "point_value": 800,
-      "question": "When talking about bears in Spanish, this color is pardo; about sugar, moreno",
-      "answer": "brown",
+      "question": "A yearly instruction book",
+      "answer": "a annual manual",
       "is_daily_double": false,
-      "id": "467857"
+      "id": "382906"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "POTPOURRI",
+      "category": "RHYME TIME",
       "point_value": 1200,
-      "question": "In a classic song, these cowboy boot accessories \"Jingle Jangle Jingle\"",
-      "answer": "spurs",
+      "question": "An ersatz cobra",
+      "answer": "a fake snake",
       "is_daily_double": false,
-      "id": "467858"
+      "id": "382907"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "POTPOURRI",
+      "category": "RHYME TIME",
       "point_value": 1600,
-      "question": "In 1981 nearly 12,000 of these federal employees were permanently grounded after they walked off the job",
-      "answer": "air traffic controllers",
+      "question": "A seemingly evil reverend",
+      "answer": "a sinister minister",
       "is_daily_double": false,
-      "id": "467859"
+      "id": "382908"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "POTPOURRI",
+      "category": "RHYME TIME",
       "point_value": 2000,
-      "question": "This city that's just south of Turin in Italy's Piedmont region is known for its sparkling wine",
-      "answer": "Asti",
+      "question": "A suspension of hostilities made at a channel that carries currents from a gate",
+      "answer": "a sluice truce (a truce sluice accepted)",
       "is_daily_double": false,
-      "id": "467860"
+      "id": "382909"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "PULITZER PRIZE WINNERS",
+      "category": "THAT TICKLES!",
       "point_value": 400,
-      "question": "The New Yorker's Barry Blitt won the 2020 prize in the category called this type of cartooning that expresses a point of view",
-      "answer": "Editorial",
+      "question": "Tyco teamed with \"Sesame Street\" to create this 1996 fad",
+      "answer": "Tickle Me Elmo",
       "is_daily_double": false,
-      "id": "467861"
+      "id": "382910"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "PULITZER PRIZE WINNERS",
+      "category": "THAT TICKLES!",
       "point_value": 800,
-      "question": "\"Our Town\" won him the 1938 Drama Prize",
-      "answer": "(Thornton) Wilder",
+      "question": "This phrase for playing the piano refers to the substance of which the keys were once made",
+      "answer": "tickling the ivories",
       "is_daily_double": false,
-      "id": "467862"
+      "id": "382911"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "PULITZER PRIZE WINNERS",
+      "category": "THAT TICKLES!",
       "point_value": 1200,
-      "question": "Here he is leaving the luncheon after accepting his 2018 Music Prize",
-      "answer": "Kendrick Lamar",
+      "question": "Tickle is the nickname of the chemical compound TiCl4, this tetrachloride",
+      "answer": "titanium",
       "is_daily_double": false,
-      "id": "467863"
+      "id": "382912"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "PULITZER PRIZE WINNERS",
+      "category": "THAT TICKLES!",
       "point_value": 1600,
-      "question": "The 2015 Biography Prize went to a study of Pope Pius XI's relations with this dictator down the street",
-      "answer": "Mussolini",
+      "question": "Steven Ray Tickle is one of the stars of this Discovery Channel series about illegal \"home brewers\"",
+      "answer": "Moonshiners",
+      "is_daily_double": false,
+      "id": "382913"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "2",
+      "category": "THAT TICKLES!",
+      "point_value": 2000,
+      "question": "Swale Tickle is among the many small straits called tickles on this \"lately discovered\" Canadian island",
+      "answer": "Newfoundland",
+      "is_daily_double": false,
+      "id": "382914"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "2",
+      "category": "THE AUTHOR WRITES",
+      "point_value": 400,
+      "question": "\"'I am not made for perilous quests! I wish I had never seen the ring! Why did it come to me? Why was I chosen?\"'",
+      "answer": "Tolkien",
+      "is_daily_double": false,
+      "id": "382915"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "2",
+      "category": "THE AUTHOR WRITES",
+      "point_value": 800,
+      "question": "\"Rikki-Tikki felt his eyes growing red and hot (when a mongoose's eyes grow red, he is angry)\"",
+      "answer": "(Rudyard) Kipling",
+      "is_daily_double": false,
+      "id": "382916"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "2",
+      "category": "THE AUTHOR WRITES",
+      "point_value": 1200,
+      "question": "\"'I scent the Hurons,' he said, speaking to the Mohicans; 'Yonder is open sky, through the tree-tops'\"",
+      "answer": "(James Fenimore) Cooper",
+      "is_daily_double": false,
+      "id": "382917"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "2",
+      "category": "THE AUTHOR WRITES",
+      "point_value": 1600,
+      "question": "'\"I changed my name to Julius No—the Julius after my father and the No for my rejection of him and of all authority\"'",
+      "answer": "Ian Fleming",
+      "is_daily_double": false,
+      "id": "382918"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "2",
+      "category": "THE AUTHOR WRITES",
+      "point_value": 2000,
+      "question": "\"Stephen Dedalus is my name, Ireland is my nation. Clongowes is my dwellingplace and heaven my expectation\"",
+      "answer": "James Joyce",
       "is_daily_double": true,
-      "id": "467864"
+      "id": "382919"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
       "round": "2",
-      "category": "PULITZER PRIZE WINNERS",
-      "point_value": 2000,
-      "question": "Bruce Catton took the 1954 History Prize for his book titled \"A Stillness at\" this fateful place",
-      "answer": "Appomattox",
+      "category": "THE MOVIES",
+      "point_value": 400,
+      "question": "In 1933's \"Flying Down to Rio\", Fred Astaire teamed with this lady for the first of 10 films",
+      "answer": "Ginger Rogers",
       "is_daily_double": false,
-      "id": "467865"
+      "id": "382920"
     },
     {
-      "air_date": "2021-02-18",
+      "air_date": "2014-07-07",
+      "round": "2",
+      "category": "THE MOVIES",
+      "point_value": 800,
+      "question": "In this 1991 film, Robin Williams was Peter Banning, who did grow up, became a lawyer & married Wendy's granddaughter",
+      "answer": "Hook",
+      "is_daily_double": false,
+      "id": "382921"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "2",
+      "category": "THE MOVIES",
+      "point_value": 1200,
+      "question": "This 2009 horror film that cost $15,000 to make grossed over $100 million & has spawned 4 sequels",
+      "answer": "Paranormal Activity",
+      "is_daily_double": false,
+      "id": "382922"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "2",
+      "category": "THE MOVIES",
+      "point_value": 1600,
+      "question": "He won the Best Director Oscar for 2013's \"Gravity\"",
+      "answer": "(Alfonso) Cuarón",
+      "is_daily_double": false,
+      "id": "382923"
+    },
+    {
+      "air_date": "2014-07-07",
+      "round": "2",
+      "category": "THE MOVIES",
+      "point_value": 2000,
+      "question": "In this 1966 Billy Wilder film, Walter Matthau persuades Jack Lemmon to exaggerate his injuries for the insurance money",
+      "answer": "The Fortune Cookie",
+      "is_daily_double": false,
+      "id": "382924"
+    },
+    {
+      "air_date": "2014-07-07",
       "round": "3",
-      "category": "19th CENTURY PRESIDENTIAL CAMPAIGNS",
+      "category": "GOVERNMENT",
       "point_value": 0,
-      "question": "The first campaign of this man, who at 36 was the youngest major party nominee ever, was supported by the silver mining industry",
-      "answer": "William Jennings Bryan",
+      "question": "\"Features\" at the website of this agency include \"Protection\", \"Investigations\" & \"Know Your Money\"",
+      "answer": "the Secret Service",
       "is_daily_double": false,
-      "id": "467866"
+      "id": "382925"
     }
   ]
 }
