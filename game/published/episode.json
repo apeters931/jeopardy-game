@@ -1,546 +1,606 @@
 {
-  "id": "a3733b4cf6b0a3d0",
-  "air_date": "2007-10-09",
+  "id": "bd6f1d5a1dca1e05",
+  "air_date": "2005-03-11",
   "questions": [
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "1",
-      "category": "AMERICANA",
+      "category": "7-LETTER WORDS",
       "point_value": 200,
-      "question": "On July 8, 1776 it was rung to proclaim the first public reading of the Declaration of Independence",
-      "answer": "the Liberty Bell",
+      "question": "It sounds like a bath for your pig, but it means utter nonsense",
+      "answer": "hogwash",
       "is_daily_double": false,
-      "id": "290851"
+      "id": "257191"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "1",
-      "category": "AMERICANA",
+      "category": "7-LETTER WORDS",
       "point_value": 400,
-      "question": "Suffragettes were women who wanted the right to do this (& got to with the 19th Amendement)",
-      "answer": "vote",
+      "question": "Biblical term for one of Jesus' original 12 followers",
+      "answer": "apostle",
       "is_daily_double": false,
-      "id": "290852"
+      "id": "257192"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "1",
-      "category": "AMERICANA",
+      "category": "7-LETTER WORDS",
       "point_value": 600,
-      "question": "Check out exotic marine life at one of these, like the National one in Baltimore",
-      "answer": "an aquarium",
+      "question": "Usually, to do this is to lose a game without playing it",
+      "answer": "forfeit",
       "is_daily_double": false,
-      "id": "290853"
+      "id": "257193"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "1",
-      "category": "AMERICANA",
+      "category": "7-LETTER WORDS",
       "point_value": 800,
-      "question": "Tulsa's newspaper is called The World; Boston's is named for this object that depicts the world",
-      "answer": "a globe",
+      "question": "The strip of material around your fedora",
+      "answer": "your hatband",
       "is_daily_double": false,
-      "id": "290854"
+      "id": "257194"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "1",
-      "category": "AMERICANA",
+      "category": "7-LETTER WORDS",
       "point_value": 1000,
-      "question": "The name of this Texas city is Spanish for \"yellow\"",
-      "answer": "Amarillo",
+      "question": "This adjective can mean \"pertaining to languages\" or \"pertaining to the tongue\"",
+      "answer": "lingual",
       "is_daily_double": false,
-      "id": "290855"
+      "id": "257195"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "1",
-      "category": "NOT A VERB",
+      "category": "COUNTRIES BY NEWSPAPERS",
       "point_value": 200,
-      "question": "Capable, succeed, accomplish",
-      "answer": "capable",
-      "is_daily_double": false,
-      "id": "290856"
-    },
-    {
-      "air_date": "2007-10-09",
-      "round": "1",
-      "category": "NOT A VERB",
-      "point_value": 400,
-      "question": "Paint, brush, easel",
-      "answer": "easel",
-      "is_daily_double": false,
-      "id": "290857"
-    },
-    {
-      "air_date": "2007-10-09",
-      "round": "1",
-      "category": "NOT A VERB",
-      "point_value": 600,
-      "question": "Wind, wander, wonderful",
-      "answer": "wonderful",
-      "is_daily_double": false,
-      "id": "290858"
-    },
-    {
-      "air_date": "2007-10-09",
-      "round": "1",
-      "category": "NOT A VERB",
-      "point_value": 800,
-      "question": "Salt, pepper, sage",
-      "answer": "sage",
-      "is_daily_double": false,
-      "id": "290859"
-    },
-    {
-      "air_date": "2007-10-09",
-      "round": "1",
-      "category": "NOT A VERB",
-      "point_value": 1000,
-      "question": "Candor, center, canter",
-      "answer": "candor",
-      "is_daily_double": false,
-      "id": "290860"
-    },
-    {
-      "air_date": "2007-10-09",
-      "round": "1",
-      "category": "OUT OF THIS WORLD",
-      "point_value": 200,
-      "question": "The gravitational pull of this object is the main force holding the solar system together",
-      "answer": "the sun",
-      "is_daily_double": false,
-      "id": "290861"
-    },
-    {
-      "air_date": "2007-10-09",
-      "round": "1",
-      "category": "OUT OF THIS WORLD",
-      "point_value": 400,
-      "question": "Galileo was the first person to see the rings around this planet",
-      "answer": "Saturn",
-      "is_daily_double": false,
-      "id": "290862"
-    },
-    {
-      "air_date": "2007-10-09",
-      "round": "1",
-      "category": "OUT OF THIS WORLD",
-      "point_value": 600,
-      "question": "Not the first but this second planet is the hottest, because its atmosphere causes a severe greenhouse effect",
-      "answer": "Venus",
-      "is_daily_double": false,
-      "id": "290863"
-    },
-    {
-      "air_date": "2007-10-09",
-      "round": "1",
-      "category": "OUT OF THIS WORLD",
-      "point_value": 800,
-      "question": "It was last seen in the skies in 1986 & won't return until 2061",
-      "answer": "Halley's Comet",
-      "is_daily_double": true,
-      "id": "290864"
-    },
-    {
-      "air_date": "2007-10-09",
-      "round": "1",
-      "category": "THE CONTINENTS",
-      "point_value": 200,
-      "question": "This continent is the largest in area",
-      "answer": "Asia",
-      "is_daily_double": false,
-      "id": "290865"
-    },
-    {
-      "air_date": "2007-10-09",
-      "round": "1",
-      "category": "THE CONTINENTS",
-      "point_value": 400,
-      "question": "Early explorers called parts of this continent Vinland",
-      "answer": "North America",
-      "is_daily_double": false,
-      "id": "290866"
-    },
-    {
-      "air_date": "2007-10-09",
-      "round": "1",
-      "category": "THE CONTINENTS",
-      "point_value": 600,
-      "question": "This continent has a lot of marsupials, like the native wombat",
+      "question": "The Bunyip & The Alice Springs News",
       "answer": "Australia",
       "is_daily_double": false,
-      "id": "290867"
+      "id": "257196"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "1",
-      "category": "THE CONTINENTS",
-      "point_value": 800,
-      "question": "This continent has the longest mountain chain",
-      "answer": "South America",
-      "is_daily_double": false,
-      "id": "290868"
-    },
-    {
-      "air_date": "2007-10-09",
-      "round": "1",
-      "category": "THE CONTINENTS",
-      "point_value": 1000,
-      "question": "In 1957 countries on this continent signed a treaty creating an economic community, or common market",
-      "answer": "Europe",
-      "is_daily_double": false,
-      "id": "290869"
-    },
-    {
-      "air_date": "2007-10-09",
-      "round": "1",
-      "category": "THE SUMMER OLYMPICS",
-      "point_value": 200,
-      "question": "You might have to get as high as 20 feet off the ground to win a medal in this \"vaulting\" Olympic event",
-      "answer": "the pole vault",
-      "is_daily_double": false,
-      "id": "290870"
-    },
-    {
-      "air_date": "2007-10-09",
-      "round": "1",
-      "category": "THE SUMMER OLYMPICS",
+      "category": "COUNTRIES BY NEWSPAPERS",
       "point_value": 400,
-      "question": "At 26.2 miles, it's the longest running event in the Summer Olympics",
-      "answer": "the marathon",
+      "question": "Przewodnik Katolicki & Glos Koszalinski",
+      "answer": "Poland",
       "is_daily_double": false,
-      "id": "290871"
+      "id": "257197"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "1",
-      "category": "THE SUMMER OLYMPICS",
+      "category": "COUNTRIES BY NEWSPAPERS",
       "point_value": 600,
-      "question": "In the Olympic 400-meter relay final, this many runners compete together as a team",
-      "answer": "4",
+      "question": "Dimokratiki & Peloponnisos",
+      "answer": "Greece",
       "is_daily_double": false,
-      "id": "290872"
+      "id": "257198"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "1",
-      "category": "THE SUMMER OLYMPICS",
+      "category": "COUNTRIES BY NEWSPAPERS",
       "point_value": 800,
-      "question": "Throwing events include this one, the hurling of a spearlike shaft",
-      "answer": "the javelin",
+      "question": "The Deccan Herald & The Bihar Times",
+      "answer": "India",
       "is_daily_double": false,
-      "id": "290873"
+      "id": "257199"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "1",
-      "category": "THE SUMMER OLYMPICS",
+      "category": "COUNTRIES BY NEWSPAPERS",
       "point_value": 1000,
-      "question": "In 2004 the USA's Bryan Clay, with 8,820 points, took the silver in this 10-event contest",
-      "answer": "the decathlon",
+      "question": "El Cronista & El Patagonico",
+      "answer": "Argentina",
       "is_daily_double": false,
-      "id": "290874"
+      "id": "257200"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "1",
-      "category": "YOUR NEW CLASS SCHEDULE",
+      "category": "IT'S PAT",
       "point_value": 200,
-      "question": "History: Study up on this ship that anchored in Plymouth Harbor on Dec. 26, 1620",
-      "answer": "the Mayflower",
+      "question": "This member of a prominent family was married to actor Peter Lawford from 1954 to 1966",
+      "answer": "Pat Kennedy",
       "is_daily_double": false,
-      "id": "290875"
+      "id": "257201"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "1",
-      "category": "YOUR NEW CLASS SCHEDULE",
+      "category": "IT'S PAT",
       "point_value": 400,
-      "question": "Home ec.: Make this breakfast dish of battered & fried bread, called pain perdu in France",
-      "answer": "French toast",
+      "question": "A book called \"Honky Tonk Angel\" offers intimate details about her life & tragic death at age 30",
+      "answer": "Patsy Cline",
       "is_daily_double": false,
-      "id": "290876"
+      "id": "257202"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "1",
-      "category": "YOUR NEW CLASS SCHEDULE",
+      "category": "IT'S PAT",
       "point_value": 600,
-      "question": "Spanish: You'll have to use your cabeza, this body part, to pass the class",
-      "answer": "your head",
+      "question": "In 1960 he formed the Christian Broadcasting Network, which would eventually air his \"700 Club\"",
+      "answer": "Pat Robertson",
       "is_daily_double": false,
-      "id": "290877"
+      "id": "257203"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "1",
-      "category": "YOUR NEW CLASS SCHEDULE",
+      "category": "IT'S PAT",
       "point_value": 800,
-      "question": "Math: (Cheryl of the Clue Crew shows two hexagons on the monitor.) A polygon may be considered convex, or this, meaning \"having at least 1 interior angle greater than 180 degrees\"",
-      "answer": "concave",
+      "question": "This Oregon transplant represented Colorado in Congress from 1973 to 1996",
+      "answer": "Pat Schroeder",
       "is_daily_double": false,
-      "id": "290878"
+      "id": "257204"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "1",
-      "category": "YOUR NEW CLASS SCHEDULE",
+      "category": "IT'S PAT",
       "point_value": 1000,
-      "question": "Science: Discover animal anatomy, starting with Ursidae, this animal family",
-      "answer": "the bear family",
+      "question": "She introduced Dr. Kay Scarpetta, Chief Medical Examiner, in her 1990 novel \"Postmortem\"",
+      "answer": "Patricia Cornwell",
       "is_daily_double": false,
-      "id": "290879"
+      "id": "257205"
     },
     {
-      "air_date": "2007-10-09",
-      "round": "2",
-      "category": "ANNUAL EVENTS",
+      "air_date": "2005-03-11",
+      "round": "1",
+      "category": "THE PEN",
+      "point_value": 200,
+      "question": "The inmates at this county's juvenile hall near USC Med. Center wrote the essays in Mark Salzman's \"True Notebooks\"",
+      "answer": "Los Angeles County",
+      "is_daily_double": false,
+      "id": "257206"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "1",
+      "category": "THE PEN",
       "point_value": 400,
-      "question": "Several different islands choose their own kings & queens as part of this state's Aloha festivals",
-      "answer": "Hawaii",
+      "question": "His self-titled book includes passages written in the South African maximum security prison on Robben Island",
+      "answer": "(Nelson) Mandela",
       "is_daily_double": false,
-      "id": "290880"
+      "id": "257207"
     },
     {
-      "air_date": "2007-10-09",
-      "round": "2",
-      "category": "ANNUAL EVENTS",
+      "air_date": "2005-03-11",
+      "round": "1",
+      "category": "THE PEN",
+      "point_value": 600,
+      "question": "In \"Prison Writings\", Leonard Peltier claims his innocence of killing FBI agents at the Pine Ridge Res. in this state",
+      "answer": "South Dakota",
+      "is_daily_double": false,
+      "id": "257208"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "1",
+      "category": "THE PEN",
       "point_value": 800,
-      "question": "Stand clear of the seed-spitting contest at the Hope, Arkansas festival for these huge picnic fruits",
-      "answer": "watermelons",
+      "question": "In jail, this special counsel to Nixon wrote notes that became \"Born Again\"",
+      "answer": "Charles Colson",
       "is_daily_double": false,
-      "id": "290881"
+      "id": "257209"
     },
     {
-      "air_date": "2007-10-09",
-      "round": "2",
-      "category": "ANNUAL EVENTS",
-      "point_value": 1200,
-      "question": "Dancers clomp around in wooden shoes at the Holland, Michigan festival honoring this flower",
-      "answer": "the tulip",
+      "air_date": "2005-03-11",
+      "round": "1",
+      "category": "THE PEN",
+      "point_value": 1000,
+      "question": "\"One Day in My Life\" was surreptitiously written on toilet paper by this Irish hunger striker",
+      "answer": "Bobby Sands",
       "is_daily_double": true,
-      "id": "290882"
+      "id": "257210"
     },
     {
-      "air_date": "2007-10-09",
-      "round": "2",
-      "category": "ANNUAL EVENTS",
-      "point_value": 1600,
-      "question": "Stockton, Calif. doesn't have a festival for Britney Spears, but it does have one for these green spears",
-      "answer": "asparagus",
+      "air_date": "2005-03-11",
+      "round": "1",
+      "category": "THE SWORD",
+      "point_value": 200,
+      "question": "In \"The Lord of the Rings\", he gives his cousin Frodo the magical sword Sting",
+      "answer": "Bilbo Baggins",
       "is_daily_double": false,
-      "id": "290883"
+      "id": "257211"
     },
     {
-      "air_date": "2007-10-09",
-      "round": "2",
-      "category": "ART",
+      "air_date": "2005-03-11",
+      "round": "1",
+      "category": "THE SWORD",
       "point_value": 400,
-      "question": "Ceramics is the art of making objects, even dreidels, out of this material",
-      "answer": "clay",
+      "question": "Uma Thurman is a master of the Hattori Hanzo katana in these films",
+      "answer": "Kill Bill",
       "is_daily_double": false,
-      "id": "290884"
+      "id": "257212"
     },
     {
-      "air_date": "2007-10-09",
-      "round": "2",
-      "category": "ART",
+      "air_date": "2005-03-11",
+      "round": "1",
+      "category": "THE SWORD",
+      "point_value": 600,
+      "question": "In this film Inigo Montoya searches for the man with the 6-fingered sword who killed his father",
+      "answer": "The Princess Bride",
+      "is_daily_double": false,
+      "id": "257213"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "1",
+      "category": "THE SWORD",
       "point_value": 800,
-      "question": "Someone tearing the L.A. Times into strips may be practicing this art form with a hyphenated French name",
-      "answer": "papier-mâché",
+      "question": "Mel Gibson hurled his broadsword in the air & cried, \"Freedom\" in this epic",
+      "answer": "Braveheart",
+      "is_daily_double": false,
+      "id": "257214"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "1",
+      "category": "THE SWORD",
+      "point_value": 1000,
+      "question": "Wesley Snipes slices his sword through vampires in this film trilogy",
+      "answer": "Blade",
+      "is_daily_double": false,
+      "id": "257215"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "1",
+      "category": "TIME TO GET A HEAD",
+      "point_value": 200,
+      "question": "Guillotine victim, 1793",
+      "answer": "Marie Antoinette",
+      "is_daily_double": false,
+      "id": "257216"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "1",
+      "category": "TIME TO GET A HEAD",
+      "point_value": 400,
+      "question": "A president, 1861-1865",
+      "answer": "Jefferson Davis",
+      "is_daily_double": false,
+      "id": "257217"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "1",
+      "category": "TIME TO GET A HEAD",
+      "point_value": 600,
+      "question": "A Victorian novelist",
+      "answer": "Dickens",
+      "is_daily_double": false,
+      "id": "257218"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "1",
+      "category": "TIME TO GET A HEAD",
+      "point_value": 800,
+      "question": "Long-serving French solar monarch",
+      "answer": "Louis XIV",
+      "is_daily_double": false,
+      "id": "257219"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "1",
+      "category": "TIME TO GET A HEAD",
+      "point_value": 1000,
+      "question": "Colorful 19th-century member of nobili-\"tea\"",
+      "answer": "Earl Grey",
+      "is_daily_double": false,
+      "id": "257220"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "2",
+      "category": "AMERICAN PLACE NAMES",
+      "point_value": 400,
+      "question": "Immigrants from this country named a South Dakota county Haakon, in honor of King Haakon VII",
+      "answer": "Norway",
+      "is_daily_double": false,
+      "id": "257221"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "2",
+      "category": "AMERICAN PLACE NAMES",
+      "point_value": 800,
+      "question": "This Los Angeles suburb was named for a New Hampshire-born dentist, not the potato guy",
+      "answer": "Burbank",
+      "is_daily_double": false,
+      "id": "257222"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "2",
+      "category": "AMERICAN PLACE NAMES",
+      "point_value": 1200,
+      "question": "George Vancouver named this volcano for the baronial title of Alleyne Fitzherbert, a British diplomat",
+      "answer": "Mount St. Helens",
+      "is_daily_double": false,
+      "id": "257223"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "2",
+      "category": "AMERICAN PLACE NAMES",
+      "point_value": 1600,
+      "question": "This city's name is from the French for \"strait\"; it lies on a strait between Lake Erie & Lake St. Clair",
+      "answer": "Detroit",
+      "is_daily_double": false,
+      "id": "257224"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "2",
+      "category": "AMERICAN PLACE NAMES",
+      "point_value": 2000,
+      "question": "This Penn. city was named for 2 members of the British parliament who were sympathetic to the American Colonies",
+      "answer": "Wilkes-Barre",
       "is_daily_double": true,
-      "id": "290885"
+      "id": "257225"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "2",
-      "category": "ART",
-      "point_value": 1200,
-      "question": "The name of this type of paint that contains egg yolks almost sounds like a Japanese dish, but don't eat it",
-      "answer": "tempera",
-      "is_daily_double": false,
-      "id": "290886"
-    },
-    {
-      "air_date": "2007-10-09",
-      "round": "2",
-      "category": "CHRISTOPHER COLUMBUS",
+      "category": "ANATOMICAL ADVERTISING",
       "point_value": 400,
-      "question": "There's no truth to the story that she had to pawn her jewels to finance Columbus' first voyage",
-      "answer": "Queen Isabella",
+      "question": "Hepatic cells are found in the tissue of this organ; \"bile secretion is our business\"",
+      "answer": "the liver",
       "is_daily_double": false,
-      "id": "290887"
+      "id": "257226"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "2",
-      "category": "CHRISTOPHER COLUMBUS",
+      "category": "ANATOMICAL ADVERTISING",
       "point_value": 800,
-      "question": "This flagship of Columbus' first voyage was chartered from Juan de la Cosa & was his largest ship",
-      "answer": "the Santa Maria",
+      "question": "Divided into the cardia, body region & pylorus; \"Come see what's cookin'!\" here",
+      "answer": "the stomach",
       "is_daily_double": false,
-      "id": "290888"
+      "id": "257227"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "2",
-      "category": "CHRISTOPHER COLUMBUS",
+      "category": "ANATOMICAL ADVERTISING",
       "point_value": 1200,
-      "question": "Christopher Columbus was born in this Italian seaport where his father was a merchant & wool weaver",
-      "answer": "Genoa",
+      "question": "\"You want glucagon? We got glucagon! Come back to the islets of Langerhans\" in this gland",
+      "answer": "the pancreas",
       "is_daily_double": false,
-      "id": "290889"
+      "id": "257228"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "2",
-      "category": "CHRISTOPHER COLUMBUS",
+      "category": "ANATOMICAL ADVERTISING",
       "point_value": 1600,
-      "question": "On Oct. 12, 1492 Columbus reached the New World & landed at an island he called this, Spanish for \"holy savior\"",
-      "answer": "San Salvador",
+      "question": "9 to 11 inches long, it's the first part of the small intestine; \"Now with 30% more peptic ulcers!\"",
+      "answer": "the duodenum",
       "is_daily_double": false,
-      "id": "290890"
+      "id": "257229"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "2",
-      "category": "CHRISTOPHER COLUMBUS",
+      "category": "ANATOMICAL ADVERTISING",
       "point_value": 2000,
-      "question": "One of the only 2 current U.S. territories visited by Columbus, who reached both in 1493",
-      "answer": "Puerto Rico (or the Virgin Islands)",
+      "question": "For this lymphoid organ on the abdominal cavity's left side under the diaphragm; \"It's red & white pulp-eriffic!\"",
+      "answer": "the spleen",
       "is_daily_double": false,
-      "id": "290891"
+      "id": "257230"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "2",
-      "category": "LITERATURE FOR KIDS",
+      "category": "ANCIENT GREEK THEATRE",
       "point_value": 400,
-      "question": "\"We looked! Then we saw him step in on the mat! We looked! And we saw him!\" This famous cat",
-      "answer": "the Cat in the Hat",
+      "question": "(Sarah of the Clue Crew reports from the Theater of Dionysus in Athens, Greece.) More than 2,000 years after this Aristophanes comedy debuted here in Athens, A musical version hopped onto Broadway",
+      "answer": "The Frogs",
       "is_daily_double": false,
-      "id": "290892"
+      "id": "257231"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "2",
-      "category": "LITERATURE FOR KIDS",
+      "category": "ANCIENT GREEK THEATRE",
       "point_value": 800,
-      "question": "In a fairy tale by this Danish author, the Snow Queen takes little Kay away in her sleigh to her icy palace",
-      "answer": "Hans Christian Andersen",
+      "question": "A genre of plays takes its name form these lusty creatures, shown as half-man & half-goat, whose antics it depicted",
+      "answer": "satyrs",
       "is_daily_double": false,
-      "id": "290893"
+      "id": "257232"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "2",
-      "category": "LITERATURE FOR KIDS",
+      "category": "ANCIENT GREEK THEATRE",
       "point_value": 1200,
-      "question": "In \"Little Women\", Margaret March is better known by this nickname",
-      "answer": "\"Meg\"",
+      "question": "(Cheryl of the Clue Crew reports from the Theater of Dionysus in Athens, Greece.) When this man introduced his play \"Medea\" in a contest held here at the Theater of Dionysus in 431 B.C., he came in last",
+      "answer": "Euripides",
       "is_daily_double": false,
-      "id": "290894"
+      "id": "257233"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "2",
-      "category": "LITERATURE FOR KIDS",
+      "category": "ANCIENT GREEK THEATRE",
       "point_value": 1600,
-      "question": "This loving relative who takes care of Tom Sawyer was inspired by Mark Twain's own mother",
-      "answer": "Aunt Polly",
+      "question": "Ancient Greek actors wore white lead paint on their faces before switching to this innovation",
+      "answer": "masks",
       "is_daily_double": false,
-      "id": "290895"
+      "id": "257234"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "2",
-      "category": "LITERATURE FOR KIDS",
+      "category": "ANCIENT GREEK THEATRE",
       "point_value": 2000,
-      "question": "This author who wrote about \"The Princess Who Could Not Laugh\" made us smile with \"Winnie-the-Pooh\"",
-      "answer": "A.A. Milne",
-      "is_daily_double": false,
-      "id": "290896"
+      "question": "(Sarah of the Clue Crew reports from the Theater of Dionysus in Athens, Greece.) Legend tells us that here on stage at the Theater of Dionysus, this man became known as the world's first actor",
+      "answer": "Thespis",
+      "is_daily_double": true,
+      "id": "257235"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "2",
-      "category": "MOVIE MUSIC",
+      "category": "CROSSWORD CLUES \"G\"",
       "point_value": 400,
-      "question": "5-letter word for a group that sings exalting music, like the Bulgarian women's one heard in \"Brother Bear\"",
-      "answer": "choir",
+      "question": "A luminous larva (\"glimmer, glimmer\") (8)",
+      "answer": "glowworm",
       "is_daily_double": false,
-      "id": "290897"
+      "id": "257236"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "2",
-      "category": "MOVIE MUSIC",
+      "category": "CROSSWORD CLUES \"G\"",
       "point_value": 800,
-      "question": "Caetano Veloso & Mr. Loco are among artists on the soundtrack of this Jack Black wrestling movie",
-      "answer": "Nacho Libre",
+      "question": "It precedes schnauzer & sequoia (5)",
+      "answer": "giant",
       "is_daily_double": false,
-      "id": "290898"
+      "id": "257237"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "2",
-      "category": "MOVIE MUSIC",
+      "category": "CROSSWORD CLUES \"G\"",
       "point_value": 1200,
-      "question": "Julie Andrews sings \"A Spoonful Of Sugar\" in this movie",
-      "answer": "Mary Poppins",
+      "question": "\"Reptilian\" thirst quencher (8)",
+      "answer": "Gatorade",
       "is_daily_double": false,
-      "id": "290899"
+      "id": "257238"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "2",
-      "category": "MOVIE MUSIC",
+      "category": "CROSSWORD CLUES \"G\"",
       "point_value": 1600,
-      "question": "In \"Raise Your Voice\", Hilary Duff sings this Handel oratorio about the Savior",
-      "answer": "Messiah",
+      "question": "A glutton, or a male turkey (7)",
+      "answer": "a gobbler",
       "is_daily_double": false,
-      "id": "290900"
+      "id": "257239"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "2",
-      "category": "MOVIE MUSIC",
+      "category": "CROSSWORD CLUES \"G\"",
       "point_value": 2000,
-      "question": "She sings \"Cry\" & \"Only Hope\" on the soundtrack of her movie \"A Walk to Remember\"",
-      "answer": "Mandy Moore",
+      "question": "Florentine artist Di Bondone (6)",
+      "answer": "Giotto",
       "is_daily_double": false,
-      "id": "290901"
+      "id": "257240"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "2",
-      "category": "WHERE WORDS COME FROM",
+      "category": "PLANES, TRAINS & AUTOMOBILES",
       "point_value": 400,
-      "question": "Chinese or Malay: This tomato condiment that's put on French fries",
-      "answer": "ketchup",
+      "question": "Count Andrenyi, Mrs. Hubbard & Col. Arbuthnot are among the suspects in this 1934 train-set novel",
+      "answer": "Murder on the Orient Express",
       "is_daily_double": false,
-      "id": "290902"
+      "id": "257241"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
       "round": "2",
-      "category": "WHERE WORDS COME FROM",
+      "category": "PLANES, TRAINS & AUTOMOBILES",
       "point_value": 800,
-      "question": "Latin: This device you open when it's precipitating",
-      "answer": "an umbrella",
+      "question": "In 2004 CNN said a winning bidder for a toilet cubicle from this retired British Airways plane might use it as an outhouse",
+      "answer": "the Concorde",
       "is_daily_double": false,
-      "id": "290903"
+      "id": "257242"
     },
     {
-      "air_date": "2007-10-09",
+      "air_date": "2005-03-11",
+      "round": "2",
+      "category": "PLANES, TRAINS & AUTOMOBILES",
+      "point_value": 1600,
+      "question": "1948's \"car of tomorrow\" was designed by this Ypsilanti, Mich. man; 51 were built, 47 are still around",
+      "answer": "(Preston) Tucker",
+      "is_daily_double": false,
+      "id": "257243"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "2",
+      "category": "PLANES, TRAINS & AUTOMOBILES",
+      "point_value": 2000,
+      "question": "Although built at his urging, Alexander III didn't live to see the completion of this, the world's longest railway",
+      "answer": "the Trans-Siberian Railway",
+      "is_daily_double": false,
+      "id": "257244"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "2",
+      "category": "THAT'S MY ALBUM",
+      "point_value": 400,
+      "question": "\"Hearts and Bones\", \"Graceland\"",
+      "answer": "Paul Simon",
+      "is_daily_double": false,
+      "id": "257245"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "2",
+      "category": "THAT'S MY ALBUM",
+      "point_value": 800,
+      "question": "This man \"At San Quentin\", \"More of Old Golden Throat\"",
+      "answer": "Johnny Cash",
+      "is_daily_double": false,
+      "id": "257246"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "2",
+      "category": "THAT'S MY ALBUM",
+      "point_value": 1200,
+      "question": "This group \"Sell Out\", this group \"by Numbers\"",
+      "answer": "The Who",
+      "is_daily_double": false,
+      "id": "257247"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "2",
+      "category": "THAT'S MY ALBUM",
+      "point_value": 1600,
+      "question": "\"One of These Nights\", \"Hell Freezes Over\"",
+      "answer": "The Eagles",
+      "is_daily_double": false,
+      "id": "257248"
+    },
+    {
+      "air_date": "2005-03-11",
+      "round": "2",
+      "category": "THAT'S MY ALBUM",
+      "point_value": 2000,
+      "question": "\"OU812\", \"Balance\"",
+      "answer": "Van Halen",
+      "is_daily_double": false,
+      "id": "257249"
+    },
+    {
+      "air_date": "2005-03-11",
       "round": "3",
-      "category": "U.S. PRESIDENTS",
+      "category": "HISTORIC BRITS",
       "point_value": 0,
-      "question": "He's the only U.S. president who never lived in the District of Columbia",
-      "answer": "George Washington",
+      "question": "During the American Revolution, in his last moments he said, \"It will be but a momentary pang\"",
+      "answer": "Major John André",
       "is_daily_double": false,
-      "id": "290904"
+      "id": "257250"
     }
   ]
 }
