@@ -1,616 +1,546 @@
 {
-  "id": "aaa5708d661a5082",
-  "air_date": "2014-07-07",
+  "id": "a3733b4cf6b0a3d0",
+  "air_date": "2007-10-09",
   "questions": [
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "1",
-      "category": "NAME THE AUTOMAKER",
+      "category": "AMERICANA",
       "point_value": 200,
-      "question": "The Corolla",
-      "answer": "Toyota",
+      "question": "On July 8, 1776 it was rung to proclaim the first public reading of the Declaration of Independence",
+      "answer": "the Liberty Bell",
       "is_daily_double": false,
-      "id": "382865"
+      "id": "290851"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "1",
-      "category": "NAME THE AUTOMAKER",
+      "category": "AMERICANA",
       "point_value": 400,
-      "question": "The Charger & Durango",
-      "answer": "Dodge",
+      "question": "Suffragettes were women who wanted the right to do this (& got to with the 19th Amendement)",
+      "answer": "vote",
       "is_daily_double": false,
-      "id": "382866"
+      "id": "290852"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "1",
-      "category": "NAME THE AUTOMAKER",
+      "category": "AMERICANA",
       "point_value": 600,
-      "question": "The Civic & Pilot",
-      "answer": "Honda",
+      "question": "Check out exotic marine life at one of these, like the National one in Baltimore",
+      "answer": "an aquarium",
       "is_daily_double": false,
-      "id": "382867"
+      "id": "290853"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "1",
-      "category": "NAME THE AUTOMAKER",
+      "category": "AMERICANA",
       "point_value": 800,
-      "question": "The Boxster & the 911 Carrera",
-      "answer": "Porsche",
+      "question": "Tulsa's newspaper is called The World; Boston's is named for this object that depicts the world",
+      "answer": "a globe",
       "is_daily_double": false,
-      "id": "382868"
+      "id": "290854"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "1",
-      "category": "NAME THE AUTOMAKER",
+      "category": "AMERICANA",
       "point_value": 1000,
-      "question": "The Firebird & Grand Am",
-      "answer": "Pontiac",
+      "question": "The name of this Texas city is Spanish for \"yellow\"",
+      "answer": "Amarillo",
       "is_daily_double": false,
-      "id": "382869"
+      "id": "290855"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "1",
-      "category": "POP GOES THE WORLD",
+      "category": "NOT A VERB",
       "point_value": 200,
-      "question": "\"Waterloo\" was this Stockholm group's first U.S. pop hit",
-      "answer": "ABBA",
+      "question": "Capable, succeed, accomplish",
+      "answer": "capable",
       "is_daily_double": false,
-      "id": "382870"
+      "id": "290856"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "1",
-      "category": "POP GOES THE WORLD",
+      "category": "NOT A VERB",
       "point_value": 400,
-      "question": "This Ottawa-born singer/songwriter has had hits with \"Ironic\" & \"Thank U\"",
-      "answer": "Alanis Morrisette",
+      "question": "Paint, brush, easel",
+      "answer": "easel",
       "is_daily_double": false,
-      "id": "382871"
+      "id": "290857"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "1",
-      "category": "POP GOES THE WORLD",
+      "category": "NOT A VERB",
       "point_value": 600,
-      "question": "This 21st century band with a historical name hails from Scotland \"If I wane, this can die / If I wane, this can die / I want you to take me out...\"",
-      "answer": "Franz Ferdinand",
+      "question": "Wind, wander, wonderful",
+      "answer": "wonderful",
       "is_daily_double": false,
-      "id": "382872"
+      "id": "290858"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "1",
-      "category": "POP GOES THE WORLD",
+      "category": "NOT A VERB",
       "point_value": 800,
-      "question": "\"Nothing Compares 2\" this Dublin-born songstress who topped the pop charts in 1990",
-      "answer": "Sinead O'Connor",
+      "question": "Salt, pepper, sage",
+      "answer": "sage",
       "is_daily_double": false,
-      "id": "382873"
+      "id": "290859"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "1",
-      "category": "POP GOES THE WORLD",
+      "category": "NOT A VERB",
       "point_value": 1000,
-      "question": "Born in Niteroi, Brazil, this bandleader scored pop hits with \"The Look Of Love\" & \"Never Gonna Let You Go\"",
-      "answer": "Sérgio Mendes",
+      "question": "Candor, center, canter",
+      "answer": "candor",
       "is_daily_double": false,
-      "id": "382874"
+      "id": "290860"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "1",
-      "category": "SOMETHING'S WRONG WITH THIS GUY",
+      "category": "OUT OF THIS WORLD",
       "point_value": 200,
-      "question": "There's an automated external defibrillator on the wall; use it to get this organ back in rhythm",
-      "answer": "the heart",
+      "question": "The gravitational pull of this object is the main force holding the solar system together",
+      "answer": "the sun",
       "is_daily_double": false,
-      "id": "382875"
+      "id": "290861"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "1",
-      "category": "SOMETHING'S WRONG WITH THIS GUY",
+      "category": "OUT OF THIS WORLD",
       "point_value": 400,
-      "question": "Mouth to mouth may help, but he is having an \"attack\" of this 6-letter condition, meaning his airways have narrowed",
-      "answer": "asthma",
+      "question": "Galileo was the first person to see the rings around this planet",
+      "answer": "Saturn",
       "is_daily_double": false,
-      "id": "382876"
+      "id": "290862"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "1",
-      "category": "SOMETHING'S WRONG WITH THIS GUY",
+      "category": "OUT OF THIS WORLD",
       "point_value": 600,
-      "question": "He was eating something he shouldn't have & has gone into the anaphylactic type of this reaction",
-      "answer": "shock",
+      "question": "Not the first but this second planet is the hottest, because its atmosphere causes a severe greenhouse effect",
+      "answer": "Venus",
       "is_daily_double": false,
-      "id": "382877"
+      "id": "290863"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "1",
-      "category": "SOMETHING'S WRONG WITH THIS GUY",
+      "category": "OUT OF THIS WORLD",
       "point_value": 800,
-      "question": "So he can breathe, we're making a small hole in his windpipe, this process",
-      "answer": "a tracheotomy",
-      "is_daily_double": false,
-      "id": "382878"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "1",
-      "category": "SOMETHING'S WRONG WITH THIS GUY",
-      "point_value": 1000,
-      "question": "Actually, don't worry about CPR; a note on him says DNR, \"do not\" do this",
-      "answer": "resuscitate",
-      "is_daily_double": false,
-      "id": "382879"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "1",
-      "category": "TATER TOTS",
-      "point_value": 200,
-      "question": "Russ, the little russet potato, was tres bon as pommes frites, which we call these",
-      "answer": "french fries",
-      "is_daily_double": false,
-      "id": "382880"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "1",
-      "category": "TATER TOTS",
-      "point_value": 400,
-      "question": "Little Timmy Tater was sent to England to become crisps, which we call these",
-      "answer": "potato chips",
-      "is_daily_double": false,
-      "id": "382881"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "1",
-      "category": "TATER TOTS",
-      "point_value": 600,
-      "question": "Ma & pa were proud of their spudlings when they were made into these Hanukkah potato pancakes",
-      "answer": "latkes",
-      "is_daily_double": false,
-      "id": "382882"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "1",
-      "category": "TATER TOTS",
-      "point_value": 800,
-      "question": "The young taters want to be part of this \"national\" dish that includes bacon & vinegar & may be served warm or cold",
-      "answer": "German potato salad",
-      "is_daily_double": false,
-      "id": "382883"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "1",
-      "category": "TATER TOTS",
-      "point_value": 1000,
-      "question": "Tiny tubers want to grow up, join the deli & become this Jewish foodstuff, a mashed potato dumpling covered with a dough shell",
-      "answer": "knish (kreplach accepted)",
-      "is_daily_double": false,
-      "id": "382884"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "1",
-      "category": "WHATCHU TALKIN' 'BOUT, WALLACE?",
-      "point_value": 200,
-      "question": "Originally a Democrat, this Southerner ran for president in 1964, '68, '72 & '76",
-      "answer": "George Wallace",
-      "is_daily_double": false,
-      "id": "382885"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "1",
-      "category": "WHATCHU TALKIN' 'BOUT, WALLACE?",
-      "point_value": 400,
-      "question": "For more than 40 years, he brought his unique brand of journalism to CBS",
-      "answer": "Mike Wallace",
-      "is_daily_double": false,
-      "id": "382886"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "1",
-      "category": "WHATCHU TALKIN' 'BOUT, WALLACE?",
-      "point_value": 600,
-      "question": "In 1297 this Scottish patriot led the defeat of the English in the Battle of Stirling Bridge",
-      "answer": "William Wallace",
-      "is_daily_double": false,
-      "id": "382887"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "1",
-      "category": "WHATCHU TALKIN' 'BOUT, WALLACE?",
-      "point_value": 800,
-      "question": "This 3-named author penned a 1989 collection of short stories titled \"Girl with Curious Hair\"",
-      "answer": "David Foster Wallace",
-      "is_daily_double": false,
-      "id": "382888"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "1",
-      "category": "WHATCHU TALKIN' 'BOUT, WALLACE?",
-      "point_value": 1000,
-      "question": "Second of FDR's 3 vice presidents, he also served as Secretary of Agriculture, like his father before him",
-      "answer": "Henry Wallace",
-      "is_daily_double": false,
-      "id": "382889"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "1",
-      "category": "WHO KNOWS \"C-P-R\"?",
-      "point_value": 200,
-      "question": "By trade, Joseph, the husband of Mary, was one of these",
-      "answer": "a carpenter",
-      "is_daily_double": false,
-      "id": "382890"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "1",
-      "category": "WHO KNOWS \"C-P-R\"?",
-      "point_value": 400,
-      "question": "We use this word, Spanish for \"godfather\", for a close friend or associate",
-      "answer": "compadre",
-      "is_daily_double": false,
-      "id": "382891"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "1",
-      "category": "WHO KNOWS \"C-P-R\"?",
-      "point_value": 600,
-      "question": "One who takes short dozes in the afternoon, or takes felines from their owners",
-      "answer": "a catnapper",
-      "is_daily_double": false,
-      "id": "382892"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "1",
-      "category": "WHO KNOWS \"C-P-R\"?",
-      "point_value": 800,
-      "question": "It's the study of secret writing, including codes & ciphers",
-      "answer": "cryptography",
+      "question": "It was last seen in the skies in 1986 & won't return until 2061",
+      "answer": "Halley's Comet",
       "is_daily_double": true,
-      "id": "382893"
+      "id": "290864"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "1",
-      "category": "WHO KNOWS \"C-P-R\"?",
+      "category": "THE CONTINENTS",
+      "point_value": 200,
+      "question": "This continent is the largest in area",
+      "answer": "Asia",
+      "is_daily_double": false,
+      "id": "290865"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "1",
+      "category": "THE CONTINENTS",
+      "point_value": 400,
+      "question": "Early explorers called parts of this continent Vinland",
+      "answer": "North America",
+      "is_daily_double": false,
+      "id": "290866"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "1",
+      "category": "THE CONTINENTS",
+      "point_value": 600,
+      "question": "This continent has a lot of marsupials, like the native wombat",
+      "answer": "Australia",
+      "is_daily_double": false,
+      "id": "290867"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "1",
+      "category": "THE CONTINENTS",
+      "point_value": 800,
+      "question": "This continent has the longest mountain chain",
+      "answer": "South America",
+      "is_daily_double": false,
+      "id": "290868"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "1",
+      "category": "THE CONTINENTS",
       "point_value": 1000,
-      "question": "Found in the Southwest, it's a dense growth of shrubs or small trees",
-      "answer": "a chaparral",
+      "question": "In 1957 countries on this continent signed a treaty creating an economic community, or common market",
+      "answer": "Europe",
       "is_daily_double": false,
-      "id": "382894"
+      "id": "290869"
     },
     {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "BURGS",
+      "air_date": "2007-10-09",
+      "round": "1",
+      "category": "THE SUMMER OLYMPICS",
+      "point_value": 200,
+      "question": "You might have to get as high as 20 feet off the ground to win a medal in this \"vaulting\" Olympic event",
+      "answer": "the pole vault",
+      "is_daily_double": false,
+      "id": "290870"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "1",
+      "category": "THE SUMMER OLYMPICS",
       "point_value": 400,
-      "question": "This city was founded in 1703 by a czar who hoped to make it a \"Window on the West\", bringing in Western culture",
-      "answer": "St. Petersburg",
+      "question": "At 26.2 miles, it's the longest running event in the Summer Olympics",
+      "answer": "the marathon",
       "is_daily_double": false,
-      "id": "382895"
+      "id": "290871"
     },
     {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "BURGS",
+      "air_date": "2007-10-09",
+      "round": "1",
+      "category": "THE SUMMER OLYMPICS",
+      "point_value": 600,
+      "question": "In the Olympic 400-meter relay final, this many runners compete together as a team",
+      "answer": "4",
+      "is_daily_double": false,
+      "id": "290872"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "1",
+      "category": "THE SUMMER OLYMPICS",
       "point_value": 800,
-      "question": "From Philadelphia, get the spirit of I-76 & take it west for 2 hours to this state capital",
-      "answer": "Harrisburg",
+      "question": "Throwing events include this one, the hurling of a spearlike shaft",
+      "answer": "the javelin",
       "is_daily_double": false,
-      "id": "382896"
+      "id": "290873"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
+      "round": "1",
+      "category": "THE SUMMER OLYMPICS",
+      "point_value": 1000,
+      "question": "In 2004 the USA's Bryan Clay, with 8,820 points, took the silver in this 10-event contest",
+      "answer": "the decathlon",
+      "is_daily_double": false,
+      "id": "290874"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "1",
+      "category": "YOUR NEW CLASS SCHEDULE",
+      "point_value": 200,
+      "question": "History: Study up on this ship that anchored in Plymouth Harbor on Dec. 26, 1620",
+      "answer": "the Mayflower",
+      "is_daily_double": false,
+      "id": "290875"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "1",
+      "category": "YOUR NEW CLASS SCHEDULE",
+      "point_value": 400,
+      "question": "Home ec.: Make this breakfast dish of battered & fried bread, called pain perdu in France",
+      "answer": "French toast",
+      "is_daily_double": false,
+      "id": "290876"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "1",
+      "category": "YOUR NEW CLASS SCHEDULE",
+      "point_value": 600,
+      "question": "Spanish: You'll have to use your cabeza, this body part, to pass the class",
+      "answer": "your head",
+      "is_daily_double": false,
+      "id": "290877"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "1",
+      "category": "YOUR NEW CLASS SCHEDULE",
+      "point_value": 800,
+      "question": "Math: (Cheryl of the Clue Crew shows two hexagons on the monitor.) A polygon may be considered convex, or this, meaning \"having at least 1 interior angle greater than 180 degrees\"",
+      "answer": "concave",
+      "is_daily_double": false,
+      "id": "290878"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "1",
+      "category": "YOUR NEW CLASS SCHEDULE",
+      "point_value": 1000,
+      "question": "Science: Discover animal anatomy, starting with Ursidae, this animal family",
+      "answer": "the bear family",
+      "is_daily_double": false,
+      "id": "290879"
+    },
+    {
+      "air_date": "2007-10-09",
       "round": "2",
-      "category": "BURGS",
+      "category": "ANNUAL EVENTS",
+      "point_value": 400,
+      "question": "Several different islands choose their own kings & queens as part of this state's Aloha festivals",
+      "answer": "Hawaii",
+      "is_daily_double": false,
+      "id": "290880"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "2",
+      "category": "ANNUAL EVENTS",
+      "point_value": 800,
+      "question": "Stand clear of the seed-spitting contest at the Hope, Arkansas festival for these huge picnic fruits",
+      "answer": "watermelons",
+      "is_daily_double": false,
+      "id": "290881"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "2",
+      "category": "ANNUAL EVENTS",
       "point_value": 1200,
-      "question": "Jamestown, Yorktown & this Colonial city form America's \"Historic Triangle\"",
-      "answer": "Williamsburg",
-      "is_daily_double": false,
-      "id": "382897"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "BURGS",
-      "point_value": 1600,
-      "question": "This burg on the Elbe River was founded as a missionary center at the behest of Charlemagne in around 811",
-      "answer": "Hamburg",
-      "is_daily_double": false,
-      "id": "382898"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "BURGS",
-      "point_value": 2000,
-      "question": "In October 2006 the major airport serving this city was renamed O.R. Tambo International Airport",
-      "answer": "Johannesburg",
-      "is_daily_double": false,
-      "id": "382899"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "CHINESE HISTORY",
-      "point_value": 400,
-      "question": "Begun in 486 B.C., China's \"Grand\" this is the world's longest manmade waterway",
-      "answer": "Canal",
-      "is_daily_double": false,
-      "id": "382900"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "CHINESE HISTORY",
-      "point_value": 800,
-      "question": "A folk tale tells of Meng Jiangnu, who searches for her husband along this public works project",
-      "answer": "the Great Wall of China",
+      "question": "Dancers clomp around in wooden shoes at the Holland, Michigan festival honoring this flower",
+      "answer": "the tulip",
       "is_daily_double": true,
-      "id": "382901"
+      "id": "290882"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "2",
-      "category": "CHINESE HISTORY",
-      "point_value": 1200,
-      "question": "In 1901 China agreed to pay 11 nations about $330 million in damages that arose from this rebellion",
-      "answer": "the Boxer Rebellion",
-      "is_daily_double": false,
-      "id": "382902"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "CHINESE HISTORY",
+      "category": "ANNUAL EVENTS",
       "point_value": 1600,
-      "question": "(Sarah of the Clue Crew shows a portrait and a map on the monitor.) Huangdi won a great battle that consolidated his power among the tribes of the Huang He River, so it's fitting that he is referred to in English as the this emperor",
-      "answer": "the Yellow Emperor",
+      "question": "Stockton, Calif. doesn't have a festival for Britney Spears, but it does have one for these green spears",
+      "answer": "asparagus",
       "is_daily_double": false,
-      "id": "382903"
+      "id": "290883"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "2",
-      "category": "CHINESE HISTORY",
-      "point_value": 2000,
-      "question": "\"Know the enemy & know yourself\" is a lesson from this treatise, tactics from which were later used by Mao",
-      "answer": "The Art of War",
-      "is_daily_double": false,
-      "id": "382904"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "RHYME TIME",
+      "category": "ART",
       "point_value": 400,
-      "question": "A wealthy sorceress",
-      "answer": "a rich witch",
+      "question": "Ceramics is the art of making objects, even dreidels, out of this material",
+      "answer": "clay",
       "is_daily_double": false,
-      "id": "382905"
+      "id": "290884"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "2",
-      "category": "RHYME TIME",
+      "category": "ART",
       "point_value": 800,
-      "question": "A yearly instruction book",
-      "answer": "a annual manual",
-      "is_daily_double": false,
-      "id": "382906"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "RHYME TIME",
-      "point_value": 1200,
-      "question": "An ersatz cobra",
-      "answer": "a fake snake",
-      "is_daily_double": false,
-      "id": "382907"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "RHYME TIME",
-      "point_value": 1600,
-      "question": "A seemingly evil reverend",
-      "answer": "a sinister minister",
-      "is_daily_double": false,
-      "id": "382908"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "RHYME TIME",
-      "point_value": 2000,
-      "question": "A suspension of hostilities made at a channel that carries currents from a gate",
-      "answer": "a sluice truce (a truce sluice accepted)",
-      "is_daily_double": false,
-      "id": "382909"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "THAT TICKLES!",
-      "point_value": 400,
-      "question": "Tyco teamed with \"Sesame Street\" to create this 1996 fad",
-      "answer": "Tickle Me Elmo",
-      "is_daily_double": false,
-      "id": "382910"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "THAT TICKLES!",
-      "point_value": 800,
-      "question": "This phrase for playing the piano refers to the substance of which the keys were once made",
-      "answer": "tickling the ivories",
-      "is_daily_double": false,
-      "id": "382911"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "THAT TICKLES!",
-      "point_value": 1200,
-      "question": "Tickle is the nickname of the chemical compound TiCl4, this tetrachloride",
-      "answer": "titanium",
-      "is_daily_double": false,
-      "id": "382912"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "THAT TICKLES!",
-      "point_value": 1600,
-      "question": "Steven Ray Tickle is one of the stars of this Discovery Channel series about illegal \"home brewers\"",
-      "answer": "Moonshiners",
-      "is_daily_double": false,
-      "id": "382913"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "THAT TICKLES!",
-      "point_value": 2000,
-      "question": "Swale Tickle is among the many small straits called tickles on this \"lately discovered\" Canadian island",
-      "answer": "Newfoundland",
-      "is_daily_double": false,
-      "id": "382914"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "THE AUTHOR WRITES",
-      "point_value": 400,
-      "question": "\"'I am not made for perilous quests! I wish I had never seen the ring! Why did it come to me? Why was I chosen?\"'",
-      "answer": "Tolkien",
-      "is_daily_double": false,
-      "id": "382915"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "THE AUTHOR WRITES",
-      "point_value": 800,
-      "question": "\"Rikki-Tikki felt his eyes growing red and hot (when a mongoose's eyes grow red, he is angry)\"",
-      "answer": "(Rudyard) Kipling",
-      "is_daily_double": false,
-      "id": "382916"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "THE AUTHOR WRITES",
-      "point_value": 1200,
-      "question": "\"'I scent the Hurons,' he said, speaking to the Mohicans; 'Yonder is open sky, through the tree-tops'\"",
-      "answer": "(James Fenimore) Cooper",
-      "is_daily_double": false,
-      "id": "382917"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "THE AUTHOR WRITES",
-      "point_value": 1600,
-      "question": "'\"I changed my name to Julius No—the Julius after my father and the No for my rejection of him and of all authority\"'",
-      "answer": "Ian Fleming",
-      "is_daily_double": false,
-      "id": "382918"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "THE AUTHOR WRITES",
-      "point_value": 2000,
-      "question": "\"Stephen Dedalus is my name, Ireland is my nation. Clongowes is my dwellingplace and heaven my expectation\"",
-      "answer": "James Joyce",
+      "question": "Someone tearing the L.A. Times into strips may be practicing this art form with a hyphenated French name",
+      "answer": "papier-mâché",
       "is_daily_double": true,
-      "id": "382919"
+      "id": "290885"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "2",
-      "category": "THE MOVIES",
-      "point_value": 400,
-      "question": "In 1933's \"Flying Down to Rio\", Fred Astaire teamed with this lady for the first of 10 films",
-      "answer": "Ginger Rogers",
-      "is_daily_double": false,
-      "id": "382920"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "THE MOVIES",
-      "point_value": 800,
-      "question": "In this 1991 film, Robin Williams was Peter Banning, who did grow up, became a lawyer & married Wendy's granddaughter",
-      "answer": "Hook",
-      "is_daily_double": false,
-      "id": "382921"
-    },
-    {
-      "air_date": "2014-07-07",
-      "round": "2",
-      "category": "THE MOVIES",
+      "category": "ART",
       "point_value": 1200,
-      "question": "This 2009 horror film that cost $15,000 to make grossed over $100 million & has spawned 4 sequels",
-      "answer": "Paranormal Activity",
+      "question": "The name of this type of paint that contains egg yolks almost sounds like a Japanese dish, but don't eat it",
+      "answer": "tempera",
       "is_daily_double": false,
-      "id": "382922"
+      "id": "290886"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "2",
-      "category": "THE MOVIES",
+      "category": "CHRISTOPHER COLUMBUS",
+      "point_value": 400,
+      "question": "There's no truth to the story that she had to pawn her jewels to finance Columbus' first voyage",
+      "answer": "Queen Isabella",
+      "is_daily_double": false,
+      "id": "290887"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "2",
+      "category": "CHRISTOPHER COLUMBUS",
+      "point_value": 800,
+      "question": "This flagship of Columbus' first voyage was chartered from Juan de la Cosa & was his largest ship",
+      "answer": "the Santa Maria",
+      "is_daily_double": false,
+      "id": "290888"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "2",
+      "category": "CHRISTOPHER COLUMBUS",
+      "point_value": 1200,
+      "question": "Christopher Columbus was born in this Italian seaport where his father was a merchant & wool weaver",
+      "answer": "Genoa",
+      "is_daily_double": false,
+      "id": "290889"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "2",
+      "category": "CHRISTOPHER COLUMBUS",
       "point_value": 1600,
-      "question": "He won the Best Director Oscar for 2013's \"Gravity\"",
-      "answer": "(Alfonso) Cuarón",
+      "question": "On Oct. 12, 1492 Columbus reached the New World & landed at an island he called this, Spanish for \"holy savior\"",
+      "answer": "San Salvador",
       "is_daily_double": false,
-      "id": "382923"
+      "id": "290890"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
       "round": "2",
-      "category": "THE MOVIES",
+      "category": "CHRISTOPHER COLUMBUS",
       "point_value": 2000,
-      "question": "In this 1966 Billy Wilder film, Walter Matthau persuades Jack Lemmon to exaggerate his injuries for the insurance money",
-      "answer": "The Fortune Cookie",
+      "question": "One of the only 2 current U.S. territories visited by Columbus, who reached both in 1493",
+      "answer": "Puerto Rico (or the Virgin Islands)",
       "is_daily_double": false,
-      "id": "382924"
+      "id": "290891"
     },
     {
-      "air_date": "2014-07-07",
+      "air_date": "2007-10-09",
+      "round": "2",
+      "category": "LITERATURE FOR KIDS",
+      "point_value": 400,
+      "question": "\"We looked! Then we saw him step in on the mat! We looked! And we saw him!\" This famous cat",
+      "answer": "the Cat in the Hat",
+      "is_daily_double": false,
+      "id": "290892"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "2",
+      "category": "LITERATURE FOR KIDS",
+      "point_value": 800,
+      "question": "In a fairy tale by this Danish author, the Snow Queen takes little Kay away in her sleigh to her icy palace",
+      "answer": "Hans Christian Andersen",
+      "is_daily_double": false,
+      "id": "290893"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "2",
+      "category": "LITERATURE FOR KIDS",
+      "point_value": 1200,
+      "question": "In \"Little Women\", Margaret March is better known by this nickname",
+      "answer": "\"Meg\"",
+      "is_daily_double": false,
+      "id": "290894"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "2",
+      "category": "LITERATURE FOR KIDS",
+      "point_value": 1600,
+      "question": "This loving relative who takes care of Tom Sawyer was inspired by Mark Twain's own mother",
+      "answer": "Aunt Polly",
+      "is_daily_double": false,
+      "id": "290895"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "2",
+      "category": "LITERATURE FOR KIDS",
+      "point_value": 2000,
+      "question": "This author who wrote about \"The Princess Who Could Not Laugh\" made us smile with \"Winnie-the-Pooh\"",
+      "answer": "A.A. Milne",
+      "is_daily_double": false,
+      "id": "290896"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "2",
+      "category": "MOVIE MUSIC",
+      "point_value": 400,
+      "question": "5-letter word for a group that sings exalting music, like the Bulgarian women's one heard in \"Brother Bear\"",
+      "answer": "choir",
+      "is_daily_double": false,
+      "id": "290897"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "2",
+      "category": "MOVIE MUSIC",
+      "point_value": 800,
+      "question": "Caetano Veloso & Mr. Loco are among artists on the soundtrack of this Jack Black wrestling movie",
+      "answer": "Nacho Libre",
+      "is_daily_double": false,
+      "id": "290898"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "2",
+      "category": "MOVIE MUSIC",
+      "point_value": 1200,
+      "question": "Julie Andrews sings \"A Spoonful Of Sugar\" in this movie",
+      "answer": "Mary Poppins",
+      "is_daily_double": false,
+      "id": "290899"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "2",
+      "category": "MOVIE MUSIC",
+      "point_value": 1600,
+      "question": "In \"Raise Your Voice\", Hilary Duff sings this Handel oratorio about the Savior",
+      "answer": "Messiah",
+      "is_daily_double": false,
+      "id": "290900"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "2",
+      "category": "MOVIE MUSIC",
+      "point_value": 2000,
+      "question": "She sings \"Cry\" & \"Only Hope\" on the soundtrack of her movie \"A Walk to Remember\"",
+      "answer": "Mandy Moore",
+      "is_daily_double": false,
+      "id": "290901"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "2",
+      "category": "WHERE WORDS COME FROM",
+      "point_value": 400,
+      "question": "Chinese or Malay: This tomato condiment that's put on French fries",
+      "answer": "ketchup",
+      "is_daily_double": false,
+      "id": "290902"
+    },
+    {
+      "air_date": "2007-10-09",
+      "round": "2",
+      "category": "WHERE WORDS COME FROM",
+      "point_value": 800,
+      "question": "Latin: This device you open when it's precipitating",
+      "answer": "an umbrella",
+      "is_daily_double": false,
+      "id": "290903"
+    },
+    {
+      "air_date": "2007-10-09",
       "round": "3",
-      "category": "GOVERNMENT",
+      "category": "U.S. PRESIDENTS",
       "point_value": 0,
-      "question": "\"Features\" at the website of this agency include \"Protection\", \"Investigations\" & \"Know Your Money\"",
-      "answer": "the Secret Service",
+      "question": "He's the only U.S. president who never lived in the District of Columbia",
+      "answer": "George Washington",
       "is_daily_double": false,
-      "id": "382925"
+      "id": "290904"
     }
   ]
 }
