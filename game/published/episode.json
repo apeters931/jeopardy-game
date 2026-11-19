@@ -1,596 +1,606 @@
 {
-  "id": "aaa15082df51607f",
-  "air_date": "2010-05-06",
+  "id": "351bc17050fedc8b",
+  "air_date": "2006-09-26",
   "questions": [
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "BEGINS & ENDS WITH \"O\"",
+      "category": "\"SS\" THE SITUATION",
       "point_value": 200,
-      "question": "The website for this snack features the Double Stuf Racing League",
-      "answer": "Oreo",
+      "question": "The ADA says to do this gently, once a day; it \"helps keep your gums healthy\"",
+      "answer": "floss",
       "is_daily_double": false,
-      "id": "326612"
+      "id": "276946"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "BEGINS & ENDS WITH \"O\"",
+      "category": "\"SS\" THE SITUATION",
       "point_value": 400,
-      "question": "Herr Bismarck knows this given name comes from a Germanic word meaning \"rich\"",
-      "answer": "Otto",
+      "question": "Did you know I could bench-press 250 lbs.? But I do this, a 7-letter term meaning to deviate from the main topic",
+      "answer": "digress",
       "is_daily_double": false,
-      "id": "326613"
+      "id": "276947"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "BEGINS & ENDS WITH \"O\"",
+      "category": "\"SS\" THE SITUATION",
       "point_value": 600,
-      "question": "It's another word for margarine",
-      "answer": "oleo",
+      "question": "From the Greek for \"bottomless\", it's a vast chasm",
+      "answer": "abyss",
       "is_daily_double": false,
-      "id": "326614"
+      "id": "276948"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "BEGINS & ENDS WITH \"O\"",
+      "category": "\"SS\" THE SITUATION",
       "point_value": 800,
-      "question": "This term for an extended musical composition comes from the Italian for \"small chapel\"",
-      "answer": "oratorio",
+      "question": "Yuck! It can often be found before national product, ton or anatomy",
+      "answer": "gross",
       "is_daily_double": false,
-      "id": "326615"
+      "id": "276949"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "BEGINS & ENDS WITH \"O\"",
+      "category": "\"SS\" THE SITUATION",
       "point_value": 1000,
-      "question": "L.A. restaurant Locanda Veneta serves this veal dish con risotto",
-      "answer": "osso bucco",
+      "question": "Hemingway wrote anything was \"better than Ezra learning to play\" this low-range woodwind instrument",
+      "answer": "bassoon",
       "is_daily_double": false,
-      "id": "326616"
+      "id": "276950"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "DANGER IN WONDERLAND",
+      "category": "GET YOUR FACTS STRAIGHT",
       "point_value": 200,
-      "question": "Distinct alabaster fur; you'll know him by the big pocket watch he refers to; careful—he moves quickly",
-      "answer": "the White Rabbit",
+      "question": "The minneola is the best-known variety of the tangelo; Minnehaha is his best gal in a Longfellow poem",
+      "answer": "Hiawatha",
       "is_daily_double": false,
-      "id": "326617"
+      "id": "276922"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "DANGER IN WONDERLAND",
+      "category": "GET YOUR FACTS STRAIGHT",
       "point_value": 400,
-      "question": "Don't let the smile fool you—this feline has razor-sharp claws & a cloaking device; terminate with extreme prejudice",
-      "answer": "the Cheshire Cat",
+      "question": "Marmaduke is a comic-strip dog; this is a preserve usually made from Seville oranges",
+      "answer": "marmalade",
       "is_daily_double": false,
-      "id": "326618"
+      "id": "276923"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "DANGER IN WONDERLAND",
+      "category": "GET YOUR FACTS STRAIGHT",
       "point_value": 600,
-      "question": "She tried to whack Alice with that \"off with her head\" line; wait 'til she gets a load of you",
-      "answer": "the Queen of Hearts",
+      "question": "Cirrhosis is a liver disease; the name of this chronic skin disorder is from the Greek for \"to have the itch\"",
+      "answer": "psoriasis",
       "is_daily_double": false,
-      "id": "326619"
+      "id": "276924"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "DANGER IN WONDERLAND",
+      "category": "GET YOUR FACTS STRAIGHT",
       "point_value": 800,
-      "question": "These 2 brothers may look like dimwits but they're vicious; beware the sword & umbrella, their weapons of choice",
-      "answer": "Tweedledum & Tweedledee",
-      "is_daily_double": false,
-      "id": "326620"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "1",
-      "category": "DANGER IN WONDERLAND",
-      "point_value": 1000,
-      "question": "A suspected drug dealer who smokes from a hookah & peddles mushrooms—he's gotta go",
-      "answer": "the Caterpillar",
-      "is_daily_double": false,
-      "id": "326621"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "1",
-      "category": "OFFICIAL LANGUAGES",
-      "point_value": 200,
-      "question": "Argentina",
-      "answer": "Spanish",
-      "is_daily_double": false,
-      "id": "326622"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "1",
-      "category": "OFFICIAL LANGUAGES",
-      "point_value": 400,
-      "question": "Austria",
-      "answer": "German",
-      "is_daily_double": false,
-      "id": "326623"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "1",
-      "category": "OFFICIAL LANGUAGES",
-      "point_value": 600,
-      "question": "Canada (both, please)",
-      "answer": "French & English",
-      "is_daily_double": false,
-      "id": "326624"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "1",
-      "category": "OFFICIAL LANGUAGES",
-      "point_value": 800,
-      "question": "Egypt",
-      "answer": "Arabic",
-      "is_daily_double": false,
-      "id": "326625"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "1",
-      "category": "OFFICIAL LANGUAGES",
-      "point_value": 1000,
-      "question": "Brazil",
-      "answer": "Portuguese",
+      "question": "Carlsberg is a Danish brewery; this Swiss-style cheese from Norway has a similar name",
+      "answer": "Jarlsberg",
       "is_daily_double": true,
-      "id": "326626"
+      "id": "276925"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "SPOILER ALERT!",
+      "category": "GET YOUR FACTS STRAIGHT",
+      "point_value": 1000,
+      "question": "Ernesto Miranda's case gave us the rights read to a suspect; Carmen Miranda sang the aptly titled \"The Lady In\" this \"Hat\"",
+      "answer": "The Tutti-Frutti",
+      "is_daily_double": false,
+      "id": "276926"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "1",
+      "category": "GOSPEL TRUTH",
       "point_value": 200,
-      "question": "1968: The Statue of Liberty sticks up out of the sand",
-      "answer": "Planet of the Apes",
+      "question": "Mark 10 says a man shall \"cleave to\" this person \"...so they are no more twain, but one flesh\"",
+      "answer": "his wife",
       "is_daily_double": false,
-      "id": "326627"
+      "id": "276927"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "SPOILER ALERT!",
+      "category": "GOSPEL TRUTH",
       "point_value": 400,
-      "question": "1999: The first rule of this film is Brad Pitt doesn't really exist",
-      "answer": "Fight Club",
+      "question": "While eating at the Pharisee's house, Jesus had these washed, wiped with hair, then anointed with ointment",
+      "answer": "His feet",
       "is_daily_double": false,
-      "id": "326628"
+      "id": "276928"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "SPOILER ALERT!",
+      "category": "GOSPEL TRUTH",
       "point_value": 600,
-      "question": "1968: The baby's father, could it be... Satan?",
-      "answer": "Rosemary's Baby",
+      "question": "He'd been dead 4 days before Jesus raised him back to life",
+      "answer": "Lazarus",
       "is_daily_double": false,
-      "id": "326629"
+      "id": "276929"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "SPOILER ALERT!",
+      "category": "GOSPEL TRUTH",
       "point_value": 800,
-      "question": "1959: Joe E. Brown discovers that \"she\" is really a guy",
-      "answer": "Some Like It Hot",
+      "question": "Call Greenpeace! In Matthew 4 Peter & Andrew left these in the sea when Jesus called them",
+      "answer": "their nets",
       "is_daily_double": false,
-      "id": "326630"
+      "id": "276930"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "SPOILER ALERT!",
+      "category": "GOSPEL TRUTH",
       "point_value": 1000,
-      "question": "1932: The unusual circus performers discover Olga's murderous plans & turn her into a \"chicken woman\"",
-      "answer": "Freaks",
+      "question": "In Mark 1 Jesus \"healed many that were sick... and cast out many devils; and suffered not the devils to\" do this",
+      "answer": "speak",
       "is_daily_double": false,
-      "id": "326631"
+      "id": "276931"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "THAT'S HANDY",
+      "category": "HAIL TO THE CHIEF",
       "point_value": 200,
-      "question": "The hand gesture with 2 pairs of fingers bunched together was made by this Vulcan on the original \"Star Trek\"",
-      "answer": "Mr. Spock",
+      "question": "Many people claim to have seen a ghost in the White House bedroom named for this president",
+      "answer": "Lincoln",
       "is_daily_double": false,
-      "id": "326632"
+      "id": "276932"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "THAT'S HANDY",
+      "category": "HAIL TO THE CHIEF",
       "point_value": 400,
-      "question": "U.S. code says that when this song plays, you put your hand over your heart",
-      "answer": "the national anthem",
+      "question": "One of 3 to do so, he was the first president to die on July 4",
+      "answer": "Jefferson",
       "is_daily_double": false,
-      "id": "326633"
+      "id": "276933"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "THAT'S HANDY",
-      "point_value": 800,
-      "question": "In Christian ritual it involves moving the hand from the forehead, to the chest & then to each shoulder in turn",
-      "answer": "crossing oneself",
-      "is_daily_double": false,
-      "id": "326634"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "1",
-      "category": "THAT'S HANDY",
-      "point_value": 1000,
-      "question": "The titles of a 1927 Al Jolson film & a 1979 Bob Fosse film gave us the term for these hands",
-      "answer": "jazz hands",
-      "is_daily_double": false,
-      "id": "326635"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "1",
-      "category": "WORKING ON THE RAILROAD",
-      "point_value": 200,
-      "question": "This semipublic corporation that operates intercity U.S. passenger trains was created by Congress in 1970",
-      "answer": "Amtrak",
-      "is_daily_double": false,
-      "id": "326636"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "1",
-      "category": "WORKING ON THE RAILROAD",
-      "point_value": 400,
-      "question": "The Tokaido Shinkansen, known by this \"weapon\" name, can hit 185 mph",
-      "answer": "the bullet train",
-      "is_daily_double": false,
-      "id": "326637"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "1",
-      "category": "WORKING ON THE RAILROAD",
+      "category": "HAIL TO THE CHIEF",
       "point_value": 600,
-      "question": "13-letter word for the operations manager of a depot or terminal",
-      "answer": "stationmaster",
+      "question": "So far, he's the only president sworn into office by a woman",
+      "answer": "LBJ",
       "is_daily_double": false,
-      "id": "326638"
+      "id": "276934"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "WORKING ON THE RAILROAD",
+      "category": "HAIL TO THE CHIEF",
       "point_value": 800,
-      "question": "Organized in 1867, his firm built, staffed & operated sleeping cars on all major U.S. railroads",
-      "answer": "(George) Pullman",
+      "question": "While he was president, his residence was a house on Cherry Street in New York City",
+      "answer": "George Washington",
       "is_daily_double": false,
-      "id": "326639"
+      "id": "276935"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "1",
-      "category": "WORKING ON THE RAILROAD",
+      "category": "HAIL TO THE CHIEF",
       "point_value": 1000,
-      "question": "On April 30, 1900 this engineer gave his life in a train crash to save his passengers; his name would live on in ballads",
-      "answer": "Casey Jones",
+      "question": "He was the first vice president to become president upon the death of a president",
+      "answer": "John Tyler",
       "is_daily_double": false,
-      "id": "326640"
+      "id": "276936"
     },
     {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "AMERICANS IN PARIS",
+      "air_date": "2006-09-26",
+      "round": "1",
+      "category": "HIPPO-POURRI",
+      "point_value": 200,
+      "question": "If you played the Hungry Hungry Hippos board game you'd know that the hippos were trying to eat these objects",
+      "answer": "marbles",
+      "is_daily_double": false,
+      "id": "276937"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "1",
+      "category": "HIPPO-POURRI",
       "point_value": 400,
-      "question": "He worked on his \"An American in Paris\" while staying with brother Ira at Paris' Hotel Majestic",
-      "answer": "George Gershwin",
+      "question": "Hippopotami eat grass, leaves & fruit, meaning they're this, from the Latin for \"plant eater\"",
+      "answer": "herbivores",
       "is_daily_double": false,
-      "id": "326641"
+      "id": "276938"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
+      "round": "1",
+      "category": "HIPPO-POURRI",
+      "point_value": 600,
+      "question": "In this 1940 Disney flick, prima donna Hyacinth Hippo cavorts with Ben Ali Gator to the \"Dance Of The Hours\"",
+      "answer": "Fantasia",
+      "is_daily_double": false,
+      "id": "276939"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "1",
+      "category": "HIPPO-POURRI",
+      "point_value": 800,
+      "question": "Back in the day, if you were the Bishop of Hippo, you were based in what's now this North African country",
+      "answer": "Algeria",
+      "is_daily_double": false,
+      "id": "276940"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "1",
+      "category": "NHL TEAMS IN OTHER WORDS",
+      "point_value": 200,
+      "question": "The Monarchs",
+      "answer": "the Kings",
+      "is_daily_double": false,
+      "id": "276941"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "1",
+      "category": "NHL TEAMS IN OTHER WORDS",
+      "point_value": 400,
+      "question": "The Great Whites",
+      "answer": "the (San Jose) Sharks",
+      "is_daily_double": false,
+      "id": "276942"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "1",
+      "category": "NHL TEAMS IN OTHER WORDS",
+      "point_value": 600,
+      "question": "Electrical Discharge",
+      "answer": "the (Tampa Bay) Lightning",
+      "is_daily_double": false,
+      "id": "276943"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "1",
+      "category": "NHL TEAMS IN OTHER WORDS",
+      "point_value": 800,
+      "question": "Tropical Storms",
+      "answer": "the Hurricanes",
+      "is_daily_double": false,
+      "id": "276944"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "1",
+      "category": "NHL TEAMS IN OTHER WORDS",
+      "point_value": 1000,
+      "question": "The Cavalry Swords",
+      "answer": "the (Buffalo) Sabres",
+      "is_daily_double": false,
+      "id": "276945"
+    },
+    {
+      "air_date": "2006-09-26",
       "round": "2",
-      "category": "AMERICANS IN PARIS",
+      "category": "ANCIENT TALK",
+      "point_value": 400,
+      "question": "In Hebrew this book of the Bible is Bereshith, the \"resh\" related to \"rosh\", meaning \"beginning\"",
+      "answer": "Genesis",
+      "is_daily_double": false,
+      "id": "276951"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "ANCIENT TALK",
+      "point_value": 800,
+      "question": "It's Latin for \"from\", as when it precedes \"cathedra\" or \"nihilo\"; I get along pretty well with mine",
+      "answer": "ex",
+      "is_daily_double": false,
+      "id": "276952"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "ANCIENT TALK",
       "point_value": 1200,
-      "question": "In March 1971 this rocker closed the door on his band & moved to Paris to focus on his poetry",
-      "answer": "Jim Morrison",
+      "question": "(Jimmy of the Clue Crew finds a clue engraved in hieroglyphs in Abu Simbel, Egypt.) This Egyptian word for \"good\" or \"beautiful\" came before \"titi\" & \"tari\" in the name of Egyptian women",
+      "answer": "nefer",
+      "is_daily_double": false,
+      "id": "276953"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "ANCIENT TALK",
+      "point_value": 1600,
+      "question": "Now a 5-letter suffix, it was the Greek term for the type of community we call a city-state",
+      "answer": "polis",
+      "is_daily_double": false,
+      "id": "276954"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "ANCIENT TALK",
+      "point_value": 2000,
+      "question": "(Cheryl of the Clue Crew points out circles animated on a plot on the monitor.) On a curve, the circles that best approximate the curvature at each point are called \"osculating circles\", from the Latin \"osculare\", to do this",
+      "answer": "kiss",
+      "is_daily_double": false,
+      "id": "276955"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "NAMES YOU SHOULD KNOW",
+      "point_value": 400,
+      "question": "In 1916 this Nobel winner became a professor of physics at the University of Copenhagen",
+      "answer": "Niels Bohr",
+      "is_daily_double": false,
+      "id": "276956"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "NAMES YOU SHOULD KNOW",
+      "point_value": 800,
+      "question": "The glasses & beret were classy, but this somewhat suicidal fish mascot was never good enough for StarKist",
+      "answer": "Charlie (the) Tuna",
+      "is_daily_double": false,
+      "id": "276957"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "NAMES YOU SHOULD KNOW",
+      "point_value": 1200,
+      "question": "Sharing her first name with Robin Hood's sweetie, this African-Amer. contralto earned the 1963 Pres. Medal of Freedom",
+      "answer": "Marian Anderson",
+      "is_daily_double": false,
+      "id": "276958"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "NAMES YOU SHOULD KNOW",
+      "point_value": 1600,
+      "question": "Ambrose by any other name... He wrote \"An Occurrence at Owl Creek Bridge\" & \"The Devil's Dictionary\"",
+      "answer": "(Ambrose) Bierce",
+      "is_daily_double": false,
+      "id": "276959"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "NAMES YOU SHOULD KNOW",
+      "point_value": 2000,
+      "question": "Let's \"Z\" about this German-born publisher of the N.Y. Weekly Journal, acquitted of libel in 1735",
+      "answer": "(John Peter) Zenger",
       "is_daily_double": true,
-      "id": "326642"
+      "id": "276960"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "2",
-      "category": "AMERICANS IN PARIS",
-      "point_value": 1600,
-      "question": "While minister to France, 1784-1789, this future president enjoyed Parisian culture, as well as the fine food & wine",
-      "answer": "Thomas Jefferson",
-      "is_daily_double": false,
-      "id": "326643"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "AMERICANS IN PARIS",
-      "point_value": 2000,
-      "question": "Sherwood Anderson & Ernest Hemingway were among the expatriate writers who hung out at her Paris salon",
-      "answer": "Gertrude Stein",
-      "is_daily_double": false,
-      "id": "326644"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "CROSSWORD CLUES \"Q\"",
+      "category": "OF THE WESTERN WORLD",
       "point_value": 400,
-      "question": "Feather pen (5)",
-      "answer": "quill",
+      "question": "Members of the Somoza family ruled this Central American country for 38 of the 42 years between 1937 & 1979",
+      "answer": "Nicaragua",
       "is_daily_double": false,
-      "id": "326645"
+      "id": "276961"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "2",
-      "category": "CROSSWORD CLUES \"Q\"",
+      "category": "OF THE WESTERN WORLD",
       "point_value": 800,
-      "question": "To drink heartily (5)",
-      "answer": "quaff",
+      "question": "In the 1840s fur trader Robert Campbell of this company became the first white person to explore the Yukon region",
+      "answer": "the Hudson's Bay Company",
       "is_daily_double": false,
-      "id": "326646"
+      "id": "276962"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "2",
-      "category": "CROSSWORD CLUES \"Q\"",
+      "category": "OF THE WESTERN WORLD",
       "point_value": 1200,
-      "question": "Jelly fruit (6)",
-      "answer": "quince",
-      "is_daily_double": false,
-      "id": "326647"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "CROSSWORD CLUES \"Q\"",
-      "point_value": 1600,
-      "question": "Petty critique (7)",
-      "answer": "quibble",
-      "is_daily_double": false,
-      "id": "326648"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "CROSSWORD CLUES \"Q\"",
-      "point_value": 2000,
-      "question": "A literary bell ringer (9)",
-      "answer": "Quasimodo",
-      "is_daily_double": false,
-      "id": "326649"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "DESCRIBING THE NO. 1 SONG",
-      "point_value": 400,
-      "question": "1990: Madonna turns a magazine into a dance",
-      "answer": "\"Vogue\"",
-      "is_daily_double": false,
-      "id": "326650"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "DESCRIBING THE NO. 1 SONG",
-      "point_value": 800,
-      "question": "1975: John Denver explains why he's grateful for the simple, rural life",
-      "answer": "\"Thank God I'm A Country Boy\"",
-      "is_daily_double": false,
-      "id": "326651"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "DESCRIBING THE NO. 1 SONG",
-      "point_value": 1200,
-      "question": "1968: Marvin Gaye gets the news through third parties that his girlfriend will be leaving him",
-      "answer": "\"Heard It Through the Grapevine\"",
-      "is_daily_double": false,
-      "id": "326652"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "DESCRIBING THE NO. 1 SONG",
-      "point_value": 1600,
-      "question": "Vanilla Ice, 1990: The rapper is quite confident in both his MC abilities & his appeal to women",
-      "answer": "\"Ice Ice Baby\"",
-      "is_daily_double": false,
-      "id": "326653"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "DESCRIBING THE NO. 1 SONG",
-      "point_value": 2000,
-      "question": "J. Geils, 1982: Horrors! The singer must deal with his \"angel\" being cute enough to be featured in a men's magazine",
-      "answer": "\"Centerfold\"",
-      "is_daily_double": false,
-      "id": "326654"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "I COULD USE SOME SELF-HELP!",
-      "point_value": 400,
-      "question": "That hair! Those shorts! Both are still around for this exercise guy known for his \"Sweatin' to the Oldies\"",
-      "answer": "Richard Simmons",
-      "is_daily_double": false,
-      "id": "326655"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "I COULD USE SOME SELF-HELP!",
-      "point_value": 800,
-      "question": "John Gray penned the book these 2 planets \"Together Forever—Relationship Skills for Lasting Love\"",
-      "answer": "Mars & Venus (Venus & Mars accepted)",
-      "is_daily_double": false,
-      "id": "326656"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "I COULD USE SOME SELF-HELP!",
-      "point_value": 1200,
-      "question": "Rick Warren guided readers on a 40-day spiritual journey in the No. 1 bestseller \"The\" this \"Driven Life\"",
-      "answer": "Purpose",
-      "is_daily_double": false,
-      "id": "326657"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "I COULD USE SOME SELF-HELP!",
-      "point_value": 1600,
-      "question": "\"The Art of Happiness\" was written by this Asian man who was picked out for his present job at the age of 2",
-      "answer": "the Dalai Lama",
+      "question": "This city of 20 million is the westernmost capital city in the Americas",
+      "answer": "Mexico City",
       "is_daily_double": true,
-      "id": "326658"
+      "id": "276963"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "2",
-      "category": "I COULD USE SOME SELF-HELP!",
-      "point_value": 2000,
-      "question": "Last name of Dale, who wrote \"How to Win Friends and Influence People\"",
-      "answer": "Carnegie",
-      "is_daily_double": false,
-      "id": "326659"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "SCRAMBLED EGGS?",
-      "point_value": 400,
-      "question": "Denver dish: TOT MELEE",
-      "answer": "omelette",
-      "is_daily_double": false,
-      "id": "326660"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "SCRAMBLED EGGS?",
-      "point_value": 800,
-      "question": "A pancake-like offering in Rome: FAT TRAIT",
-      "answer": "frittata",
-      "is_daily_double": false,
-      "id": "326661"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "SCRAMBLED EGGS?",
-      "point_value": 1200,
-      "question": "Shhh! I'm making this egg dish for a dessert!: OF FUELS",
-      "answer": "soufflé",
-      "is_daily_double": false,
-      "id": "326662"
-    },
-    {
-      "air_date": "2010-05-06",
-      "round": "2",
-      "category": "SCRAMBLED EGGS?",
+      "category": "OF THE WESTERN WORLD",
       "point_value": 1600,
-      "question": "South of the border treat: OH NERVOUS SEARCH",
-      "answer": "huevos rancheros",
+      "question": "Of the Western Hemisphere countries with both an Atlantic & a Pacific coast, it's the smallest in area",
+      "answer": "Costa Rica",
       "is_daily_double": false,
-      "id": "326663"
+      "id": "276964"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "2",
-      "category": "SCRAMBLED EGGS?",
+      "category": "OF THE WESTERN WORLD",
       "point_value": 2000,
-      "question": "It sounds like a dance: EMU REIGN",
-      "answer": "meringue",
+      "question": "This former name of Suriname reflected its status as a colony of the Netherlands",
+      "answer": "Dutch Guiana",
       "is_daily_double": false,
-      "id": "326664"
+      "id": "276965"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "2",
-      "category": "THE NEW YORK TIMES THEATER",
+      "category": "PLAY BOY",
       "point_value": 400,
-      "question": "Frank Rich wrote you could feel Broadway history being made in this musical about a black female singing group",
-      "answer": "Dreamgirls",
+      "question": "\"Sweet Bird of Youth\" & \"Cat on a Hot Tin Roof\"",
+      "answer": "(Tennessee) Williams",
       "is_daily_double": false,
-      "id": "326665"
+      "id": "276966"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "2",
-      "category": "THE NEW YORK TIMES THEATER",
+      "category": "PLAY BOY",
       "point_value": 800,
-      "question": "Times multimedia features include snapshots taken at this exit, the proverbial spot to have a moment with a theater star",
-      "answer": "the stage door",
+      "question": "\"After the Fall\" & \"The Crucible\"",
+      "answer": "(Arthur) Miller",
       "is_daily_double": false,
-      "id": "326666"
+      "id": "276967"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "2",
-      "category": "THE NEW YORK TIMES THEATER",
+      "category": "PLAY BOY",
       "point_value": 1200,
-      "question": "The Times found audience participation having a heyday in shows like \"The 25th Annual Putnam County\" this",
-      "answer": "Spelling Bee",
+      "question": "\"Hedda Gabler\" & \"An Enemy of the People\"",
+      "answer": "Ibsen",
       "is_daily_double": false,
-      "id": "326667"
+      "id": "276968"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "2",
-      "category": "THE NEW YORK TIMES THEATER",
+      "category": "PLAY BOY",
       "point_value": 1600,
-      "question": "As a critics' pick in 2008, this Lin-Manuel Miranda musical was called \"a salsa-flavored soap opera\"",
-      "answer": "In the Heights",
+      "question": "\"California Suite\" & \"Plaza Suite\"",
+      "answer": "Neil Simon",
       "is_daily_double": false,
-      "id": "326668"
+      "id": "276969"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
       "round": "2",
-      "category": "THE NEW YORK TIMES THEATER",
+      "category": "PLAY BOY",
       "point_value": 2000,
-      "question": "Ben Brantley says \"injustice has been very good\" to this musical writing duo; see \"Chicago\" & their new \"The Scottsboro Boys\"",
-      "answer": "Kander & Ebb",
+      "question": "\"Major Barbara\" & \"Arms and the Man\"",
+      "answer": "(George Bernard) Shaw",
       "is_daily_double": false,
-      "id": "326669"
+      "id": "276970"
     },
     {
-      "air_date": "2010-05-06",
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "THE HISTORY OF SCIENCE",
+      "point_value": 400,
+      "question": "Botanist John Ray made Linnaeus' work possible by establishing this unit of taxonomy, from the Latin for \"form\"",
+      "answer": "species",
+      "is_daily_double": false,
+      "id": "276971"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "THE HISTORY OF SCIENCE",
+      "point_value": 800,
+      "question": "The father of this \"father of antiseptic surgery\" was one of the first to describe red blood cells",
+      "answer": "(Joseph) Lister",
+      "is_daily_double": false,
+      "id": "276972"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "THE HISTORY OF SCIENCE",
+      "point_value": 1200,
+      "question": "In 1990 IBM scientists created the first structure made by moving individual ones of these on a surface",
+      "answer": "atoms",
+      "is_daily_double": false,
+      "id": "276973"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "THE HISTORY OF SCIENCE",
+      "point_value": 1600,
+      "question": "In the 1780s Gaspard Monge was the first to do this to a substance that's normally a gas, sulfur dioxide",
+      "answer": "liquefy it",
+      "is_daily_double": false,
+      "id": "276974"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "THE HISTORY OF SCIENCE",
+      "point_value": 2000,
+      "question": "Poet Geoffrey Chaucer wrote a treatise on this scientific instrument later replaced by the sextant",
+      "answer": "the astrolabe",
+      "is_daily_double": false,
+      "id": "276975"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "TRANSPORTATION IN SONG",
+      "point_value": 400,
+      "question": "In \"Dead Man's Curve\" the driver of a Jaguar XK-E challenged the driver of this Chevy sports car to a drag race",
+      "answer": "a (Stingray) Corvette",
+      "is_daily_double": false,
+      "id": "276976"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "TRANSPORTATION IN SONG",
+      "point_value": 800,
+      "question": "In \"The Letter\" the Box Tops didn't have \"time to make the fast train\", so they got a ticket on this",
+      "answer": "an airplane",
+      "is_daily_double": false,
+      "id": "276977"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "TRANSPORTATION IN SONG",
+      "point_value": 1200,
+      "question": "The Hollies' first Top 10 hit, it told of the romance that developed under a shared umbrella",
+      "answer": "\"Bus Stop\"",
+      "is_daily_double": false,
+      "id": "276978"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "TRANSPORTATION IN SONG",
+      "point_value": 1600,
+      "question": "Completes the Gary Numan lyric \"Nothing seems right in...\"",
+      "answer": "cars",
+      "is_daily_double": false,
+      "id": "276979"
+    },
+    {
+      "air_date": "2006-09-26",
+      "round": "2",
+      "category": "TRANSPORTATION IN SONG",
+      "point_value": 2000,
+      "question": "In Kathy Mattea's song these \"And A Dozen Roses\", a trucker is retiring \"after 30 years of drivin' up & down the interstate\"",
+      "answer": "\"Eighteen Wheels\"",
+      "is_daily_double": false,
+      "id": "276980"
+    },
+    {
+      "air_date": "2006-09-26",
       "round": "3",
-      "category": "AMERICAN LITERATURE",
+      "category": "LITERARY CINEMA",
       "point_value": 0,
-      "question": "A contemporary review of this 1851 novel said, \"Who would have looked for... poetry in blubber?\"",
-      "answer": "Moby-Dick",
+      "question": "A silent film of this Russian tale was released in 2 versions: in one, Garbo commits suicide; in the other, Garbo lives",
+      "answer": "Anna Karenina (by Leo Tolstoy)",
       "is_daily_double": false,
-      "id": "326670"
+      "id": "276981"
     }
   ]
 }
