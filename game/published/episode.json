@@ -1,606 +1,616 @@
 {
-  "id": "351bc17050fedc8b",
-  "air_date": "2006-09-26",
+  "id": "87095eea9be24812",
+  "air_date": "1994-12-05",
   "questions": [
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "1",
-      "category": "\"SS\" THE SITUATION",
+      "category": "18th CENTURY AMERICA",
+      "point_value": 100,
+      "question": "In 1774 NJ citizens dressed as Indians for the Greenwich Tea Party, which resembled this 1773 event",
+      "answer": "the Boston Tea Party",
+      "is_daily_double": false,
+      "id": "122096"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "1",
+      "category": "18th CENTURY AMERICA",
       "point_value": 200,
-      "question": "The ADA says to do this gently, once a day; it \"helps keep your gums healthy\"",
-      "answer": "floss",
+      "question": "This famous flagmaker was the 8th of 17 children born to Samuel & Rebecca Griscom",
+      "answer": "Betsy Ross",
       "is_daily_double": false,
-      "id": "276946"
+      "id": "122097"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "1",
-      "category": "\"SS\" THE SITUATION",
+      "category": "18th CENTURY AMERICA",
+      "point_value": 300,
+      "question": "On Oct. 25, 1764 Abigail Smith married this attorney",
+      "answer": "John Adams",
+      "is_daily_double": false,
+      "id": "122098"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "1",
+      "category": "18th CENTURY AMERICA",
       "point_value": 400,
-      "question": "Did you know I could bench-press 250 lbs.? But I do this, a 7-letter term meaning to deviate from the main topic",
-      "answer": "digress",
+      "question": "The first theatre in the American colonies opened in 1716 in this colonial capital of Virginia",
+      "answer": "Williamsburg",
       "is_daily_double": false,
-      "id": "276947"
+      "id": "122099"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "1",
-      "category": "\"SS\" THE SITUATION",
-      "point_value": 600,
-      "question": "From the Greek for \"bottomless\", it's a vast chasm",
-      "answer": "abyss",
+      "category": "18th CENTURY AMERICA",
+      "point_value": 500,
+      "question": "Georgia became a royal province in 1752 when its charter was returned to this man for whom the colony was named",
+      "answer": "George II",
       "is_daily_double": false,
-      "id": "276948"
+      "id": "122100"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "1",
-      "category": "\"SS\" THE SITUATION",
-      "point_value": 800,
-      "question": "Yuck! It can often be found before national product, ton or anatomy",
-      "answer": "gross",
+      "category": "ACTORS & ACTRESSES",
+      "point_value": 100,
+      "question": "This \"Evening Shade\" star's Institute for Theatre training is in Tequesta, Florida",
+      "answer": "Burt Reynolds",
       "is_daily_double": false,
-      "id": "276949"
+      "id": "122101"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "1",
-      "category": "\"SS\" THE SITUATION",
-      "point_value": 1000,
-      "question": "Hemingway wrote anything was \"better than Ezra learning to play\" this low-range woodwind instrument",
-      "answer": "bassoon",
-      "is_daily_double": false,
-      "id": "276950"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "1",
-      "category": "GET YOUR FACTS STRAIGHT",
+      "category": "ACTORS & ACTRESSES",
       "point_value": 200,
-      "question": "The minneola is the best-known variety of the tangelo; Minnehaha is his best gal in a Longfellow poem",
-      "answer": "Hiawatha",
+      "question": "This actor who was an avid gardener named one of his orchids for his TV co-star Barbara Hale",
+      "answer": "Raymond Burr",
       "is_daily_double": false,
-      "id": "276922"
+      "id": "122102"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "1",
-      "category": "GET YOUR FACTS STRAIGHT",
+      "category": "ACTORS & ACTRESSES",
+      "point_value": 300,
+      "question": "Philip Casnoff wore blue contact lenses when he played this singer in an acclaimed 1992 miniseries",
+      "answer": "Frank Sinatra",
+      "is_daily_double": false,
+      "id": "122103"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "1",
+      "category": "ACTORS & ACTRESSES",
       "point_value": 400,
-      "question": "Marmaduke is a comic-strip dog; this is a preserve usually made from Seville oranges",
-      "answer": "marmalade",
+      "question": "He made his film debut in 1947 in \"Life with Father\"; \"Route 66\" & \"Adam-12\" came later",
+      "answer": "Marty Milner",
       "is_daily_double": false,
-      "id": "276923"
+      "id": "122104"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "1",
-      "category": "GET YOUR FACTS STRAIGHT",
-      "point_value": 600,
-      "question": "Cirrhosis is a liver disease; the name of this chronic skin disorder is from the Greek for \"to have the itch\"",
-      "answer": "psoriasis",
+      "category": "ACTORS & ACTRESSES",
+      "point_value": 500,
+      "question": "This star of \"Matt Houston\" wasn't born in Houston but in Muleshoe, Texas",
+      "answer": "Lee Horsley",
       "is_daily_double": false,
-      "id": "276924"
+      "id": "122105"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "1",
-      "category": "GET YOUR FACTS STRAIGHT",
-      "point_value": 800,
-      "question": "Carlsberg is a Danish brewery; this Swiss-style cheese from Norway has a similar name",
-      "answer": "Jarlsberg",
+      "category": "ELECTIONS",
+      "point_value": 100,
+      "question": "To let people know you're a candidate, throw your hat here",
+      "answer": "in the ring",
+      "is_daily_double": false,
+      "id": "122106"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "1",
+      "category": "ELECTIONS",
+      "point_value": 200,
+      "question": "Can't be at the polling place on election day? Then vote by mail using one of these",
+      "answer": "an absentee ballot",
+      "is_daily_double": false,
+      "id": "122107"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "1",
+      "category": "ELECTIONS",
+      "point_value": 300,
+      "question": "Also called the slate, it can be voted straight or split",
+      "answer": "a ticket",
+      "is_daily_double": false,
+      "id": "122108"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "1",
+      "category": "ELECTIONS",
+      "point_value": 400,
+      "question": "In the winner-take-all system, the winner of the presidential popular vote in a state gets all of these",
+      "answer": "the electoral votes",
+      "is_daily_double": false,
+      "id": "122109"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "1",
+      "category": "ELECTIONS",
+      "point_value": 500,
+      "question": "For voting, a district, town or ward is divided into these",
+      "answer": "precincts",
+      "is_daily_double": false,
+      "id": "122110"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "1",
+      "category": "GUINNESS RECORDS",
+      "point_value": 100,
+      "question": "Currently, she's the longest-reigning queen in the world",
+      "answer": "Elizabeth II",
+      "is_daily_double": false,
+      "id": "122111"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "1",
+      "category": "GUINNESS RECORDS",
+      "point_value": 200,
+      "question": "On Sept. 6, 1981 a man in Finland caught one of these thrown a distance of 317' 10\"; it didn't break",
+      "answer": "an egg",
+      "is_daily_double": false,
+      "id": "122112"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "1",
+      "category": "GUINNESS RECORDS",
+      "point_value": 300,
+      "question": "In terms of personnel, China currently has the largest army & this country has the largest navy",
+      "answer": "The United States",
+      "is_daily_double": false,
+      "id": "122113"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "1",
+      "category": "GUINNESS RECORDS",
+      "point_value": 400,
+      "question": "A cookie made during the 1992 Riponfest in Wisconsin included almost 4 million of these",
+      "answer": "Chocolate chips",
+      "is_daily_double": false,
+      "id": "122114"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "1",
+      "category": "GUINNESS RECORDS",
+      "point_value": 500,
+      "question": "Called TV's most frequent clapper, she claps an estimated 720 times a show",
+      "answer": "Vanna White",
       "is_daily_double": true,
-      "id": "276925"
+      "id": "122115"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "1",
-      "category": "GET YOUR FACTS STRAIGHT",
-      "point_value": 1000,
-      "question": "Ernesto Miranda's case gave us the rights read to a suspect; Carmen Miranda sang the aptly titled \"The Lady In\" this \"Hat\"",
-      "answer": "The Tutti-Frutti",
+      "category": "NEW MEXICO",
+      "point_value": 100,
+      "question": "The Zia symbol for this heavenly object is featured on the state's license plates & flag",
+      "answer": "the Sun",
       "is_daily_double": false,
-      "id": "276926"
+      "id": "122116"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "1",
-      "category": "GOSPEL TRUTH",
+      "category": "NEW MEXICO",
       "point_value": 200,
-      "question": "Mark 10 says a man shall \"cleave to\" this person \"...so they are no more twain, but one flesh\"",
-      "answer": "his wife",
+      "question": "Each July Taos holds one of these meetings of Indian tribes",
+      "answer": "a pow wow",
       "is_daily_double": false,
-      "id": "276927"
+      "id": "122117"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "1",
-      "category": "GOSPEL TRUTH",
+      "category": "NEW MEXICO",
+      "point_value": 300,
+      "question": "To get a mix of red & green ones in a New Mexico restaurant, ask for them \"Christmas\"",
+      "answer": "(chili) peppers",
+      "is_daily_double": false,
+      "id": "122118"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "1",
+      "category": "NEW MEXICO",
       "point_value": 400,
-      "question": "While eating at the Pharisee's house, Jesus had these washed, wiped with hair, then anointed with ointment",
-      "answer": "His feet",
+      "question": "Century in which New Mexico became a state",
+      "answer": "the 20th century",
       "is_daily_double": false,
-      "id": "276928"
+      "id": "122119"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "1",
-      "category": "GOSPEL TRUTH",
-      "point_value": 600,
-      "question": "He'd been dead 4 days before Jesus raised him back to life",
-      "answer": "Lazarus",
+      "category": "NEW MEXICO",
+      "point_value": 500,
+      "question": "Ruts made by the wagons on this trail 150 years ago are still visible in Union County",
+      "answer": "the Santa Fe Trail",
       "is_daily_double": false,
-      "id": "276929"
+      "id": "122120"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "1",
-      "category": "GOSPEL TRUTH",
-      "point_value": 800,
-      "question": "Call Greenpeace! In Matthew 4 Peter & Andrew left these in the sea when Jesus called them",
-      "answer": "their nets",
+      "category": "WORLD OF BEERS",
+      "point_value": 100,
+      "question": "Innsbruck lager & Steffl Old Vienna lager",
+      "answer": "Austria",
       "is_daily_double": false,
-      "id": "276930"
+      "id": "122121"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "1",
-      "category": "GOSPEL TRUTH",
-      "point_value": 1000,
-      "question": "In Mark 1 Jesus \"healed many that were sick... and cast out many devils; and suffered not the devils to\" do this",
-      "answer": "speak",
-      "is_daily_double": false,
-      "id": "276931"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "1",
-      "category": "HAIL TO THE CHIEF",
+      "category": "WORLD OF BEERS",
       "point_value": 200,
-      "question": "Many people claim to have seen a ghost in the White House bedroom named for this president",
-      "answer": "Lincoln",
+      "question": "Grizzly Bear & Molson Light",
+      "answer": "Canada",
       "is_daily_double": false,
-      "id": "276932"
+      "id": "122122"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "1",
-      "category": "HAIL TO THE CHIEF",
+      "category": "WORLD OF BEERS",
+      "point_value": 300,
+      "question": "Asahi & Sapporo",
+      "answer": "Japan",
+      "is_daily_double": false,
+      "id": "122123"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "1",
+      "category": "WORLD OF BEERS",
       "point_value": 400,
-      "question": "One of 3 to do so, he was the first president to die on July 4",
-      "answer": "Jefferson",
+      "question": "Cooper's Extra Stout & Foster's lager",
+      "answer": "Australia",
       "is_daily_double": false,
-      "id": "276933"
+      "id": "122124"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "1",
-      "category": "HAIL TO THE CHIEF",
-      "point_value": 600,
-      "question": "So far, he's the only president sworn into office by a woman",
-      "answer": "LBJ",
+      "category": "WORLD OF BEERS",
+      "point_value": 500,
+      "question": "Tuborg & Carlsberg",
+      "answer": "Denmark",
       "is_daily_double": false,
-      "id": "276934"
+      "id": "122125"
     },
     {
-      "air_date": "2006-09-26",
-      "round": "1",
-      "category": "HAIL TO THE CHIEF",
-      "point_value": 800,
-      "question": "While he was president, his residence was a house on Cherry Street in New York City",
-      "answer": "George Washington",
-      "is_daily_double": false,
-      "id": "276935"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "1",
-      "category": "HAIL TO THE CHIEF",
-      "point_value": 1000,
-      "question": "He was the first vice president to become president upon the death of a president",
-      "answer": "John Tyler",
-      "is_daily_double": false,
-      "id": "276936"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "1",
-      "category": "HIPPO-POURRI",
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "ART & ARTISTS",
       "point_value": 200,
-      "question": "If you played the Hungry Hungry Hippos board game you'd know that the hippos were trying to eat these objects",
-      "answer": "marbles",
+      "question": "He made 2 surrealist films with Luis Bunuel: \"An Andalusian Dog\" & \"The Golden Age\"",
+      "answer": "Dali",
       "is_daily_double": false,
-      "id": "276937"
+      "id": "122126"
     },
     {
-      "air_date": "2006-09-26",
-      "round": "1",
-      "category": "HIPPO-POURRI",
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "ART & ARTISTS",
       "point_value": 400,
-      "question": "Hippopotami eat grass, leaves & fruit, meaning they're this, from the Latin for \"plant eater\"",
-      "answer": "herbivores",
+      "question": "Some consider his \"Last Supper\" in Milan the first work of the High Renaissance",
+      "answer": "da Vinci",
       "is_daily_double": false,
-      "id": "276938"
+      "id": "122127"
     },
     {
-      "air_date": "2006-09-26",
-      "round": "1",
-      "category": "HIPPO-POURRI",
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "ART & ARTISTS",
       "point_value": 600,
-      "question": "In this 1940 Disney flick, prima donna Hyacinth Hippo cavorts with Ben Ali Gator to the \"Dance Of The Hours\"",
-      "answer": "Fantasia",
-      "is_daily_double": false,
-      "id": "276939"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "1",
-      "category": "HIPPO-POURRI",
-      "point_value": 800,
-      "question": "Back in the day, if you were the Bishop of Hippo, you were based in what's now this North African country",
-      "answer": "Algeria",
-      "is_daily_double": false,
-      "id": "276940"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "1",
-      "category": "NHL TEAMS IN OTHER WORDS",
-      "point_value": 200,
-      "question": "The Monarchs",
-      "answer": "the Kings",
-      "is_daily_double": false,
-      "id": "276941"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "1",
-      "category": "NHL TEAMS IN OTHER WORDS",
-      "point_value": 400,
-      "question": "The Great Whites",
-      "answer": "the (San Jose) Sharks",
-      "is_daily_double": false,
-      "id": "276942"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "1",
-      "category": "NHL TEAMS IN OTHER WORDS",
-      "point_value": 600,
-      "question": "Electrical Discharge",
-      "answer": "the (Tampa Bay) Lightning",
-      "is_daily_double": false,
-      "id": "276943"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "1",
-      "category": "NHL TEAMS IN OTHER WORDS",
-      "point_value": 800,
-      "question": "Tropical Storms",
-      "answer": "the Hurricanes",
-      "is_daily_double": false,
-      "id": "276944"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "1",
-      "category": "NHL TEAMS IN OTHER WORDS",
-      "point_value": 1000,
-      "question": "The Cavalry Swords",
-      "answer": "the (Buffalo) Sabres",
-      "is_daily_double": false,
-      "id": "276945"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "ANCIENT TALK",
-      "point_value": 400,
-      "question": "In Hebrew this book of the Bible is Bereshith, the \"resh\" related to \"rosh\", meaning \"beginning\"",
-      "answer": "Genesis",
-      "is_daily_double": false,
-      "id": "276951"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "ANCIENT TALK",
-      "point_value": 800,
-      "question": "It's Latin for \"from\", as when it precedes \"cathedra\" or \"nihilo\"; I get along pretty well with mine",
-      "answer": "ex",
-      "is_daily_double": false,
-      "id": "276952"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "ANCIENT TALK",
-      "point_value": 1200,
-      "question": "(Jimmy of the Clue Crew finds a clue engraved in hieroglyphs in Abu Simbel, Egypt.) This Egyptian word for \"good\" or \"beautiful\" came before \"titi\" & \"tari\" in the name of Egyptian women",
-      "answer": "nefer",
-      "is_daily_double": false,
-      "id": "276953"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "ANCIENT TALK",
-      "point_value": 1600,
-      "question": "Now a 5-letter suffix, it was the Greek term for the type of community we call a city-state",
-      "answer": "polis",
-      "is_daily_double": false,
-      "id": "276954"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "ANCIENT TALK",
-      "point_value": 2000,
-      "question": "(Cheryl of the Clue Crew points out circles animated on a plot on the monitor.) On a curve, the circles that best approximate the curvature at each point are called \"osculating circles\", from the Latin \"osculare\", to do this",
-      "answer": "kiss",
-      "is_daily_double": false,
-      "id": "276955"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "NAMES YOU SHOULD KNOW",
-      "point_value": 400,
-      "question": "In 1916 this Nobel winner became a professor of physics at the University of Copenhagen",
-      "answer": "Niels Bohr",
-      "is_daily_double": false,
-      "id": "276956"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "NAMES YOU SHOULD KNOW",
-      "point_value": 800,
-      "question": "The glasses & beret were classy, but this somewhat suicidal fish mascot was never good enough for StarKist",
-      "answer": "Charlie (the) Tuna",
-      "is_daily_double": false,
-      "id": "276957"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "NAMES YOU SHOULD KNOW",
-      "point_value": 1200,
-      "question": "Sharing her first name with Robin Hood's sweetie, this African-Amer. contralto earned the 1963 Pres. Medal of Freedom",
-      "answer": "Marian Anderson",
-      "is_daily_double": false,
-      "id": "276958"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "NAMES YOU SHOULD KNOW",
-      "point_value": 1600,
-      "question": "Ambrose by any other name... He wrote \"An Occurrence at Owl Creek Bridge\" & \"The Devil's Dictionary\"",
-      "answer": "(Ambrose) Bierce",
-      "is_daily_double": false,
-      "id": "276959"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "NAMES YOU SHOULD KNOW",
-      "point_value": 2000,
-      "question": "Let's \"Z\" about this German-born publisher of the N.Y. Weekly Journal, acquitted of libel in 1735",
-      "answer": "(John Peter) Zenger",
+      "question": "The friendship of these 2 creators of analytical Cubism ended at the start of WWI",
+      "answer": "Pablo Picasso & Georges Braque",
       "is_daily_double": true,
-      "id": "276960"
+      "id": "122128"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "2",
-      "category": "OF THE WESTERN WORLD",
-      "point_value": 400,
-      "question": "Members of the Somoza family ruled this Central American country for 38 of the 42 years between 1937 & 1979",
-      "answer": "Nicaragua",
-      "is_daily_double": false,
-      "id": "276961"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "OF THE WESTERN WORLD",
+      "category": "ART & ARTISTS",
       "point_value": 800,
-      "question": "In the 1840s fur trader Robert Campbell of this company became the first white person to explore the Yukon region",
-      "answer": "the Hudson's Bay Company",
+      "question": "This Dutchman's finest pupil, Carel Fabritius, was killed in the great Delft explosion of 1654",
+      "answer": "Rembrandt",
       "is_daily_double": false,
-      "id": "276962"
+      "id": "122129"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "2",
-      "category": "OF THE WESTERN WORLD",
-      "point_value": 1200,
-      "question": "This city of 20 million is the westernmost capital city in the Americas",
-      "answer": "Mexico City",
+      "category": "ART & ARTISTS",
+      "point_value": 1000,
+      "question": "His \"Sunday Afternoon on the Island of La Grande Jatte\" was shown at the last Impressionist exhibition",
+      "answer": "(Georges) Seurat",
+      "is_daily_double": false,
+      "id": "122130"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "COMPOSERS",
+      "point_value": 200,
+      "question": "Civil War general Daniel Butterfield composed this \"Lights Out\" bugle call in 1862",
+      "answer": "\"Taps\"",
+      "is_daily_double": false,
+      "id": "122131"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "COMPOSERS",
+      "point_value": 400,
+      "question": "Domenico Scarlatti wrote over 550 pieces for this piano predecessor",
+      "answer": "the harpsichord",
+      "is_daily_double": false,
+      "id": "122132"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "COMPOSERS",
+      "point_value": 600,
+      "question": "Translated into English, Giuseppe Verdi becomes Joe Green & he becomes John Brook",
+      "answer": "Johann (Sebastian) Bach",
+      "is_daily_double": false,
+      "id": "122133"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "COMPOSERS",
+      "point_value": 800,
+      "question": "Kangaroos, tortoises & an elephant are among the creatures in his \"Carnival of the Animals\"",
+      "answer": "Saint-Saëns",
+      "is_daily_double": false,
+      "id": "122134"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "COMPOSERS",
+      "point_value": 1000,
+      "question": "His works are classified by D numbers for Otto Erich Deutsch; D.759 is the \"Unfinished\" symphony",
+      "answer": "Schubert",
+      "is_daily_double": false,
+      "id": "122135"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "GENERAL SCIENCE",
+      "point_value": 200,
+      "question": "The Earth's surface has 3 main features: the ocean floor, the mid-oceanic ridges & these land masses",
+      "answer": "continents",
+      "is_daily_double": false,
+      "id": "122136"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "GENERAL SCIENCE",
+      "point_value": 400,
+      "question": "Soft & sticky in warm weather & brittle in cold weather, add sulfur & heat it to vulcanize it",
+      "answer": "rubber",
+      "is_daily_double": false,
+      "id": "122137"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "GENERAL SCIENCE",
+      "point_value": 600,
+      "question": "A zygote has the full or diploid number of these",
+      "answer": "chromosomes",
+      "is_daily_double": false,
+      "id": "122138"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "GENERAL SCIENCE",
+      "point_value": 800,
+      "question": "This temperature scale is also called the absolute scale",
+      "answer": "Kelvin",
+      "is_daily_double": false,
+      "id": "122139"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "GENERAL SCIENCE",
+      "point_value": 1000,
+      "question": "It was the first subatomic particle discovered",
+      "answer": "the electron",
+      "is_daily_double": false,
+      "id": "122140"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "GEOGRAPHY",
+      "point_value": 200,
+      "question": "Jordan borders this \"sea\" that's 7 times saltier than the ocean",
+      "answer": "the Dead Sea",
+      "is_daily_double": false,
+      "id": "122141"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "GEOGRAPHY",
+      "point_value": 400,
+      "question": "Only 1% of the land of this country between Russia & China is arable",
+      "answer": "Mongolia",
+      "is_daily_double": false,
+      "id": "122142"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "GEOGRAPHY",
+      "point_value": 600,
+      "question": "Eritrea is located on the part of eastern Africa known as this",
+      "answer": "the Horn of Africa",
+      "is_daily_double": false,
+      "id": "122143"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "GEOGRAPHY",
+      "point_value": 800,
+      "question": "1 of the 2 countries that share the second- largest island in the world",
+      "answer": "Papua New Guinea (or Indonesia)",
       "is_daily_double": true,
-      "id": "276963"
+      "id": "122144"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "2",
-      "category": "OF THE WESTERN WORLD",
-      "point_value": 1600,
-      "question": "Of the Western Hemisphere countries with both an Atlantic & a Pacific coast, it's the smallest in area",
-      "answer": "Costa Rica",
+      "category": "GEOGRAPHY",
+      "point_value": 1000,
+      "question": "South American capital that's closest to the equator",
+      "answer": "Quito",
       "is_daily_double": false,
-      "id": "276964"
+      "id": "122145"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "2",
-      "category": "OF THE WESTERN WORLD",
-      "point_value": 2000,
-      "question": "This former name of Suriname reflected its status as a colony of the Netherlands",
-      "answer": "Dutch Guiana",
+      "category": "SHAKESPEARE'S ENGLISH",
+      "point_value": 200,
+      "question": "If you neeze, a variant of this word, you may be blessed",
+      "answer": "sneeze",
       "is_daily_double": false,
-      "id": "276965"
+      "id": "122146"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "2",
-      "category": "PLAY BOY",
+      "category": "SHAKESPEARE'S ENGLISH",
       "point_value": 400,
-      "question": "\"Sweet Bird of Youth\" & \"Cat on a Hot Tin Roof\"",
-      "answer": "(Tennessee) Williams",
+      "question": "Candied meant frozen, so discandy, a verb, meant this",
+      "answer": "to melt",
       "is_daily_double": false,
-      "id": "276966"
+      "id": "122147"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "2",
-      "category": "PLAY BOY",
+      "category": "SHAKESPEARE'S ENGLISH",
+      "point_value": 600,
+      "question": "Term for a fool's stick with a fool's head on top; it's now a trinket like bangles & beads",
+      "answer": "a bauble",
+      "is_daily_double": false,
+      "id": "122148"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "SHAKESPEARE'S ENGLISH",
       "point_value": 800,
-      "question": "\"After the Fall\" & \"The Crucible\"",
-      "answer": "(Arthur) Miller",
+      "question": "The upshot was the final shot or conclusion of a contest in this sport",
+      "answer": "archery",
       "is_daily_double": false,
-      "id": "276967"
+      "id": "122149"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "2",
-      "category": "PLAY BOY",
-      "point_value": 1200,
-      "question": "\"Hedda Gabler\" & \"An Enemy of the People\"",
-      "answer": "Ibsen",
+      "category": "SHAKESPEARE'S ENGLISH",
+      "point_value": 1000,
+      "question": "It's what an anthropophaginian is",
+      "answer": "a cannibal",
       "is_daily_double": false,
-      "id": "276968"
+      "id": "122150"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "2",
-      "category": "PLAY BOY",
-      "point_value": 1600,
-      "question": "\"California Suite\" & \"Plaza Suite\"",
-      "answer": "Neil Simon",
+      "category": "THE ANCIENTS",
+      "point_value": 200,
+      "question": "This dictator of Rome, assassinated in 44 B.C., always wore a laurel wreath to cover his baldness",
+      "answer": "Julius Caesar",
       "is_daily_double": false,
-      "id": "276969"
+      "id": "122151"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "2",
-      "category": "PLAY BOY",
-      "point_value": 2000,
-      "question": "\"Major Barbara\" & \"Arms and the Man\"",
-      "answer": "(George Bernard) Shaw",
-      "is_daily_double": false,
-      "id": "276970"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "THE HISTORY OF SCIENCE",
+      "category": "THE ANCIENTS",
       "point_value": 400,
-      "question": "Botanist John Ray made Linnaeus' work possible by establishing this unit of taxonomy, from the Latin for \"form\"",
-      "answer": "species",
+      "question": "After leading his army across the Alps, he campaigned in Italy for 16 years",
+      "answer": "Hannibal",
       "is_daily_double": false,
-      "id": "276971"
+      "id": "122152"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "2",
-      "category": "THE HISTORY OF SCIENCE",
+      "category": "THE ANCIENTS",
+      "point_value": 600,
+      "question": "Peisistratus was tyrant of this Greek city-state from 546-527 B.C.",
+      "answer": "Athens",
+      "is_daily_double": false,
+      "id": "122153"
+    },
+    {
+      "air_date": "1994-12-05",
+      "round": "2",
+      "category": "THE ANCIENTS",
       "point_value": 800,
-      "question": "The father of this \"father of antiseptic surgery\" was one of the first to describe red blood cells",
-      "answer": "(Joseph) Lister",
+      "question": "Apollonius Rhodius wrote \"Argonautica\", an epic dealing with this man's quest for the Golden Fleece",
+      "answer": "Jason",
       "is_daily_double": false,
-      "id": "276972"
+      "id": "122154"
     },
     {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "2",
-      "category": "THE HISTORY OF SCIENCE",
-      "point_value": 1200,
-      "question": "In 1990 IBM scientists created the first structure made by moving individual ones of these on a surface",
-      "answer": "atoms",
+      "category": "THE ANCIENTS",
+      "point_value": 1000,
+      "question": "This author of \"The Frogs\" is the only \"Old Comedy\" writer for whom complete plays survive",
+      "answer": "Aristophanes",
       "is_daily_double": false,
-      "id": "276973"
+      "id": "122155"
     },
     {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "THE HISTORY OF SCIENCE",
-      "point_value": 1600,
-      "question": "In the 1780s Gaspard Monge was the first to do this to a substance that's normally a gas, sulfur dioxide",
-      "answer": "liquefy it",
-      "is_daily_double": false,
-      "id": "276974"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "THE HISTORY OF SCIENCE",
-      "point_value": 2000,
-      "question": "Poet Geoffrey Chaucer wrote a treatise on this scientific instrument later replaced by the sextant",
-      "answer": "the astrolabe",
-      "is_daily_double": false,
-      "id": "276975"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "TRANSPORTATION IN SONG",
-      "point_value": 400,
-      "question": "In \"Dead Man's Curve\" the driver of a Jaguar XK-E challenged the driver of this Chevy sports car to a drag race",
-      "answer": "a (Stingray) Corvette",
-      "is_daily_double": false,
-      "id": "276976"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "TRANSPORTATION IN SONG",
-      "point_value": 800,
-      "question": "In \"The Letter\" the Box Tops didn't have \"time to make the fast train\", so they got a ticket on this",
-      "answer": "an airplane",
-      "is_daily_double": false,
-      "id": "276977"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "TRANSPORTATION IN SONG",
-      "point_value": 1200,
-      "question": "The Hollies' first Top 10 hit, it told of the romance that developed under a shared umbrella",
-      "answer": "\"Bus Stop\"",
-      "is_daily_double": false,
-      "id": "276978"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "TRANSPORTATION IN SONG",
-      "point_value": 1600,
-      "question": "Completes the Gary Numan lyric \"Nothing seems right in...\"",
-      "answer": "cars",
-      "is_daily_double": false,
-      "id": "276979"
-    },
-    {
-      "air_date": "2006-09-26",
-      "round": "2",
-      "category": "TRANSPORTATION IN SONG",
-      "point_value": 2000,
-      "question": "In Kathy Mattea's song these \"And A Dozen Roses\", a trucker is retiring \"after 30 years of drivin' up & down the interstate\"",
-      "answer": "\"Eighteen Wheels\"",
-      "is_daily_double": false,
-      "id": "276980"
-    },
-    {
-      "air_date": "2006-09-26",
+      "air_date": "1994-12-05",
       "round": "3",
-      "category": "LITERARY CINEMA",
+      "category": "THE BIBLE",
       "point_value": 0,
-      "question": "A silent film of this Russian tale was released in 2 versions: in one, Garbo commits suicide; in the other, Garbo lives",
-      "answer": "Anna Karenina (by Leo Tolstoy)",
+      "question": "Ehud, Jephthah & Gideon are 3 of the people for whom this Old Testament book is named",
+      "answer": "Judges",
       "is_daily_double": false,
-      "id": "276981"
+      "id": "122156"
     }
   ]
 }
