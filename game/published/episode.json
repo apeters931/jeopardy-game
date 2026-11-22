@@ -1,616 +1,546 @@
 {
-  "id": "c223ba9f18f33bfb",
-  "air_date": "1996-05-14",
+  "id": "189877ee4b6ff3c6",
+  "air_date": "1985-10-08",
   "questions": [
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
       "round": "1",
-      "category": "LEAD SINGERS",
+      "category": "FICTIONAL ANIMALS",
       "point_value": 100,
-      "question": "Mick Jagger",
-      "answer": "The Rolling Stones",
+      "question": "Peter Rabbit's 3 sisters",
+      "answer": "Flopsy, Mopsy & Cottontail",
       "is_daily_double": false,
-      "id": "141939"
+      "id": "9406"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
       "round": "1",
-      "category": "LEAD SINGERS",
-      "point_value": 200,
-      "question": "Eddie Vedder",
-      "answer": "Pearl Jam",
-      "is_daily_double": false,
-      "id": "141940"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "LEAD SINGERS",
-      "point_value": 300,
-      "question": "Layne Staley",
-      "answer": "Alice in Chains",
-      "is_daily_double": false,
-      "id": "141941"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "LEAD SINGERS",
+      "category": "FICTIONAL ANIMALS",
       "point_value": 400,
-      "question": "Billy Corgan",
-      "answer": "Smashing Pumpkins",
+      "question": "Major was a boar whose deathbed speech led to revolution in this 1946 George Orwell novel",
+      "answer": "Animal Farm",
       "is_daily_double": false,
-      "id": "141942"
+      "id": "9407"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
       "round": "1",
-      "category": "LEAD SINGERS",
+      "category": "ORGANIZATIONS",
+      "point_value": 100,
+      "question": "Each year this auto maker's foundation awards more money than any other in the U.S.",
+      "answer": "Ford",
+      "is_daily_double": false,
+      "id": "9408"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "1",
+      "category": "ORGANIZATIONS",
+      "point_value": 200,
+      "question": "It was formed in 1935 when Bill W., a stockbroker, & Dr. Bob S. helped each other stay sober",
+      "answer": "the Double A (Alcoholics Anonymous)",
+      "is_daily_double": false,
+      "id": "9409"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "1",
+      "category": "ORGANIZATIONS",
+      "point_value": 300,
+      "question": "Youth group founded by Curtis Sliwa in 1979 to patrol NYC's most dangerous subway lines",
+      "answer": "the Guardian Angels",
+      "is_daily_double": false,
+      "id": "9410"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "1",
+      "category": "ORGANIZATIONS",
+      "point_value": 400,
+      "question": "It was formed on Lincoln's birthday in 1909 to improve living conditions of Black Americans",
+      "answer": "NAACP",
+      "is_daily_double": false,
+      "id": "9411"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "1",
+      "category": "ORGANIZATIONS",
       "point_value": 500,
-      "question": "Dolores O'Riordan",
-      "answer": "The Cranberries",
+      "question": "Prince & Stevie Wonder won awards from this org. March 25, 1985",
+      "answer": "the Academy of Motion Picture Arts & Sciences",
       "is_daily_double": false,
-      "id": "141943"
+      "id": "9412"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
       "round": "1",
-      "category": "OCCUPATIONS",
+      "category": "ROCK 'N ROLL",
       "point_value": 100,
-      "question": "This term for a man who cuts hair is from the Latin word for \"beard\"",
-      "answer": "barber",
+      "question": "Full name of \"ELO\"",
+      "answer": "the Electric Light Orchestra",
       "is_daily_double": false,
-      "id": "141944"
+      "id": "9413"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
       "round": "1",
-      "category": "OCCUPATIONS",
+      "category": "ROCK 'N ROLL",
       "point_value": 200,
-      "question": "It's a clerk at a bank who accepts deposits & cashes checks",
-      "answer": "a teller",
+      "question": "Dave Stewart/Annie Lennox group named for the art of harmonious bodily movement",
+      "answer": "Eurythmics",
       "is_daily_double": false,
-      "id": "141945"
+      "id": "9414"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
       "round": "1",
-      "category": "OCCUPATIONS",
+      "category": "ROCK 'N ROLL",
       "point_value": 300,
-      "question": "A film \"cutter\", or the person at a publishing house who revises & oversees a manuscript",
-      "answer": "an editor",
-      "is_daily_double": false,
-      "id": "141946"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "OCCUPATIONS",
-      "point_value": 400,
-      "question": "The headwaiter at a restaurant is commonly referred to by this French term",
-      "answer": "maitre d'",
-      "is_daily_double": false,
-      "id": "141947"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "OCCUPATIONS",
-      "point_value": 500,
-      "question": "Apothecary is an old term for this profession",
-      "answer": "pharmacist",
-      "is_daily_double": false,
-      "id": "141948"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "PLANTS",
-      "point_value": 100,
-      "question": "You can kiss under this \"Christmas\" parasite, but don't eat the berries-they can be poisonous",
-      "answer": "mistletoe",
-      "is_daily_double": false,
-      "id": "141949"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "PLANTS",
-      "point_value": 200,
-      "question": "This green plant pigment still absorbs light when extracted & dried",
-      "answer": "chlorophyll",
-      "is_daily_double": false,
-      "id": "141950"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "PLANTS",
-      "point_value": 300,
-      "question": "Honey locusts & pyracantha shrubs are examples of plants with these sharp-pointed modified branches",
-      "answer": "thorns",
-      "is_daily_double": false,
-      "id": "141951"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "PLANTS",
-      "point_value": 400,
-      "question": "This \"bald\" swamp tree is the state tree of Louisiana",
-      "answer": "cypress",
-      "is_daily_double": false,
-      "id": "141952"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "PLANTS",
-      "point_value": 500,
-      "question": "The sphagnum type of this plant usually covers a bog",
-      "answer": "moss",
-      "is_daily_double": false,
-      "id": "141953"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "THE \"EX\" FILES",
-      "point_value": 100,
-      "question": "Enter's opposite",
-      "answer": "exit",
-      "is_daily_double": false,
-      "id": "141954"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "THE \"EX\" FILES",
-      "point_value": 200,
-      "question": "To breathe out",
-      "answer": "exhale",
-      "is_daily_double": false,
-      "id": "141955"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "THE \"EX\" FILES",
-      "point_value": 300,
-      "question": "It's how a Roman Catholic archbishop or a foreign ambassador should be addressed",
-      "answer": "your excellency",
-      "is_daily_double": false,
-      "id": "141956"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "THE \"EX\" FILES",
-      "point_value": 400,
-      "question": "Another name for the White House",
-      "answer": "Executive Mansion",
-      "is_daily_double": false,
-      "id": "141957"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "THE \"EX\" FILES",
-      "point_value": 500,
-      "question": "It marks an interjection",
-      "answer": "an exclamation point",
-      "is_daily_double": false,
-      "id": "141958"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "THE OLYMPICS",
-      "point_value": 100,
-      "question": "In 1992 Michael Stich & Boris Becker won the doubles gold in this sport",
-      "answer": "tennis",
-      "is_daily_double": false,
-      "id": "141959"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "THE OLYMPICS",
-      "point_value": 200,
-      "question": "In 1994 this Ukrainian won figure skating gold a day after a training injury that required stitches",
-      "answer": "(Oksana) Baiul",
-      "is_daily_double": false,
-      "id": "141960"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "THE OLYMPICS",
-      "point_value": 300,
-      "question": "For Olympic play in this sport, a 30-second rather than a 24-second shot clock is used",
-      "answer": "basketball",
-      "is_daily_double": false,
-      "id": "141961"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "1",
-      "category": "THE OLYMPICS",
-      "point_value": 400,
-      "question": "This host country won the most total medals at the 1994 Winter Olympics",
-      "answer": "Norway",
+      "question": "\"Material\" girls who sang the following: \"Do-lang-do-lang-do-lang...\"",
+      "answer": "The Chiffons",
       "is_daily_double": true,
-      "id": "141962"
+      "id": "9415"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
       "round": "1",
-      "category": "THE OLYMPICS",
-      "point_value": 500,
-      "question": "This event where athletes slide down a track on a runnered vehicle joined the Winter Games in 1964",
-      "answer": "the luge",
+      "category": "ROCK 'N ROLL",
+      "point_value": 400,
+      "question": "Because she sounds \"Black\", but is white, Motown left her photo off this \"Lovergirls\" 1st album",
+      "answer": "Teena Marie",
       "is_daily_double": false,
-      "id": "141963"
+      "id": "9416"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
       "round": "1",
-      "category": "THE REVOLUTIONARY WAR",
+      "category": "ROCK 'N ROLL",
+      "point_value": 500,
+      "question": "Like in their hit \"Spinning Wheel\", fame for them went up in the '60s & came down in the '70s",
+      "answer": "Blood, Sweat & Tears",
+      "is_daily_double": false,
+      "id": "9417"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "1",
+      "category": "STARTS WITH \"Z\"",
       "point_value": 100,
-      "question": "On guard duty, this seamstress' 1st husband John was killed in a 1776 explosion; she remarried twice",
-      "answer": "Betsy Ross",
+      "question": "Numerically, nothing",
+      "answer": "zero",
       "is_daily_double": false,
-      "id": "141964"
+      "id": "9418"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
       "round": "1",
-      "category": "THE REVOLUTIONARY WAR",
+      "category": "STARTS WITH \"Z\"",
       "point_value": 200,
-      "question": "John Trumbull was an officer & an artist; his works include \"Surrender of\" this man \"at Yorktown\"",
-      "answer": "Cornwallis",
+      "question": "Bob Dylan before he became Dylan",
+      "answer": "Zimmerman",
       "is_daily_double": false,
-      "id": "141965"
+      "id": "9419"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
       "round": "1",
-      "category": "THE REVOLUTIONARY WAR",
+      "category": "STARTS WITH \"Z\"",
       "point_value": 300,
-      "question": "John Parker led this group against the British in the first battle of the war",
-      "answer": "the minutemen",
+      "question": "The condition in which birth rate equals the death rate, known by the initials ZPG",
+      "answer": "zero population growth",
       "is_daily_double": false,
-      "id": "141966"
+      "id": "9420"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
       "round": "1",
-      "category": "THE REVOLUTIONARY WAR",
+      "category": "STARTS WITH \"Z\"",
       "point_value": 400,
-      "question": "Ezra Lee was the pilot of David Bushnell's \"Turtle\", the first attack type of this craft",
-      "answer": "a submarine",
+      "question": "First name of 12th president of the U.S.",
+      "answer": "Zachary",
       "is_daily_double": false,
-      "id": "141967"
+      "id": "9421"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
       "round": "1",
-      "category": "THE REVOLUTIONARY WAR",
+      "category": "STARTS WITH \"Z\"",
       "point_value": 500,
-      "question": "David Williams, John Paulding & Isaac Van Wart became celebrities after capturing this major, a British spy",
-      "answer": "(John) Andre",
+      "question": "From a subordinate clown who mimics the tricks of his leader, it means amusingly absurd",
+      "answer": "zany",
       "is_daily_double": false,
-      "id": "141968"
+      "id": "9422"
     },
     {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "CHILDREN'S LITERATURE",
+      "air_date": "1985-10-08",
+      "round": "1",
+      "category": "TECHNOLOGY",
+      "point_value": 100,
+      "question": "Its nicknames include eggbeater, flying windmill, & whirlybird",
+      "answer": "a helicopter",
+      "is_daily_double": false,
+      "id": "9423"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "1",
+      "category": "TECHNOLOGY",
       "point_value": 200,
-      "question": "In this Hans Christian Andersen tale, a little child remarks \"He doesn't have anything on!\"",
-      "answer": "The Emperor's New Clothes",
+      "question": "The Civil War's Gatling gun was the 1st practical version of this",
+      "answer": "a machine gun",
       "is_daily_double": false,
-      "id": "141969"
+      "id": "9424"
     },
     {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "CHILDREN'S LITERATURE",
+      "air_date": "1985-10-08",
+      "round": "1",
+      "category": "TECHNOLOGY",
+      "point_value": 300,
+      "question": "1 of 2 metals used for tools in ancient times before iron came into vogue",
+      "answer": "(1 of) bronze (or copper)",
+      "is_daily_double": false,
+      "id": "9425"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "1",
+      "category": "TECHNOLOGY",
       "point_value": 400,
-      "question": "He spins straw into gold for the miller's daughter",
-      "answer": "Rumpelstiltskin",
+      "question": "From 1801-1885, forerunners of the automobile had this low-pollution engine",
+      "answer": "steam",
       "is_daily_double": false,
-      "id": "141970"
+      "id": "9426"
     },
     {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "CHILDREN'S LITERATURE",
-      "point_value": 600,
-      "question": "Before becoming a sea captain, Lemuel Gulliver practices this profession",
-      "answer": "medicine",
+      "air_date": "1985-10-08",
+      "round": "1",
+      "category": "TECHNOLOGY",
+      "point_value": 500,
+      "question": "Tool designed by London blacksmith Charles Moncke",
+      "answer": "the monkey wrench",
       "is_daily_double": false,
-      "id": "141971"
+      "id": "9427"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
+      "round": "1",
+      "category": "WOOD",
+      "point_value": 100,
+      "question": "Wood & losing fighters are beaten into it",
+      "answer": "a pulp",
+      "is_daily_double": false,
+      "id": "9428"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "1",
+      "category": "WOOD",
+      "point_value": 200,
+      "question": "Fort Wood is the base this famous statue stands on",
+      "answer": "the Statue of Liberty",
+      "is_daily_double": false,
+      "id": "9429"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "1",
+      "category": "WOOD",
+      "point_value": 300,
+      "question": "Portuguese for \"wood\", it's the name of their islands famous for wine, my dear",
+      "answer": "Madeira",
+      "is_daily_double": false,
+      "id": "9430"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "1",
+      "category": "WOOD",
+      "point_value": 400,
+      "question": "Measure of wood which can produce 7.5 mil. toothpicks, 30 rocking chairs, or 61,370 envelopes",
+      "answer": "a cord",
+      "is_daily_double": false,
+      "id": "9431"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "1",
+      "category": "WOOD",
+      "point_value": 500,
+      "question": "The Temple of Solomon was built of this wood",
+      "answer": "cedars (of Lebanon)",
+      "is_daily_double": false,
+      "id": "9432"
+    },
+    {
+      "air_date": "1985-10-08",
       "round": "2",
-      "category": "CHILDREN'S LITERATURE",
+      "category": "COLONIAL AMERICA",
+      "point_value": 200,
+      "question": "In 1731, he founded America's 1st circulating library",
+      "answer": "Benjamin Franklin",
+      "is_daily_double": false,
+      "id": "9433"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "COLONIAL AMERICA",
       "point_value": 800,
-      "question": "This legendary outlaw of Nottinghamshire began appearing in children's books in the 19th century",
-      "answer": "Robin Hood",
-      "is_daily_double": false,
-      "id": "141972"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "CHILDREN'S LITERATURE",
-      "point_value": 1000,
-      "question": "This book's first edition said it was \"translated from the original equine, by Anna Sewell\"",
-      "answer": "Black Beauty",
-      "is_daily_double": false,
-      "id": "141973"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "COLORS",
-      "point_value": 200,
-      "question": "Color of a coward's bell",
-      "answer": "yellow",
-      "is_daily_double": false,
-      "id": "141974"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "COLORS",
-      "point_value": 400,
-      "question": "Jeff Foxworthy has many tests to see if you're one of these",
-      "answer": "a redneck",
-      "is_daily_double": false,
-      "id": "141975"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "COLORS",
-      "point_value": 600,
-      "question": "A shade of brown used to be made from these preserved bodies of ancient Egyptians",
-      "answer": "mummies",
-      "is_daily_double": false,
-      "id": "141976"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "COLORS",
-      "point_value": 800,
-      "question": "Rhodopsin in the rods of your eyes is also called \"visual\" this royal color",
-      "answer": "purple",
-      "is_daily_double": false,
-      "id": "141977"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "COLORS",
-      "point_value": 1000,
-      "question": "Tattletale this is a shade of dirty white",
-      "answer": "tattletale gray",
-      "is_daily_double": false,
-      "id": "141978"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "MODERN HISTORY",
-      "point_value": 200,
-      "question": "In May 1974 India tested this type of explosive device",
-      "answer": "an atomic bomb",
-      "is_daily_double": false,
-      "id": "141979"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "MODERN HISTORY",
-      "point_value": 400,
-      "question": "In October 1957 she became the first British monarch to open Canada's parliament",
-      "answer": "Elizabeth II",
-      "is_daily_double": false,
-      "id": "141980"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "MODERN HISTORY",
-      "point_value": 600,
-      "question": "In 1985 researchers from Woods Hole Oceanographic Institute located the wreckage of this liner",
-      "answer": "the Titanic",
-      "is_daily_double": false,
-      "id": "141981"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "MODERN HISTORY",
-      "point_value": 800,
-      "question": "In 1928 Ataturk removed the constitutional provision that named this Turkey's state religion",
-      "answer": "Islam",
-      "is_daily_double": false,
-      "id": "141982"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "MODERN HISTORY",
-      "point_value": 1000,
-      "question": "9 members of this cult escaped the fire that engulfed their complex near Waco, Texas in 1993",
-      "answer": "the Branch Davidians",
-      "is_daily_double": false,
-      "id": "141983"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "PROVERBS",
-      "point_value": 200,
-      "question": "A word to\" them \"is enough\"",
-      "answer": "the wise",
-      "is_daily_double": false,
-      "id": "141984"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "PROVERBS",
-      "point_value": 400,
-      "question": "\"Where there's a will, there's\" this",
-      "answer": "a way",
-      "is_daily_double": false,
-      "id": "141985"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "PROVERBS",
-      "point_value": 600,
-      "question": "\"None so\" this \"as those who will not see\"",
-      "answer": "blind",
-      "is_daily_double": false,
-      "id": "141986"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "PROVERBS",
-      "point_value": 800,
-      "question": "\"Don't wash your\" this \"in public\"",
-      "answer": "dirty laundry",
-      "is_daily_double": false,
-      "id": "141987"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "PROVERBS",
-      "point_value": 1000,
-      "question": "\"Never\" do this \"of the dead\"",
-      "answer": "speak ill",
-      "is_daily_double": false,
-      "id": "141988"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "SCIENTISTS",
-      "point_value": 200,
-      "question": "He began to form his special theory of relativity when he was 16",
-      "answer": "Einstein",
-      "is_daily_double": false,
-      "id": "141989"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "SCIENTISTS",
-      "point_value": 400,
-      "question": "This naturalist's \"On the Origin of Species\" has been referred to as \"The Book that Shook the World\"",
-      "answer": "Darwin",
-      "is_daily_double": false,
-      "id": "141990"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "SCIENTISTS",
-      "point_value": 600,
-      "question": "This Russian physiologist coined the term conditioned reflex",
-      "answer": "Pavlov",
+      "question": "King James I gave this title to George Calvert, founder of Maryland",
+      "answer": "Lord Baltimore",
       "is_daily_double": true,
-      "id": "141991"
+      "id": "9434"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
       "round": "2",
-      "category": "SCIENTISTS",
-      "point_value": 800,
-      "question": "In 1977 this \"A Brief History of Time\" author became professor of gravitational physics at Cambridge",
-      "answer": "(Stephen) Hawking",
-      "is_daily_double": false,
-      "id": "141992"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "SCIENTISTS",
+      "category": "COLONIAL AMERICA",
       "point_value": 1000,
-      "question": "This \"Father of Modern Astronomy\" was born in Germany in 1571",
-      "answer": "(Johannes) Kepler",
+      "question": "The only 1 of 13 colonies established by Swedes",
+      "answer": "Delaware",
       "is_daily_double": false,
-      "id": "141993"
+      "id": "9435"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
       "round": "2",
-      "category": "SOUTH AMERICA",
+      "category": "ENGLISH POETRY",
       "point_value": 200,
-      "question": "The U.S. is world's leading coffee consumer; this large nation is the leading coffee producer",
-      "answer": "Brazil",
+      "question": "Alexander Pope wrote, it \"springs eternal in the human breast\"",
+      "answer": "hope",
       "is_daily_double": false,
-      "id": "141994"
+      "id": "9436"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
       "round": "2",
-      "category": "SOUTH AMERICA",
+      "category": "ENGLISH POETRY",
       "point_value": 400,
-      "question": "While rounding the tip of South America in 1520, one of his ships deserted & returned to Spain",
-      "answer": "Magellan",
+      "question": "Herrick wrote \"to virgins, to make much time\", \"gather ye\" these \"while ye may\"",
+      "answer": "rosebuds",
       "is_daily_double": false,
-      "id": "141995"
+      "id": "9437"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
       "round": "2",
-      "category": "SOUTH AMERICA",
+      "category": "ENGLISH POETRY",
       "point_value": 600,
-      "question": "This Chilean capital is dominated by 2 hills: Cerro Santa Lucia & Cerro San Cristobal",
-      "answer": "Santiago",
+      "question": "Milton said this of those \"who only stand & wait\"",
+      "answer": "they also serve",
       "is_daily_double": false,
-      "id": "141996"
+      "id": "9438"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
       "round": "2",
-      "category": "SOUTH AMERICA",
+      "category": "ENGLISH POETRY",
       "point_value": 800,
-      "question": "With huge oil reserves in the Maracaibo Basin, this country is the continent's top oil producer",
-      "answer": "Venezuela",
-      "is_daily_double": true,
-      "id": "141997"
-    },
-    {
-      "air_date": "1996-05-14",
-      "round": "2",
-      "category": "SOUTH AMERICA",
-      "point_value": 1000,
-      "question": "South America's largest wild land animal, this hoglike creature can grow as large as a pony",
-      "answer": "the tapir",
+      "question": "Coleridge character who cries, \"Water, water, everywhere, nor any drop to drink\"",
+      "answer": "the Ancient Mariner",
       "is_daily_double": false,
-      "id": "141998"
+      "id": "9439"
     },
     {
-      "air_date": "1996-05-14",
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "ENGLISH POETRY",
+      "point_value": 1000,
+      "question": "Concludes this Browning verse, \"The larks's on the wing; the snail's on the thorn: God's in his heaven—\"",
+      "answer": "All's right with the world!",
+      "is_daily_double": false,
+      "id": "9440"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "MATH",
+      "point_value": 200,
+      "question": "The 4 basic operations with numbers",
+      "answer": "addition, subtraction, multiplication & division",
+      "is_daily_double": false,
+      "id": "9441"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "MATH",
+      "point_value": 400,
+      "question": "Total number of humps of 1 Bactrian camel & 2 dromedaries",
+      "answer": "4",
+      "is_daily_double": false,
+      "id": "9442"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "MATH",
+      "point_value": 600,
+      "question": "A googol is the number written as 1 followed by this many zeroes",
+      "answer": "100",
+      "is_daily_double": false,
+      "id": "9443"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "MATH",
+      "point_value": 800,
+      "question": "1.73 is the approximate square root of this number",
+      "answer": "3",
+      "is_daily_double": true,
+      "id": "9444"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "MATH",
+      "point_value": 1000,
+      "question": "The next number in the series of 1, 3, 6, 10, ____",
+      "answer": "15",
+      "is_daily_double": false,
+      "id": "9445"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "MOVIES",
+      "point_value": 200,
+      "question": "Alternating between Victorian & WWII settings, Basil Rathbone played this sleuth in 14 films",
+      "answer": "Sherlock Holmes",
+      "is_daily_double": false,
+      "id": "9446"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "MOVIES",
+      "point_value": 400,
+      "question": "Spanky, Alfalfa & Darla appeared in films under these 2 group names",
+      "answer": "Our Gang & The Little Rascals",
+      "is_daily_double": false,
+      "id": "9447"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "MOVIES",
+      "point_value": 1000,
+      "question": "Made 5 years before \"Psycho\", this French suspense film scared audiences out of the bathtub",
+      "answer": "Diabolique",
+      "is_daily_double": false,
+      "id": "9448"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "NUTRITION",
+      "point_value": 200,
+      "question": "3 oz. of this pickled cabbage has only 18 calories",
+      "answer": "sauerkraut",
+      "is_daily_double": false,
+      "id": "9449"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "NUTRITION",
+      "point_value": 400,
+      "question": "By weight, most common mineral in the body is this, which forms teeth & bones",
+      "answer": "calcium",
+      "is_daily_double": false,
+      "id": "9450"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "NUTRITION",
+      "point_value": 600,
+      "question": "A primary food type along with proteins & carbohydrates, they help the body prevent viral infections",
+      "answer": "fats",
+      "is_daily_double": false,
+      "id": "9451"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "NUTRITION",
+      "point_value": 800,
+      "question": "There are 2 types of vitamins, fat-soluble & this kind",
+      "answer": "water-soluble",
+      "is_daily_double": false,
+      "id": "9452"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "NUTRITION",
+      "point_value": 1000,
+      "question": "Starches are complex forms of these simple carbohydrates",
+      "answer": "sugars",
+      "is_daily_double": false,
+      "id": "9453"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "POLITICAL QUOTES",
+      "point_value": 200,
+      "question": "19th c. writer Christopher North said, \"The sun never sets on\" it",
+      "answer": "the British Empire",
+      "is_daily_double": false,
+      "id": "9454"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "POLITICAL QUOTES",
+      "point_value": 400,
+      "question": "John Gunther called it \"the only country deliberately founded on a good idea\"",
+      "answer": "the United States of America",
+      "is_daily_double": false,
+      "id": "9455"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "POLITICAL QUOTES",
+      "point_value": 600,
+      "question": "Russian leader who said, \"The capitalists will sell us... the rope with which we will hang them\"",
+      "answer": "Lenin",
+      "is_daily_double": false,
+      "id": "9456"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "POLITICAL QUOTES",
+      "point_value": 800,
+      "question": "Pres. who said the Americas \"...are not to be considered as subjects for future colonization\"",
+      "answer": "(James) Monroe",
+      "is_daily_double": false,
+      "id": "9457"
+    },
+    {
+      "air_date": "1985-10-08",
+      "round": "2",
+      "category": "POLITICAL QUOTES",
+      "point_value": 1000,
+      "question": "\"We should keep the Panama Canal: after all, we stole it fair & square\", said this Cal. senator",
+      "answer": "(S.I.) Hayakawa",
+      "is_daily_double": false,
+      "id": "9458"
+    },
+    {
+      "air_date": "1985-10-08",
       "round": "3",
-      "category": "U.S. PRESIDENTS",
+      "category": "GEOGRAPHY",
       "point_value": 0,
-      "question": "He was the only president preceded & succeeded by the same man",
-      "answer": "Benjamin Harrison",
+      "question": "Other than North America, the continent closest to South America",
+      "answer": "Antarctica",
       "is_daily_double": false,
-      "id": "141999"
+      "id": "9459"
     }
   ]
 }
