@@ -1,606 +1,566 @@
 {
-  "id": "bcc6dc3c56f3e630",
-  "air_date": "2004-02-24",
+  "id": "b4a34c7c3682a338",
+  "air_date": "1990-11-15",
   "questions": [
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "ANAGRAMMED BIRDS",
+      "category": "\"G\" MEN",
+      "point_value": 100,
+      "question": "In 1980, at age 19, he became the youngest player named MVP of the NHL",
+      "answer": "Gretzky",
+      "is_daily_double": false,
+      "id": "69187"
+    },
+    {
+      "air_date": "1990-11-15",
+      "round": "1",
+      "category": "\"G\" MEN",
       "point_value": 200,
-      "question": "A holiday standard: KEY RUT",
-      "answer": "turkey",
+      "question": "He was Benson DuBois on TV before playing the \"Phantom of the Opera\" in L.A.",
+      "answer": "Robert Guillaume",
       "is_daily_double": false,
-      "id": "243030"
+      "id": "69188"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "ANAGRAMMED BIRDS",
+      "category": "\"G\" MEN",
+      "point_value": 300,
+      "question": "Under the pen name A.A. Fair, he created private eyes Bertha Cool & Donald Lam",
+      "answer": "Erle Stanley Gardner",
+      "is_daily_double": false,
+      "id": "69189"
+    },
+    {
+      "air_date": "1990-11-15",
+      "round": "1",
+      "category": "\"G\" MEN",
       "point_value": 400,
-      "question": "A big African: TO CHRIS",
-      "answer": "ostrich",
+      "question": "After helping to organize the AFL, he headed it for almost 40 years",
+      "answer": "Samuel Gompers",
       "is_daily_double": false,
-      "id": "243031"
+      "id": "69190"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "ANAGRAMMED BIRDS",
-      "point_value": 600,
-      "question": "A head-banger: COWPOKE RED",
-      "answer": "woodpecker",
+      "category": "\"G\" MEN",
+      "point_value": 500,
+      "question": "Convinced the novel was evil, he burned the second part of \"Dead Souls\" shortly before he died",
+      "answer": "Gogol",
       "is_daily_double": false,
-      "id": "243032"
+      "id": "69191"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "ANAGRAMMED BIRDS",
-      "point_value": 800,
-      "question": "A city dweller: EGO NIP",
-      "answer": "pigeon",
+      "category": "ESPAÑOL",
+      "point_value": 100,
+      "question": "It's Spanish for \"pineapple\", as those who drink pineapple-coconut cocktails should know",
+      "answer": "piña",
       "is_daily_double": false,
-      "id": "243033"
+      "id": "69162"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "ANAGRAMMED BIRDS",
-      "point_value": 1000,
-      "question": "A front yard favorite: I'M NO FLAG",
-      "answer": "flamingo",
-      "is_daily_double": false,
-      "id": "243034"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "1",
-      "category": "FOOD CHAIN",
+      "category": "ESPAÑOL",
       "point_value": 200,
-      "question": "In 1979 this chain introduced its Happy Meal",
-      "answer": "McDonald's",
+      "question": "A derisive word for a foreigner; Carlos Fuentes wrote of \"The Old\" one in 1985",
+      "answer": "gringo",
       "is_daily_double": false,
-      "id": "243035"
+      "id": "69163"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "FOOD CHAIN",
+      "category": "ESPAÑOL",
+      "point_value": 300,
+      "question": "The Spanish \"calabozo\" & the cowboy variation calaboose both mean thse",
+      "answer": "jail",
+      "is_daily_double": false,
+      "id": "69164"
+    },
+    {
+      "air_date": "1990-11-15",
+      "round": "1",
+      "category": "ESPAÑOL",
       "point_value": 400,
-      "question": "P.F. Chang's is an upscale bistro specializing in the cuisine of this country",
-      "answer": "China",
+      "question": "Any Spanish pier or wharf, or a certain waterfront area in San Francisco",
+      "answer": "embarcadero",
       "is_daily_double": false,
-      "id": "243036"
+      "id": "69165"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "FOOD CHAIN",
-      "point_value": 600,
-      "question": "Offering \"Home Style Meals\" & a line of frozen entrees, this chain is headquartered in Colorado, not Massachusetts",
-      "answer": "Boston Market",
+      "category": "ESPAÑOL",
+      "point_value": 500,
+      "question": "The traditional title for daughters of the kings of Portugal & Spain",
+      "answer": "infanta",
       "is_daily_double": false,
-      "id": "243037"
+      "id": "69166"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "FOOD CHAIN",
-      "point_value": 800,
-      "question": "\"Dip Into Something Different\" at the Melting Pot, found across the nation, & specializing in this Swiss dish",
-      "answer": "fondue",
+      "category": "FINAL RESTING PLACES",
+      "point_value": 100,
+      "question": "You'll find the 13 imperial tombs of the Ming dynasty in a valley on the outskirts of this capital",
+      "answer": "Beijing",
       "is_daily_double": false,
-      "id": "243038"
+      "id": "69167"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "FOOD CHAIN",
-      "point_value": 1000,
-      "question": "Featuring the Famous Bloomin' Onion, this restaurant also offers a Joey Menu for kids",
-      "answer": "Outback",
-      "is_daily_double": false,
-      "id": "243039"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "1",
-      "category": "FRANCIS SCOTT KEY",
+      "category": "FINAL RESTING PLACES",
       "point_value": 200,
-      "question": "Washingtonians refer to the Francis Scott Key Bridge over this river as \"The Car-Strangled Spanner\"",
-      "answer": "the Potomac",
+      "question": "Joseph Conrad is buried in the cemetery at this Gothic cathedral, as the archbishop could tell you",
+      "answer": "Canterbury",
       "is_daily_double": false,
-      "id": "243040"
+      "id": "69168"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "FRANCIS SCOTT KEY",
+      "category": "FINAL RESTING PLACES",
+      "point_value": 300,
+      "question": "He was buried on St. Helena in his favorite uniform in 1821 but was moved to Paris in 1840",
+      "answer": "Napoleon",
+      "is_daily_double": false,
+      "id": "69169"
+    },
+    {
+      "air_date": "1990-11-15",
+      "round": "1",
+      "category": "FINAL RESTING PLACES",
       "point_value": 400,
-      "question": "Part of Key's solution to this problem was helping found the American Colonization Society",
-      "answer": "slavery",
+      "question": "Father Damien was buried on this Hawaiian island but in 1936 his remains were moved to Belgium",
+      "answer": "Molokai",
       "is_daily_double": false,
-      "id": "243041"
+      "id": "69170"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "FRANCIS SCOTT KEY",
-      "point_value": 600,
-      "question": "Sent to this city in September 1814 to secure a prisoner exchange, Key got stuck near there during an attack",
-      "answer": "Baltimore",
+      "category": "FINAL RESTING PLACES",
+      "point_value": 500,
+      "question": "This Diaghilev dancer is buried near the great French dancer Auguste Vestris in Montmartre",
+      "answer": "Nijinsky",
       "is_daily_double": false,
-      "id": "243042"
+      "id": "69171"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "FRANCIS SCOTT KEY",
-      "point_value": 800,
-      "question": "James Lick of observatory fame was responsible for the Key Memorial in this San Francisco park",
-      "answer": "Golden Gate Park",
+      "category": "NATURE",
+      "point_value": 100,
+      "question": "This flower has been grown since ancient times for its foliage, fragrance & hips",
+      "answer": "a rose",
       "is_daily_double": false,
-      "id": "243043"
+      "id": "69172"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "FRANCIS SCOTT KEY",
-      "point_value": 1000,
-      "question": "Key's brother-in-law & law partner Roger B. Taney served as this from 1836 to 1864",
-      "answer": "Chief Justice of the Supreme Court",
-      "is_daily_double": false,
-      "id": "243044"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "1",
-      "category": "HARRISON FORD MOVIES",
+      "category": "NATURE",
       "point_value": 200,
-      "question": "\"Snakes. Why'd it have to be snakes?\"",
-      "answer": "Raiders of the Lost Ark",
+      "question": "It'll run if there's danger, or, if cornered, kick out, but will not as legend says bury its head",
+      "answer": "an ostrich",
       "is_daily_double": false,
-      "id": "243045"
+      "id": "69173"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "HARRISON FORD MOVIES",
+      "category": "NATURE",
+      "point_value": 300,
+      "question": "Of all the toucans, the toco has the biggest one of these",
+      "answer": "a beak",
+      "is_daily_double": false,
+      "id": "69174"
+    },
+    {
+      "air_date": "1990-11-15",
+      "round": "1",
+      "category": "NATURE",
       "point_value": 400,
-      "question": "\"Get off my plane!\"",
-      "answer": "Air Force One",
+      "question": "Mor & mull are 2 types of this black decayed organic matter in soil",
+      "answer": "humus",
       "is_daily_double": false,
-      "id": "243046"
+      "id": "69175"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "HARRISON FORD MOVIES",
-      "point_value": 600,
-      "question": "\"I didn't kill my wife!\"",
-      "answer": "The Fugitive",
+      "category": "NATURE",
+      "point_value": 500,
+      "question": "Legend says this flower's name comes from the last words of a knight who drowned picking one for his lady",
+      "answer": "a forget-me-not",
       "is_daily_double": false,
-      "id": "243047"
+      "id": "69176"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "HARRISON FORD MOVIES",
-      "point_value": 800,
-      "question": "\"Replicants are like any other machine — they're either a benefit or a hazard\"",
-      "answer": "Blade Runner",
+      "category": "TRAIN SONGS",
+      "point_value": 100,
+      "question": "In the old standard it's what \"I've\" been doing \"all the live-long day\"",
+      "answer": "working on the railroad",
       "is_daily_double": false,
-      "id": "243048"
+      "id": "69177"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "HARRISON FORD MOVIES",
-      "point_value": 1000,
-      "question": "\"Something wrong with buttons?...got anything against zippers?\"",
-      "answer": "Witness",
-      "is_daily_double": false,
-      "id": "243049"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "1",
-      "category": "I'LL MAKE A NOTE OF IT",
+      "category": "TRAIN SONGS",
       "point_value": 200,
-      "question": "In astrological notation, this sign is represented by 2 fish",
-      "answer": "Pisces",
+      "question": "The Monkees took \"The Last Train\" there in 1966 & made it their first No. 1 hit",
+      "answer": "Clarksville",
       "is_daily_double": false,
-      "id": "243050"
+      "id": "69178"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "I'LL MAKE A NOTE OF IT",
+      "category": "TRAIN SONGS",
+      "point_value": 300,
+      "question": "The British singer who rode the \"Morning Train\" to the top of the charts in 1981",
+      "answer": "Sheena Easton",
+      "is_daily_double": false,
+      "id": "69179"
+    },
+    {
+      "air_date": "1990-11-15",
+      "round": "1",
+      "category": "TRAIN SONGS",
       "point_value": 400,
-      "question": "(Sarah of the Clue Crew at the chalkboard) It's the classic game being represented here",
-      "answer": "chess",
-      "is_daily_double": false,
-      "id": "243051"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "1",
-      "category": "I'LL MAKE A NOTE OF IT",
-      "point_value": 600,
-      "question": "In the 1800s this Frenchman also developed a musical notation system for blind musicians",
-      "answer": "Louis Braille",
-      "is_daily_double": false,
-      "id": "243052"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "1",
-      "category": "I'LL MAKE A NOTE OF IT",
-      "point_value": 800,
-      "question": "In physics notation the speed of light is symbolized by this letter in lower case",
-      "answer": "c",
+      "question": "The title destination of the train in this 1973 No. 1 hit: \"L.A. proved too much for the man...\"",
+      "answer": "Georgia",
       "is_daily_double": true,
-      "id": "243053"
+      "id": "69180"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "I'LL MAKE A NOTE OF IT",
-      "point_value": 1000,
-      "question": "Named for its inventor, Labanotation is a notation system for this so you know when to do a fouette",
-      "answer": "dance",
+      "category": "TRAIN SONGS",
+      "point_value": 500,
+      "question": "In \"The Harvey Girls\", Judy Garland sang about this railroad",
+      "answer": "the Atchison, Topeka, and the Santa Fe",
       "is_daily_double": false,
-      "id": "243054"
+      "id": "69181"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "ISRAEL",
+      "category": "WEIGHTS & MEASURES",
+      "point_value": 100,
+      "question": "1 hectare, the metric unit of area, is equal to 2.471 of these",
+      "answer": "an acre",
+      "is_daily_double": false,
+      "id": "69182"
+    },
+    {
+      "air_date": "1990-11-15",
+      "round": "1",
+      "category": "WEIGHTS & MEASURES",
       "point_value": 200,
-      "question": "If you're getting engaged, consider a visit to Netanya, a world center for cutting & polishing these",
-      "answer": "diamonds",
+      "question": "This cotton measure is 500 lbs. in the U.S. & only 176 lbs. in China",
+      "answer": "a bale",
       "is_daily_double": false,
-      "id": "243055"
+      "id": "69183"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "ISRAEL",
+      "category": "WEIGHTS & MEASURES",
+      "point_value": 300,
+      "question": "Measuring longitude at the equator 1 of these equals 69.17 miles",
+      "answer": "a degree",
+      "is_daily_double": false,
+      "id": "69184"
+    },
+    {
+      "air_date": "1990-11-15",
+      "round": "1",
+      "category": "WEIGHTS & MEASURES",
       "point_value": 400,
-      "question": "Sde Boker, one of these cooperative communities, was the retirement home of first prime minister David Ben-Gurion",
-      "answer": "kibbutz",
+      "question": "6 miles square is exactly equal to this many square miles",
+      "answer": "36 square miles",
       "is_daily_double": false,
-      "id": "243056"
+      "id": "69185"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "1",
-      "category": "ISRAEL",
+      "category": "WEIGHTS & MEASURES",
+      "point_value": 500,
+      "question": "This unit named for a Swedish scientist is used to designate wavelengths of light",
+      "answer": "angstrom",
+      "is_daily_double": false,
+      "id": "69186"
+    },
+    {
+      "air_date": "1990-11-15",
+      "round": "2",
+      "category": "ABBREV.",
+      "point_value": 200,
+      "question": "This is the abbreviation for a postscript after a P.S.",
+      "answer": "P.P.S.",
+      "is_daily_double": false,
+      "id": "69192"
+    },
+    {
+      "air_date": "1990-11-15",
+      "round": "2",
+      "category": "ABBREV.",
+      "point_value": 400,
+      "question": "Medically, G.I. stands for this system",
+      "answer": "gastrointestinal",
+      "is_daily_double": false,
+      "id": "69193"
+    },
+    {
+      "air_date": "1990-11-15",
+      "round": "2",
+      "category": "ABBREV.",
       "point_value": 600,
-      "question": "This port city on & around Mount Carmel has been compared to San Francisco, its sister city",
-      "answer": "Haifa",
+      "question": "The abbreviation cc: near the bottom of a letter means this",
+      "answer": "copies to",
       "is_daily_double": false,
-      "id": "243057"
+      "id": "69194"
     },
     {
-      "air_date": "2004-02-24",
-      "round": "1",
-      "category": "ISRAEL",
+      "air_date": "1990-11-15",
+      "round": "2",
+      "category": "ABBREV.",
       "point_value": 800,
-      "question": "In 1961 this Israeli airline set a record for the longest nonstop commercial flight, New York to Tel Aviv",
-      "answer": "El Al",
+      "question": "Most int'l airlines arrive at their fares through IATA, which stands for this",
+      "answer": "the International Air Transport Association",
       "is_daily_double": false,
-      "id": "243058"
+      "id": "69195"
     },
     {
-      "air_date": "2004-02-24",
-      "round": "1",
-      "category": "ISRAEL",
+      "air_date": "1990-11-15",
+      "round": "2",
+      "category": "ABBREV.",
       "point_value": 1000,
-      "question": "Home to spectacular ruins, Caesarea was founded around 20 B.C. & named for this Caesar",
-      "answer": "Augustus",
+      "question": "WPA was the abbreviation for this Depression-era program",
+      "answer": "the Works Progress Administration (or the Works Projects Administration)",
       "is_daily_double": false,
-      "id": "243059"
+      "id": "69196"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "2",
-      "category": "GEHRY",
+      "category": "ANCIENT VIPs",
+      "point_value": 200,
+      "question": "It was once believed that this Hun, who died on his wedding night, was murdered by his bride",
+      "answer": "Attila",
+      "is_daily_double": false,
+      "id": "69197"
+    },
+    {
+      "air_date": "1990-11-15",
+      "round": "2",
+      "category": "ANCIENT VIPs",
       "point_value": 400,
-      "question": "Though he's lived for many years in the U.S., architect Frank Gehry was born in this Ontario city of 4.5 million",
-      "answer": "Toronto",
+      "question": "He was the 6th ruler of the Amorite dynasty of Babylon; you probably remember him for his code",
+      "answer": "Hammurabi",
       "is_daily_double": false,
-      "id": "243060"
+      "id": "69198"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "2",
-      "category": "GEHRY",
+      "category": "ANCIENT VIPs",
+      "point_value": 600,
+      "question": "Amenhotep IV of Egypt changed his name to this because he was so devoted to the god Aton",
+      "answer": "Akhenaten",
+      "is_daily_double": false,
+      "id": "69199"
+    },
+    {
+      "air_date": "1990-11-15",
+      "round": "2",
+      "category": "ANCIENT VIPs",
       "point_value": 800,
-      "question": "Frank Gehry's \"Easy Edges\" line built furniture out of this stuff in which your furniture usually arrives",
-      "answer": "cardboard",
-      "is_daily_double": false,
-      "id": "243061"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "2",
-      "category": "GEHRY",
-      "point_value": 1200,
-      "question": "The Gehry-designed Nationale Nederlanden Building is informally known as this film dancing pair",
-      "answer": "Fred & Ginger",
-      "is_daily_double": false,
-      "id": "243062"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "2",
-      "category": "GEHRY",
-      "point_value": 1600,
-      "question": "The Guggenheim Museum in this city of Spain's Basque region is one of the best-known structures designed by Gehry",
-      "answer": "Bilbao",
-      "is_daily_double": false,
-      "id": "243063"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "2",
-      "category": "GEHRY",
-      "point_value": 2000,
-      "question": "In 1989 Gehry was awarded this prize commonly referred to as \"The Nobel of Architecture\"",
-      "answer": "The Pritzker Prize",
-      "is_daily_double": false,
-      "id": "243064"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "2",
-      "category": "HAIRY",
-      "point_value": 400,
-      "question": "This term for a knight's apprentice is also the name of a bobbed, usually jaw-length hairstyle",
-      "answer": "page boy",
-      "is_daily_double": false,
-      "id": "243065"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "2",
-      "category": "HAIRY",
-      "point_value": 800,
-      "question": "This female ice skater lent her name to a wedge haircut she made popular during the 1976 Winter Olympics",
-      "answer": "Dorothy Hamill",
-      "is_daily_double": false,
-      "id": "243066"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "2",
-      "category": "HAIRY",
-      "point_value": 1200,
-      "question": "Dudes, it's the \"fishy\" hairstyle worn by David Spade in \"Joe Dirt\"",
-      "answer": "the mullet",
-      "is_daily_double": false,
-      "id": "243067"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "2",
-      "category": "HAIRY",
-      "point_value": 1600,
-      "question": "The short hairstyles worn by the men who fought the Cavaliers in 17th C. England earned them this name",
-      "answer": "the Roundheads",
+      "question": "Sennacherib, king of this country, made Nineveh his capital & built a magnificent new palace there",
+      "answer": "Assyria",
       "is_daily_double": true,
-      "id": "243068"
+      "id": "69200"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "2",
-      "category": "HAIRY",
-      "point_value": 2000,
-      "question": "From the Latin for \"to clip\", it's the shaved patch on the crowns of the heads of some monks",
-      "answer": "tonsure",
+      "category": "ANCIENT VIPs",
+      "point_value": 1000,
+      "question": "This \"Great\" king of Persia was the son of Darius the Great & the Grandson of Cyrus the Great",
+      "answer": "Xerxes",
       "is_daily_double": false,
-      "id": "243069"
+      "id": "69201"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "2",
-      "category": "I'M \"L__X\"",
+      "category": "ITALIAN LITERATURE",
+      "point_value": 200,
+      "question": "Besides \"The Prince\", he is also known for his \"Discourses on\" Livy",
+      "answer": "Machiavelli",
+      "is_daily_double": false,
+      "id": "69202"
+    },
+    {
+      "air_date": "1990-11-15",
+      "round": "2",
+      "category": "ITALIAN LITERATURE",
       "point_value": 400,
-      "question": "It's a shorter way of saying Los Angeles International Airport",
-      "answer": "LAX",
+      "question": "The Academic American Ency. calls this Dante work the greatest poem of the Middle Ages",
+      "answer": "the Divine Comedy",
       "is_daily_double": false,
-      "id": "243070"
+      "id": "69203"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "2",
-      "category": "I'M \"L__X\"",
+      "category": "ITALIAN LITERATURE",
+      "point_value": 600,
+      "question": "Completes the title of Giorgio Bassani's novel set in Fascist Italy, \"The Garden of the...\"",
+      "answer": "Finzi-Continis",
+      "is_daily_double": false,
+      "id": "69204"
+    },
+    {
+      "air_date": "1990-11-15",
+      "round": "2",
+      "category": "ITALIAN LITERATURE",
       "point_value": 800,
-      "question": "From Middle High German, this Yiddish word means \"salmon\"",
-      "answer": "lox",
+      "question": "\"Pinocchio\" author Carlo Lorenzini used this last name, taken from his family village",
+      "answer": "Collodi",
       "is_daily_double": false,
-      "id": "243071"
+      "id": "69205"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "2",
-      "category": "I'M \"L__X\"",
-      "point_value": 1200,
-      "question": "This \"Tax\" is found on a Monopoly board",
-      "answer": "Luxury Tax",
+      "category": "ITALIAN LITERATURE",
+      "point_value": 1000,
+      "question": "This Existentialist Italian playwright won the Nobel Prize for Literature in 1934",
+      "answer": "Pirandello",
       "is_daily_double": false,
-      "id": "243072"
+      "id": "69206"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "2",
-      "category": "I'M \"L__X\"",
-      "point_value": 1600,
-      "question": "This city of east central Egypt is the southern half of the site of ancient Thebes",
-      "answer": "Luxor",
+      "category": "OPERA",
+      "point_value": 200,
+      "question": "In \"Siegfried\" Fafner the giant is turned into one of these mythical beasts before Siegfried slays him",
+      "answer": "a dragon",
       "is_daily_double": false,
-      "id": "243073"
+      "id": "69207"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "2",
-      "category": "I'M \"L__X\"",
-      "point_value": 2000,
-      "question": "From the Greek for \"of words\", it's all the words belonging to a particular branch of knowledge",
-      "answer": "lexicon",
-      "is_daily_double": false,
-      "id": "243074"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "2",
-      "category": "LISA",
+      "category": "OPERA",
       "point_value": 400,
-      "question": "She's played Phoebe Buffay on one primetime series & Phoebe's twin sister Ursula on another",
-      "answer": "Lisa Kudrow",
+      "question": "1st name shared by Rigoletto's daughter, a \"Saturday Night Live\" star & a R. Hayworth character",
+      "answer": "Gilda",
       "is_daily_double": false,
-      "id": "243075"
+      "id": "69208"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "2",
-      "category": "LISA",
-      "point_value": 800,
-      "question": "In 1983 Apple introduced the Lisa personal computer, the first PC with one of these controls",
-      "answer": "a mouse",
-      "is_daily_double": false,
-      "id": "243076"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "2",
-      "category": "LISA",
-      "point_value": 1200,
-      "question": "Lisa Guerrero is the sideline reporter for this popular weekly sports event",
-      "answer": "Monday Night Football",
-      "is_daily_double": false,
-      "id": "243077"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "2",
-      "category": "LISA",
-      "point_value": 2000,
-      "question": "In 1997 Lisa Pollak won a Pulitzer Prize reporting for this Baltimore newspaper where H.L. Mencken once worked",
-      "answer": "the Baltimore Sun",
-      "is_daily_double": false,
-      "id": "243078"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "2",
-      "category": "ROCK-Y",
-      "point_value": 400,
-      "question": "An area in Central Park dedicated to the memory of John Lennon is named for this Beatles song",
-      "answer": "\"Strawberry Fields Forever\"",
-      "is_daily_double": false,
-      "id": "243079"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "2",
-      "category": "ROCK-Y",
-      "point_value": 800,
-      "question": "Michael Stipe formed this \"Man on the Moon\" band in Athens, Georgia",
-      "answer": "R.E.M.",
-      "is_daily_double": false,
-      "id": "243080"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "2",
-      "category": "ROCK-Y",
-      "point_value": 1200,
-      "question": "1984's \"Jump\" was the first No. 1 hit for this group that features brothers Alex & Eddie",
-      "answer": "Van Halen",
-      "is_daily_double": false,
-      "id": "243081"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "2",
-      "category": "ROCK-Y",
-      "point_value": 1600,
-      "question": "The title of Falco's biggest hit mentions this fellow Austrian musician",
-      "answer": "Mozart (\"Rock Me Amadeus\")",
+      "category": "OPERA",
+      "point_value": 600,
+      "question": "Marie, the heroine of this Donizetti opera, was adopted as an infant by French soldiers",
+      "answer": "The Daughter of the Regiment",
       "is_daily_double": true,
-      "id": "243082"
+      "id": "69209"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "2",
-      "category": "ROCK-Y",
-      "point_value": 2000,
-      "question": "His innovations include multitrack recording, overdubbing & the solid-body electric guitar",
-      "answer": "Les Paul",
-      "is_daily_double": false,
-      "id": "243083"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "2",
-      "category": "THE PRODUCERS",
-      "point_value": 400,
-      "question": "This central state produces more cheese than any other",
-      "answer": "Wisconsin",
-      "is_daily_double": false,
-      "id": "243084"
-    },
-    {
-      "air_date": "2004-02-24",
-      "round": "2",
-      "category": "THE PRODUCERS",
+      "category": "OPERA",
       "point_value": 800,
-      "question": "This state produces more lobsters than any other",
-      "answer": "Maine",
+      "question": "English composer whose 1947 opera \"Albert Herring\" is about a young man, not a young fish",
+      "answer": "Benjamin Britten",
       "is_daily_double": false,
-      "id": "243085"
+      "id": "69210"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "2",
-      "category": "THE PRODUCERS",
-      "point_value": 1200,
-      "question": "Orange you glad to know that this state leads the U.S. in citrus production",
-      "answer": "Florida",
+      "category": "OPERA",
+      "point_value": 1000,
+      "question": "Drops of blood from the ceiling reveal where an outlaw is hiding in this Puccini opera",
+      "answer": "The Girl of the Golden West",
       "is_daily_double": false,
-      "id": "243086"
+      "id": "69211"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "2",
-      "category": "THE PRODUCERS",
-      "point_value": 1600,
-      "question": "It leads the states in apple production",
-      "answer": "Washington",
+      "category": "THE AMERICAN REVOLUTION",
+      "point_value": 200,
+      "question": "He wrote, \"The birthday of a new world is at hand\" in his pamplet \"Common Sense\"",
+      "answer": "Thomas Paine",
       "is_daily_double": false,
-      "id": "243087"
+      "id": "69212"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
       "round": "2",
-      "category": "THE PRODUCERS",
-      "point_value": 2000,
-      "question": "This West Coast state procuces the most wind-generated energy",
-      "answer": "California",
+      "category": "THE AMERICAN REVOLUTION",
+      "point_value": 400,
+      "question": "This craftsman designed the 1st official seal of the Colonies & the 1st issue of Continental currency",
+      "answer": "Paul Revere",
       "is_daily_double": false,
-      "id": "243088"
+      "id": "69213"
     },
     {
-      "air_date": "2004-02-24",
+      "air_date": "1990-11-15",
+      "round": "2",
+      "category": "THE AMERICAN REVOLUTION",
+      "point_value": 600,
+      "question": "The first of these 5 acts closed the port of Boston until payment was made for the destroyed tea",
+      "answer": "the Coercive Acts (or the Intolerable Acts)",
+      "is_daily_double": false,
+      "id": "69214"
+    },
+    {
+      "air_date": "1990-11-15",
+      "round": "2",
+      "category": "THE AMERICAN REVOLUTION",
+      "point_value": 800,
+      "question": "Frontiersman who won victories at Kaskaskia, Cahokia & Vincennes in the NW Territory",
+      "answer": "George Rogers Clark",
+      "is_daily_double": false,
+      "id": "69215"
+    },
+    {
+      "air_date": "1990-11-15",
+      "round": "2",
+      "category": "THE AMERICAN REVOLUTION",
+      "point_value": 1000,
+      "question": "Prime minister during the war, some later called him \"the minister who lost America\"",
+      "answer": "Lord North",
+      "is_daily_double": false,
+      "id": "69216"
+    },
+    {
+      "air_date": "1990-11-15",
       "round": "3",
-      "category": "FAMOUS NAMES",
+      "category": "SPACE EXPLORATION",
       "point_value": 0,
-      "question": "A grandson of Man O' War, he defeated his uncle in a famous matchup November 1, 1938",
-      "answer": "Seabiscuit",
+      "question": "Next pair in the sequence: Gumdrop, Spider; Charlie Brown, Snoopy;...",
+      "answer": "the Columbia & the Eagle",
       "is_daily_double": false,
-      "id": "243089"
+      "id": "69217"
     }
   ]
 }
