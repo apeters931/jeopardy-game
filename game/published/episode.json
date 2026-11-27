@@ -1,566 +1,586 @@
 {
-  "id": "b4a34c7c3682a338",
-  "air_date": "1990-11-15",
+  "id": "d8d6222b69574973",
+  "air_date": "1990-11-22",
   "questions": [
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "1",
-      "category": "\"G\" MEN",
+      "category": "3-LETTER WORDS",
       "point_value": 100,
-      "question": "In 1980, at age 19, he became the youngest player named MVP of the NHL",
-      "answer": "Gretzky",
+      "question": "Some 9 million people in Japan practice this form of Buddhism",
+      "answer": "Zen",
       "is_daily_double": false,
-      "id": "69187"
+      "id": "69455"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "1",
-      "category": "\"G\" MEN",
-      "point_value": 200,
-      "question": "He was Benson DuBois on TV before playing the \"Phantom of the Opera\" in L.A.",
-      "answer": "Robert Guillaume",
-      "is_daily_double": false,
-      "id": "69188"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "1",
-      "category": "\"G\" MEN",
-      "point_value": 300,
-      "question": "Under the pen name A.A. Fair, he created private eyes Bertha Cool & Donald Lam",
-      "answer": "Erle Stanley Gardner",
-      "is_daily_double": false,
-      "id": "69189"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "1",
-      "category": "\"G\" MEN",
+      "category": "3-LETTER WORDS",
       "point_value": 400,
-      "question": "After helping to organize the AFL, he headed it for almost 40 years",
-      "answer": "Samuel Gompers",
+      "question": "In tennis, a serve that hits the net & drops into the proper court is called this",
+      "answer": "let",
       "is_daily_double": false,
-      "id": "69190"
+      "id": "69456"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "1",
-      "category": "\"G\" MEN",
+      "category": "3-LETTER WORDS",
       "point_value": 500,
-      "question": "Convinced the novel was evil, he burned the second part of \"Dead Souls\" shortly before he died",
-      "answer": "Gogol",
+      "question": "It often precedes a married woman's maiden name",
+      "answer": "née",
       "is_daily_double": false,
-      "id": "69191"
+      "id": "69457"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "1",
-      "category": "ESPAÑOL",
+      "category": "COLLEGES & UNIVERSITIES",
       "point_value": 100,
-      "question": "It's Spanish for \"pineapple\", as those who drink pineapple-coconut cocktails should know",
-      "answer": "piña",
+      "question": "This branch of the University of California has the largest collection of films on a college campus",
+      "answer": "UCLA",
       "is_daily_double": false,
-      "id": "69162"
+      "id": "69458"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "1",
-      "category": "ESPAÑOL",
+      "category": "COLLEGES & UNIVERSITIES",
       "point_value": 200,
-      "question": "A derisive word for a foreigner; Carlos Fuentes wrote of \"The Old\" one in 1985",
-      "answer": "gringo",
+      "question": "This state established the first public junior college at Joliet in 1901",
+      "answer": "Illinois",
       "is_daily_double": false,
-      "id": "69163"
+      "id": "69459"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "1",
-      "category": "ESPAÑOL",
+      "category": "COLLEGES & UNIVERSITIES",
       "point_value": 300,
-      "question": "The Spanish \"calabozo\" & the cowboy variation calaboose both mean thse",
-      "answer": "jail",
+      "question": "Joe Paterno, football coach at this eastern school, has seen 90% of his players graduate",
+      "answer": "Penn St.",
       "is_daily_double": false,
-      "id": "69164"
+      "id": "69460"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "1",
-      "category": "ESPAÑOL",
+      "category": "COLLEGES & UNIVERSITIES",
       "point_value": 400,
-      "question": "Any Spanish pier or wharf, or a certain waterfront area in San Francisco",
-      "answer": "embarcadero",
+      "question": "This Tempe, Ariz. school has the largest collection of outer space materials on any college campus",
+      "answer": "Arizona St. University",
       "is_daily_double": false,
-      "id": "69165"
+      "id": "69461"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "1",
-      "category": "ESPAÑOL",
+      "category": "COLLEGES & UNIVERSITIES",
       "point_value": 500,
-      "question": "The traditional title for daughters of the kings of Portugal & Spain",
-      "answer": "infanta",
-      "is_daily_double": false,
-      "id": "69166"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "1",
-      "category": "FINAL RESTING PLACES",
-      "point_value": 100,
-      "question": "You'll find the 13 imperial tombs of the Ming dynasty in a valley on the outskirts of this capital",
-      "answer": "Beijing",
-      "is_daily_double": false,
-      "id": "69167"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "1",
-      "category": "FINAL RESTING PLACES",
-      "point_value": 200,
-      "question": "Joseph Conrad is buried in the cemetery at this Gothic cathedral, as the archbishop could tell you",
-      "answer": "Canterbury",
-      "is_daily_double": false,
-      "id": "69168"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "1",
-      "category": "FINAL RESTING PLACES",
-      "point_value": 300,
-      "question": "He was buried on St. Helena in his favorite uniform in 1821 but was moved to Paris in 1840",
-      "answer": "Napoleon",
-      "is_daily_double": false,
-      "id": "69169"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "1",
-      "category": "FINAL RESTING PLACES",
-      "point_value": 400,
-      "question": "Father Damien was buried on this Hawaiian island but in 1936 his remains were moved to Belgium",
-      "answer": "Molokai",
-      "is_daily_double": false,
-      "id": "69170"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "1",
-      "category": "FINAL RESTING PLACES",
-      "point_value": 500,
-      "question": "This Diaghilev dancer is buried near the great French dancer Auguste Vestris in Montmartre",
-      "answer": "Nijinsky",
-      "is_daily_double": false,
-      "id": "69171"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "1",
-      "category": "NATURE",
-      "point_value": 100,
-      "question": "This flower has been grown since ancient times for its foliage, fragrance & hips",
-      "answer": "a rose",
-      "is_daily_double": false,
-      "id": "69172"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "1",
-      "category": "NATURE",
-      "point_value": 200,
-      "question": "It'll run if there's danger, or, if cornered, kick out, but will not as legend says bury its head",
-      "answer": "an ostrich",
-      "is_daily_double": false,
-      "id": "69173"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "1",
-      "category": "NATURE",
-      "point_value": 300,
-      "question": "Of all the toucans, the toco has the biggest one of these",
-      "answer": "a beak",
-      "is_daily_double": false,
-      "id": "69174"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "1",
-      "category": "NATURE",
-      "point_value": 400,
-      "question": "Mor & mull are 2 types of this black decayed organic matter in soil",
-      "answer": "humus",
-      "is_daily_double": false,
-      "id": "69175"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "1",
-      "category": "NATURE",
-      "point_value": 500,
-      "question": "Legend says this flower's name comes from the last words of a knight who drowned picking one for his lady",
-      "answer": "a forget-me-not",
-      "is_daily_double": false,
-      "id": "69176"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "1",
-      "category": "TRAIN SONGS",
-      "point_value": 100,
-      "question": "In the old standard it's what \"I've\" been doing \"all the live-long day\"",
-      "answer": "working on the railroad",
-      "is_daily_double": false,
-      "id": "69177"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "1",
-      "category": "TRAIN SONGS",
-      "point_value": 200,
-      "question": "The Monkees took \"The Last Train\" there in 1966 & made it their first No. 1 hit",
-      "answer": "Clarksville",
-      "is_daily_double": false,
-      "id": "69178"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "1",
-      "category": "TRAIN SONGS",
-      "point_value": 300,
-      "question": "The British singer who rode the \"Morning Train\" to the top of the charts in 1981",
-      "answer": "Sheena Easton",
-      "is_daily_double": false,
-      "id": "69179"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "1",
-      "category": "TRAIN SONGS",
-      "point_value": 400,
-      "question": "The title destination of the train in this 1973 No. 1 hit: \"L.A. proved too much for the man...\"",
-      "answer": "Georgia",
+      "question": "It has the largest enrollment on any private college in Indiana",
+      "answer": "University of Notre Dame",
       "is_daily_double": true,
-      "id": "69180"
+      "id": "69462"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "1",
-      "category": "TRAIN SONGS",
-      "point_value": 500,
-      "question": "In \"The Harvey Girls\", Judy Garland sang about this railroad",
-      "answer": "the Atchison, Topeka, and the Santa Fe",
-      "is_daily_double": false,
-      "id": "69181"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "1",
-      "category": "WEIGHTS & MEASURES",
+      "category": "GIRLS IN SONG",
       "point_value": 100,
-      "question": "1 hectare, the metric unit of area, is equal to 2.471 of these",
-      "answer": "an acre",
+      "question": "According to the Beatles, she \"picks up the rice in the church where a wedding has been\"",
+      "answer": "Eleanor Rigby",
       "is_daily_double": false,
-      "id": "69182"
+      "id": "69463"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "1",
-      "category": "WEIGHTS & MEASURES",
+      "category": "GIRLS IN SONG",
       "point_value": 200,
-      "question": "This cotton measure is 500 lbs. in the U.S. & only 176 lbs. in China",
-      "answer": "a bale",
+      "question": "She's \"the vamp of Savannah\"",
+      "answer": "Hard Hearted Hannah",
       "is_daily_double": false,
-      "id": "69183"
+      "id": "69464"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "1",
-      "category": "WEIGHTS & MEASURES",
+      "category": "GIRLS IN SONG",
       "point_value": 300,
-      "question": "Measuring longitude at the equator 1 of these equals 69.17 miles",
-      "answer": "a degree",
+      "question": "Bobby Goldsboro lamented, \"Now my life's an empty stage where\" she \"lived and...played\"",
+      "answer": "Honey",
       "is_daily_double": false,
-      "id": "69184"
+      "id": "69465"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "1",
-      "category": "WEIGHTS & MEASURES",
+      "category": "GIRLS IN SONG",
       "point_value": 400,
-      "question": "6 miles square is exactly equal to this many square miles",
-      "answer": "36 square miles",
+      "question": "Rod Stewart said of her, \"I know I keep you amused, but I feel I'm being used\"",
+      "answer": "Maggie May",
       "is_daily_double": false,
-      "id": "69185"
+      "id": "69466"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "1",
-      "category": "WEIGHTS & MEASURES",
+      "category": "GIRLS IN SONG",
       "point_value": 500,
-      "question": "This unit named for a Swedish scientist is used to designate wavelengths of light",
-      "answer": "angstrom",
+      "question": "In a 1969 hit Neil Diamond told her \"good times never seemed so good\"",
+      "answer": "Sweet Caroline",
       "is_daily_double": false,
-      "id": "69186"
+      "id": "69467"
     },
     {
-      "air_date": "1990-11-15",
-      "round": "2",
-      "category": "ABBREV.",
+      "air_date": "1990-11-22",
+      "round": "1",
+      "category": "INDIANS",
+      "point_value": 100,
+      "question": "General George Crook, who tracked down Geronimo, called this tribe the \"tigers of the human species\"",
+      "answer": "Apache",
+      "is_daily_double": false,
+      "id": "69468"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "1",
+      "category": "INDIANS",
       "point_value": 200,
-      "question": "This is the abbreviation for a postscript after a P.S.",
-      "answer": "P.P.S.",
+      "question": "Pocahontas died in this country in 1617",
+      "answer": "England",
       "is_daily_double": false,
-      "id": "69192"
+      "id": "69469"
     },
     {
-      "air_date": "1990-11-15",
-      "round": "2",
-      "category": "ABBREV.",
+      "air_date": "1990-11-22",
+      "round": "1",
+      "category": "INDIANS",
+      "point_value": 300,
+      "question": "The \"three sisters of the Iroquois\" were beans, squash & this food",
+      "answer": "corn (maize)",
+      "is_daily_double": false,
+      "id": "69470"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "1",
+      "category": "INDIANS",
       "point_value": 400,
-      "question": "Medically, G.I. stands for this system",
-      "answer": "gastrointestinal",
+      "question": "In 1867 this nation built its capitol in Tahlequah, Oklahoma",
+      "answer": "Cherokee",
       "is_daily_double": false,
-      "id": "69193"
+      "id": "69471"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
+      "round": "1",
+      "category": "INDIANS",
+      "point_value": 500,
+      "question": "With Squanto serving as interpreter, this chief agreed to a treaty with the Pilgrims",
+      "answer": "Massasoit",
+      "is_daily_double": false,
+      "id": "69472"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "1",
+      "category": "ODD JOBS",
+      "point_value": 100,
+      "question": "A sailor who created this carved whale ivory was called a scrimshoner",
+      "answer": "scrimshaw",
+      "is_daily_double": false,
+      "id": "69473"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "1",
+      "category": "ODD JOBS",
+      "point_value": 200,
+      "question": "Of a gaffer, a gofer, or a grip, the chief electrician on a movie set",
+      "answer": "gaffer",
+      "is_daily_double": false,
+      "id": "69474"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "1",
+      "category": "ODD JOBS",
+      "point_value": 300,
+      "question": "Surprisingly, this word meaning shoe mender once meant someone clumsy at work",
+      "answer": "cobbler",
+      "is_daily_double": false,
+      "id": "69475"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "1",
+      "category": "ODD JOBS",
+      "point_value": 400,
+      "question": "Stunt flyers were formerly called this since they often took farmers on joy rides",
+      "answer": "barnstormers",
+      "is_daily_double": false,
+      "id": "69476"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "1",
+      "category": "ODD JOBS",
+      "point_value": 500,
+      "question": "As a prima ballerina is a leading female soloist, this is a principal male soloist",
+      "answer": "premier danseur",
+      "is_daily_double": false,
+      "id": "69477"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "1",
+      "category": "THANKSGIVING",
+      "point_value": 100,
+      "question": "The broad-breasted white is the most common U.S. variety found on Thanksgiving tables",
+      "answer": "turkey",
+      "is_daily_double": false,
+      "id": "69478"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "1",
+      "category": "THANKSGIVING",
+      "point_value": 200,
+      "question": "Sarah Hale's letters to this president convinced him to proclaim it a national holiday in 1863",
+      "answer": "Abraham Lincoln",
+      "is_daily_double": false,
+      "id": "69479"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "1",
+      "category": "THANKSGIVING",
+      "point_value": 300,
+      "question": "In 1939 he asked Congress to change it to the 4th Thursday in November to extend holiday shopping",
+      "answer": "Roosevelt",
+      "is_daily_double": false,
+      "id": "69480"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "1",
+      "category": "THANKSGIVING",
+      "point_value": 400,
+      "question": "The poem \"Thanksgiving Day\" inspired a seasonal song titled with this opening line",
+      "answer": "\"Over the River and Through the Woods\"",
+      "is_daily_double": false,
+      "id": "69481"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "1",
+      "category": "THANKSGIVING",
+      "point_value": 500,
+      "question": "The governor of Plymouth Colony who first invited the Indians to a 3-day Thanksgiving feast",
+      "answer": "(William) Bradford",
+      "is_daily_double": false,
+      "id": "69482"
+    },
+    {
+      "air_date": "1990-11-22",
       "round": "2",
-      "category": "ABBREV.",
+      "category": "\"S\"CIENCE",
+      "point_value": 200,
+      "question": "The 2 times of year, in June & December, when the sun is farthest from the equator",
+      "answer": "solstice",
+      "is_daily_double": false,
+      "id": "69507"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "2",
+      "category": "\"S\"CIENCE",
+      "point_value": 400,
+      "question": "It's the common table sugar extracted from sugar cane & sugar beets",
+      "answer": "sucrose",
+      "is_daily_double": false,
+      "id": "69508"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "2",
+      "category": "\"S\"CIENCE",
       "point_value": 600,
-      "question": "The abbreviation cc: near the bottom of a letter means this",
-      "answer": "copies to",
+      "question": "Polaris is an example of this largest type of star",
+      "answer": "supergiant",
       "is_daily_double": false,
-      "id": "69194"
+      "id": "69509"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "2",
-      "category": "ABBREV.",
+      "category": "\"S\"CIENCE",
       "point_value": 800,
-      "question": "Most int'l airlines arrive at their fares through IATA, which stands for this",
-      "answer": "the International Air Transport Association",
+      "question": "The ozone layer is part of this layer of the atmosphere",
+      "answer": "stratosphere",
       "is_daily_double": false,
-      "id": "69195"
+      "id": "69510"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "2",
-      "category": "ABBREV.",
+      "category": "\"S\"CIENCE",
       "point_value": 1000,
-      "question": "WPA was the abbreviation for this Depression-era program",
-      "answer": "the Works Progress Administration (or the Works Projects Administration)",
+      "question": "It's the transformation of a substance directly from a solid to a vapor state",
+      "answer": "sublimate (sublimation)",
       "is_daily_double": false,
-      "id": "69196"
+      "id": "69511"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "2",
-      "category": "ANCIENT VIPs",
+      "category": "CLASSICAL MUSIC",
       "point_value": 200,
-      "question": "It was once believed that this Hun, who died on his wedding night, was murdered by his bride",
-      "answer": "Attila",
+      "question": "This guitarist gave his first concert in Granada, Spain in 1909",
+      "answer": "Andrés Segovia",
       "is_daily_double": false,
-      "id": "69197"
+      "id": "69483"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "2",
-      "category": "ANCIENT VIPs",
+      "category": "CLASSICAL MUSIC",
       "point_value": 400,
-      "question": "He was the 6th ruler of the Amorite dynasty of Babylon; you probably remember him for his code",
-      "answer": "Hammurabi",
-      "is_daily_double": false,
-      "id": "69198"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "2",
-      "category": "ANCIENT VIPs",
-      "point_value": 600,
-      "question": "Amenhotep IV of Egypt changed his name to this because he was so devoted to the god Aton",
-      "answer": "Akhenaten",
-      "is_daily_double": false,
-      "id": "69199"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "2",
-      "category": "ANCIENT VIPs",
-      "point_value": 800,
-      "question": "Sennacherib, king of this country, made Nineveh his capital & built a magnificent new palace there",
-      "answer": "Assyria",
+      "question": "Mozart was a mason, & this opera of his revealed some of the rites of freemasonry",
+      "answer": "The Magic Flute",
       "is_daily_double": true,
-      "id": "69200"
+      "id": "69484"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "2",
-      "category": "ANCIENT VIPs",
-      "point_value": 1000,
-      "question": "This \"Great\" king of Persia was the son of Darius the Great & the Grandson of Cyrus the Great",
-      "answer": "Xerxes",
-      "is_daily_double": false,
-      "id": "69201"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "2",
-      "category": "ITALIAN LITERATURE",
-      "point_value": 200,
-      "question": "Besides \"The Prince\", he is also known for his \"Discourses on\" Livy",
-      "answer": "Machiavelli",
-      "is_daily_double": false,
-      "id": "69202"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "2",
-      "category": "ITALIAN LITERATURE",
-      "point_value": 400,
-      "question": "The Academic American Ency. calls this Dante work the greatest poem of the Middle Ages",
-      "answer": "the Divine Comedy",
-      "is_daily_double": false,
-      "id": "69203"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "2",
-      "category": "ITALIAN LITERATURE",
+      "category": "CLASSICAL MUSIC",
       "point_value": 600,
-      "question": "Completes the title of Giorgio Bassani's novel set in Fascist Italy, \"The Garden of the...\"",
-      "answer": "Finzi-Continis",
+      "question": "Many date the birth of modern music to the riotous 1913 premiere of this composer's \"The Rite of Spring\"",
+      "answer": "Stravinsky",
       "is_daily_double": false,
-      "id": "69204"
+      "id": "69485"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "2",
-      "category": "ITALIAN LITERATURE",
+      "category": "CLASSICAL MUSIC",
       "point_value": 800,
-      "question": "\"Pinocchio\" author Carlo Lorenzini used this last name, taken from his family village",
-      "answer": "Collodi",
+      "question": "In 1875 he was named president of the Academy of Music in Budapest",
+      "answer": "Liszt",
       "is_daily_double": false,
-      "id": "69205"
+      "id": "69486"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "2",
-      "category": "ITALIAN LITERATURE",
+      "category": "CLASSICAL MUSIC",
       "point_value": 1000,
-      "question": "This Existentialist Italian playwright won the Nobel Prize for Literature in 1934",
-      "answer": "Pirandello",
+      "question": "After years of near blindness, his sight was supposedly restored 10 days before he died in 1750",
+      "answer": "Johann Sebastian Bach",
       "is_daily_double": false,
-      "id": "69206"
+      "id": "69487"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "2",
-      "category": "OPERA",
+      "category": "EARLY AMERICA",
       "point_value": 200,
-      "question": "In \"Siegfried\" Fafner the giant is turned into one of these mythical beasts before Siegfried slays him",
-      "answer": "a dragon",
+      "question": "The stars—&—stripes design she's believed to have sewn was adopted by Congress in 1777",
+      "answer": "Betsy Ross",
       "is_daily_double": false,
-      "id": "69207"
+      "id": "69488"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "2",
-      "category": "OPERA",
+      "category": "EARLY AMERICA",
       "point_value": 400,
-      "question": "1st name shared by Rigoletto's daughter, a \"Saturday Night Live\" star & a R. Hayworth character",
-      "answer": "Gilda",
+      "question": "New York City held this event for the first time on March 17, 1762",
+      "answer": "St. Patrick's Day parade",
       "is_daily_double": false,
-      "id": "69208"
+      "id": "69489"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "2",
-      "category": "OPERA",
+      "category": "EARLY AMERICA",
       "point_value": 600,
-      "question": "Marie, the heroine of this Donizetti opera, was adopted as an infant by French soldiers",
-      "answer": "The Daughter of the Regiment",
+      "question": "As early as 1771 a reward was offered for the capture of this leader of the Green Mountain Boys",
+      "answer": "Ethan Allen",
+      "is_daily_double": false,
+      "id": "69490"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "2",
+      "category": "EARLY AMERICA",
+      "point_value": 800,
+      "question": "Pioneers began to move west in this type of covered wagon introduced by the Pennsylvania Dutch",
+      "answer": "Conestoga",
+      "is_daily_double": false,
+      "id": "69491"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "2",
+      "category": "EARLY AMERICA",
+      "point_value": 1000,
+      "question": "From 1784-88 the state of Franklin existed in what is now this southern state",
+      "answer": "Tennessee",
+      "is_daily_double": false,
+      "id": "69492"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "2",
+      "category": "EUROPEAN CITIES",
+      "point_value": 200,
+      "question": "In 1975, 35 nations pledged to respect human rights in \"Accords\" signed in this Finnish capital",
+      "answer": "Helsinki",
+      "is_daily_double": false,
+      "id": "69493"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "2",
+      "category": "EUROPEAN CITIES",
+      "point_value": 400,
+      "question": "Thor Heyerdahl's Kon-Tiki raft is preserved in a museum in this capital of his native land",
+      "answer": "Oslo",
+      "is_daily_double": false,
+      "id": "69494"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "2",
+      "category": "EUROPEAN CITIES",
+      "point_value": 600,
+      "question": "The European Parliament meets in these 2 places both ending in \"bourg\"",
+      "answer": "Strasbourg & Luxembourg",
       "is_daily_double": true,
-      "id": "69209"
+      "id": "69495"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "2",
-      "category": "OPERA",
+      "category": "EUROPEAN CITIES",
       "point_value": 800,
-      "question": "English composer whose 1947 opera \"Albert Herring\" is about a young man, not a young fish",
-      "answer": "Benjamin Britten",
+      "question": "Tallinn, capital of this Baltic republic, was known as Revel until 1918",
+      "answer": "Estonia",
       "is_daily_double": false,
-      "id": "69210"
+      "id": "69496"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "2",
-      "category": "OPERA",
+      "category": "EUROPEAN CITIES",
       "point_value": 1000,
-      "question": "Drops of blood from the ceiling reveal where an outlaw is hiding in this Puccini opera",
-      "answer": "The Girl of the Golden West",
+      "question": "A 1954 agreement between Italy & Yugoslavia gave Italy this Adriatic seaport",
+      "answer": "Trieste",
       "is_daily_double": false,
-      "id": "69211"
+      "id": "69497"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "2",
-      "category": "THE AMERICAN REVOLUTION",
+      "category": "LEGAL QUOTATIONS",
       "point_value": 200,
-      "question": "He wrote, \"The birthday of a new world is at hand\" in his pamplet \"Common Sense\"",
-      "answer": "Thomas Paine",
+      "question": "Colley Cibber said that this \"is eleven points in the law\"",
+      "answer": "possession",
       "is_daily_double": false,
-      "id": "69212"
+      "id": "69498"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "2",
-      "category": "THE AMERICAN REVOLUTION",
-      "point_value": 400,
-      "question": "This craftsman designed the 1st official seal of the Colonies & the 1st issue of Continental currency",
-      "answer": "Paul Revere",
-      "is_daily_double": false,
-      "id": "69213"
-    },
-    {
-      "air_date": "1990-11-15",
-      "round": "2",
-      "category": "THE AMERICAN REVOLUTION",
+      "category": "LEGAL QUOTATIONS",
       "point_value": 600,
-      "question": "The first of these 5 acts closed the port of Boston until payment was made for the destroyed tea",
-      "answer": "the Coercive Acts (or the Intolerable Acts)",
+      "question": "This author's Mr. Bumble declared \"The law is a ass, a idiot\"",
+      "answer": "Dickens",
       "is_daily_double": false,
-      "id": "69214"
+      "id": "69499"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "2",
-      "category": "THE AMERICAN REVOLUTION",
+      "category": "LEGAL QUOTATIONS",
       "point_value": 800,
-      "question": "Frontiersman who won victories at Kaskaskia, Cahokia & Vincennes in the NW Territory",
-      "answer": "George Rogers Clark",
+      "question": "Rudyard Kipling called the law of this place \"as old and as true as the sky\"",
+      "answer": "the jungle",
       "is_daily_double": false,
-      "id": "69215"
+      "id": "69500"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
       "round": "2",
-      "category": "THE AMERICAN REVOLUTION",
+      "category": "LEGAL QUOTATIONS",
       "point_value": 1000,
-      "question": "Prime minister during the war, some later called him \"the minister who lost America\"",
-      "answer": "Lord North",
+      "question": "\"Great cases like hard cases make bad law,\" said this Supreme Court justice, appointed in 1902",
+      "answer": "(Oliver Wendell) Holmes",
       "is_daily_double": false,
-      "id": "69216"
+      "id": "69501"
     },
     {
-      "air_date": "1990-11-15",
+      "air_date": "1990-11-22",
+      "round": "2",
+      "category": "POETRY",
+      "point_value": 200,
+      "question": "Japanese poet Matsuo Basho sings the praises of this \"flower of the east\"",
+      "answer": "chrysanthemum",
+      "is_daily_double": false,
+      "id": "69502"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "2",
+      "category": "POETRY",
+      "point_value": 400,
+      "question": "\"In Flanders Fields\" these flowers \"blow\"",
+      "answer": "poppies",
+      "is_daily_double": false,
+      "id": "69503"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "2",
+      "category": "POETRY",
+      "point_value": 600,
+      "question": "As Wordsworth \"wandered\" lonely as a cloud,\" he saw \"a crowd, a host\" of these flowers",
+      "answer": "daffodils",
+      "is_daily_double": false,
+      "id": "69504"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "2",
+      "category": "POETRY",
+      "point_value": 800,
+      "question": "This author called Elaine \"the lily maid of Astolat\" in his \"Idylls of the King\"",
+      "answer": "Tennyson",
+      "is_daily_double": false,
+      "id": "69505"
+    },
+    {
+      "air_date": "1990-11-22",
+      "round": "2",
+      "category": "POETRY",
+      "point_value": 1000,
+      "question": "Belphoebe, representing Queen Elizabeth I, bathed with \"roses red & violets blue\" in this Spenser poem",
+      "answer": "The Faerie Queene",
+      "is_daily_double": false,
+      "id": "69506"
+    },
+    {
+      "air_date": "1990-11-22",
       "round": "3",
-      "category": "SPACE EXPLORATION",
+      "category": "TRAVEL & TOURISM",
       "point_value": 0,
-      "question": "Next pair in the sequence: Gumdrop, Spider; Charlie Brown, Snoopy;...",
-      "answer": "the Columbia & the Eagle",
+      "question": "In 1841 his 1st package tour took 570 people from Leicester to Loughborough for a temperance rally",
+      "answer": "Thomas Cook",
       "is_daily_double": false,
-      "id": "69217"
+      "id": "69512"
     }
   ]
 }
