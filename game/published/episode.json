@@ -1,586 +1,606 @@
 {
-  "id": "d8d6222b69574973",
-  "air_date": "1990-11-22",
+  "id": "e36d03e209677aa5",
+  "air_date": "2024-01-25",
   "questions": [
     {
-      "air_date": "1990-11-22",
+      "air_date": "2024-01-25",
       "round": "1",
-      "category": "3-LETTER WORDS",
-      "point_value": 100,
-      "question": "Some 9 million people in Japan practice this form of Buddhism",
-      "answer": "Zen",
-      "is_daily_double": false,
-      "id": "69455"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "3-LETTER WORDS",
-      "point_value": 400,
-      "question": "In tennis, a serve that hits the net & drops into the proper court is called this",
-      "answer": "let",
-      "is_daily_double": false,
-      "id": "69456"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "3-LETTER WORDS",
-      "point_value": 500,
-      "question": "It often precedes a married woman's maiden name",
-      "answer": "née",
-      "is_daily_double": false,
-      "id": "69457"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "COLLEGES & UNIVERSITIES",
-      "point_value": 100,
-      "question": "This branch of the University of California has the largest collection of films on a college campus",
-      "answer": "UCLA",
-      "is_daily_double": false,
-      "id": "69458"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "COLLEGES & UNIVERSITIES",
+      "category": "BACKWORDS & FOREWORDS",
       "point_value": 200,
-      "question": "This state established the first public junior college at Joliet in 1901",
-      "answer": "Illinois",
+      "question": "A \"timber\" canine & to move in a stream",
+      "answer": "wolf & flow",
       "is_daily_double": false,
-      "id": "69459"
+      "id": "508406"
     },
     {
-      "air_date": "1990-11-22",
+      "air_date": "2024-01-25",
       "round": "1",
-      "category": "COLLEGES & UNIVERSITIES",
-      "point_value": 300,
-      "question": "Joe Paterno, football coach at this eastern school, has seen 90% of his players graduate",
-      "answer": "Penn St.",
-      "is_daily_double": false,
-      "id": "69460"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "COLLEGES & UNIVERSITIES",
+      "category": "BACKWORDS & FOREWORDS",
       "point_value": 400,
-      "question": "This Tempe, Ariz. school has the largest collection of outer space materials on any college campus",
-      "answer": "Arizona St. University",
+      "question": "A distinctive style of clothing & to boast",
+      "answer": "brag & garb",
       "is_daily_double": false,
-      "id": "69461"
+      "id": "508407"
     },
     {
-      "air_date": "1990-11-22",
+      "air_date": "2024-01-25",
       "round": "1",
-      "category": "COLLEGES & UNIVERSITIES",
-      "point_value": 500,
-      "question": "It has the largest enrollment on any private college in Indiana",
-      "answer": "University of Notre Dame",
+      "category": "BACKWORDS & FOREWORDS",
+      "point_value": 600,
+      "question": "Glossy & boat bottoms",
+      "answer": "sleek & keels",
+      "is_daily_double": false,
+      "id": "508408"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "BACKWORDS & FOREWORDS",
+      "point_value": 800,
+      "question": "A division of a hospital & to pull back a bow string",
+      "answer": "draw & ward (ward & draw)",
+      "is_daily_double": false,
+      "id": "508409"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "BACKWORDS & FOREWORDS",
+      "point_value": 1000,
+      "question": "A legal no-no & a horse gait",
+      "answer": "tort & trot",
+      "is_daily_double": false,
+      "id": "508410"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "DRINKING VESSELS",
+      "point_value": 200,
+      "question": "Champagne is traditionally served in this tall stemmed glass that shares its name with a musical instrument",
+      "answer": "flute",
+      "is_daily_double": false,
+      "id": "508411"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "DRINKING VESSELS",
+      "point_value": 400,
+      "question": "Used to drink this alcoholic beverage, a ceramic o-choko can have two blue rings on a white base on the inside of the cup",
+      "answer": "sake",
+      "is_daily_double": false,
+      "id": "508412"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "DRINKING VESSELS",
+      "point_value": 600,
+      "question": "It sounds like an acrobat, but it's any flat-bottomed glass with no handle or stem",
+      "answer": "a tumbler",
+      "is_daily_double": false,
+      "id": "508413"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "DRINKING VESSELS",
+      "point_value": 800,
+      "question": "It can be a small drink as well as a pear-shaped goblet that, as the name suggests, intensifies the aroma of brandy",
+      "answer": "a snifter",
+      "is_daily_double": false,
+      "id": "508414"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "DRINKING VESSELS",
+      "point_value": 1000,
+      "question": "Emily Dickinson wrote, \"I taste a liquor never brewed-from\" these ale vessels \"scooped in pearl\"",
+      "answer": "tankards",
+      "is_daily_double": false,
+      "id": "508415"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "HIGHWAYS & BYWAYS",
+      "point_value": 200,
+      "question": "Bregagh Road in Northern Ireland, an avenue of beech trees known locally as Dark Hedges, was used as King's Road in this HBO series",
+      "answer": "Game of Thrones",
+      "is_daily_double": false,
+      "id": "508416"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "HIGHWAYS & BYWAYS",
+      "point_value": 400,
+      "question": "Fashion center Carnaby Street is in this area of London with a rhyming name where mods congregated",
+      "answer": "Soho",
+      "is_daily_double": false,
+      "id": "508417"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "HIGHWAYS & BYWAYS",
+      "point_value": 600,
+      "question": "Places to chow down on this Memphis street include B.B. King's Blues Club & Jerry Lee Lewis' Cafe & Honky Tonk",
+      "answer": "Beale Street",
+      "is_daily_double": false,
+      "id": "508418"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "HIGHWAYS & BYWAYS",
+      "point_value": 800,
+      "question": "In 1973 West Germany set a speed limit of 62 mph on this due to the oil crisis; it was soon repealed",
+      "answer": "the Autobahn",
+      "is_daily_double": false,
+      "id": "508419"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "HIGHWAYS & BYWAYS",
+      "point_value": 1000,
+      "question": "Important landmarks on this pioneer route included Chimney Rock in Nebraska & Fort Hall on the Snake River",
+      "answer": "the Oregon Trail",
       "is_daily_double": true,
-      "id": "69462"
+      "id": "508420"
     },
     {
-      "air_date": "1990-11-22",
+      "air_date": "2024-01-25",
       "round": "1",
-      "category": "GIRLS IN SONG",
-      "point_value": 100,
-      "question": "According to the Beatles, she \"picks up the rice in the church where a wedding has been\"",
-      "answer": "Eleanor Rigby",
-      "is_daily_double": false,
-      "id": "69463"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "GIRLS IN SONG",
+      "category": "ON MY HISTORIC CV",
       "point_value": 200,
-      "question": "She's \"the vamp of Savannah\"",
-      "answer": "Hard Hearted Hannah",
+      "question": "1972: first tenured female faculty member, Columbia Law; 1993: nominated to Supreme Court to replace Byron White",
+      "answer": "Ruth Bader Ginsburg",
       "is_daily_double": false,
-      "id": "69464"
+      "id": "508421"
     },
     {
-      "air_date": "1990-11-22",
+      "air_date": "2024-01-25",
       "round": "1",
-      "category": "GIRLS IN SONG",
-      "point_value": 300,
-      "question": "Bobby Goldsboro lamented, \"Now my life's an empty stage where\" she \"lived and...played\"",
-      "answer": "Honey",
-      "is_daily_double": false,
-      "id": "69465"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "GIRLS IN SONG",
+      "category": "ON MY HISTORIC CV",
       "point_value": 400,
-      "question": "Rod Stewart said of her, \"I know I keep you amused, but I feel I'm being used\"",
-      "answer": "Maggie May",
+      "question": "SECDEF, 1989 to 1993; also 8 years of veep experience",
+      "answer": "Dick Cheney",
       "is_daily_double": false,
-      "id": "69466"
+      "id": "508422"
     },
     {
-      "air_date": "1990-11-22",
+      "air_date": "2024-01-25",
       "round": "1",
-      "category": "GIRLS IN SONG",
-      "point_value": 500,
-      "question": "In a 1969 hit Neil Diamond told her \"good times never seemed so good\"",
-      "answer": "Sweet Caroline",
-      "is_daily_double": false,
-      "id": "69467"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "INDIANS",
-      "point_value": 100,
-      "question": "General George Crook, who tracked down Geronimo, called this tribe the \"tigers of the human species\"",
-      "answer": "Apache",
-      "is_daily_double": false,
-      "id": "69468"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "INDIANS",
-      "point_value": 200,
-      "question": "Pocahontas died in this country in 1617",
-      "answer": "England",
-      "is_daily_double": false,
-      "id": "69469"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "INDIANS",
-      "point_value": 300,
-      "question": "The \"three sisters of the Iroquois\" were beans, squash & this food",
-      "answer": "corn (maize)",
-      "is_daily_double": false,
-      "id": "69470"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "INDIANS",
-      "point_value": 400,
-      "question": "In 1867 this nation built its capitol in Tahlequah, Oklahoma",
-      "answer": "Cherokee",
-      "is_daily_double": false,
-      "id": "69471"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "INDIANS",
-      "point_value": 500,
-      "question": "With Squanto serving as interpreter, this chief agreed to a treaty with the Pilgrims",
-      "answer": "Massasoit",
-      "is_daily_double": false,
-      "id": "69472"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "ODD JOBS",
-      "point_value": 100,
-      "question": "A sailor who created this carved whale ivory was called a scrimshoner",
-      "answer": "scrimshaw",
-      "is_daily_double": false,
-      "id": "69473"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "ODD JOBS",
-      "point_value": 200,
-      "question": "Of a gaffer, a gofer, or a grip, the chief electrician on a movie set",
-      "answer": "gaffer",
-      "is_daily_double": false,
-      "id": "69474"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "ODD JOBS",
-      "point_value": 300,
-      "question": "Surprisingly, this word meaning shoe mender once meant someone clumsy at work",
-      "answer": "cobbler",
-      "is_daily_double": false,
-      "id": "69475"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "ODD JOBS",
-      "point_value": 400,
-      "question": "Stunt flyers were formerly called this since they often took farmers on joy rides",
-      "answer": "barnstormers",
-      "is_daily_double": false,
-      "id": "69476"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "ODD JOBS",
-      "point_value": 500,
-      "question": "As a prima ballerina is a leading female soloist, this is a principal male soloist",
-      "answer": "premier danseur",
-      "is_daily_double": false,
-      "id": "69477"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "THANKSGIVING",
-      "point_value": 100,
-      "question": "The broad-breasted white is the most common U.S. variety found on Thanksgiving tables",
-      "answer": "turkey",
-      "is_daily_double": false,
-      "id": "69478"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "THANKSGIVING",
-      "point_value": 200,
-      "question": "Sarah Hale's letters to this president convinced him to proclaim it a national holiday in 1863",
-      "answer": "Abraham Lincoln",
-      "is_daily_double": false,
-      "id": "69479"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "THANKSGIVING",
-      "point_value": 300,
-      "question": "In 1939 he asked Congress to change it to the 4th Thursday in November to extend holiday shopping",
-      "answer": "Roosevelt",
-      "is_daily_double": false,
-      "id": "69480"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "THANKSGIVING",
-      "point_value": 400,
-      "question": "The poem \"Thanksgiving Day\" inspired a seasonal song titled with this opening line",
-      "answer": "\"Over the River and Through the Woods\"",
-      "is_daily_double": false,
-      "id": "69481"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "1",
-      "category": "THANKSGIVING",
-      "point_value": 500,
-      "question": "The governor of Plymouth Colony who first invited the Indians to a 3-day Thanksgiving feast",
-      "answer": "(William) Bradford",
-      "is_daily_double": false,
-      "id": "69482"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "\"S\"CIENCE",
-      "point_value": 200,
-      "question": "The 2 times of year, in June & December, when the sun is farthest from the equator",
-      "answer": "solstice",
-      "is_daily_double": false,
-      "id": "69507"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "\"S\"CIENCE",
-      "point_value": 400,
-      "question": "It's the common table sugar extracted from sugar cane & sugar beets",
-      "answer": "sucrose",
-      "is_daily_double": false,
-      "id": "69508"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "\"S\"CIENCE",
+      "category": "ON MY HISTORIC CV",
       "point_value": 600,
-      "question": "Polaris is an example of this largest type of star",
-      "answer": "supergiant",
+      "question": "441 A.D.: Beat up on Eastern Romans with bro; 445: murdered bro, became sole leader; 453: stopped living that barbarian life",
+      "answer": "Attila the Hun",
       "is_daily_double": false,
-      "id": "69509"
+      "id": "508423"
     },
     {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "\"S\"CIENCE",
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "ON MY HISTORIC CV",
       "point_value": 800,
-      "question": "The ozone layer is part of this layer of the atmosphere",
-      "answer": "stratosphere",
+      "question": "1905: introduced to the Russian royal family; 1915: personal advisor to the empress; 1916: doesn't quite make it to New Year's",
+      "answer": "Rasputin",
       "is_daily_double": false,
-      "id": "69510"
+      "id": "508424"
     },
     {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "\"S\"CIENCE",
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "ON MY HISTORIC CV",
       "point_value": 1000,
-      "question": "It's the transformation of a substance directly from a solid to a vapor state",
-      "answer": "sublimate (sublimation)",
+      "question": "1351 B.C.: Egyptian queen 1,300 years before Cleopatra; 1912: portrait bust discovered in ruins of Amarna workshop, big hit at museum",
+      "answer": "Nefertiti",
       "is_daily_double": false,
-      "id": "69511"
+      "id": "508425"
     },
     {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "CLASSICAL MUSIC",
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "QUESTIONABLE SCIENCE IN POP SONGS",
       "point_value": 200,
-      "question": "This guitarist gave his first concert in Granada, Spain in 1909",
-      "answer": "Andrés Segovia",
+      "question": "Poison sang, \"Every rose has its\" this, but \"smooth touch\" varieties do exist",
+      "answer": "thorn",
       "is_daily_double": false,
-      "id": "69483"
+      "id": "508426"
     },
     {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "CLASSICAL MUSIC",
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "QUESTIONABLE SCIENCE IN POP SONGS",
       "point_value": 400,
-      "question": "Mozart was a mason, & this opera of his revealed some of the rites of freemasonry",
-      "answer": "The Magic Flute",
+      "question": "In \"It's Hot (Some Like It Hot)\", Jay-Z gets it wrong with the lyric \"thirty-eight revolve like a sun 'round\" this",
+      "answer": "Earth",
+      "is_daily_double": false,
+      "id": "508427"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "QUESTIONABLE SCIENCE IN POP SONGS",
+      "point_value": 600,
+      "question": "Their 1977 song \"Dreams\" claims, \"thunder only happens when it's raining\"; that's not always the case",
+      "answer": "Fleetwood Mac",
+      "is_daily_double": false,
+      "id": "508428"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "QUESTIONABLE SCIENCE IN POP SONGS",
+      "point_value": 800,
+      "question": "This group's \"Speed Of Sound\" says, \"Planets are moving at the speed of light\"; even hyper-velocity planets aren't that fast",
+      "answer": "Coldplay",
+      "is_daily_double": false,
+      "id": "508429"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "QUESTIONABLE SCIENCE IN POP SONGS",
+      "point_value": 1000,
+      "question": "We're not sure how Adele pulled off this title trick in a 2011 song, but she definitely wanted to \"let it burn\"",
+      "answer": "\"Set Fire To The Rain\"",
+      "is_daily_double": false,
+      "id": "508430"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "START TALKING, SHAKESPEARE CHARACTER",
+      "point_value": 200,
+      "question": "Her first line in \"Othello\" is \"My noble father, I do perceive here a divided duty\"",
+      "answer": "Desdemona",
+      "is_daily_double": false,
+      "id": "508431"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "START TALKING, SHAKESPEARE CHARACTER",
+      "point_value": 400,
+      "question": "Falstaff's first line in this non-history play is \"Now, Master Shallow, you'll complain of me to the king?\"",
+      "answer": "The Merry Wives of Windsor",
+      "is_daily_double": false,
+      "id": "508432"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "START TALKING, SHAKESPEARE CHARACTER",
+      "point_value": 600,
+      "question": "Her first speech is \"What, jealous Oberon? Fairies, skip hence. I have forsworn his bed and company\"",
+      "answer": "Titania",
+      "is_daily_double": false,
+      "id": "508433"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "START TALKING, SHAKESPEARE CHARACTER",
+      "point_value": 800,
+      "question": "The opening line of this play is Orsino's \"If music be the food of love, play on\"",
+      "answer": "Twelfth Night",
+      "is_daily_double": false,
+      "id": "508434"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "1",
+      "category": "START TALKING, SHAKESPEARE CHARACTER",
+      "point_value": 1000,
+      "question": "Title character Antonio begins this play saying, \"In sooth I know not why I am so sad\"",
+      "answer": "The Merchant of Venice",
+      "is_daily_double": false,
+      "id": "508435"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "FEAST DAYS OF CHRISTIANITY",
+      "point_value": 400,
+      "question": "October 2 honors these heavenly beings said by St. Jerome to protect us from harm",
+      "answer": "guardian angels",
+      "is_daily_double": false,
+      "id": "508436"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "FEAST DAYS OF CHRISTIANITY",
+      "point_value": 800,
+      "question": "January 6 is this feast day with a name from Greek that also means a sudden intuitive insight",
+      "answer": "Epiphany",
+      "is_daily_double": false,
+      "id": "508437"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "FEAST DAYS OF CHRISTIANITY",
+      "point_value": 1200,
+      "question": "The nativity of this son of Zechariah & precursor of Jesus gets its own day, June 24",
+      "answer": "John the Baptist",
+      "is_daily_double": false,
+      "id": "508438"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "FEAST DAYS OF CHRISTIANITY",
+      "point_value": 2000,
+      "question": "Corpus Christi & Whitsunday are examples of this type of feast that can fall on different dates in different years",
+      "answer": "a movable feast",
       "is_daily_double": true,
-      "id": "69484"
+      "id": "508439"
     },
     {
-      "air_date": "1990-11-22",
+      "air_date": "2024-01-25",
       "round": "2",
-      "category": "CLASSICAL MUSIC",
-      "point_value": 600,
-      "question": "Many date the birth of modern music to the riotous 1913 premiere of this composer's \"The Rite of Spring\"",
-      "answer": "Stravinsky",
-      "is_daily_double": false,
-      "id": "69485"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "CLASSICAL MUSIC",
-      "point_value": 800,
-      "question": "In 1875 he was named president of the Academy of Music in Budapest",
-      "answer": "Liszt",
-      "is_daily_double": false,
-      "id": "69486"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "CLASSICAL MUSIC",
-      "point_value": 1000,
-      "question": "After years of near blindness, his sight was supposedly restored 10 days before he died in 1750",
-      "answer": "Johann Sebastian Bach",
-      "is_daily_double": false,
-      "id": "69487"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "EARLY AMERICA",
-      "point_value": 200,
-      "question": "The stars—&—stripes design she's believed to have sewn was adopted by Congress in 1777",
-      "answer": "Betsy Ross",
-      "is_daily_double": false,
-      "id": "69488"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "EARLY AMERICA",
+      "category": "MOMENTS OF INSPIRATION",
       "point_value": 400,
-      "question": "New York City held this event for the first time on March 17, 1762",
-      "answer": "St. Patrick's Day parade",
+      "question": "Traveling to Italy on business, Henri Dunant found himself helping the wounded at an 1859 battle & came up with this international aid organization",
+      "answer": "the Red Cross",
       "is_daily_double": false,
-      "id": "69489"
+      "id": "508440"
     },
     {
-      "air_date": "1990-11-22",
+      "air_date": "2024-01-25",
       "round": "2",
-      "category": "EARLY AMERICA",
-      "point_value": 600,
-      "question": "As early as 1771 a reward was offered for the capture of this leader of the Green Mountain Boys",
-      "answer": "Ethan Allen",
-      "is_daily_double": false,
-      "id": "69490"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "EARLY AMERICA",
+      "category": "MOMENTS OF INSPIRATION",
       "point_value": 800,
-      "question": "Pioneers began to move west in this type of covered wagon introduced by the Pennsylvania Dutch",
-      "answer": "Conestoga",
+      "question": "Late one night in her lab in 1981, Patricia Bath had the aha! that led to a method of eye surgery using not scalpels but these",
+      "answer": "lasers",
       "is_daily_double": false,
-      "id": "69491"
+      "id": "508441"
     },
     {
-      "air_date": "1990-11-22",
+      "air_date": "2024-01-25",
       "round": "2",
-      "category": "EARLY AMERICA",
-      "point_value": 1000,
-      "question": "From 1784-88 the state of Franklin existed in what is now this southern state",
-      "answer": "Tennessee",
+      "category": "MOMENTS OF INSPIRATION",
+      "point_value": 1200,
+      "question": "Marvin Gaye realized, \"I'd been singing too loud\"; hence the groove of his 1971 hit that said, \"Talk to me, so you can see\" this",
+      "answer": "\"What's Going On\"",
       "is_daily_double": false,
-      "id": "69492"
+      "id": "508442"
     },
     {
-      "air_date": "1990-11-22",
+      "air_date": "2024-01-25",
       "round": "2",
-      "category": "EUROPEAN CITIES",
-      "point_value": 200,
-      "question": "In 1975, 35 nations pledged to respect human rights in \"Accords\" signed in this Finnish capital",
+      "category": "MOMENTS OF INSPIRATION",
+      "point_value": 1600,
+      "question": "Walking through a Budapest park, he had the idea that became the basis for alternating current & began drawing in the dirt with a stick",
+      "answer": "Nikola Tesla",
+      "is_daily_double": false,
+      "id": "508443"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "MOMENTS OF INSPIRATION",
+      "point_value": 2000,
+      "question": "Kary Mullis had to pull off the road when he got his Nobel-winning idea to copy DNA via PCR or polymerase this process",
+      "answer": "a chain reaction",
+      "is_daily_double": false,
+      "id": "508444"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "NICKNAMES",
+      "point_value": 400,
+      "question": "\"Garden of the Gulf\" & simply \"The Island\" are nicknames for this Canadian province",
+      "answer": "Prince Edward Island",
+      "is_daily_double": false,
+      "id": "508445"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "NICKNAMES",
+      "point_value": 800,
+      "question": "A Beethoven piano sonata evoked a boat on Lake Lucerne at night for a German poet, leading to this nickname for the piece",
+      "answer": "the \"Moonlight Sonata\"",
+      "is_daily_double": false,
+      "id": "508446"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "NICKNAMES",
+      "point_value": 1200,
+      "question": "This king's nickname of \"Unready\" meant \"badly advised\" in Anglo-Saxon, not \"unprepared\"",
+      "answer": "Ethelred",
+      "is_daily_double": true,
+      "id": "508447"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "NICKNAMES",
+      "point_value": 1600,
+      "question": "George Gershwin worked as a \"song plugger\" in the musical New York City area with this 3-word nickname",
+      "answer": "Tin Pan Alley",
+      "is_daily_double": false,
+      "id": "508448"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "NICKNAMES",
+      "point_value": 2000,
+      "question": "Its wide range of responsibilities earned this Cabinet department the nickname \"The Department of Everything Else\"",
+      "answer": "Department of Interior",
+      "is_daily_double": false,
+      "id": "508449"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "PEOPLE WHO ARE PLACES",
+      "point_value": 400,
+      "question": "She's a Fugees singer, solo artist & not too high incline",
+      "answer": "(Lauryn) Hill",
+      "is_daily_double": false,
+      "id": "508450"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "PEOPLE WHO ARE PLACES",
+      "point_value": 800,
+      "question": "She's an actress, comedian & public square",
+      "answer": "Plaza",
+      "is_daily_double": false,
+      "id": "508451"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "PEOPLE WHO ARE PLACES",
+      "point_value": 1200,
+      "question": "He is the NBA's all-time leader in games played & an area often covered by one church & one priest",
+      "answer": "a (Robert) Parish",
+      "is_daily_double": false,
+      "id": "508452"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "PEOPLE WHO ARE PLACES",
+      "point_value": 1600,
+      "question": "He's a comedian, Comedy Store comedy club royalty & the land edge of a body of water",
+      "answer": "(Pauly) Shore",
+      "is_daily_double": false,
+      "id": "508453"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "PEOPLE WHO ARE PLACES",
+      "point_value": 2000,
+      "question": "He's a \"Mamma Mia!\" maybe papa & a narrow inlet of the sea in the British isles",
+      "answer": "a firth (Colin Firth)",
+      "is_daily_double": false,
+      "id": "508454"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "WHAT DO \"U\" STAND FOR?",
+      "point_value": 400,
+      "question": "It's the \"U\" in u-235, a radioactive isotope",
+      "answer": "uranium",
+      "is_daily_double": false,
+      "id": "508455"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "WHAT DO \"U\" STAND FOR?",
+      "point_value": 800,
+      "question": "Have you got assets of more than $30 million? Then you are not just a high net worth individual but a UHNWI, \"U\" for this",
+      "answer": "ultra",
+      "is_daily_double": false,
+      "id": "508456"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "WHAT DO \"U\" STAND FOR?",
+      "point_value": 1200,
+      "question": "Found on most everything you buy, UPC stands for this",
+      "answer": "a universal product code",
+      "is_daily_double": false,
+      "id": "508457"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "WHAT DO \"U\" STAND FOR?",
+      "point_value": 1600,
+      "question": "Fujairah is one of the constituent members of the UAE, this federation",
+      "answer": "the United Arab Emirates",
+      "is_daily_double": false,
+      "id": "508458"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "WHAT DO \"U\" STAND FOR?",
+      "point_value": 2000,
+      "question": "What used to be called UFOs are now UAPs short for this 3-word phrase",
+      "answer": "unidentified aerial (anomalous) phenomena",
+      "is_daily_double": false,
+      "id": "508459"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "WHIRLED CAPITALS",
+      "point_value": 400,
+      "question": "We hear the waffles are good: RUBS LESS",
+      "answer": "Brussels",
+      "is_daily_double": false,
+      "id": "508460"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "WHIRLED CAPITALS",
+      "point_value": 800,
+      "question": "It's big in antiquity: HASTEN",
+      "answer": "Athens",
+      "is_daily_double": false,
+      "id": "508461"
+    },
+    {
+      "air_date": "2024-01-25",
+      "round": "2",
+      "category": "WHIRLED CAPITALS",
+      "point_value": 1200,
+      "question": "It's called the \"White City of the North\": SILKEN HI",
       "answer": "Helsinki",
       "is_daily_double": false,
-      "id": "69493"
+      "id": "508462"
     },
     {
-      "air_date": "1990-11-22",
+      "air_date": "2024-01-25",
       "round": "2",
-      "category": "EUROPEAN CITIES",
-      "point_value": 400,
-      "question": "Thor Heyerdahl's Kon-Tiki raft is preserved in a museum in this capital of his native land",
-      "answer": "Oslo",
+      "category": "WHIRLED CAPITALS",
+      "point_value": 1600,
+      "question": "It's on a horn: BAA BAD SAID",
+      "answer": "Addis Ababa",
       "is_daily_double": false,
-      "id": "69494"
+      "id": "508463"
     },
     {
-      "air_date": "1990-11-22",
+      "air_date": "2024-01-25",
       "round": "2",
-      "category": "EUROPEAN CITIES",
-      "point_value": 600,
-      "question": "The European Parliament meets in these 2 places both ending in \"bourg\"",
-      "answer": "Strasbourg & Luxembourg",
-      "is_daily_double": true,
-      "id": "69495"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "EUROPEAN CITIES",
-      "point_value": 800,
-      "question": "Tallinn, capital of this Baltic republic, was known as Revel until 1918",
-      "answer": "Estonia",
+      "category": "WHIRLED CAPITALS",
+      "point_value": 2000,
+      "question": "Mexico adjacent: MAP NOBLE",
+      "answer": "Belmopan",
       "is_daily_double": false,
-      "id": "69496"
+      "id": "508464"
     },
     {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "EUROPEAN CITIES",
-      "point_value": 1000,
-      "question": "A 1954 agreement between Italy & Yugoslavia gave Italy this Adriatic seaport",
-      "answer": "Trieste",
-      "is_daily_double": false,
-      "id": "69497"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "LEGAL QUOTATIONS",
-      "point_value": 200,
-      "question": "Colley Cibber said that this \"is eleven points in the law\"",
-      "answer": "possession",
-      "is_daily_double": false,
-      "id": "69498"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "LEGAL QUOTATIONS",
-      "point_value": 600,
-      "question": "This author's Mr. Bumble declared \"The law is a ass, a idiot\"",
-      "answer": "Dickens",
-      "is_daily_double": false,
-      "id": "69499"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "LEGAL QUOTATIONS",
-      "point_value": 800,
-      "question": "Rudyard Kipling called the law of this place \"as old and as true as the sky\"",
-      "answer": "the jungle",
-      "is_daily_double": false,
-      "id": "69500"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "LEGAL QUOTATIONS",
-      "point_value": 1000,
-      "question": "\"Great cases like hard cases make bad law,\" said this Supreme Court justice, appointed in 1902",
-      "answer": "(Oliver Wendell) Holmes",
-      "is_daily_double": false,
-      "id": "69501"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "POETRY",
-      "point_value": 200,
-      "question": "Japanese poet Matsuo Basho sings the praises of this \"flower of the east\"",
-      "answer": "chrysanthemum",
-      "is_daily_double": false,
-      "id": "69502"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "POETRY",
-      "point_value": 400,
-      "question": "\"In Flanders Fields\" these flowers \"blow\"",
-      "answer": "poppies",
-      "is_daily_double": false,
-      "id": "69503"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "POETRY",
-      "point_value": 600,
-      "question": "As Wordsworth \"wandered\" lonely as a cloud,\" he saw \"a crowd, a host\" of these flowers",
-      "answer": "daffodils",
-      "is_daily_double": false,
-      "id": "69504"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "POETRY",
-      "point_value": 800,
-      "question": "This author called Elaine \"the lily maid of Astolat\" in his \"Idylls of the King\"",
-      "answer": "Tennyson",
-      "is_daily_double": false,
-      "id": "69505"
-    },
-    {
-      "air_date": "1990-11-22",
-      "round": "2",
-      "category": "POETRY",
-      "point_value": 1000,
-      "question": "Belphoebe, representing Queen Elizabeth I, bathed with \"roses red & violets blue\" in this Spenser poem",
-      "answer": "The Faerie Queene",
-      "is_daily_double": false,
-      "id": "69506"
-    },
-    {
-      "air_date": "1990-11-22",
+      "air_date": "2024-01-25",
       "round": "3",
-      "category": "TRAVEL & TOURISM",
+      "category": "CLASSIC LITERATURE",
       "point_value": 0,
-      "question": "In 1841 his 1st package tour took 570 people from Leicester to Loughborough for a temperance rally",
-      "answer": "Thomas Cook",
+      "question": "An intended sequel to this 1869 work centered on the Decembrists, a group of veterans who largely served in the Napoleonic Wars",
+      "answer": "War and Peace",
       "is_daily_double": false,
-      "id": "69512"
+      "id": "508465"
     }
   ]
 }
